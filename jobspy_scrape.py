@@ -9,6 +9,7 @@ output. Each search term/site failure is caught and logged; whatever succeeds st
 
 import json
 import math
+import re
 import sys
 from pathlib import Path
 
@@ -35,6 +36,27 @@ SEARCH_TERMS = [
 ]
 
 SITES = ["indeed", "linkedin", "zip_recruiter", "google"]
+
+# LinkedIn/Indeed/etc. do their own loose "semantic" matching on SEARCH_TERMS, so a search
+# for "virtual assistant" also returns "Medical Assistant", "Billing Assistant", and similar
+# unrelated roles, and "insurance operations" pulls in things like "Cloud Engineer" or "Data
+# Architecture Technical Principal" just because "insurance" appears somewhere. SEARCH_TERMS
+# controls what we ask the boards for; TITLE_KEYWORDS controls what we actually keep — same
+# word-boundary approach as scrape.js's KEYWORDS/matchesKeywords, applied to the job title.
+TITLE_KEYWORDS = [
+    "virtual assistant", "executive assistant", "administrative assistant",
+    "property manager", "property management",
+    "insurance operations", "insurance assistant", "insurance account manager", "claims processing",
+    "ai automation", "automation engineer", "automation specialist", "automation analyst", "workflow automation",
+    "ai agent", "ai workflow", "n8n", "zapier"
+]
+TITLE_KEYWORD_PATTERNS = [
+    re.compile(r"\b" + re.escape(kw) + r"\b", re.IGNORECASE) for kw in TITLE_KEYWORDS
+]
+
+
+def matches_title_keywords(title):
+    return any(pattern.search(title) for pattern in TITLE_KEYWORD_PATTERNS)
 
 OUTPUT_PATH = Path(__file__).parent / "docs" / "output" / "jobspy_jobs.json"
 
@@ -63,6 +85,8 @@ def run_search(term):
         url = clean(row.get("job_url"))
         if not title or not url:
             continue
+        if not matches_title_keywords(title):
+            continue
         jobs.append({
             "title": title,
             "company": clean(row.get("company")),
@@ -78,7 +102,7 @@ def main():
     all_jobs = []
     for term in SEARCH_TERMS:
         found = run_search(term)
-        print(f"[jobspy] '{term}' -> {len(found)} jobs")
+        print(f"[jobspy] '{term}' -> {len(found)} jobs (after title-keyword filter)")
         all_jobs.extend(found)
 
     # De-dupe by URL
