@@ -1,0 +1,13 @@
+{
+  "name": "job-scraper",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Scrapes remote job boards for AI/automation + operations/VA roles and publishes JSON via GitHub Pages.",
+  "main": "scrape.js",
+  "scripts": {
+    "scrape": "node scrape.js"
+  },
+  "engines": {
+    "node": ">=20"
+  }
+}

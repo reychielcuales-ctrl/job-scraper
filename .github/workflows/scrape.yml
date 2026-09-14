@@ -1,0 +1,30 @@
+name: Scrape jobs
+
+on:
+  schedule:
+    - cron: '0 */6 * * *'   # every 6 hours
+  workflow_dispatch: {}     # allows manual "Run workflow" button
+
+permissions:
+  contents: write
+
+jobs:
+  scrape:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '20'
+
+      - name: Run scraper
+        run: node scrape.js
+
+      - name: Commit updated job data
+        run: |
+          git config user.name "job-scraper-bot"
+          git config user.email "actions@github.com"
+          git add docs/output/all_jobs.json
+          git diff --staged --quiet || git commit -m "Update scraped jobs [skip ci]"
+          git push
