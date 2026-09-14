@@ -8,10 +8,22 @@ output. Each search term/site failure is caught and logged; whatever succeeds st
 """
 
 import json
+import math
 import sys
 from pathlib import Path
 
 from jobspy import scrape_jobs
+
+
+def clean(value, default=""):
+    """pandas represents a missing cell as NaN (a float), which json.dumps writes as a
+    bareword `NaN` — not valid JSON, and merge.js's JSON.parse chokes on it. Normalize any
+    NaN/None to a plain default so the output is always strictly valid JSON."""
+    if value is None:
+        return default
+    if isinstance(value, float) and math.isnan(value):
+        return default
+    return value
 
 SEARCH_TERMS = [
     "virtual assistant",
@@ -47,16 +59,16 @@ def run_search(term):
 
     jobs = []
     for _, row in df.iterrows():
-        title = row.get("title") or ""
-        url = row.get("job_url") or ""
+        title = clean(row.get("title"))
+        url = clean(row.get("job_url"))
         if not title or not url:
             continue
         jobs.append({
             "title": title,
-            "company": row.get("company") or "",
+            "company": clean(row.get("company")),
             "url": url,
-            "source": f"JobSpy/{row.get('site') or 'unknown'}",
-            "date": str(row.get("date_posted") or ""),
+            "source": f"JobSpy/{clean(row.get('site'), 'unknown')}",
+            "date": str(clean(row.get("date_posted"))),
             "tags": [],
         })
     return jobs

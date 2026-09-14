@@ -15,8 +15,15 @@ function readJobs(filename) {
     console.log(`${filename} not found, skipping`);
     return [];
   }
-  const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
-  return Array.isArray(data) ? data : (Array.isArray(data.jobs) ? data.jobs : []);
+  try {
+    const data = JSON.parse(fs.readFileSync(filePath, 'utf8'));
+    return Array.isArray(data) ? data : (Array.isArray(data.jobs) ? data.jobs : []);
+  } catch (err) {
+    // A malformed source (e.g. a scraper bug) must not take down the whole publish step —
+    // publish whatever the other source produced instead of crashing the workflow.
+    console.error(`${filename} is not valid JSON, skipping:`, err.message);
+    return [];
+  }
 }
 
 function main() {
