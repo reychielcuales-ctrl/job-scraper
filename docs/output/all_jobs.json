@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-14T06:07:41.356Z",
+  "generatedAt": "2026-09-14T06:18:28.312Z",
   "count": 83,
   "sources": {
     "node": 11,
@@ -186,7 +186,7 @@
     {
       "title": "Remote Administrative Assistant / Virtual Assistant",
       "company": "Qode",
-      "url": "https://www.indeed.com/viewjob?jk=6610e3bacb77c533",
+      "url": "https://www.indeed.com/viewjob?jk=b5eca002e98f3f46",
       "source": "JobSpy/indeed",
       "date": "2026-09-12",
       "tags": []
@@ -336,6 +336,14 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant",
+      "company": "XPRIZE Foundation",
+      "url": "https://www.indeed.com/viewjob?jk=b2f269db26fc7c4a",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-10",
+      "tags": []
+    },
+    {
       "title": "Executive Sales Administrative Assistant - National Accounts",
       "company": "Grainger",
       "url": "https://www.indeed.com/viewjob?jk=6704f0c29bc82710",
@@ -347,14 +355,6 @@
       "title": "Senior Executive Assistant",
       "company": "Function Health",
       "url": "https://www.indeed.com/viewjob?jk=090ff305bdc08600",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-10",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "XPRIZE Foundation",
-      "url": "https://www.indeed.com/viewjob?jk=b2f269db26fc7c4a",
       "source": "JobSpy/indeed",
       "date": "2026-09-10",
       "tags": []
