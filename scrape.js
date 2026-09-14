@@ -21,7 +21,9 @@ const KEYWORDS = [
   'policy processing', 'claims processing', 'ezlynx', 'hawksoft', 'insurance account manager'
 ];
 
-const OUTPUT_PATH = path.join(__dirname, 'docs', 'output', 'all_jobs.json');
+// Writes this source's own file — jobspy_scrape.py writes a sibling file, and merge.js
+// combines both into docs/output/all_jobs.json (the one the CRM actually points at).
+const OUTPUT_PATH = path.join(__dirname, 'docs', 'output', 'node_jobs.json');
 
 // Word-boundary regexes, not plain substring checks — a loose .includes() match lets a
 // short/generic keyword hit inside unrelated words (e.g. 'ea to' inside "idea together").

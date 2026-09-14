@@ -1,8 +1,16 @@
 # Job Scraper
 
-Scrapes public remote-job feeds (RemoteOK, Jobicy, We Work Remotely) for AI/automation
-and operations/VA roles, then publishes the results as JSON via GitHub Pages so the
-GitHub Scraper connector in your CRM can pull real data.
+Scrapes job listings for AI/automation and operations/VA roles from two sources, then
+publishes the merged results as JSON via GitHub Pages so the GitHub Scraper connector
+in your CRM can pull real data.
+
+- **scrape.js** (Node, no dependencies) — RemoteOK, Jobicy, We Work Remotely. Uses public
+  JSON/RSS feeds, so it's reliable on a schedule.
+- **jobspy_scrape.py** (Python, via [JobSpy](https://github.com/speedyapply/JobSpy)) —
+  searches LinkedIn, Indeed, ZipRecruiter, and Google Jobs directly by keyword. Wider
+  reach, but these boards sometimes rate-limit/block GitHub Actions' IPs — when that
+  happens this step just produces fewer (or zero) results instead of failing the run.
+- **merge.js** combines both into `docs/output/all_jobs.json`, deduped by URL.
 
 Runs on a schedule via GitHub Actions — no server needed.
 
@@ -19,4 +27,5 @@ Runs on a schedule via GitHub Actions — no server needed.
 
 ## Editing keywords
 
-Edit the `KEYWORDS` array in `scrape.js` to change what jobs get matched.
+- Edit the `KEYWORDS` array in `scrape.js` to change what the RemoteOK/Jobicy/WWR source matches.
+- Edit `SEARCH_TERMS` in `jobspy_scrape.py` to change what LinkedIn/Indeed/ZipRecruiter/Google Jobs search for.

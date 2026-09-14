@@ -18,13 +18,29 @@ jobs:
         with:
           node-version: '20'
 
-      - name: Run scraper
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+
+      - name: Install JobSpy
+        run: pip install -r requirements.txt
+
+      - name: Run Node scraper (RemoteOK, Jobicy, We Work Remotely)
         run: node scrape.js
+
+      - name: Run JobSpy (LinkedIn, Indeed, ZipRecruiter, Google Jobs)
+        # Allowed to fail on its own — these boards rate-limit/block CI IPs sometimes.
+        # merge.js publishes whatever this step managed to produce, or none at all.
+        continue-on-error: true
+        run: python jobspy_scrape.py
+
+      - name: Merge sources into all_jobs.json
+        run: node merge.js
 
       - name: Commit updated job data
         run: |
           git config user.name "job-scraper-bot"
           git config user.email "actions@github.com"
-          git add docs/output/all_jobs.json
+          git add docs/output/*.json
           git diff --staged --quiet || git commit -m "Update scraped jobs [skip ci]"
           git push
