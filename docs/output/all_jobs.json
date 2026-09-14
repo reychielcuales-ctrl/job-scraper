@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-14T05:47:41.688Z",
-  "count": 84,
+  "generatedAt": "2026-09-14T06:07:41.356Z",
+  "count": 83,
   "sources": {
     "node": 11,
-    "jobspy": 73
+    "jobspy": 72
   },
   "jobs": [
     {
@@ -192,6 +192,14 @@
       "tags": []
     },
     {
+      "title": "Remote Executive Assistant to COO",
+      "company": "Bish Enterprises",
+      "url": "https://www.indeed.com/viewjob?jk=93e3ee4254fc89e9",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-11",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant (Remote)",
       "company": "",
       "url": "https://www.indeed.com/viewjob?jk=fe5efe0a1fef94b9",
@@ -272,14 +280,6 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant 20k INR (Remote)",
-      "company": "Promodel Recruit",
-      "url": "https://www.linkedin.com/jobs/view/4463429313",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-10",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant",
       "company": "Somewhere",
       "url": "https://www.linkedin.com/jobs/view/4464536134",
@@ -323,14 +323,6 @@
       "title": "Executive Assistant, R&D",
       "company": "Erasca",
       "url": "https://www.indeed.com/viewjob?jk=eb1e86fc48fc0d82",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-11",
-      "tags": []
-    },
-    {
-      "title": "Remote Executive Assistant to COO",
-      "company": "Bish Enterprises",
-      "url": "https://www.indeed.com/viewjob?jk=93e3ee4254fc89e9",
       "source": "JobSpy/indeed",
       "date": "2026-09-11",
       "tags": []
