@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-15T06:17:04.504Z",
-  "count": 127,
+  "generatedAt": "2026-09-15T12:16:17.476Z",
+  "count": 131,
   "sources": {
-    "node": 82,
-    "jobspy": 45
+    "node": 87,
+    "jobspy": 44
   },
   "jobs": [
     {
@@ -128,6 +128,76 @@
       ]
     },
     {
+      "title": "Part-time Virtual Travel Assistant (Kri)",
+      "company": "The Flex",
+      "url": "https://jobicy.com/jobs/150700-part-time-virtual-travel-assistant-kri",
+      "source": "Jobicy",
+      "date": "2026-09-15T04:35:09+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Part-Time Virtual Travel Assistant & Affiliate Recruiter Management (A)",
+      "company": "The Flex",
+      "url": "https://jobicy.com/jobs/150697-part-time-virtual-travel-assistant-affiliate-recruiter-management-a",
+      "source": "Jobicy",
+      "date": "2026-09-15T04:35:07+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Part-Time Virtual Travel Assistant & Affiliate Recruiter Management",
+      "company": "The Flex",
+      "url": "https://jobicy.com/jobs/150701-part-time-virtual-travel-assistant-affiliate-recruiter-management",
+      "source": "Jobicy",
+      "date": "2026-09-15T04:35:05+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Executive Assistant, Marketing",
+      "company": "Deepgram",
+      "url": "https://jobicy.com/jobs/153296-executive-assistant-marketing",
+      "source": "Jobicy",
+      "date": "2026-09-14T14:32:23+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Senior Executive Assistant - Customer Success & Services",
+      "company": "Samsara",
+      "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services",
+      "source": "Jobicy",
+      "date": "2026-09-14T14:32:23+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Executive Assistant, Founders Office",
+      "company": "Solace",
+      "url": "https://jobicy.com/jobs/153290-executive-assistant-founders-office",
+      "source": "Jobicy",
+      "date": "2026-09-14T14:32:21+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Contract Executive Assistant",
+      "company": "Cobalt",
+      "url": "https://jobicy.com/jobs/153288-contract-executive-assistant",
+      "source": "Jobicy",
+      "date": "2026-09-14T14:32:21+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
       "title": "Director, Sales Compensation",
       "company": "Prove",
       "url": "https://weworkremotely.com/remote-jobs/prove-director-sales-compensation",
@@ -149,14 +219,6 @@
       "url": "https://weworkremotely.com/remote-jobs/big-bear-vacations-owner-retention-specialist",
       "source": "We Work Remotely",
       "date": "Tue, 01 Sep 2026 20:45:07 +0000",
-      "tags": []
-    },
-    {
-      "title": "Customer Success Manager",
-      "company": "Typeform",
-      "url": "https://weworkremotely.com/remote-jobs/typeform-customer-success-manager",
-      "source": "We Work Remotely",
-      "date": "Sun, 16 Aug 2026 07:30:32 +0000",
       "tags": []
     },
     {
@@ -205,17 +267,6 @@
       "date": "2025-09-10T08:21:42.250Z",
       "tags": [
         "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/vdtvvizK1Rd2z5hNWbpBPZ/remote-virtual-assistant-in-united-states-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-08-26T23:02:33.859Z",
-      "tags": [
-        "Contract",
         "Remote"
       ]
     },
@@ -313,6 +364,17 @@
       "url": "https://jobs.workable.com/view/rSfeTSVQ25BKwED6wqCCWU/remote-virtual-assistant---nashville-in-nashville-at-the-boutique-coo",
       "source": "Workable",
       "date": "2026-08-30T02:29:55.413Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/vdtvvizK1Rd2z5hNWbpBPZ/remote-virtual-assistant-in-united-states-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-08-26T23:02:33.859Z",
       "tags": [
         "Contract",
         "Remote"
@@ -580,17 +642,6 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.453Z",
@@ -605,6 +656,28 @@
       "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.201Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:52.174Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.688Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -638,17 +711,6 @@
       "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:39.156Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:51:52.174Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -939,25 +1001,6 @@
       ]
     },
     {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/16mnbxrQ9RVeC9PqmmLHmJ/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-09-11T11:49:21.597Z",
-      "tags": [
-        "Full-time",
-        "Philadelphia, Pennsylvania, United States"
-      ]
-    },
-    {
-      "title": "Virtual Administrative Assistant (Contract – Contingent Upon Client Contracts)",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=39e60e40f18e9e7f",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-10",
-      "tags": []
-    },
-    {
       "title": "Virtual Administrative Assistant – Independent Contractor",
       "company": "Velia's Virtual Solutions",
       "url": "https://www.indeed.com/viewjob?jk=a17545ebc8e56da6",
@@ -969,14 +1012,6 @@
       "title": "Virtual Assistant",
       "company": "Talentoma",
       "url": "https://www.linkedin.com/jobs/view/4465403848",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-12",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant, Founder’s Office",
-      "company": "Windmark",
-      "url": "https://www.linkedin.com/jobs/view/4466724078",
       "source": "JobSpy/linkedin",
       "date": "2026-09-12",
       "tags": []
@@ -1014,9 +1049,9 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant (Remote UK)",
-      "company": "CV-BRIDGE LTD",
-      "url": "https://www.linkedin.com/jobs/view/4466179602",
+      "title": "Virtual Assistant",
+      "company": "Bold Magazine",
+      "url": "https://www.linkedin.com/jobs/view/4466189543",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1025,6 +1060,14 @@
       "title": "Administrative Assistant",
       "company": "Virtustant",
       "url": "https://www.linkedin.com/jobs/view/4465236668",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant (Remote UK)",
+      "company": "CV-BRIDGE LTD",
+      "url": "https://www.linkedin.com/jobs/view/4466179602",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1062,9 +1105,9 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant (Presentable with Excellent English)",
-      "company": "Zen Brands",
-      "url": "https://www.linkedin.com/jobs/view/4465517030",
+      "title": "Virtual Assistant to CEO (Remote)",
+      "company": "Viva Talent",
+      "url": "https://www.linkedin.com/jobs/view/4467095893",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1230,14 +1273,6 @@
       "tags": []
     },
     {
-      "title": "AI & Automation Engineer (Power Platform & Copilot Studio)",
-      "company": "Cipher Recruitment",
-      "url": "https://www.linkedin.com/jobs/view/4459931411",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-13",
-      "tags": []
-    },
-    {
       "title": "AI & AUTOMATION ENGINEER (LIEGE-BELGIUM)",
       "company": "GAMING1",
       "url": "https://www.linkedin.com/jobs/view/4447219331",
@@ -1262,6 +1297,14 @@
       "tags": []
     },
     {
+      "title": "Senior AI Automation & Zendesk Specialist - South Africa",
+      "company": "Voy",
+      "url": "https://www.linkedin.com/jobs/view/4464529061",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-10",
+      "tags": []
+    },
+    {
       "title": "AI Workflow Engineer",
       "company": "MARS Cosmetics",
       "url": "https://www.linkedin.com/jobs/view/4465076011",
@@ -1278,19 +1321,19 @@
       "tags": []
     },
     {
-      "title": "AI & Automation Engineer",
-      "company": "Sword Group",
-      "url": "https://www.linkedin.com/jobs/view/4462286559",
+      "title": "AI & Automation Engineer (Power Platform & Copilot Studio)",
+      "company": "Cipher Recruitment",
+      "url": "https://www.linkedin.com/jobs/view/4459931411",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-08",
+      "date": "",
       "tags": []
     },
     {
-      "title": "AI Automation Engineer – E-commerce & Business Operations",
-      "company": "Aura - Smart Home",
-      "url": "https://www.linkedin.com/jobs/view/4467036929",
-      "source": "JobSpy/linkedin",
-      "date": "",
+      "title": "Lifecycle Automation Specialist",
+      "company": "Risepoint",
+      "url": "https://www.indeed.com/viewjob?jk=ac9b67f4d8a29a5d",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-14",
       "tags": []
     },
     {
