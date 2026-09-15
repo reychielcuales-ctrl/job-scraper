@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-14T18:14:21.956Z",
-  "count": 11,
+  "generatedAt": "2026-09-15T00:18:07.310Z",
+  "count": 14,
   "jobs": [
     {
       "title": "Senior People & Talent Operations Partner",
@@ -124,19 +124,43 @@
       ]
     },
     {
-      "title": "Healthcare Virtual Assistant Registered Nurse",
-      "company": "Snapscale",
-      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-registered-nurse-snapscale-1135684",
-      "source": "RemoteOK",
-      "date": "2026-07-28T17:47:28+00:00",
+      "title": "Executive Assistant, Marketing",
+      "company": "Deepgram",
+      "url": "https://jobicy.com/jobs/153296-executive-assistant-marketing",
+      "source": "Jobicy",
+      "date": "2026-09-14T14:32:23+00:00",
       "tags": [
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "ops",
-        "medical",
-        "non tech"
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Senior Executive Assistant - Customer Success & Services",
+      "company": "Samsara",
+      "url": "https://jobicy.com/jobs/153292-senior-executive-assistant-customer-success-services",
+      "source": "Jobicy",
+      "date": "2026-09-14T14:32:23+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Executive Assistant, Founders Office",
+      "company": "Solace",
+      "url": "https://jobicy.com/jobs/153290-executive-assistant-founders-office",
+      "source": "Jobicy",
+      "date": "2026-09-14T14:32:21+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Contract Executive Assistant",
+      "company": "Cobalt",
+      "url": "https://jobicy.com/jobs/153288-contract-executive-assistant",
+      "source": "Jobicy",
+      "date": "2026-09-14T14:32:21+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
       ]
     },
     {
