@@ -133,50 +133,47 @@ async function scrapeWeWorkRemotely() {
   return all;
 }
 
-// --- Source 4: Workable (public per-company widget API) ---
-// Workable has no cross-company keyword search — its public API only exposes
-// one company's board at a time: GET /api/v1/widget/accounts/{slug}. So this
-// isn't a keyword search like the other sources; it's a curated watchlist of
-// companies (their Workable board slug — the part after apply.workable.com/
-// or jobs.workable.com/ for that employer) whose *own* postings we then
-// filter by KEYWORDS, same as everywhere else.
+// --- Source 4: Workable (public cross-company job search) ---
+// jobs.workable.com/search is Workable's own public jobs board, aggregating
+// postings across every Workable-hosted employer. Its results page embeds a
+// call to `GET https://jobs.workable.com/api/v1/jobs?query=...` — a plain,
+// unauthenticated JSON endpoint (confirmed live: real title/company/url/
+// location/employmentType/workplace fields, no key, no login) — so we call
+// that directly instead of scraping the rendered page.
 //
-// Add real companies you're targeting below. The ones here are just
-// placeholders to prove the wiring works — replace them with employers you
-// actually want to watch.
-const WORKABLE_COMPANIES = [
-  'zapier', 'buffer', 'doist', 'toggl', 'gorgias'
+// One request per search term, first page only (~20 results each) — a
+// handful of GETs to a public search API, well short of anything that would
+// look like abuse. Each term's results still go through matchesKeywords()
+// same as every other source, since Workable's own query matching is loose
+// (e.g. "insurance operations" can surface unrelated "insurance"-adjacent
+// engineering roles).
+const WORKABLE_SEARCH_TERMS = [
+  'virtual assistant', 'property management', 'insurance operations',
+  'ai automation', 'automation specialist', 'workflow automation'
 ];
-// Capped to the first 10 companies per run — this is a handful of plain GET
-// requests to a public widget endpoint (the same one Workable's own embed
-// widget calls on customers' career pages), so it's in no danger of
-// triggering anything on its own; the cap is just to keep the list
-// intentional rather than growing unbounded.
-const WORKABLE_LIMIT = 10;
 
 async function scrapeWorkable() {
-  const slugs = WORKABLE_COMPANIES.slice(0, WORKABLE_LIMIT);
   const all = [];
-  for (const slug of slugs) {
+  for (const term of WORKABLE_SEARCH_TERMS) {
     try {
-      const data = await fetchJson(`https://apply.workable.com/api/v1/widget/accounts/${slug}`);
+      const data = await fetchJson(`https://jobs.workable.com/api/v1/jobs?query=${encodeURIComponent(term)}`);
       const jobs = Array.isArray(data.jobs) ? data.jobs : [];
       for (const j of jobs) {
-        const searchText = `${j.title || ''} ${j.department || ''} ${j.function || ''} ${j.industry || ''}`;
+        const searchText = `${j.title || ''} ${stripHtml(j.description || '')}`;
         if (!matchesKeywords(searchText)) continue;
-        const location = [j.city, j.state, j.country].filter(Boolean).join(', ');
+        const loc = j.location || {};
+        const location = [loc.city, loc.subregion, loc.countryName].filter(Boolean).join(', ');
         all.push({
           title: j.title || '',
-          company: data.name || slug,
-          url: j.shortlink || j.url || '',
+          company: (j.company && j.company.title) || '',
+          url: j.url || '',
           source: 'Workable',
-          date: j.published_on || j.created_at || '',
-          tags: [j.employment_type, j.telecommuting ? 'Remote' : location].filter(Boolean)
+          date: j.created || j.updated || '',
+          tags: [j.employmentType, j.workplace === 'remote' ? 'Remote' : location].filter(Boolean)
         });
       }
     } catch (err) {
-      // A 404 just means that slug doesn't exist / isn't on Workable — not worth failing the run over.
-      console.error(`Workable company '${slug}' failed:`, err.message);
+      console.error(`Workable search '${term}' failed:`, err.message);
     }
   }
   return all;
