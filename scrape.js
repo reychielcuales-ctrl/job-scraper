@@ -133,11 +133,61 @@ async function scrapeWeWorkRemotely() {
   return all;
 }
 
+// --- Source 4: Workable (public per-company widget API) ---
+// Workable has no cross-company keyword search — its public API only exposes
+// one company's board at a time: GET /api/v1/widget/accounts/{slug}. So this
+// isn't a keyword search like the other sources; it's a curated watchlist of
+// companies (their Workable board slug — the part after apply.workable.com/
+// or jobs.workable.com/ for that employer) whose *own* postings we then
+// filter by KEYWORDS, same as everywhere else.
+//
+// Add real companies you're targeting below. The ones here are just
+// placeholders to prove the wiring works — replace them with employers you
+// actually want to watch.
+const WORKABLE_COMPANIES = [
+  'zapier', 'buffer', 'doist', 'toggl', 'gorgias'
+];
+// Capped to the first 10 companies per run — this is a handful of plain GET
+// requests to a public widget endpoint (the same one Workable's own embed
+// widget calls on customers' career pages), so it's in no danger of
+// triggering anything on its own; the cap is just to keep the list
+// intentional rather than growing unbounded.
+const WORKABLE_LIMIT = 10;
+
+async function scrapeWorkable() {
+  const slugs = WORKABLE_COMPANIES.slice(0, WORKABLE_LIMIT);
+  const all = [];
+  for (const slug of slugs) {
+    try {
+      const data = await fetchJson(`https://apply.workable.com/api/v1/widget/accounts/${slug}`);
+      const jobs = Array.isArray(data.jobs) ? data.jobs : [];
+      for (const j of jobs) {
+        const searchText = `${j.title || ''} ${j.department || ''} ${j.function || ''} ${j.industry || ''}`;
+        if (!matchesKeywords(searchText)) continue;
+        const location = [j.city, j.state, j.country].filter(Boolean).join(', ');
+        all.push({
+          title: j.title || '',
+          company: data.name || slug,
+          url: j.shortlink || j.url || '',
+          source: 'Workable',
+          date: j.published_on || j.created_at || '',
+          tags: [j.employment_type, j.telecommuting ? 'Remote' : location].filter(Boolean)
+        });
+      }
+    } catch (err) {
+      // A 404 just means that slug doesn't exist / isn't on Workable — not worth failing the run over.
+      console.error(`Workable company '${slug}' failed:`, err.message);
+    }
+  }
+  return all;
+}
+
 async function main() {
   const results = await Promise.allSettled([
     scrapeRemoteOk(),
     scrapeJobicy(),
-    scrapeWeWorkRemotely()
+    scrapeWeWorkRemotely(),
+    scrapeWorkable()
   ]);
 
   const allJobs = [];
