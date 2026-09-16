@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-16T12:16:46.183Z",
+  "generatedAt": "2026-09-16T18:15:02.091Z",
   "count": 124,
   "sources": {
-    "node": 80,
-    "jobspy": 44
+    "node": 83,
+    "jobspy": 41
   },
   "jobs": [
     {
@@ -100,6 +100,24 @@
         "engineer",
         "internship"
       ]
+    },
+    {
+      "title": "Partner Operations & AI Automation Manager",
+      "company": "Acquia, Inc.",
+      "url": "https://jobicy.com/jobs/153354-partner-operations-ai-automation-manager",
+      "source": "Jobicy",
+      "date": "2026-09-16T12:32:06+00:00",
+      "tags": [
+        "Product & Operations"
+      ]
+    },
+    {
+      "title": "Head of Technical Support @ Koast.ai",
+      "company": "Koast.ai",
+      "url": "https://weworkremotely.com/remote-jobs/koast-ai-head-of-technical-support-koast-ai",
+      "source": "We Work Remotely",
+      "date": "Wed, 16 Sep 2026 17:51:58 +0000",
+      "tags": []
     },
     {
       "title": "Director, Sales Compensation",
@@ -362,6 +380,16 @@
       ]
     },
     {
+      "title": "Property Management Administrator",
+      "company": "Driven Properties",
+      "url": "https://jobs.workable.com/view/7TLdAbWnwjFmEHQJxpE9YY/property-management-administrator-in-dubai-at-driven-properties",
+      "source": "Workable",
+      "date": "2026-09-16T12:41:43.930Z",
+      "tags": [
+        "Dubai, Dubai, United Arab Emirates"
+      ]
+    },
+    {
       "title": "Property Management Assistant",
       "company": "Bridge33 Capital",
       "url": "https://jobs.workable.com/view/5BWqD7b3MdRbAbw5mM47y9/remote-property-management-assistant-in-central-visayas-at-bridge33-capital",
@@ -469,6 +497,17 @@
       ]
     },
     {
+      "title": "General Manager, Plaza del Lago & Edens Plaza",
+      "company": "WS Development",
+      "url": "https://jobs.workable.com/view/cojxsyEfCySm2wHfTVEwey/general-manager%2C-plaza-del-lago-%26-edens-plaza-in-wilmette-at-ws-development",
+      "source": "Workable",
+      "date": "2026-09-16T17:00:13.968Z",
+      "tags": [
+        "Full-time",
+        "Wilmette, Illinois, United States"
+      ]
+    },
+    {
       "title": "Research Associate - AI Validation (Project-based)",
       "company": "Collective Residential",
       "url": "https://jobs.workable.com/view/fiJHXEgyH65K2wuX7YarSZ/remote-research-associate---ai-validation-(project-based)-in-philippines-at-collective-residential",
@@ -511,20 +550,9 @@
       ]
     },
     {
-      "title": "Property Manager",
-      "company": "Brilliant Corners",
-      "url": "https://jobs.workable.com/view/ttpUAcWcCiGkfuBRQX8t75/hybrid-property-manager-in-san-diego-at-brilliant-corners",
-      "source": "Workable",
-      "date": "2026-09-14T22:04:24.049Z",
-      "tags": [
-        "Full-time",
-        "San Diego, California, United States"
-      ]
-    },
-    {
-      "title": "Automotive Sales Manager",
+      "title": "Automotive Sales Manager/ F&I Manager",
       "company": "Dennis & Co. Auto Group",
-      "url": "https://jobs.workable.com/view/tiNsUWt1SAD8AbvGGTmuZL/automotive-sales-manager-in-new-york-at-dennis-%26-co.-auto-group",
+      "url": "https://jobs.workable.com/view/tiNsUWt1SAD8AbvGGTmuZL/automotive-sales-manager%2F-f%26i-manager-in-new-york-at-dennis-%26-co.-auto-group",
       "source": "Workable",
       "date": "2026-09-15T15:43:48.995Z",
       "tags": [
@@ -541,17 +569,6 @@
       "tags": [
         "Full-time",
         "Clifton Park, New York, United States"
-      ]
-    },
-    {
-      "title": "Sales Manager / F&I Manager",
-      "company": "Dennis & Co. Auto Group",
-      "url": "https://jobs.workable.com/view/gpz5KrAGRvB15qcrj2nRXU/sales-manager-%2F-f%26i-manager-in-mahwah-at-dennis-%26-co.-auto-group",
-      "source": "Workable",
-      "date": "2026-09-14T17:42:32.913Z",
-      "tags": [
-        "Full-time",
-        "Mahwah, New Jersey, United States"
       ]
     },
     {
@@ -653,11 +670,11 @@
       ]
     },
     {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
+      "date": "2026-04-14T04:02:39.156Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -669,17 +686,6 @@
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -713,6 +719,28 @@
       "url": "https://jobs.workable.com/view/wvnLszhhBgJA2o8Hahso4G/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-ukraine-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.785Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -916,27 +944,11 @@
       ]
     },
     {
-      "title": "Virtual Assistant (Fully Remote) $10/Hour",
-      "company": "SpotOn Roofing and Exterior",
-      "url": "https://www.indeed.com/viewjob?jk=e483df9ea006c4eb",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-15",
-      "tags": []
-    },
-    {
       "title": "Administrative Assistant (Remote UK)",
       "company": "CV-BRIDGE LTD",
       "url": "https://www.linkedin.com/jobs/view/4466179602",
       "source": "JobSpy/linkedin",
       "date": "2026-09-15",
-      "tags": []
-    },
-    {
-      "title": "Administrative Assistant",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4465236668",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-14",
       "tags": []
     },
     {
@@ -998,7 +1010,7 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4465932074",
+      "url": "https://www.linkedin.com/jobs/view/4466879629",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1006,7 +1018,15 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4465924949",
+      "url": "https://www.linkedin.com/jobs/view/4466877706",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4466208147",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1030,7 +1050,7 @@
     {
       "title": "Virtual Assistant to CEO (Remote)",
       "company": "Viva Talent",
-      "url": "https://www.linkedin.com/jobs/view/4466532473",
+      "url": "https://www.linkedin.com/jobs/view/4468242193",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1063,6 +1083,14 @@
       "title": "Property Manager",
       "company": "Housing Trust Group, LLC",
       "url": "https://www.linkedin.com/jobs/view/4466530656",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Brisa St Augustine",
+      "company": "Pegasus Residential",
+      "url": "https://www.linkedin.com/jobs/view/4467281565",
       "source": "JobSpy/linkedin",
       "date": "2026-09-15",
       "tags": []
@@ -1172,14 +1200,6 @@
       "tags": []
     },
     {
-      "title": "Property Manager - Brisa St Augustine",
-      "company": "Pegasus Residential",
-      "url": "https://www.linkedin.com/jobs/view/4467281565",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Commercial Insurance Operations Specialist (REMOTE)",
       "company": "",
       "url": "https://www.indeed.com/viewjob?jk=17fb0cb26499347f",
@@ -1188,11 +1208,27 @@
       "tags": []
     },
     {
+      "title": "AI & Process Automation Specialist",
+      "company": "EXFO",
+      "url": "https://www.linkedin.com/jobs/view/4465598486",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
       "title": "AI & Automation Engineer (Power Platform & Copilot Studio)",
       "company": "Cipher Recruitment",
       "url": "https://www.linkedin.com/jobs/view/4459931411",
       "source": "JobSpy/linkedin",
       "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "title": "AI & AUTOMATION ENGINEER (LIEGE-BELGIUM)",
+      "company": "GAMING1",
+      "url": "https://www.linkedin.com/jobs/view/4447219331",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-11",
       "tags": []
     },
     {
@@ -1212,43 +1248,11 @@
       "tags": []
     },
     {
-      "title": "AI Workflow Engineer",
-      "company": "MARS Cosmetics",
-      "url": "https://www.linkedin.com/jobs/view/4465076011",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-09",
-      "tags": []
-    },
-    {
-      "title": "AI & Process Automation Specialist",
-      "company": "EXFO",
-      "url": "https://www.linkedin.com/jobs/view/4465598486",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Network Automation Engineer",
-      "company": "Core4ce Careers",
-      "url": "https://www.indeed.com/viewjob?jk=e9b380fb8e0b07b9",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-16",
-      "tags": []
-    },
-    {
       "title": "Automation Specialist",
       "company": "Stanhome Italia",
       "url": "https://www.linkedin.com/jobs/view/4467495875",
       "source": "JobSpy/linkedin",
       "date": "2026-09-15",
-      "tags": []
-    },
-    {
-      "title": "Senior RPA Automation Engineer",
-      "company": "Future Electronics",
-      "url": "https://www.linkedin.com/jobs/view/4467234376",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-14",
       "tags": []
     },
     {
