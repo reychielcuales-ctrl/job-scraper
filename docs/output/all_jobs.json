@@ -1,11 +1,24 @@
 {
-  "generatedAt": "2026-09-17T12:16:49.683Z",
+  "generatedAt": "2026-09-17T18:15:15.958Z",
   "count": 127,
   "sources": {
-    "node": 89,
-    "jobspy": 38
+    "node": 90,
+    "jobspy": 37
   },
   "jobs": [
+    {
+      "title": "AI agent engineer",
+      "company": "Sticker Mule",
+      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
+      "source": "RemoteOK",
+      "date": "2026-09-16T12:44:27+00:00",
+      "tags": [
+        "ai",
+        "golang",
+        "javascript",
+        "typescript"
+      ]
+    },
     {
       "title": "Senior People & Talent Operations Partner",
       "company": "TestGorilla",
@@ -85,22 +98,6 @@
         "senior",
         "engineer",
         "internship"
-      ]
-    },
-    {
-      "title": "Healthcare Virtual Assistant Registered Nurse",
-      "company": "Snapscale",
-      "url": "https://remoteOK.com/remote-jobs/remote-healthcare-virtual-assistant-registered-nurse-snapscale-1135684",
-      "source": "RemoteOK",
-      "date": "2026-07-28T17:47:28+00:00",
-      "tags": [
-        "virtual assistant",
-        "coordinator",
-        "customer support",
-        "marketing",
-        "ops",
-        "medical",
-        "non tech"
       ]
     },
     {
@@ -322,17 +319,6 @@
       ]
     },
     {
-      "title": "Virtual Assistant",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/vdtvvizK1Rd2z5hNWbpBPZ/remote-virtual-assistant-in-united-states-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-08-26T23:02:33.859Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
       "title": "Virtual Assistant - Indianapolis",
       "company": "The Boutique COO",
       "url": "https://jobs.workable.com/view/dmYXVZyHhPd3rR61mfrRbW/remote-virtual-assistant---indianapolis-in-indianapolis-at-the-boutique-coo",
@@ -404,6 +390,17 @@
       "url": "https://jobs.workable.com/view/fd9vxyPP8DW21Cksi8pStm/remote-virtual-assistant---cleveland-in-cleveland-at-the-boutique-coo",
       "source": "Workable",
       "date": "2026-08-29T17:34:37.354Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Cincinnati",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/b54uKYku7f3VrCgQsrYvvL/remote-virtual-assistant---cincinnati-in-cincinnati-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-08-29T17:33:34.718Z",
       "tags": [
         "Contract",
         "Remote"
@@ -528,6 +525,17 @@
       ]
     },
     {
+      "title": "Property Manager",
+      "company": "PeakMade Real Estate",
+      "url": "https://jobs.workable.com/view/nyseteH55HqYUnc6n2zwtC/property-manager-in-west-lafayette-at-peakmade-real-estate",
+      "source": "Workable",
+      "date": "2026-09-17T16:14:37.029Z",
+      "tags": [
+        "Full-time",
+        "West Lafayette, Indiana, United States"
+      ]
+    },
+    {
       "title": "Residential Rental Senior Associate (1805)",
       "company": "Lamda Development SA",
       "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(1805)-in-greece-at-lamda-development-sa",
@@ -590,27 +598,6 @@
       ]
     },
     {
-      "title": "Research Associate - AI Validation (Project-based)",
-      "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/fiJHXEgyH65K2wuX7YarSZ/remote-research-associate---ai-validation-(project-based)-in-philippines-at-collective-residential",
-      "source": "Workable",
-      "date": "2026-09-16T03:45:54.118Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Automotive Sales Manager/ F&I Manager",
-      "company": "Dennis & Co. Auto Group",
-      "url": "https://jobs.workable.com/view/tiNsUWt1SAD8AbvGGTmuZL/automotive-sales-manager%2F-f%26i-manager-in-new-york-at-dennis-%26-co.-auto-group",
-      "source": "Workable",
-      "date": "2026-09-15T15:43:48.995Z",
-      "tags": [
-        "Full-time",
-        "New York, New York, United States"
-      ]
-    },
-    {
       "title": "F&I Manager - Clifton Park",
       "company": "Dennis & Co. Auto Group",
       "url": "https://jobs.workable.com/view/9CCJpe9vf9XvQ1qb6hLYa9/f%26i-manager---clifton-park-in-clifton-park-at-dennis-%26-co.-auto-group",
@@ -634,64 +621,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.453Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.201Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -725,6 +657,72 @@
       "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:39.156Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:51.492Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:07.284Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:06.921Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.674Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.602Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.548Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -805,6 +803,39 @@
       "tags": [
         "Full-time",
         "Bengaluru, Karnataka, India"
+      ]
+    },
+    {
+      "title": "Automation Specialist",
+      "company": "Apogee Sustainability Limited",
+      "url": "https://jobs.workable.com/view/qwSdX49CducMwj5zKhHkTC/hybrid-automation-specialist-in-bratislava-at-apogee-sustainability-limited",
+      "source": "Workable",
+      "date": "2026-09-17T13:22:53.509Z",
+      "tags": [
+        "Full-time",
+        "Bratislava, Bratislava Region, Slovakia"
+      ]
+    },
+    {
+      "title": "Automation Specialist",
+      "company": "Apogee Sustainability Limited",
+      "url": "https://jobs.workable.com/view/gLV8tnbTmdAsubMyHaXYAz/hybrid-automation-specialist-in-prague-at-apogee-sustainability-limited",
+      "source": "Workable",
+      "date": "2026-09-17T13:22:53.249Z",
+      "tags": [
+        "Full-time",
+        "Prague, Prague, Czechia"
+      ]
+    },
+    {
+      "title": "Automation Specialist",
+      "company": "Apogee Sustainability Limited",
+      "url": "https://jobs.workable.com/view/umWVj2YVFjDXf3kGSZShYA/hybrid-automation-specialist-in-warsaw-at-apogee-sustainability-limited",
+      "source": "Workable",
+      "date": "2026-09-17T13:22:52.726Z",
+      "tags": [
+        "Full-time",
+        "Warsaw, Masovian Voivodeship, Poland"
       ]
     },
     {
@@ -940,35 +971,14 @@
       ]
     },
     {
-      "title": "Data Automation Specialist",
-      "company": "Intrepid Asia",
-      "url": "https://jobs.workable.com/view/9Swi5gWiacXqc44APZeu6R/data-automation-specialist-in-ho-chi-minh-city-at-intrepid-asia",
+      "title": "Senior Technical Project Manager - Private Markets",
+      "company": "Neuberger Berman",
+      "url": "https://jobs.workable.com/view/qTM2aMo8gKzReaBgWgmAFM/senior-technical-project-manager---private-markets-in-new-york-at-neuberger-berman",
       "source": "Workable",
-      "date": "2026-09-08T09:18:37.238Z",
-      "tags": [
-        "Ho Chi Minh City, Ho Chi Minh, Vietnam"
-      ]
-    },
-    {
-      "title": "AI Automation & Integration Specialist",
-      "company": "Primal Storm",
-      "url": "https://jobs.workable.com/view/c2ewTZkUMLLBg72UvXubSP/remote-ai-automation-%26-integration-specialist-in-bulgaria-at-primal-storm",
-      "source": "Workable",
-      "date": "2026-09-07T07:44:42.966Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "AI Automation & Workflow Analyst",
-      "company": "WorldVia",
-      "url": "https://jobs.workable.com/view/vzKJy752Jh9EeadE9RJiKP/remote-ai-automation-%26-workflow-analyst-in-atlanta-at-worldvia",
-      "source": "Workable",
-      "date": "2026-05-29T20:51:18.100Z",
+      "date": "2026-09-17T13:20:46.755Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "New York, United States"
       ]
     },
     {
@@ -1037,14 +1047,6 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant",
-      "company": "Somewhere",
-      "url": "https://www.linkedin.com/jobs/view/4464536134",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-10",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant | Full-Time",
       "company": "MarlowHR Ltd",
       "url": "https://www.linkedin.com/jobs/view/4468386868",
@@ -1071,7 +1073,7 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4467109964",
+      "url": "https://www.linkedin.com/jobs/view/4467575091",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1079,7 +1081,7 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4467120073",
+      "url": "https://www.linkedin.com/jobs/view/4467581009",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1109,17 +1111,17 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant",
-      "company": "Remote Leverage",
-      "url": "https://www.linkedin.com/jobs/view/4467244745",
+      "title": "Virtual Assistant",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4467557909",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
     },
     {
-      "title": "Virtual Assistant to CEO (Remote)",
-      "company": "Viva Talent",
-      "url": "https://www.linkedin.com/jobs/view/4468242193",
+      "title": "Administrative Assistant",
+      "company": "Remote Leverage",
+      "url": "https://www.linkedin.com/jobs/view/4467244745",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1245,11 +1247,11 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Kimco Realty Corporation",
-      "url": "https://www.linkedin.com/jobs/view/4446865099",
+      "title": "Gestionnaire immobilier sénior | Senior Property Manager",
+      "company": "Alfid Services Immobiliers",
+      "url": "https://www.linkedin.com/jobs/view/4467101263",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-10",
+      "date": "",
       "tags": []
     },
     {
@@ -1277,11 +1279,11 @@
       "tags": []
     },
     {
-      "title": "AI & Automation Engineer (Power Platform & Copilot Studio)",
-      "company": "Cipher Recruitment",
-      "url": "https://www.linkedin.com/jobs/view/4459931411",
+      "title": "AI Automation Specialist",
+      "company": "Oaklanecapital",
+      "url": "https://www.linkedin.com/jobs/view/4468645618",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-15",
+      "date": "",
       "tags": []
     },
     {
