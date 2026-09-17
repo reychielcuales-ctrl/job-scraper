@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-17T06:16:54.231Z",
-  "count": 128,
+  "generatedAt": "2026-09-17T12:16:49.683Z",
+  "count": 127,
   "sources": {
-    "node": 88,
-    "jobspy": 40
+    "node": 89,
+    "jobspy": 38
   },
   "jobs": [
     {
@@ -132,6 +132,14 @@
       "tags": [
         "Sales"
       ]
+    },
+    {
+      "title": "Agency Partner Manager",
+      "company": "Typeform",
+      "url": "https://weworkremotely.com/remote-jobs/typeform-agency-partner-manager",
+      "source": "We Work Remotely",
+      "date": "Thu, 17 Sep 2026 07:30:57 +0000",
+      "tags": []
     },
     {
       "title": "Head of Technical Support @ Koast.ai",
@@ -520,6 +528,27 @@
       ]
     },
     {
+      "title": "Residential Rental Senior Associate (1805)",
+      "company": "Lamda Development SA",
+      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(1805)-in-greece-at-lamda-development-sa",
+      "source": "Workable",
+      "date": "2026-09-17T08:36:58.415Z",
+      "tags": [
+        "Greece"
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "WeconnectU",
+      "url": "https://jobs.workable.com/view/6p3Vywv1Uj3QtKF9K9EyKP/data-engineer-in-somerset-west-at-weconnectu",
+      "source": "Workable",
+      "date": "2026-09-17T10:53:03.111Z",
+      "tags": [
+        "Full-time",
+        "Somerset West, Western Cape, South Africa"
+      ]
+    },
+    {
       "title": "Property Manager - Commercial Retail",
       "company": "Bridge33 Capital",
       "url": "https://jobs.workable.com/view/bvC9qycLU8iriasUw6znQ3/property-manager---commercial-retail-in-denver-at-bridge33-capital",
@@ -568,27 +597,6 @@
       "date": "2026-09-16T03:45:54.118Z",
       "tags": [
         "Remote"
-      ]
-    },
-    {
-      "title": "Research Associate - AI Validation (Project-based)",
-      "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/4NihJKaKJh2S9E5uSxZJj6/remote-research-associate---ai-validation-(project-based)-in-india-at-collective-residential",
-      "source": "Workable",
-      "date": "2026-09-16T03:45:53.841Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Resident Manager",
-      "company": "Flats LLC",
-      "url": "https://jobs.workable.com/view/bX5NLJQU7g3ECffrUCSFFm/resident-manager-in-chicago-at-flats-llc",
-      "source": "Workable",
-      "date": "2026-09-15T16:01:17.309Z",
-      "tags": [
-        "Full-time",
-        "Chicago, Illinois, United States"
       ]
     },
     {
@@ -725,31 +733,9 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -783,6 +769,28 @@
       "url": "https://jobs.workable.com/view/wvnLszhhBgJA2o8Hahso4G/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-ukraine-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.785Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1005,33 +1013,9 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant (Remote UK)",
-      "company": "CV-BRIDGE LTD",
-      "url": "https://www.linkedin.com/jobs/view/4466179602",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-15",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant (Remote)",
       "company": "Hire Feed",
       "url": "https://www.linkedin.com/jobs/view/4467097012",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "CS Outsource",
-      "url": "https://www.linkedin.com/jobs/view/4466139294",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "title": "Administrative Assistant | Entry-Level",
-      "company": "HireLex HR",
-      "url": "https://www.linkedin.com/jobs/view/4467029983",
       "source": "JobSpy/linkedin",
       "date": "2026-09-14",
       "tags": []
@@ -1058,6 +1042,22 @@
       "url": "https://www.linkedin.com/jobs/view/4464536134",
       "source": "JobSpy/linkedin",
       "date": "2026-09-10",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "MarlowHR Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4468386868",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "MarlowHR Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4468385761",
+      "source": "JobSpy/linkedin",
+      "date": "",
       "tags": []
     },
     {
@@ -1093,6 +1093,22 @@
       "tags": []
     },
     {
+      "title": "Virtual Executive Assistant (Remote)",
+      "company": "CareerHelix Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4468397352",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant (Remote UK)",
+      "company": "CV-BRIDGE LTD",
+      "url": "https://www.linkedin.com/jobs/view/4467185647",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
       "title": "Administrative Assistant",
       "company": "Remote Leverage",
       "url": "https://www.linkedin.com/jobs/view/4467244745",
@@ -1104,22 +1120,6 @@
       "title": "Virtual Assistant to CEO (Remote)",
       "company": "Viva Talent",
       "url": "https://www.linkedin.com/jobs/view/4468242193",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Virtual Executive Assistant",
-      "company": "Tasks Expert",
-      "url": "https://www.linkedin.com/jobs/view/4466250109",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant to CEO (Remote)",
-      "company": "Viva Talent",
-      "url": "https://www.linkedin.com/jobs/view/4468249095",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1138,6 +1138,22 @@
       "url": "https://www.indeed.com/viewjob?jk=9e3e11ea1f11d7b6",
       "source": "JobSpy/indeed",
       "date": "2026-09-11",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Residential Property Management - Exeter",
+      "company": "Ikon Consultancy",
+      "url": "https://www.linkedin.com/jobs/view/4466861195",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Property Personnel",
+      "url": "https://www.linkedin.com/jobs/view/4465987308",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-16",
       "tags": []
     },
     {
@@ -1197,6 +1213,14 @@
       "tags": []
     },
     {
+      "title": "Property Manager",
+      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+      "url": "https://www.linkedin.com/jobs/view/4466121591",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
       "title": "Property Manager (Residential)",
       "company": "SmartCentres REIT",
       "url": "https://www.linkedin.com/jobs/view/4446925202",
@@ -1213,27 +1237,11 @@
       "tags": []
     },
     {
-      "title": "Property Manager Condominiums",
-      "company": "First Realty Management",
-      "url": "https://www.linkedin.com/jobs/view/4419551736",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-10",
-      "tags": []
-    },
-    {
       "title": "Property Manager",
-      "company": "Zest Property Management",
-      "url": "https://www.linkedin.com/jobs/view/4463438701",
+      "company": "Broad Management Group LLC",
+      "url": "https://www.linkedin.com/jobs/view/4465898834",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-10",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "OC Real Estate",
-      "url": "https://www.linkedin.com/jobs/view/4464507183",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-10",
+      "date": "2026-09-11",
       "tags": []
     },
     {
@@ -1245,17 +1253,9 @@
       "tags": []
     },
     {
-      "title": "Property Manager - Residential Property Management - Exeter",
-      "company": "Ikon Consultancy",
-      "url": "https://www.linkedin.com/jobs/view/4466861195",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Property Manager",
-      "company": "Property Personnel",
-      "url": "https://www.linkedin.com/jobs/view/4465987308",
+      "company": "Broad Management Group LLC",
+      "url": "https://www.linkedin.com/jobs/view/4468347509",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1285,25 +1285,17 @@
       "tags": []
     },
     {
-      "title": "Senior AI Automation & Zendesk Specialist - South Africa",
-      "company": "MANUAL",
-      "url": "https://www.linkedin.com/jobs/view/4465644521",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-10",
-      "tags": []
-    },
-    {
-      "title": "Intelligent Automation Engineer",
-      "company": "Zurich Australia",
-      "url": "https://www.linkedin.com/jobs/view/4464193617",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-10",
-      "tags": []
-    },
-    {
       "title": "AI & Automation Specialist",
       "company": "Hammer & Hanborg",
       "url": "https://www.linkedin.com/jobs/view/4466223017",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Automation Specialist",
+      "company": "Baker McKenzie",
+      "url": "https://www.linkedin.com/jobs/view/4467558002",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []

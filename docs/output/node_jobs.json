@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T06:16:22.294Z",
-  "count": 88,
+  "generatedAt": "2026-09-17T12:16:16.432Z",
+  "count": 89,
   "jobs": [
     {
       "title": "Senior People & Talent Operations Partner",
@@ -128,6 +128,14 @@
       "tags": [
         "Sales"
       ]
+    },
+    {
+      "title": "Agency Partner Manager",
+      "company": "Typeform",
+      "url": "https://weworkremotely.com/remote-jobs/typeform-agency-partner-manager",
+      "source": "We Work Remotely",
+      "date": "Thu, 17 Sep 2026 07:30:57 +0000",
+      "tags": []
     },
     {
       "title": "Head of Technical Support @ Koast.ai",
@@ -516,6 +524,27 @@
       ]
     },
     {
+      "title": "Residential Rental Senior Associate (1805)",
+      "company": "Lamda Development SA",
+      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(1805)-in-greece-at-lamda-development-sa",
+      "source": "Workable",
+      "date": "2026-09-17T08:36:58.415Z",
+      "tags": [
+        "Greece"
+      ]
+    },
+    {
+      "title": "Data Engineer",
+      "company": "WeconnectU",
+      "url": "https://jobs.workable.com/view/6p3Vywv1Uj3QtKF9K9EyKP/data-engineer-in-somerset-west-at-weconnectu",
+      "source": "Workable",
+      "date": "2026-09-17T10:53:03.111Z",
+      "tags": [
+        "Full-time",
+        "Somerset West, Western Cape, South Africa"
+      ]
+    },
+    {
       "title": "Property Manager - Commercial Retail",
       "company": "Bridge33 Capital",
       "url": "https://jobs.workable.com/view/bvC9qycLU8iriasUw6znQ3/property-manager---commercial-retail-in-denver-at-bridge33-capital",
@@ -564,27 +593,6 @@
       "date": "2026-09-16T03:45:54.118Z",
       "tags": [
         "Remote"
-      ]
-    },
-    {
-      "title": "Research Associate - AI Validation (Project-based)",
-      "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/4NihJKaKJh2S9E5uSxZJj6/remote-research-associate---ai-validation-(project-based)-in-india-at-collective-residential",
-      "source": "Workable",
-      "date": "2026-09-16T03:45:53.841Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Resident Manager",
-      "company": "Flats LLC",
-      "url": "https://jobs.workable.com/view/bX5NLJQU7g3ECffrUCSFFm/resident-manager-in-chicago-at-flats-llc",
-      "source": "Workable",
-      "date": "2026-09-15T16:01:17.309Z",
-      "tags": [
-        "Full-time",
-        "Chicago, Illinois, United States"
       ]
     },
     {
@@ -721,31 +729,9 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -779,6 +765,28 @@
       "url": "https://jobs.workable.com/view/wvnLszhhBgJA2o8Hahso4G/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-ukraine-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.785Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
