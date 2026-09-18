@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T06:16:31.784Z",
-  "count": 87,
+  "generatedAt": "2026-09-18T12:16:04.233Z",
+  "count": 123,
   "sources": {
-    "node": 87,
-    "jobspy": 0
+    "node": 90,
+    "jobspy": 33
   },
   "jobs": [
     {
@@ -101,14 +101,30 @@
       ]
     },
     {
-      "title": "Senior QA Automation Engineer - Product (LATAM)",
-      "company": "Upgrade",
-      "url": "https://jobicy.com/jobs/153469-senior-qa-automation-engineer-product-latam",
+      "title": "Executive Assistant, Design",
+      "company": "Figma",
+      "url": "https://jobicy.com/jobs/151023-executive-assistant-design",
       "source": "Jobicy",
-      "date": "2026-09-16T19:41:12+00:00",
+      "date": "2026-09-18T04:05:06+00:00",
       "tags": [
-        "QA & Testing"
+        "Admin & Virtual Assistance"
       ]
+    },
+    {
+      "title": "Lead Customer Success Manager - West",
+      "company": "Tines",
+      "url": "https://weworkremotely.com/remote-jobs/tines-lead-customer-success-manager-west",
+      "source": "We Work Remotely",
+      "date": "Fri, 18 Sep 2026 07:30:46 +0000",
+      "tags": []
+    },
+    {
+      "title": "Deal Desk Analyst",
+      "company": "Tines",
+      "url": "https://weworkremotely.com/remote-jobs/tines-deal-desk-analyst",
+      "source": "We Work Remotely",
+      "date": "Fri, 18 Sep 2026 07:30:46 +0000",
+      "tags": []
     },
     {
       "title": "Agency Partner Manager",
@@ -398,16 +414,6 @@
       ]
     },
     {
-      "title": "Property Management Administrator",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/7TLdAbWnwjFmEHQJxpE9YY/property-management-administrator-in-dubai-at-driven-properties",
-      "source": "Workable",
-      "date": "2026-09-16T12:41:43.930Z",
-      "tags": [
-        "Dubai, Dubai, United Arab Emirates"
-      ]
-    },
-    {
       "title": "Property Management Assistant",
       "company": "Bridge33 Capital",
       "url": "https://jobs.workable.com/view/5BWqD7b3MdRbAbw5mM47y9/remote-property-management-assistant-in-central-visayas-at-bridge33-capital",
@@ -506,13 +512,46 @@
     },
     {
       "title": "Property Manager",
-      "company": "PeakMade Real Estate",
-      "url": "https://jobs.workable.com/view/nyseteH55HqYUnc6n2zwtC/property-manager-in-west-lafayette-at-peakmade-real-estate",
+      "company": "Lynco Properties",
+      "url": "https://jobs.workable.com/view/oparBYgdpSm4PC3rb5o2oV/property-manager-in-tulsa-at-lynco-properties",
       "source": "Workable",
-      "date": "2026-09-17T16:14:37.029Z",
+      "date": "2026-06-19T14:05:28.643Z",
       "tags": [
         "Full-time",
-        "West Lafayette, Indiana, United States"
+        "Tulsa, Oklahoma, United States"
+      ]
+    },
+    {
+      "title": "Customer Service - Community Manager",
+      "company": "VSF Rentals",
+      "url": "https://jobs.workable.com/view/nSWqkdaTk3yFX3StG1H3sq/customer-service---community-manager-in-northwood-at-vsf-rentals",
+      "source": "Workable",
+      "date": "2026-09-18T07:48:40.662Z",
+      "tags": [
+        "Full-time",
+        "Northwood, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Assistant Manager Houston, Texas 77057",
+      "company": "KPM",
+      "url": "https://jobs.workable.com/view/4gqWEK6Lc1v9YxjCrzqdTM/assistant-manager-houston%2C-texas-77057-in-houston-at-kpm",
+      "source": "Workable",
+      "date": "2026-06-19T17:57:04.590Z",
+      "tags": [
+        "Full-time",
+        "Houston, Texas, United States"
+      ]
+    },
+    {
+      "title": "Assistant Manager Harbour Sky Portland, Oregon",
+      "company": "KPM",
+      "url": "https://jobs.workable.com/view/17PG91UpgecmtzJwXZPMpT/assistant-manager-harbour-sky-portland%2C-oregon-in-portland-at-kpm",
+      "source": "Workable",
+      "date": "2026-06-19T17:51:04.930Z",
+      "tags": [
+        "Full-time",
+        "Portland, Oregon, United States"
       ]
     },
     {
@@ -527,6 +566,17 @@
       ]
     },
     {
+      "title": "Property Manager",
+      "company": "PeakMade Real Estate",
+      "url": "https://jobs.workable.com/view/nyseteH55HqYUnc6n2zwtC/property-manager-in-west-lafayette-at-peakmade-real-estate",
+      "source": "Workable",
+      "date": "2026-09-17T16:14:37.029Z",
+      "tags": [
+        "Full-time",
+        "West Lafayette, Indiana, United States"
+      ]
+    },
+    {
       "title": "Community Administrator",
       "company": "Taylor Management",
       "url": "https://jobs.workable.com/view/4zHsEiKXeG8udfY2YLH38u/community-administrator-in-stafford-township-at-taylor-management",
@@ -534,37 +584,6 @@
       "date": "2026-09-17T18:39:15.385Z",
       "tags": [
         "Stafford Township, New Jersey, United States"
-      ]
-    },
-    {
-      "title": "Data Engineer",
-      "company": "WeconnectU",
-      "url": "https://jobs.workable.com/view/6p3Vywv1Uj3QtKF9K9EyKP/data-engineer-in-somerset-west-at-weconnectu",
-      "source": "Workable",
-      "date": "2026-09-17T10:53:03.111Z",
-      "tags": [
-        "Full-time",
-        "Somerset West, Western Cape, South Africa"
-      ]
-    },
-    {
-      "title": "Residential Rental Senior Associate (1805)",
-      "company": "Lamda Development SA",
-      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(1805)-in-greece-at-lamda-development-sa",
-      "source": "Workable",
-      "date": "2026-09-17T08:36:58.415Z",
-      "tags": [
-        "Greece"
-      ]
-    },
-    {
-      "title": "Property Manager - Commercial Retail",
-      "company": "Bridge33 Capital",
-      "url": "https://jobs.workable.com/view/bvC9qycLU8iriasUw6znQ3/property-manager---commercial-retail-in-denver-at-bridge33-capital",
-      "source": "Workable",
-      "date": "2026-09-16T21:20:47.638Z",
-      "tags": [
-        "Denver, Colorado, United States"
       ]
     },
     {
@@ -875,6 +894,16 @@
       ]
     },
     {
+      "title": "Data Automation Specialist",
+      "company": "Intrepid Asia",
+      "url": "https://jobs.workable.com/view/9Swi5gWiacXqc44APZeu6R/data-automation-specialist-in-ho-chi-minh-city-at-intrepid-asia",
+      "source": "Workable",
+      "date": "2026-09-08T09:18:37.238Z",
+      "tags": [
+        "Ho Chi Minh City, Ho Chi Minh, Vietnam"
+      ]
+    },
+    {
       "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
       "company": "Human Intelligence",
       "url": "https://jobs.workable.com/view/9FNh8ktwFvrRZqb9uLNuKA/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-egypt-at-human-intelligence",
@@ -891,17 +920,6 @@
       "url": "https://jobs.workable.com/view/nqE8SjgKppSGqL3DYPAviF/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-johannesburg-at-human-intelligence",
       "source": "Workable",
       "date": "2025-11-28T14:54:23.594Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/rxdZDeNFsG9ifbb1R5Su9z/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-kenya-at-human-intelligence",
-      "source": "Workable",
-      "date": "2025-11-28T14:54:23.506Z",
       "tags": [
         "Contract",
         "Remote"
@@ -941,14 +959,14 @@
       ]
     },
     {
-      "title": "Senior Technical Project Manager - Private Markets",
-      "company": "Neuberger Berman",
-      "url": "https://jobs.workable.com/view/qTM2aMo8gKzReaBgWgmAFM/senior-technical-project-manager---private-markets-in-new-york-at-neuberger-berman",
+      "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/rxdZDeNFsG9ifbb1R5Su9z/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-kenya-at-human-intelligence",
       "source": "Workable",
-      "date": "2026-09-17T13:20:46.755Z",
+      "date": "2025-11-28T14:54:23.506Z",
       "tags": [
-        "Full-time",
-        "New York, United States"
+        "Contract",
+        "Remote"
       ]
     },
     {
@@ -974,6 +992,16 @@
       ]
     },
     {
+      "title": "Property Manager - Commercial Retail",
+      "company": "Bridge33 Capital",
+      "url": "https://jobs.workable.com/view/bvC9qycLU8iriasUw6znQ3/property-manager---commercial-retail-in-denver-at-bridge33-capital",
+      "source": "Workable",
+      "date": "2026-09-16T21:20:47.638Z",
+      "tags": [
+        "Denver, Colorado, United States"
+      ]
+    },
+    {
       "title": "Junior AI Engineer",
       "company": "ΟΜΙΛΟΣ ΓΕΚ ΤΕΡΝΑ / GEK TERNA GROUP",
       "url": "https://jobs.workable.com/view/87TDyu5N67PjmZvGR8GQf3/junior-ai-engineer-in-athens-at-%CE%BF%CE%BC%CE%B9%CE%BB%CE%BF%CF%82-%CE%B3%CE%B5%CE%BA-%CF%84%CE%B5%CF%81%CE%BD%CE%B1-%2F-gek-terna-group",
@@ -983,6 +1011,270 @@
         "Full-time",
         "Athens, Attica, Greece"
       ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "micro1",
+      "url": "https://www.indeed.com/viewjob?jk=a168db565257e1a8",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "MarlowHR Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4468386868",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4465580873",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "MarlowHR Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4468385761",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4466208147",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant (Remote)",
+      "company": "Hire Feed",
+      "url": "https://www.linkedin.com/jobs/view/4467097012",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant, Entry Level",
+      "company": "Jobright.ai",
+      "url": "https://www.linkedin.com/jobs/view/4467597511",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant, Entry Level",
+      "company": "Jobright.ai",
+      "url": "https://www.linkedin.com/jobs/view/4467804458",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant (Remote)",
+      "company": "CV-BRIDGE LTD",
+      "url": "https://www.linkedin.com/jobs/view/4467819692",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4467557909",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Remote Leverage",
+      "url": "https://www.linkedin.com/jobs/view/4467244745",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Residential Property Management - Exeter",
+      "company": "Ikon Consultancy",
+      "url": "https://www.linkedin.com/jobs/view/4466861195",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Property Personnel",
+      "url": "https://www.linkedin.com/jobs/view/4465987308",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Housing Trust Group, LLC",
+      "url": "https://www.linkedin.com/jobs/view/4466530656",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "ZRS Management",
+      "url": "https://www.linkedin.com/jobs/view/4465921444",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Brisa St Augustine",
+      "company": "Pegasus Residential",
+      "url": "https://www.linkedin.com/jobs/view/4467281565",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Minor Hotels",
+      "url": "https://www.linkedin.com/jobs/view/4466793809",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "title": "Area Property Manager (North Carolina)",
+      "company": "Drucker + Falk, LLC",
+      "url": "https://www.linkedin.com/jobs/view/4466107086",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Apartment Management Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4463065481",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Housing Trust Group, LLC",
+      "url": "https://www.linkedin.com/jobs/view/4465775908",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+      "url": "https://www.linkedin.com/jobs/view/4466121591",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
+      "title": "Property Manager (Residential)",
+      "company": "SmartCentres REIT",
+      "url": "https://www.linkedin.com/jobs/view/4446925202",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-13",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Apartment Management Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4461424027",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-11",
+      "tags": []
+    },
+    {
+      "title": "Gestionnaire immobilier sénior | Senior Property Manager",
+      "company": "Alfid Services Immobiliers",
+      "url": "https://www.linkedin.com/jobs/view/4467101263",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Affordable Housing Experienced",
+      "company": "ZRS Management",
+      "url": "https://www.linkedin.com/jobs/view/4466621872",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Residential Property Manager ...",
+      "company": "Chicagoland Apartment Association",
+      "url": "https://www.linkedin.com/jobs/view/4466675140",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Commercial Insurance Operations Specialist (REMOTE)",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=17fb0cb26499347f",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-11",
+      "tags": []
+    },
+    {
+      "title": "Marketing Automation Specialist",
+      "company": "Wealth Enhancement Group",
+      "url": "https://www.indeed.com/viewjob?jk=eebba0fc64022636",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "title": "Automation Specialist",
+      "company": "Baker McKenzie",
+      "url": "https://www.linkedin.com/jobs/view/4467558002",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Specialist",
+      "company": "Hammer & Hanborg",
+      "url": "https://www.linkedin.com/jobs/view/4466223017",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Engineer (Enterprise)",
+      "company": "Magnet Forensics",
+      "url": "https://www.linkedin.com/jobs/view/4468280447",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "AI & Process Automation Specialist",
+      "company": "EXFO",
+      "url": "https://www.linkedin.com/jobs/view/4465598486",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Specialist",
+      "company": "Rex Moore Electrical & Systems Contractors & Engineers",
+      "url": "https://www.linkedin.com/jobs/view/4468832729",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
     }
   ]
 }
