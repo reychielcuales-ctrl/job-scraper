@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-17T18:14:45.128Z",
-  "count": 90,
+  "generatedAt": "2026-09-18T00:16:53.357Z",
+  "count": 89,
   "jobs": [
     {
       "title": "AI agent engineer",
@@ -104,26 +104,6 @@
       "date": "2026-09-16T19:41:12+00:00",
       "tags": [
         "QA & Testing"
-      ]
-    },
-    {
-      "title": "GRC Manager",
-      "company": "Mattermost",
-      "url": "https://jobicy.com/jobs/153443-grc-manager",
-      "source": "Jobicy",
-      "date": "2026-09-16T15:38:41+00:00",
-      "tags": [
-        "Legal & Compliance"
-      ]
-    },
-    {
-      "title": "Account Manager - Federal",
-      "company": "Mattermost",
-      "url": "https://jobicy.com/jobs/153438-account-manager-federal",
-      "source": "Jobicy",
-      "date": "2026-09-16T15:38:39+00:00",
-      "tags": [
-        "Sales"
       ]
     },
     {
@@ -532,13 +512,24 @@
       ]
     },
     {
-      "title": "Residential Rental Senior Associate (1805)",
-      "company": "Lamda Development SA",
-      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(1805)-in-greece-at-lamda-development-sa",
+      "title": "Accounts Receivable Generalist",
+      "company": "iSupport Worldwide",
+      "url": "https://jobs.workable.com/view/1Z9JtEQT3Bvw2hemPcW7fT/accounts-receivable-generalist-in-pasig-at-isupport-worldwide",
       "source": "Workable",
-      "date": "2026-09-17T08:36:58.415Z",
+      "date": "2026-09-17T22:28:28.102Z",
       "tags": [
-        "Greece"
+        "Full-time",
+        "Pasig, Metro Manila, Philippines"
+      ]
+    },
+    {
+      "title": "Community Administrator",
+      "company": "Taylor Management",
+      "url": "https://jobs.workable.com/view/4zHsEiKXeG8udfY2YLH38u/community-administrator-in-stafford-township-at-taylor-management",
+      "source": "Workable",
+      "date": "2026-09-17T18:39:15.385Z",
+      "tags": [
+        "Stafford Township, New Jersey, United States"
       ]
     },
     {
@@ -550,6 +541,16 @@
       "tags": [
         "Full-time",
         "Somerset West, Western Cape, South Africa"
+      ]
+    },
+    {
+      "title": "Residential Rental Senior Associate (1805)",
+      "company": "Lamda Development SA",
+      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(1805)-in-greece-at-lamda-development-sa",
+      "source": "Workable",
+      "date": "2026-09-17T08:36:58.415Z",
+      "tags": [
+        "Greece"
       ]
     },
     {
@@ -584,13 +585,14 @@
       ]
     },
     {
-      "title": "Regional Property Manager",
-      "company": "Encore Property Management",
-      "url": "https://jobs.workable.com/view/prwFcJav9cDsjXsLdR6bC1/regional-property-manager-in-birmingham-at-encore-property-management",
+      "title": "Automotive Sales Manager/ F&I Manager",
+      "company": "Dennis & Co. Auto Group",
+      "url": "https://jobs.workable.com/view/tiNsUWt1SAD8AbvGGTmuZL/automotive-sales-manager%2F-f%26i-manager-in-new-york-at-dennis-%26-co.-auto-group",
       "source": "Workable",
-      "date": "2026-09-16T08:17:54.849Z",
+      "date": "2026-09-17T19:32:20.366Z",
       "tags": [
-        "Birmingham, Alabama, United States"
+        "Full-time",
+        "New York, New York, United States"
       ]
     },
     {
@@ -617,9 +619,64 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.674Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.602Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.548Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.453Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.201Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -653,72 +710,6 @@
       "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:39.156Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:51:51.492Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:07.284Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:06.921Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
       "tags": [
         "Full-time",
         "Remote"
