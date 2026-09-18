@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-18T12:15:31.332Z",
-  "count": 90,
+  "generatedAt": "2026-09-18T18:13:34.419Z",
+  "count": 88,
   "jobs": [
     {
       "title": "AI agent engineer",
@@ -551,38 +551,6 @@
       ]
     },
     {
-      "title": "Accounts Receivable Generalist",
-      "company": "iSupport Worldwide",
-      "url": "https://jobs.workable.com/view/1Z9JtEQT3Bvw2hemPcW7fT/accounts-receivable-generalist-in-pasig-at-isupport-worldwide",
-      "source": "Workable",
-      "date": "2026-09-17T22:28:28.102Z",
-      "tags": [
-        "Full-time",
-        "Pasig, Metro Manila, Philippines"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "PeakMade Real Estate",
-      "url": "https://jobs.workable.com/view/nyseteH55HqYUnc6n2zwtC/property-manager-in-west-lafayette-at-peakmade-real-estate",
-      "source": "Workable",
-      "date": "2026-09-17T16:14:37.029Z",
-      "tags": [
-        "Full-time",
-        "West Lafayette, Indiana, United States"
-      ]
-    },
-    {
-      "title": "Community Administrator",
-      "company": "Taylor Management",
-      "url": "https://jobs.workable.com/view/4zHsEiKXeG8udfY2YLH38u/community-administrator-in-stafford-township-at-taylor-management",
-      "source": "Workable",
-      "date": "2026-09-17T18:39:15.385Z",
-      "tags": [
-        "Stafford Township, New Jersey, United States"
-      ]
-    },
-    {
       "title": "Automotive Sales Manager/ F&I Manager",
       "company": "Dennis & Co. Auto Group",
       "url": "https://jobs.workable.com/view/tiNsUWt1SAD8AbvGGTmuZL/automotive-sales-manager%2F-f%26i-manager-in-new-york-at-dennis-%26-co.-auto-group",
@@ -846,6 +814,17 @@
       ]
     },
     {
+      "title": "Process Automation Specialist, Remote (PH)",
+      "company": "RocketAMS",
+      "url": "https://jobs.workable.com/view/kHhDoArGAFfEzPfJEmdSfV/process-automation-specialist%2C-remote-(ph)-in-philippines-at-rocketams",
+      "source": "Workable",
+      "date": "2026-03-03T00:10:10.842Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Automation Specialist (OT/ICSS)",
       "company": "Pacific Energy Canada",
       "url": "https://jobs.workable.com/view/4WdQKheiNazMbFjWrupdeZ/automation-specialist-(ot%2Ficss)-in-vancouver-at-pacific-energy-canada",
@@ -865,17 +844,6 @@
       "tags": [
         "Full-time",
         "Squamish, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Process Automation Specialist, Remote (PH)",
-      "company": "RocketAMS",
-      "url": "https://jobs.workable.com/view/kHhDoArGAFfEzPfJEmdSfV/process-automation-specialist%2C-remote-(ph)-in-philippines-at-rocketams",
-      "source": "Workable",
-      "date": "2026-03-03T00:10:10.842Z",
-      "tags": [
-        "Full-time",
-        "Remote"
       ]
     },
     {
@@ -966,6 +934,28 @@
       ]
     },
     {
+      "title": "SVP, Forward Deployed Strategist – Transformation &amp; Strategic Change",
+      "company": "PIMCO",
+      "url": "https://jobs.workable.com/view/upGrueZe9hKLKDZbKxEw4v/svp%2C-forward-deployed-strategist-%E2%80%93-transformation-%26amp%3B-strategic-change-in-newport-beach-at-pimco",
+      "source": "Workable",
+      "date": "2026-09-18T12:50:53.129Z",
+      "tags": [
+        "Full-time",
+        "Newport Beach, California, United States"
+      ]
+    },
+    {
+      "title": "Senior Technical Project Manager - Private Markets",
+      "company": "Neuberger Berman",
+      "url": "https://jobs.workable.com/view/qTM2aMo8gKzReaBgWgmAFM/senior-technical-project-manager---private-markets-in-new-york-at-neuberger-berman",
+      "source": "Workable",
+      "date": "2026-09-18T12:52:06.779Z",
+      "tags": [
+        "Full-time",
+        "New York, United States"
+      ]
+    },
+    {
       "title": "(1113180) Senior AI Agent Engineer",
       "company": "Diversified Services Network, Inc.",
       "url": "https://jobs.workable.com/view/9sX4QyryKTEwEqhyEzdutL/(1113180)-senior-ai-agent-engineer-in-dallas-at-diversified-services-network%2C-inc.",
@@ -995,17 +985,6 @@
       "date": "2026-09-16T21:20:47.638Z",
       "tags": [
         "Denver, Colorado, United States"
-      ]
-    },
-    {
-      "title": "Junior AI Engineer",
-      "company": "ΟΜΙΛΟΣ ΓΕΚ ΤΕΡΝΑ / GEK TERNA GROUP",
-      "url": "https://jobs.workable.com/view/87TDyu5N67PjmZvGR8GQf3/junior-ai-engineer-in-athens-at-%CE%BF%CE%BC%CE%B9%CE%BB%CE%BF%CF%82-%CE%B3%CE%B5%CE%BA-%CF%84%CE%B5%CF%81%CE%BD%CE%B1-%2F-gek-terna-group",
-      "source": "Workable",
-      "date": "2026-09-16T07:26:36.616Z",
-      "tags": [
-        "Full-time",
-        "Athens, Attica, Greece"
       ]
     }
   ]
