@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-18T18:14:08.879Z",
-  "count": 139,
+  "generatedAt": "2026-09-19T00:17:11.785Z",
+  "count": 140,
   "sources": {
     "node": 88,
-    "jobspy": 51
+    "jobspy": 52
   },
   "jobs": [
     {
@@ -511,6 +511,28 @@
       ]
     },
     {
+      "title": "Account Representative / Account Manager / Project Manager",
+      "company": "City Wide Facility Solutions",
+      "url": "https://jobs.workable.com/view/7XRwqMksAFvQSPNwXhYKJW/account-representative-%2F-account-manager-%2F-project-manager-in-burnaby-at-city-wide-facility-solutions",
+      "source": "Workable",
+      "date": "2026-09-19T00:15:10.768Z",
+      "tags": [
+        "Full-time",
+        "Burnaby, British Columbia, Canada"
+      ]
+    },
+    {
+      "title": "Maintance Supervisor",
+      "company": "CommonPlace",
+      "url": "https://jobs.workable.com/view/r7UiF8DaB6129GdUTscNnR/maintance-supervisor-in-jacksonville-at-commonplace",
+      "source": "Workable",
+      "date": "2026-09-18T21:10:12.719Z",
+      "tags": [
+        "Full-time",
+        "Jacksonville, Florida, United States"
+      ]
+    },
+    {
       "title": "Property Manager",
       "company": "Lynco Properties",
       "url": "https://jobs.workable.com/view/oparBYgdpSm4PC3rb5o2oV/property-manager-in-tulsa-at-lynco-properties",
@@ -530,28 +552,6 @@
       "tags": [
         "Full-time",
         "Northwood, Ohio, United States"
-      ]
-    },
-    {
-      "title": "Assistant Manager Houston, Texas 77057",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/4gqWEK6Lc1v9YxjCrzqdTM/assistant-manager-houston%2C-texas-77057-in-houston-at-kpm",
-      "source": "Workable",
-      "date": "2026-06-19T17:57:04.590Z",
-      "tags": [
-        "Full-time",
-        "Houston, Texas, United States"
-      ]
-    },
-    {
-      "title": "Assistant Manager Harbour Sky Portland, Oregon",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/17PG91UpgecmtzJwXZPMpT/assistant-manager-harbour-sky-portland%2C-oregon-in-portland-at-kpm",
-      "source": "Workable",
-      "date": "2026-06-19T17:51:04.930Z",
-      "tags": [
-        "Full-time",
-        "Portland, Oregon, United States"
       ]
     },
     {
@@ -589,64 +589,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.453Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.201Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -686,11 +631,88 @@
       ]
     },
     {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:51.492Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:07.284Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:06.921Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:24.683Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.965Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -724,28 +746,6 @@
       "url": "https://jobs.workable.com/view/wvnLszhhBgJA2o8Hahso4G/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-ukraine-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.785Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -918,9 +918,9 @@
     {
       "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
       "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/dSvs7CKNP5C7NU2USTZzoH/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-lagos-at-human-intelligence",
+      "url": "https://jobs.workable.com/view/rxdZDeNFsG9ifbb1R5Su9z/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-kenya-at-human-intelligence",
       "source": "Workable",
-      "date": "2025-11-28T14:54:23.795Z",
+      "date": "2025-11-28T14:54:23.506Z",
       "tags": [
         "Contract",
         "Remote"
@@ -929,9 +929,9 @@
     {
       "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
       "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/rxdZDeNFsG9ifbb1R5Su9z/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-kenya-at-human-intelligence",
+      "url": "https://jobs.workable.com/view/dSvs7CKNP5C7NU2USTZzoH/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-lagos-at-human-intelligence",
       "source": "Workable",
-      "date": "2025-11-28T14:54:23.506Z",
+      "date": "2025-11-28T14:54:23.795Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1008,25 +1008,9 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4465580873",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant | Full-Time",
       "company": "MarlowHR Ltd",
       "url": "https://www.linkedin.com/jobs/view/4468385761",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4466208147",
       "source": "JobSpy/linkedin",
       "date": "2026-09-17",
       "tags": []
@@ -1056,9 +1040,9 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant, Entry Level",
-      "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4467885470",
+      "title": "Virtual Assistant",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4465580873",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1066,7 +1050,31 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4467871717",
+      "url": "https://www.linkedin.com/jobs/view/4468019383",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant, Entry Level",
+      "company": "Jobright.ai",
+      "url": "https://www.linkedin.com/jobs/view/4468021336",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4466208147",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Healthcare Virtual Assistant – Direct Primary Care & Member Engagement (Remote or Onsite in Davao)",
+      "company": "Snapscale",
+      "url": "https://www.linkedin.com/jobs/view/4469277084",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1232,14 +1240,6 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Broad Management Group LLC",
-      "url": "https://www.linkedin.com/jobs/view/4468347509",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
       "title": "Property Manager - Residential Property Management - Exeter",
       "company": "Ikon Consultancy",
       "url": "https://www.linkedin.com/jobs/view/4466861195",
@@ -1320,6 +1320,14 @@
       "tags": []
     },
     {
+      "title": "Property Manager Condominiums",
+      "company": "First Realty Management",
+      "url": "https://www.linkedin.com/jobs/view/4419551736",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
       "title": "Property Manager - Affordable Housing Experienced",
       "company": "ZRS Management",
       "url": "https://www.linkedin.com/jobs/view/4466621872",
@@ -1337,8 +1345,8 @@
     },
     {
       "title": "Property Manager",
-      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
-      "url": "https://www.linkedin.com/jobs/view/4466121591",
+      "company": "Apartment Management Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4466943098",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1356,6 +1364,14 @@
       "company": "Wealth Enhancement Group",
       "url": "https://www.indeed.com/viewjob?jk=eebba0fc64022636",
       "source": "JobSpy/indeed",
+      "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Specialist",
+      "company": "Rex Moore Electrical & Systems Contractors & Engineers",
+      "url": "https://www.linkedin.com/jobs/view/4468832729",
+      "source": "JobSpy/linkedin",
       "date": "2026-09-17",
       "tags": []
     },
@@ -1387,14 +1403,6 @@
       "title": "Junior AI & Automation Specialist",
       "company": "Accordience Group",
       "url": "https://www.linkedin.com/jobs/view/4469158866",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Specialist",
-      "company": "Rex Moore Electrical & Systems Contractors & Engineers",
-      "url": "https://www.linkedin.com/jobs/view/4468832729",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
