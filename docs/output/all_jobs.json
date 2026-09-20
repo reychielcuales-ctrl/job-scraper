@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T12:15:24.864Z",
-  "count": 130,
+  "generatedAt": "2026-09-20T18:13:41.046Z",
+  "count": 132,
   "sources": {
     "node": 89,
-    "jobspy": 41
+    "jobspy": 43
   },
   "jobs": [
     {
@@ -1021,6 +1021,14 @@
       ]
     },
     {
+      "title": "Executive Assistant",
+      "company": "My Seattle EA",
+      "url": "https://www.indeed.com/viewjob?jk=e984a4aa33177947",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-20",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant to the Chief Revenue Officer (CRO)",
       "company": "EDB",
       "url": "https://www.indeed.com/viewjob?jk=b92ecf2b0e04678a",
@@ -1053,6 +1061,14 @@
       "tags": []
     },
     {
+      "title": "Senior Executive Assistant & EA Team Lead",
+      "company": "thyme care",
+      "url": "https://www.indeed.com/viewjob?jk=44b2f73ba719cf28",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant",
       "company": "Mission Lane",
       "url": "https://www.indeed.com/viewjob?jk=80dfade266778e34",
@@ -1072,6 +1088,14 @@
       "title": "Executive Assistant to CEO(J10062)",
       "company": "广州南顺清洁用品有限公司",
       "url": "https://www.linkedin.com/jobs/view/4466954389",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-19",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Chief Executive Officer",
+      "company": "Success Admissions Center",
+      "url": "https://www.linkedin.com/jobs/view/4466986182",
       "source": "JobSpy/linkedin",
       "date": "2026-09-19",
       "tags": []
@@ -1165,14 +1189,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to Chief Executive Officer",
-      "company": "Success Admissions Center",
-      "url": "https://www.linkedin.com/jobs/view/4466986182",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Property Manager",
       "company": "Apartment Management Consultants",
       "url": "https://www.linkedin.com/jobs/view/4466943098",
@@ -1208,14 +1224,6 @@
       "title": "Gestionnaire immobilier sénior | Senior Property Manager",
       "company": "Alfid Services Immobiliers",
       "url": "https://www.linkedin.com/jobs/view/4467101263",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Broad Management Group LLC",
-      "url": "https://www.linkedin.com/jobs/view/4468347509",
       "source": "JobSpy/linkedin",
       "date": "2026-09-17",
       "tags": []
@@ -1293,11 +1301,27 @@
       "tags": []
     },
     {
+      "title": "Property Manager",
+      "company": "Mission Rock Residential, LLC",
+      "url": "https://www.linkedin.com/jobs/view/4459044257",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
       "title": "Marketing Automation Specialist",
       "company": "Wealth Enhancement Group",
       "url": "https://www.indeed.com/viewjob?jk=eebba0fc64022636",
       "source": "JobSpy/indeed",
       "date": "2026-09-17",
+      "tags": []
+    },
+    {
+      "title": "Process Automation Specialist",
+      "company": "LeoVegas Group",
+      "url": "https://www.linkedin.com/jobs/view/4441351291",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-19",
       "tags": []
     },
     {
@@ -1325,14 +1349,6 @@
       "tags": []
     },
     {
-      "title": "AI & Automation Specialist",
-      "company": "Hammer & Hanborg",
-      "url": "https://www.linkedin.com/jobs/view/4466223017",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-16",
-      "tags": []
-    },
-    {
       "title": "AI & Process Automation Specialist",
       "company": "EXFO",
       "url": "https://www.linkedin.com/jobs/view/4465598486",
@@ -1341,9 +1357,9 @@
       "tags": []
     },
     {
-      "title": "Process Automation Specialist",
-      "company": "LeoVegas Group",
-      "url": "https://www.linkedin.com/jobs/view/4441351291",
+      "title": "Senior AI Automation & Zendesk Specialist - South Africa",
+      "company": "Voy",
+      "url": "https://www.linkedin.com/jobs/view/4468474293",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
