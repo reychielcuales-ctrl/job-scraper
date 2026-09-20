@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-20T00:18:11.207Z",
-  "count": 143,
+  "generatedAt": "2026-09-20T06:15:34.821Z",
+  "count": 131,
   "sources": {
     "node": 89,
-    "jobspy": 54
+    "jobspy": 42
   },
   "jobs": [
     {
@@ -1021,110 +1021,6 @@
       ]
     },
     {
-      "title": "Virtual Assistant",
-      "company": "micro1",
-      "url": "https://www.indeed.com/viewjob?jk=a168db565257e1a8",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-16",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4465580873",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4466208147",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "title": "Administrative Assistant (Remote)",
-      "company": "CV-BRIDGE LTD",
-      "url": "https://www.linkedin.com/jobs/view/4467819692",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant | Full-Time",
-      "company": "MarlowHR Ltd",
-      "url": "https://www.linkedin.com/jobs/view/4468386868",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant | Full-Time",
-      "company": "MarlowHR Ltd",
-      "url": "https://www.linkedin.com/jobs/view/4468385761",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Somewhere",
-      "url": "https://www.linkedin.com/jobs/view/4467557909",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Great Work Perks",
-      "url": "https://www.linkedin.com/jobs/view/4468095874",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant, Entry Level",
-      "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4468410445",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant, Entry Level",
-      "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4468090924",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Great Work Perks",
-      "url": "https://www.linkedin.com/jobs/view/4468400817",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Administrative Assistant (Remote)",
-      "company": "Minutes To Seconds Pty Ltd",
-      "url": "https://www.linkedin.com/jobs/view/4468052631",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant (Remote)",
-      "company": "crewlia",
-      "url": "https://www.linkedin.com/jobs/view/4469563103",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant to the Chief Revenue Officer (CRO)",
       "company": "EDB",
       "url": "https://www.indeed.com/viewjob?jk=b92ecf2b0e04678a",
@@ -1157,6 +1053,14 @@
       "tags": []
     },
     {
+      "title": "Senior Executive Assistant & EA Team Lead",
+      "company": "thyme care",
+      "url": "https://www.indeed.com/viewjob?jk=44b2f73ba719cf28",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-14",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant",
       "company": "Mission Lane",
       "url": "https://www.indeed.com/viewjob?jk=80dfade266778e34",
@@ -1170,6 +1074,14 @@
       "url": "https://www.indeed.com/viewjob?jk=9031d145dcd7ab5d",
       "source": "JobSpy/indeed",
       "date": "2026-09-10",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to CEO(J10062)",
+      "company": "广州南顺清洁用品有限公司",
+      "url": "https://www.linkedin.com/jobs/view/4466954389",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-19",
       "tags": []
     },
     {
@@ -1253,14 +1165,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to CEO(J10062)",
-      "company": "广州南顺清洁用品有限公司",
-      "url": "https://www.linkedin.com/jobs/view/4466954389",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant to Chief Executive Officer",
       "company": "Success Admissions Center",
       "url": "https://www.linkedin.com/jobs/view/4466986182",
@@ -1317,11 +1221,11 @@
       "tags": []
     },
     {
-      "title": "Property Manager - Residential Property Management - Exeter",
-      "company": "Ikon Consultancy",
-      "url": "https://www.linkedin.com/jobs/view/4466861195",
+      "title": "Property Manager",
+      "company": "Broad Management Group LLC",
+      "url": "https://www.linkedin.com/jobs/view/4468347509",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-16",
+      "date": "2026-09-17",
       "tags": []
     },
     {
