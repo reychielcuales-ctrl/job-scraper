@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T12:15:51.530Z",
-  "count": 141,
+  "generatedAt": "2026-09-21T18:14:40.579Z",
+  "count": 151,
   "sources": {
-    "node": 87,
-    "jobspy": 54
+    "node": 89,
+    "jobspy": 62
   },
   "jobs": [
     {
@@ -455,6 +455,17 @@
       ]
     },
     {
+      "title": "Property Manager on 30A",
+      "company": "Oversee",
+      "url": "https://jobs.workable.com/view/esnVc4QKbjzQtvJF9k6H5S/property-manager-on-30a-in-panama-city-beach-at-oversee",
+      "source": "Workable",
+      "date": "2026-09-21T15:48:34.382Z",
+      "tags": [
+        "Full-time",
+        "Panama City Beach, Florida, United States"
+      ]
+    },
+    {
       "title": "Presales Consultant",
       "company": "Civica",
       "url": "https://jobs.workable.com/view/uWXj6hKJSsrZbFroZj9TtR/hybrid-presales-consultant-in-london-at-civica",
@@ -484,28 +495,6 @@
       "tags": [
         "Full-time",
         "Jacksonville, Florida, United States"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "Lynco Properties",
-      "url": "https://jobs.workable.com/view/oparBYgdpSm4PC3rb5o2oV/property-manager-in-tulsa-at-lynco-properties",
-      "source": "Workable",
-      "date": "2026-06-19T14:05:28.643Z",
-      "tags": [
-        "Full-time",
-        "Tulsa, Oklahoma, United States"
-      ]
-    },
-    {
-      "title": "Customer Service - Community Manager",
-      "company": "VSF Rentals",
-      "url": "https://jobs.workable.com/view/nSWqkdaTk3yFX3StG1H3sq/customer-service---community-manager-in-northwood-at-vsf-rentals",
-      "source": "Workable",
-      "date": "2026-09-18T07:48:40.662Z",
-      "tags": [
-        "Full-time",
-        "Northwood, Ohio, United States"
       ]
     },
     {
@@ -837,11 +826,82 @@
       ]
     },
     {
+      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
+      "company": "World Business Lenders, LLC",
+      "url": "https://jobs.workable.com/view/e9MrWFeAM4RpLCvKG863qT/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-plano-at-world-business-lenders%2C-llc",
+      "source": "Workable",
+      "date": "2026-09-21T14:35:18.253Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
+      "company": "World Business Lenders, LLC",
+      "url": "https://jobs.workable.com/view/f2MPfyAcqbCFc2PM27spSQ/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-kansas-city-at-world-business-lenders%2C-llc",
+      "source": "Workable",
+      "date": "2026-09-21T14:35:17.072Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
+      "company": "World Business Lenders, LLC",
+      "url": "https://jobs.workable.com/view/qnTjt4QkwUoAJzNYJVgw7h/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-brooklyn-at-world-business-lenders%2C-llc",
+      "source": "Workable",
+      "date": "2026-09-21T14:35:18.678Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
+      "company": "World Business Lenders, LLC",
+      "url": "https://jobs.workable.com/view/4d1JAy1rzb2G9UeEr6DRQg/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-philadelphia-at-world-business-lenders%2C-llc",
+      "source": "Workable",
+      "date": "2026-09-21T14:35:17.828Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
+      "company": "World Business Lenders, LLC",
+      "url": "https://jobs.workable.com/view/tKMi1nb4wgEgQcNZkxSLHD/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-jersey-city-at-world-business-lenders%2C-llc",
+      "source": "Workable",
+      "date": "2026-09-21T14:35:17.427Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
+      "company": "World Business Lenders, LLC",
+      "url": "https://jobs.workable.com/view/6WizUAyz2Ls6aquWTF8td8/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-new-york-at-world-business-lenders%2C-llc",
+      "source": "Workable",
+      "date": "2026-09-21T14:35:16.439Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
       "title": "Business Process Re-Engineering Consultant - AI & Automation (Public Sector)",
       "company": "Xtremax Pte. Ltd.",
       "url": "https://jobs.workable.com/view/bxAj3Ub5yrSPBMvp55DonL/business-process-re-engineering-consultant---ai-%26-automation-(public-sector)-in-singapore-at-xtremax-pte.-ltd.",
       "source": "Workable",
       "date": "2026-09-21T09:38:39.362Z",
+      "tags": [
+        "Contract",
+        "Singapore, Singapore, Singapore"
+      ]
+    },
+    {
+      "title": "IT Service Desk & End-User Support Manager - (Public Sector)",
+      "company": "Xtremax Pte. Ltd.",
+      "url": "https://jobs.workable.com/view/htzpQQ5NCPcwyw6K325xCi/it-service-desk-%26-end-user-support-manager---(public-sector)-in-singapore-at-xtremax-pte.-ltd.",
+      "source": "Workable",
+      "date": "2026-09-21T09:41:40.576Z",
       "tags": [
         "Contract",
         "Singapore, Singapore, Singapore"
@@ -881,17 +941,6 @@
       ]
     },
     {
-      "title": "IT Service Desk & End-User Support Manager - (Public Sector)",
-      "company": "Xtremax Pte. Ltd.",
-      "url": "https://jobs.workable.com/view/htzpQQ5NCPcwyw6K325xCi/it-service-desk-%26-end-user-support-manager---(public-sector)-in-singapore-at-xtremax-pte.-ltd.",
-      "source": "Workable",
-      "date": "2026-09-21T09:41:40.576Z",
-      "tags": [
-        "Contract",
-        "Singapore, Singapore, Singapore"
-      ]
-    },
-    {
       "title": "Agentforce Trainer / Salesforce AI Consultant (Contract / Ongoing)",
       "company": "MaxAccelerate",
       "url": "https://jobs.workable.com/view/bmRXkGvFYv4FUtL1VSuK4L/remote-agentforce-trainer-%2F-salesforce-ai-consultant-(contract-%2F-ongoing)-in-dubai-at-maxaccelerate",
@@ -924,37 +973,20 @@
       ]
     },
     {
-      "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/iG47CQN9axFrCKxZ63YE74/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-ghana-at-human-intelligence",
-      "source": "Workable",
-      "date": "2025-11-28T14:54:24.148Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
+      "title": "Virtual Assistant",
+      "company": "Turning Point Family Services",
+      "url": "https://www.indeed.com/viewjob?jk=dc1ac3eaf687c17b",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-21",
+      "tags": []
     },
     {
-      "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/bddwnwi1A7sPiEXuCzaSyX/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-ethiopia-at-human-intelligence",
-      "source": "Workable",
-      "date": "2025-11-28T14:54:23.905Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/9FNh8ktwFvrRZqb9uLNuKA/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-egypt-at-human-intelligence",
-      "source": "Workable",
-      "date": "2025-11-28T14:54:24.006Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
+      "title": "Remote Administrative Assistant",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=65e98456a8dc9c1f",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-20",
+      "tags": []
     },
     {
       "title": "Virtual Assistant",
@@ -962,6 +994,14 @@
       "url": "https://www.indeed.com/viewjob?jk=a168db565257e1a8",
       "source": "JobSpy/indeed",
       "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant — AI Workflow and Operations Reviewer (Remote)",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=befd02b36e008e4e",
+      "source": "JobSpy/indeed",
+      "date": "2026-07-01",
       "tags": []
     },
     {
@@ -986,14 +1026,6 @@
       "url": "https://www.linkedin.com/jobs/view/4468052631",
       "source": "JobSpy/linkedin",
       "date": "2026-09-19",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4465580873",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
       "tags": []
     },
     {
@@ -1023,7 +1055,7 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4468488206",
+      "url": "https://www.linkedin.com/jobs/view/4467624570",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1031,7 +1063,15 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4468483423",
+      "url": "https://www.linkedin.com/jobs/view/4467613819",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (Remote Work) - For Pooling",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4468783206",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1042,6 +1082,54 @@
       "url": "https://www.linkedin.com/jobs/view/4469866025",
       "source": "JobSpy/linkedin",
       "date": "",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (Work From Home) – For Pooling",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4468760775",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "marketing / executive assistant",
+      "company": "java inspiration",
+      "url": "https://www.indeed.com/viewjob?jk=b87d182144251007",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "My Seattle EA",
+      "url": "https://www.indeed.com/viewjob?jk=e984a4aa33177947",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-20",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=06f8c75212317373",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=0726e7c3aae91028",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
+      "title": "Senior Administrative Assistant -Omaha, NE.",
+      "company": "Mutual of Omaha",
+      "url": "https://www.indeed.com/viewjob?jk=5711a24014d068b1",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-18",
       "tags": []
     },
     {
@@ -1069,25 +1157,9 @@
       "tags": []
     },
     {
-      "title": "Sr, Executive Assistant",
-      "company": "Radiology Partners",
-      "url": "https://www.indeed.com/viewjob?jk=af09760e68070aa9",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-15",
-      "tags": []
-    },
-    {
       "title": "Senior Executive Assistant & EA Team Lead",
       "company": "thyme care",
       "url": "https://www.indeed.com/viewjob?jk=44b2f73ba719cf28",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Mission Lane",
-      "url": "https://www.indeed.com/viewjob?jk=80dfade266778e34",
       "source": "JobSpy/indeed",
       "date": "2026-09-14",
       "tags": []
@@ -1206,6 +1278,30 @@
     },
     {
       "title": "Property Manager",
+      "company": "Carlos Lopez & Associates, LLC",
+      "url": "https://www.indeed.com/viewjob?jk=4b0afeb35bc4178b",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-19",
+      "tags": []
+    },
+    {
+      "title": "Part-Time Assistant Property Manager",
+      "company": "JP & Associates REALTORS Magnolia Group",
+      "url": "https://www.indeed.com/viewjob?jk=d0d245a6ffe9f616",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Mission Rock Residential, LLC",
+      "url": "https://www.linkedin.com/jobs/view/4459044257",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-20",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
       "company": "Apartment Management Consultants",
       "url": "https://www.linkedin.com/jobs/view/4466943098",
       "source": "JobSpy/linkedin",
@@ -1278,6 +1374,22 @@
     },
     {
       "title": "Property Manager",
+      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+      "url": "https://www.linkedin.com/jobs/view/4465145307",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Apartment Management Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4465229933",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
       "company": "Housing Trust Group, LLC",
       "url": "https://www.linkedin.com/jobs/view/4466530656",
       "source": "JobSpy/linkedin",
@@ -1301,35 +1413,11 @@
       "tags": []
     },
     {
-      "title": "Area Property Manager (North Carolina)",
-      "company": "Drucker + Falk, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4466107086",
+      "title": "Senior AI Automation & Zendesk Specialist - South Africa",
+      "company": "Voy",
+      "url": "https://www.linkedin.com/jobs/view/4468474293",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Apartment Management Consultants",
-      "url": "https://www.linkedin.com/jobs/view/4463065481",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-14",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Mission Rock Residential, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4459044257",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Marketing Automation Specialist",
-      "company": "Wealth Enhancement Group",
-      "url": "https://www.indeed.com/viewjob?jk=eebba0fc64022636",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-17",
+      "date": "2026-09-20",
       "tags": []
     },
     {
@@ -1376,14 +1464,6 @@
       "title": "AI Automation Specialist",
       "company": "Zameen.com",
       "url": "https://www.linkedin.com/jobs/view/4467385472",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Senior AI Automation & Zendesk Specialist - South Africa",
-      "company": "Voy",
-      "url": "https://www.linkedin.com/jobs/view/4468474293",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
