@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T06:17:55.791Z",
-  "count": 129,
+  "generatedAt": "2026-09-21T12:15:51.530Z",
+  "count": 141,
   "sources": {
-    "node": 88,
-    "jobspy": 41
+    "node": 87,
+    "jobspy": 54
   },
   "jobs": [
     {
@@ -455,6 +455,16 @@
       ]
     },
     {
+      "title": "Presales Consultant",
+      "company": "Civica",
+      "url": "https://jobs.workable.com/view/uWXj6hKJSsrZbFroZj9TtR/hybrid-presales-consultant-in-london-at-civica",
+      "source": "Workable",
+      "date": "2026-09-21T12:04:22.402Z",
+      "tags": [
+        "London, England, United Kingdom"
+      ]
+    },
+    {
       "title": "Account Representative / Account Manager / Project Manager",
       "company": "City Wide Facility Solutions",
       "url": "https://jobs.workable.com/view/7XRwqMksAFvQSPNwXhYKJW/account-representative-%2F-account-manager-%2F-project-manager-in-burnaby-at-city-wide-facility-solutions",
@@ -496,17 +506,6 @@
       "tags": [
         "Full-time",
         "Northwood, Ohio, United States"
-      ]
-    },
-    {
-      "title": "Assistant Manager Houston, Texas 77057",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/4gqWEK6Lc1v9YxjCrzqdTM/assistant-manager-houston%2C-texas-77057-in-houston-at-kpm",
-      "source": "Workable",
-      "date": "2026-06-19T17:57:04.590Z",
-      "tags": [
-        "Full-time",
-        "Houston, Texas, United States"
       ]
     },
     {
@@ -838,14 +837,90 @@
       ]
     },
     {
-      "title": "AI Automation & Integration Specialist",
-      "company": "Primal Storm",
-      "url": "https://jobs.workable.com/view/q78tQCmW2gZVgZUEb7qd24/remote-ai-automation-%26-integration-specialist-in-indonesia-at-primal-storm",
+      "title": "Business Process Re-Engineering Consultant - AI & Automation (Public Sector)",
+      "company": "Xtremax Pte. Ltd.",
+      "url": "https://jobs.workable.com/view/bxAj3Ub5yrSPBMvp55DonL/business-process-re-engineering-consultant---ai-%26-automation-(public-sector)-in-singapore-at-xtremax-pte.-ltd.",
       "source": "Workable",
-      "date": "2026-09-07T07:44:42.255Z",
+      "date": "2026-09-21T09:38:39.362Z",
+      "tags": [
+        "Contract",
+        "Singapore, Singapore, Singapore"
+      ]
+    },
+    {
+      "title": "Agentforce Trainer / Salesforce AI Consultant (Contract / Ongoing)",
+      "company": "MaxAccelerate",
+      "url": "https://jobs.workable.com/view/67fS75wDwQdzQeTfF4dvm9/remote-agentforce-trainer-%2F-salesforce-ai-consultant-(contract-%2F-ongoing)-in-united-states-at-maxaccelerate",
+      "source": "Workable",
+      "date": "2026-03-24T13:41:42.749Z",
       "tags": [
         "Contract",
         "Remote"
+      ]
+    },
+    {
+      "title": "Agentforce Trainer / Salesforce AI Consultant (Contract / Ongoing)",
+      "company": "MaxAccelerate",
+      "url": "https://jobs.workable.com/view/fthHt35VDNMWrnGsZoyvXd/remote-agentforce-trainer-%2F-salesforce-ai-consultant-(contract-%2F-ongoing)-in-united-kingdom-at-maxaccelerate",
+      "source": "Workable",
+      "date": "2026-03-24T13:41:42.344Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Agentforce Trainer / Salesforce AI Consultant (Contract / Ongoing)",
+      "company": "MaxAccelerate",
+      "url": "https://jobs.workable.com/view/4jwaPfv6jpSPgKpza76dRd/remote-agentforce-trainer-%2F-salesforce-ai-consultant-(contract-%2F-ongoing)-in-portugal-at-maxaccelerate",
+      "source": "Workable",
+      "date": "2026-03-24T13:41:41.929Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "IT Service Desk & End-User Support Manager - (Public Sector)",
+      "company": "Xtremax Pte. Ltd.",
+      "url": "https://jobs.workable.com/view/htzpQQ5NCPcwyw6K325xCi/it-service-desk-%26-end-user-support-manager---(public-sector)-in-singapore-at-xtremax-pte.-ltd.",
+      "source": "Workable",
+      "date": "2026-09-21T09:41:40.576Z",
+      "tags": [
+        "Contract",
+        "Singapore, Singapore, Singapore"
+      ]
+    },
+    {
+      "title": "Agentforce Trainer / Salesforce AI Consultant (Contract / Ongoing)",
+      "company": "MaxAccelerate",
+      "url": "https://jobs.workable.com/view/bmRXkGvFYv4FUtL1VSuK4L/remote-agentforce-trainer-%2F-salesforce-ai-consultant-(contract-%2F-ongoing)-in-dubai-at-maxaccelerate",
+      "source": "Workable",
+      "date": "2026-03-24T13:41:41.567Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Senior RPA Developer",
+      "company": "Agile Actors",
+      "url": "https://jobs.workable.com/view/qg3CKsa65hjzDwknU9DYf5/hybrid-senior-rpa-developer-in-athens-at-agile-actors",
+      "source": "Workable",
+      "date": "2026-03-24T14:08:32.638Z",
+      "tags": [
+        "Athens, Attica, Greece"
+      ]
+    },
+    {
+      "title": "SVP, Forward Deployed Strategist – Transformation &amp; Strategic Change",
+      "company": "PIMCO",
+      "url": "https://jobs.workable.com/view/upGrueZe9hKLKDZbKxEw4v/svp%2C-forward-deployed-strategist-%E2%80%93-transformation-%26amp%3B-strategic-change-in-newport-beach-at-pimco",
+      "source": "Workable",
+      "date": "2026-09-18T12:50:53.129Z",
+      "tags": [
+        "Full-time",
+        "Newport Beach, California, United States"
       ]
     },
     {
@@ -882,91 +957,92 @@
       ]
     },
     {
-      "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/nqE8SjgKppSGqL3DYPAviF/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-johannesburg-at-human-intelligence",
-      "source": "Workable",
-      "date": "2025-11-28T14:54:23.594Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
+      "title": "Virtual Assistant",
+      "company": "micro1",
+      "url": "https://www.indeed.com/viewjob?jk=a168db565257e1a8",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-16",
+      "tags": []
     },
     {
-      "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/rxdZDeNFsG9ifbb1R5Su9z/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-kenya-at-human-intelligence",
-      "source": "Workable",
-      "date": "2025-11-28T14:54:23.506Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
+      "title": "Administrative Assistant (Remote)",
+      "company": "CV-BRIDGE LTD",
+      "url": "https://www.linkedin.com/jobs/view/4468452321",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-20",
+      "tags": []
     },
     {
-      "title": "Automation Workflow Specialist (GHL, Zapier, n8n, AI) - Remote Contractor",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/dSvs7CKNP5C7NU2USTZzoH/automation-workflow-specialist-(ghl%2C-zapier%2C-n8n%2C-ai)---remote-contractor-in-lagos-at-human-intelligence",
-      "source": "Workable",
-      "date": "2025-11-28T14:54:23.795Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
+      "title": "Virtual Assistant",
+      "company": "Great Work Perks",
+      "url": "https://www.linkedin.com/jobs/view/4468095874",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-19",
+      "tags": []
     },
     {
-      "title": "SVP, Forward Deployed Strategist – Transformation &amp; Strategic Change",
-      "company": "PIMCO",
-      "url": "https://jobs.workable.com/view/upGrueZe9hKLKDZbKxEw4v/svp%2C-forward-deployed-strategist-%E2%80%93-transformation-%26amp%3B-strategic-change-in-newport-beach-at-pimco",
-      "source": "Workable",
-      "date": "2026-09-18T12:50:53.129Z",
-      "tags": [
-        "Full-time",
-        "Newport Beach, California, United States"
-      ]
+      "title": "Administrative Assistant (Remote)",
+      "company": "Minutes To Seconds Pty Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4468052631",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-19",
+      "tags": []
     },
     {
-      "title": "Senior Technical Project Manager - Private Markets",
-      "company": "Neuberger Berman",
-      "url": "https://jobs.workable.com/view/qTM2aMo8gKzReaBgWgmAFM/senior-technical-project-manager---private-markets-in-new-york-at-neuberger-berman",
-      "source": "Workable",
-      "date": "2026-09-18T12:52:06.779Z",
-      "tags": [
-        "Full-time",
-        "New York, United States"
-      ]
+      "title": "Virtual Assistant",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4465580873",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-18",
+      "tags": []
     },
     {
-      "title": "(1113180) Senior AI Agent Engineer",
-      "company": "Diversified Services Network, Inc.",
-      "url": "https://jobs.workable.com/view/9sX4QyryKTEwEqhyEzdutL/(1113180)-senior-ai-agent-engineer-in-dallas-at-diversified-services-network%2C-inc.",
-      "source": "Workable",
-      "date": "2026-09-16T21:52:10.530Z",
-      "tags": [
-        "Full-time",
-        "Dallas, Texas, United States"
-      ]
+      "title": "Executive Assistant",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4466208147",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-18",
+      "tags": []
     },
     {
-      "title": "(1113180) Senior AI Agent Engineer",
-      "company": "Diversified Services Network, Inc.",
-      "url": "https://jobs.workable.com/view/oSEKWG159Pq4uuqsaPtnmt/(1113180)-senior-ai-agent-engineer-in-morton-at-diversified-services-network%2C-inc.",
-      "source": "Workable",
-      "date": "2026-09-16T21:52:10.077Z",
-      "tags": [
-        "Full-time",
-        "Morton, Illinois, United States"
-      ]
+      "title": "Virtual Assistant",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4467557909",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-17",
+      "tags": []
     },
     {
-      "title": "Property Manager - Commercial Retail",
-      "company": "Bridge33 Capital",
-      "url": "https://jobs.workable.com/view/bvC9qycLU8iriasUw6znQ3/property-manager---commercial-retail-in-denver-at-bridge33-capital",
-      "source": "Workable",
-      "date": "2026-09-16T21:20:47.638Z",
-      "tags": [
-        "Denver, Colorado, United States"
-      ]
+      "title": "Virtual Assistant | Full-Time",
+      "company": "MalowRecruits",
+      "url": "https://www.linkedin.com/jobs/view/4469865284",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant, Entry Level",
+      "company": "Jobright.ai",
+      "url": "https://www.linkedin.com/jobs/view/4468488206",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant, Entry Level",
+      "company": "Jobright.ai",
+      "url": "https://www.linkedin.com/jobs/view/4468483423",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Executive Assistant (Remote)",
+      "company": "TalentForge Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4469866025",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
     },
     {
       "title": "Executive Assistant to the Chief Revenue Officer (CRO)",
@@ -998,6 +1074,14 @@
       "url": "https://www.indeed.com/viewjob?jk=af09760e68070aa9",
       "source": "JobSpy/indeed",
       "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant & EA Team Lead",
+      "company": "thyme care",
+      "url": "https://www.indeed.com/viewjob?jk=44b2f73ba719cf28",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-14",
       "tags": []
     },
     {
@@ -1105,19 +1189,19 @@
       "tags": []
     },
     {
-      "title": "Executive assistant to Director",
-      "company": "Neuraleap Group",
-      "url": "https://www.linkedin.com/jobs/view/4465722420",
+      "title": "Executive Assistant",
+      "company": "The Job Shop - India",
+      "url": "https://www.linkedin.com/jobs/view/4467390487",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-14",
+      "date": "",
       "tags": []
     },
     {
-      "title": "\"Executive Assistant",
-      "company": "Europcar Mobility Group",
-      "url": "https://www.linkedin.com/jobs/view/4467220611",
+      "title": "Executive Assistant",
+      "company": "NADIA",
+      "url": "https://www.linkedin.com/jobs/view/4467353960",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-14",
+      "date": "",
       "tags": []
     },
     {
@@ -1286,6 +1370,14 @@
       "url": "https://www.linkedin.com/jobs/view/4465598486",
       "source": "JobSpy/linkedin",
       "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Specialist",
+      "company": "Zameen.com",
+      "url": "https://www.linkedin.com/jobs/view/4467385472",
+      "source": "JobSpy/linkedin",
+      "date": "",
       "tags": []
     },
     {
