@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-21T18:14:40.579Z",
-  "count": 151,
+  "generatedAt": "2026-09-22T00:16:55.495Z",
+  "count": 155,
   "sources": {
-    "node": 89,
-    "jobspy": 62
+    "node": 95,
+    "jobspy": 60
   },
   "jobs": [
     {
@@ -71,6 +71,16 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "AI agent engineer",
+      "company": "Sticker Mule",
+      "url": "https://jobicy.com/jobs/153825-ai-agent-engineer",
+      "source": "Jobicy",
+      "date": "2026-09-21T15:32:03+00:00",
+      "tags": [
+        "Software Engineering"
       ]
     },
     {
@@ -466,6 +476,16 @@
       ]
     },
     {
+      "title": "Utility Bill Payment & Monitoring Coordinator",
+      "company": "KPM",
+      "url": "https://jobs.workable.com/view/upKj7paTUVXmH3LEUerhMF/utility-bill-payment-%26-monitoring-coordinator-in-houston-at-kpm",
+      "source": "Workable",
+      "date": "2026-09-21T21:05:03.648Z",
+      "tags": [
+        "Houston, Texas, United States"
+      ]
+    },
+    {
       "title": "Presales Consultant",
       "company": "Civica",
       "url": "https://jobs.workable.com/view/uWXj6hKJSsrZbFroZj9TtR/hybrid-presales-consultant-in-london-at-civica",
@@ -772,6 +792,17 @@
       ]
     },
     {
+      "title": "Senior CRM & Automation Specialist (SCAS 0926)",
+      "company": "Skroutz S.A",
+      "url": "https://jobs.workable.com/view/iE4FXRT7UEjFKbRZ49op68/hybrid-senior-crm-%26-automation-specialist-(scas-0926)-in-athens-at-skroutz-s.a",
+      "source": "Workable",
+      "date": "2026-09-11T08:37:08.653Z",
+      "tags": [
+        "Full-time",
+        "Athens, Attica, Greece"
+      ]
+    },
+    {
       "title": "Automation Specialist (OT/ICSS)",
       "company": "Pacific Energy Canada",
       "url": "https://jobs.workable.com/view/4WdQKheiNazMbFjWrupdeZ/automation-specialist-(ot%2Ficss)-in-vancouver-at-pacific-energy-canada",
@@ -794,17 +825,6 @@
       ]
     },
     {
-      "title": "Senior CRM & Automation Specialist (SCAS 0926)",
-      "company": "Skroutz S.A",
-      "url": "https://jobs.workable.com/view/iE4FXRT7UEjFKbRZ49op68/hybrid-senior-crm-%26-automation-specialist-(scas-0926)-in-athens-at-skroutz-s.a",
-      "source": "Workable",
-      "date": "2026-09-11T08:37:08.653Z",
-      "tags": [
-        "Full-time",
-        "Athens, Attica, Greece"
-      ]
-    },
-    {
       "title": "Data Automation Specialist",
       "company": "Intrepid Asia",
       "url": "https://jobs.workable.com/view/9Swi5gWiacXqc44APZeu6R/data-automation-specialist-in-ho-chi-minh-city-at-intrepid-asia",
@@ -822,6 +842,72 @@
       "date": "2026-09-07T07:44:42.966Z",
       "tags": [
         "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Libra Solutions",
+      "url": "https://jobs.workable.com/view/9UvHx2Q6g1rWd9oxS62NXN/remote-senior-product-manager-in-united-states-at-libra-solutions",
+      "source": "Workable",
+      "date": "2026-09-21T21:27:11.157Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Lead Product Manager (SaaS & AI Agent)",
+      "company": "CWILL",
+      "url": "https://jobs.workable.com/view/53MYqGjVGAdavtkUQvMADL/remote-lead-product-manager-(saas-%26-ai-agent)-in-texas-at-cwill",
+      "source": "Workable",
+      "date": "2026-09-21T18:38:24.654Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Lead Product Manager (SaaS & AI Agent)",
+      "company": "CWILL",
+      "url": "https://jobs.workable.com/view/mLigZZrBxPuFX6yWDzQpb4/remote-lead-product-manager-(saas-%26-ai-agent)-in-california-at-cwill",
+      "source": "Workable",
+      "date": "2026-09-21T18:38:24.318Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Lead Product Manager (SaaS & AI Agent)",
+      "company": "CWILL",
+      "url": "https://jobs.workable.com/view/6G9FwmuPdPvKW4vpgBsi3A/remote-lead-product-manager-(saas-%26-ai-agent)-in-north-carolina-at-cwill",
+      "source": "Workable",
+      "date": "2026-09-21T18:38:23.925Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Lead Product Manager (SaaS & AI Agent)",
+      "company": "CWILL",
+      "url": "https://jobs.workable.com/view/kFWhy3aDekxkFMqp5Y5VQG/remote-lead-product-manager-(saas-%26-ai-agent)-in-new-jersey-at-cwill",
+      "source": "Workable",
+      "date": "2026-09-21T18:38:25.299Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Lead Product Manager (SaaS & AI Agent)",
+      "company": "CWILL",
+      "url": "https://jobs.workable.com/view/dNWaSc3VuFm4qtzTtfS5Kt/remote-lead-product-manager-(saas-%26-ai-agent)-in-illinois-at-cwill",
+      "source": "Workable",
+      "date": "2026-09-21T18:38:24.973Z",
+      "tags": [
+        "Full-time",
         "Remote"
       ]
     },
@@ -952,43 +1038,6 @@
       ]
     },
     {
-      "title": "Senior RPA Developer",
-      "company": "Agile Actors",
-      "url": "https://jobs.workable.com/view/qg3CKsa65hjzDwknU9DYf5/hybrid-senior-rpa-developer-in-athens-at-agile-actors",
-      "source": "Workable",
-      "date": "2026-03-24T14:08:32.638Z",
-      "tags": [
-        "Athens, Attica, Greece"
-      ]
-    },
-    {
-      "title": "SVP, Forward Deployed Strategist – Transformation &amp; Strategic Change",
-      "company": "PIMCO",
-      "url": "https://jobs.workable.com/view/upGrueZe9hKLKDZbKxEw4v/svp%2C-forward-deployed-strategist-%E2%80%93-transformation-%26amp%3B-strategic-change-in-newport-beach-at-pimco",
-      "source": "Workable",
-      "date": "2026-09-18T12:50:53.129Z",
-      "tags": [
-        "Full-time",
-        "Newport Beach, California, United States"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Turning Point Family Services",
-      "url": "https://www.indeed.com/viewjob?jk=dc1ac3eaf687c17b",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-21",
-      "tags": []
-    },
-    {
-      "title": "Remote Administrative Assistant",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=65e98456a8dc9c1f",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-20",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant",
       "company": "micro1",
       "url": "https://www.indeed.com/viewjob?jk=a168db565257e1a8",
@@ -1055,7 +1104,7 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4467624570",
+      "url": "https://www.linkedin.com/jobs/view/4468170483",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1063,7 +1112,7 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4467613819",
+      "url": "https://www.linkedin.com/jobs/view/4468171430",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1093,6 +1142,30 @@
       "tags": []
     },
     {
+      "title": "Executive Administrative Assistant",
+      "company": "GE HealthCare",
+      "url": "https://www.indeed.com/viewjob?jk=3f05e365ee83a009",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CEO",
+      "company": "Elsmere Psychiatry Group",
+      "url": "https://www.indeed.com/viewjob?jk=60fd642d804b0ee0",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant & Business Development Coordinator",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=e78bf97ecc3fc542",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
       "title": "marketing / executive assistant",
       "company": "java inspiration",
       "url": "https://www.indeed.com/viewjob?jk=b87d182144251007",
@@ -1117,14 +1190,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=0726e7c3aae91028",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
       "title": "Senior Administrative Assistant -Omaha, NE.",
       "company": "Mutual of Omaha",
       "url": "https://www.indeed.com/viewjob?jk=5711a24014d068b1",
@@ -1141,27 +1206,11 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant, Marketing [614]",
-      "company": "D-Wave",
-      "url": "https://www.indeed.com/viewjob?jk=daaf2c52c2ce958e",
+      "title": "Sr, Executive Assistant",
+      "company": "Radiology Partners",
+      "url": "https://www.indeed.com/viewjob?jk=7c7678350d08b130",
       "source": "JobSpy/indeed",
       "date": "2026-09-15",
-      "tags": []
-    },
-    {
-      "title": "Legal Coordinator & Executive Assistant [613]",
-      "company": "D-Wave",
-      "url": "https://www.indeed.com/viewjob?jk=3c3dc8cbdda5f2f7",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-15",
-      "tags": []
-    },
-    {
-      "title": "Senior Executive Assistant & EA Team Lead",
-      "company": "thyme care",
-      "url": "https://www.indeed.com/viewjob?jk=44b2f73ba719cf28",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-14",
       "tags": []
     },
     {
@@ -1253,11 +1302,11 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant - Emiratization",
-      "company": "Confidential",
-      "url": "https://www.linkedin.com/jobs/view/4466854526",
+      "title": "Executive Assistant to CEO - PostEx",
+      "company": "Taraki",
+      "url": "https://www.linkedin.com/jobs/view/4468142527",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-16",
+      "date": "",
       "tags": []
     },
     {
@@ -1282,22 +1331,6 @@
       "url": "https://www.indeed.com/viewjob?jk=4b0afeb35bc4178b",
       "source": "JobSpy/indeed",
       "date": "2026-09-19",
-      "tags": []
-    },
-    {
-      "title": "Part-Time Assistant Property Manager",
-      "company": "JP & Associates REALTORS Magnolia Group",
-      "url": "https://www.indeed.com/viewjob?jk=d0d245a6ffe9f616",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Mission Rock Residential, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4459044257",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-20",
       "tags": []
     },
     {
@@ -1336,6 +1369,14 @@
       "title": "Property Manager",
       "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
       "url": "https://www.linkedin.com/jobs/view/4466121591",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-18",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "ARBOUR VALLEY MANAGEMENT, LLC",
+      "url": "https://www.linkedin.com/jobs/view/4469261556",
       "source": "JobSpy/linkedin",
       "date": "2026-09-18",
       "tags": []
@@ -1390,14 +1431,6 @@
     },
     {
       "title": "Property Manager",
-      "company": "Housing Trust Group, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4466530656",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-15",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
       "company": "ZRS Management",
       "url": "https://www.linkedin.com/jobs/view/4465921444",
       "source": "JobSpy/linkedin",
@@ -1410,6 +1443,22 @@
       "url": "https://www.linkedin.com/jobs/view/4467281565",
       "source": "JobSpy/linkedin",
       "date": "2026-09-15",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Missoula, MT",
+      "company": "PURE HomeRiver Property Management",
+      "url": "https://www.linkedin.com/jobs/view/4469923892",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Test Automation Engineer (AI-Assisted)",
+      "company": "Plexlane",
+      "url": "https://www.indeed.com/viewjob?jk=e4d37aff09c0515b",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-21",
       "tags": []
     },
     {
