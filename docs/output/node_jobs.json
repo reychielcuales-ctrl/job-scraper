@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-23T06:16:33.240Z",
-  "count": 105,
+  "generatedAt": "2026-09-23T12:15:37.915Z",
+  "count": 96,
   "jobs": [
     {
       "title": "VP Pricing & Packaging",
@@ -67,26 +67,6 @@
         "sales",
         "medical",
         "digital nomad"
-      ]
-    },
-    {
-      "title": "Senior Account Executive (Enterprise)",
-      "company": "Mattermost",
-      "url": "https://jobicy.com/jobs/153856-senior-account-executive-enterprise-3",
-      "source": "Jobicy",
-      "date": "2026-09-22T08:18:58+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "title": "Lead Site Reliability Engineer",
-      "company": "Mattermost",
-      "url": "https://jobicy.com/jobs/153852-lead-site-reliability-engineer",
-      "source": "Jobicy",
-      "date": "2026-09-22T08:18:57+00:00",
-      "tags": [
-        "DevOps & Infrastructure"
       ]
     },
     {
@@ -374,6 +354,28 @@
       ]
     },
     {
+      "title": "Property Management",
+      "company": "Lynco Properties",
+      "url": "https://jobs.workable.com/view/bSrgQPRidjKcqcEVXGxJuY/property-management-in-joplin-at-lynco-properties",
+      "source": "Workable",
+      "date": "2026-06-24T21:18:40.730Z",
+      "tags": [
+        "Full-time",
+        "Joplin, Missouri, United States"
+      ]
+    },
+    {
+      "title": "Business Development Manager - Property Management",
+      "company": "Raine and Horne",
+      "url": "https://jobs.workable.com/view/oKWSKE1Gtfy1wVwBNE1BHH/business-development-manager---property-management-in-st-leonards-at-raine-and-horne",
+      "source": "Workable",
+      "date": "2026-06-25T02:37:07.632Z",
+      "tags": [
+        "Full-time",
+        "St Leonards, New South Wales, Australia"
+      ]
+    },
+    {
       "title": "PROPERTY LEASING & MANAGEMENT",
       "company": "RAK Real Estate",
       "url": "https://jobs.workable.com/view/2rjijPjSEaAY3MFsDCGBhP/property-leasing-%26-management-in-al-juwais-at-rak-real-estate",
@@ -461,16 +463,6 @@
     {
       "title": "Regional Property Manager",
       "company": "Encore Property Management",
-      "url": "https://jobs.workable.com/view/9YvUfVypfAhC64FbX4BTe1/regional-property-manager-in-dallas-at-encore-property-management",
-      "source": "Workable",
-      "date": "2026-09-22T17:13:44.318Z",
-      "tags": [
-        "Dallas, Texas, United States"
-      ]
-    },
-    {
-      "title": "Regional Property Manager",
-      "company": "Encore Property Management",
       "url": "https://jobs.workable.com/view/qW86qcvm6V38TiyzkLXMAJ/regional-property-manager-in-houston-at-encore-property-management",
       "source": "Workable",
       "date": "2026-09-22T17:13:44.070Z",
@@ -479,47 +471,13 @@
       ]
     },
     {
-      "title": "Property Manager",
-      "company": "CYM Living LLC",
-      "url": "https://jobs.workable.com/view/tYPUSPQQGfQtFC2i8XN5iN/property-manager-in-bridgeton-at-cym-living-llc",
+      "title": "Regional Property Manager",
+      "company": "Encore Property Management",
+      "url": "https://jobs.workable.com/view/9YvUfVypfAhC64FbX4BTe1/regional-property-manager-in-dallas-at-encore-property-management",
       "source": "Workable",
-      "date": "2026-09-22T16:01:25.138Z",
+      "date": "2026-09-22T17:13:44.318Z",
       "tags": [
-        "Full-time",
-        "Bridgeton, Missouri, United States"
-      ]
-    },
-    {
-      "title": "Hidden Lake Property Manager",
-      "company": "Banyan Living",
-      "url": "https://jobs.workable.com/view/1f7BHN47xaqN885AkxQmCB/hidden-lake-property-manager-in-stow-at-banyan-living",
-      "source": "Workable",
-      "date": "2026-09-22T16:35:13.983Z",
-      "tags": [
-        "Full-time",
-        "Stow, Ohio, United States"
-      ]
-    },
-    {
-      "title": "Hidden Lake Property Manager",
-      "company": "Banyan Living",
-      "url": "https://jobs.workable.com/view/cy8RkcbCQXXAcCybda7j1p/hidden-lake-property-manager-in-cuyahoga-falls-at-banyan-living",
-      "source": "Workable",
-      "date": "2026-09-22T16:35:15.007Z",
-      "tags": [
-        "Full-time",
-        "Cuyahoga Falls, Ohio, United States"
-      ]
-    },
-    {
-      "title": "Hidden Lake Property Manager",
-      "company": "Banyan Living",
-      "url": "https://jobs.workable.com/view/64jeUxMDedZ3sMkyaMnY4g/hidden-lake-property-manager-in-hudson-at-banyan-living",
-      "source": "Workable",
-      "date": "2026-09-22T16:35:14.504Z",
-      "tags": [
-        "Full-time",
-        "Hudson, Ohio, United States"
+        "Dallas, Texas, United States"
       ]
     },
     {
@@ -575,6 +533,28 @@
       "tags": [
         "Full-time",
         "Avon, Colorado, United States"
+      ]
+    },
+    {
+      "title": "Property Manager",
+      "company": "CYM Living LLC",
+      "url": "https://jobs.workable.com/view/tYPUSPQQGfQtFC2i8XN5iN/property-manager-in-bridgeton-at-cym-living-llc",
+      "source": "Workable",
+      "date": "2026-09-22T16:01:25.138Z",
+      "tags": [
+        "Full-time",
+        "Bridgeton, Missouri, United States"
+      ]
+    },
+    {
+      "title": "Hidden Lake Property Manager",
+      "company": "Banyan Living",
+      "url": "https://jobs.workable.com/view/1f7BHN47xaqN885AkxQmCB/hidden-lake-property-manager-in-stow-at-banyan-living",
+      "source": "Workable",
+      "date": "2026-09-22T16:35:13.983Z",
+      "tags": [
+        "Full-time",
+        "Stow, Ohio, United States"
       ]
     },
     {
@@ -711,31 +691,9 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -775,6 +733,28 @@
       ]
     },
     {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Senior QA Automation Engineer",
       "company": "Blue Machines AI",
       "url": "https://jobs.workable.com/view/fGbJJvdkYYR6G2YQP5JVzw/senior-qa-automation-engineer-in-bengaluru-at-blue-machines-ai",
@@ -788,23 +768,23 @@
     {
       "title": "AI Operations Executive",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:19:07.025Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
-      ]
-    },
-    {
-      "title": "AI Operations Executive",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
       "source": "Workable",
       "date": "2025-09-26T10:19:07.307Z",
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "AI Operations Executive",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2025-09-26T10:19:07.025Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -961,17 +941,6 @@
       ]
     },
     {
-      "title": "AI Automation & Integration Specialist",
-      "company": "Primal Storm",
-      "url": "https://jobs.workable.com/view/t2NSdJarkfRkdTWrgy1z9U/remote-ai-automation-%26-integration-specialist-in-india-at-primal-storm",
-      "source": "Workable",
-      "date": "2026-09-07T07:44:43.085Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
       "title": "Specialty Finance Senior Engineer",
       "company": "Neuberger Berman",
       "url": "https://jobs.workable.com/view/1r1pd6r3EaLdWSWQU7sJvT/specialty-finance-senior-engineer-in-minnesota-at-neuberger-berman",
@@ -1077,68 +1046,6 @@
       "date": "2026-09-21T14:35:17.072Z",
       "tags": [
         "Remote"
-      ]
-    },
-    {
-      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
-      "company": "World Business Lenders, LLC",
-      "url": "https://jobs.workable.com/view/qnTjt4QkwUoAJzNYJVgw7h/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-brooklyn-at-world-business-lenders%2C-llc",
-      "source": "Workable",
-      "date": "2026-09-21T14:35:18.678Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
-      "company": "World Business Lenders, LLC",
-      "url": "https://jobs.workable.com/view/tKMi1nb4wgEgQcNZkxSLHD/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-jersey-city-at-world-business-lenders%2C-llc",
-      "source": "Workable",
-      "date": "2026-09-21T14:35:17.427Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
-      "company": "World Business Lenders, LLC",
-      "url": "https://jobs.workable.com/view/4d1JAy1rzb2G9UeEr6DRQg/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-philadelphia-at-world-business-lenders%2C-llc",
-      "source": "Workable",
-      "date": "2026-09-21T14:35:17.828Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
-      "company": "World Business Lenders, LLC",
-      "url": "https://jobs.workable.com/view/6WizUAyz2Ls6aquWTF8td8/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-new-york-at-world-business-lenders%2C-llc",
-      "source": "Workable",
-      "date": "2026-09-21T14:35:16.439Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Business Process Re-Engineering Consultant - AI & Automation (Public Sector)",
-      "company": "Xtremax Pte. Ltd.",
-      "url": "https://jobs.workable.com/view/bxAj3Ub5yrSPBMvp55DonL/business-process-re-engineering-consultant---ai-%26-automation-(public-sector)-in-singapore-at-xtremax-pte.-ltd.",
-      "source": "Workable",
-      "date": "2026-09-21T09:38:39.362Z",
-      "tags": [
-        "Contract",
-        "Singapore, Singapore, Singapore"
-      ]
-    },
-    {
-      "title": "IT Service Desk & End-User Support Manager - (Public Sector)",
-      "company": "Xtremax Pte. Ltd.",
-      "url": "https://jobs.workable.com/view/htzpQQ5NCPcwyw6K325xCi/it-service-desk-%26-end-user-support-manager---(public-sector)-in-singapore-at-xtremax-pte.-ltd.",
-      "source": "Workable",
-      "date": "2026-09-21T09:41:40.576Z",
-      "tags": [
-        "Contract",
-        "Singapore, Singapore, Singapore"
       ]
     }
   ]
