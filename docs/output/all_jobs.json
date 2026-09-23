@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-22T18:15:43.337Z",
-  "count": 140,
+  "generatedAt": "2026-09-23T00:16:30.676Z",
+  "count": 143,
   "sources": {
-    "node": 104,
-    "jobspy": 36
+    "node": 105,
+    "jobspy": 38
   },
   "jobs": [
     {
@@ -91,16 +91,6 @@
       "date": "2026-09-22T08:18:57+00:00",
       "tags": [
         "DevOps & Infrastructure"
-      ]
-    },
-    {
-      "title": "AI agent engineer",
-      "company": "Sticker Mule",
-      "url": "https://jobicy.com/jobs/153825-ai-agent-engineer",
-      "source": "Jobicy",
-      "date": "2026-09-21T15:32:03+00:00",
-      "tags": [
-        "Software Engineering"
       ]
     },
     {
@@ -537,35 +527,58 @@
       ]
     },
     {
-      "title": "Community Manager | Rambler - Columbus, OH",
-      "company": "LV Collective",
-      "url": "https://jobs.workable.com/view/vbYJT4CfDJjqFkXisRy394/community-manager-%7C-rambler---columbus%2C-oh-in-columbus-at-lv-collective",
+      "title": "Assistant Community Association Manager",
+      "company": "Mountain Valley",
+      "url": "https://jobs.workable.com/view/aF5E1xbzzPR9uJexgKMSVK/hybrid-assistant-community-association-manager-in-avon-at-mountain-valley",
       "source": "Workable",
-      "date": "2026-06-23T15:08:10.628Z",
+      "date": "2026-09-22T21:09:14.467Z",
       "tags": [
         "Full-time",
-        "Columbus, Ohio, United States"
+        "Avon, Colorado, United States"
       ]
     },
     {
-      "title": "Utility Bill Payment & Monitoring Coordinator",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/upKj7paTUVXmH3LEUerhMF/utility-bill-payment-%26-monitoring-coordinator-in-houston-at-kpm",
+      "title": "Part Time Office Administrator Manufactured Housing and RV Park",
+      "company": "Investment Property Group",
+      "url": "https://jobs.workable.com/view/5o8bAz1BPtJo2BFcxkyBdx/part-time-office-administrator-manufactured-housing-and-rv-park-in-kelso-at-investment-property-group",
       "source": "Workable",
-      "date": "2026-09-21T21:05:03.648Z",
+      "date": "2026-09-22T22:34:37.377Z",
       "tags": [
-        "Houston, Texas, United States"
+        "Part-time",
+        "Kelso, Washington, United States"
       ]
     },
     {
-      "title": "Property Manager on 30A",
-      "company": "Oversee",
-      "url": "https://jobs.workable.com/view/esnVc4QKbjzQtvJF9k6H5S/property-manager-on-30a-in-panama-city-beach-at-oversee",
+      "title": "Marketing & Communications Manager",
+      "company": "Bridge33 Capital",
+      "url": "https://jobs.workable.com/view/4uaRoPaHEsV1WX1tZ8Upcd/marketing-%26-communications-manager-in-denver-at-bridge33-capital",
       "source": "Workable",
-      "date": "2026-09-21T15:48:34.382Z",
+      "date": "2026-09-22T22:05:53.755Z",
       "tags": [
         "Full-time",
-        "Panama City Beach, Florida, United States"
+        "Denver, Colorado, United States"
+      ]
+    },
+    {
+      "title": "Marketing & Communications Manager",
+      "company": "Bridge33 Capital",
+      "url": "https://jobs.workable.com/view/qbkmzmmR31LqGNVMbZE49b/marketing-%26-communications-manager-in-chicago-at-bridge33-capital",
+      "source": "Workable",
+      "date": "2026-09-22T22:05:53.318Z",
+      "tags": [
+        "Full-time",
+        "Chicago, Illinois, United States"
+      ]
+    },
+    {
+      "title": "Marketing & Communications Manager",
+      "company": "Bridge33 Capital",
+      "url": "https://jobs.workable.com/view/8LeP8jdyCVs7mSG9SY6rrF/marketing-%26-communications-manager-in-seattle-at-bridge33-capital",
+      "source": "Workable",
+      "date": "2026-09-22T22:05:53.177Z",
+      "tags": [
+        "Full-time",
+        "Seattle, Washington, United States"
       ]
     },
     {
@@ -1073,26 +1086,6 @@
     {
       "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
       "company": "World Business Lenders, LLC",
-      "url": "https://jobs.workable.com/view/4d1JAy1rzb2G9UeEr6DRQg/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-philadelphia-at-world-business-lenders%2C-llc",
-      "source": "Workable",
-      "date": "2026-09-21T14:35:17.828Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
-      "company": "World Business Lenders, LLC",
-      "url": "https://jobs.workable.com/view/6WizUAyz2Ls6aquWTF8td8/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-new-york-at-world-business-lenders%2C-llc",
-      "source": "Workable",
-      "date": "2026-09-21T14:35:16.439Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
-      "company": "World Business Lenders, LLC",
       "url": "https://jobs.workable.com/view/qnTjt4QkwUoAJzNYJVgw7h/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-brooklyn-at-world-business-lenders%2C-llc",
       "source": "Workable",
       "date": "2026-09-21T14:35:18.678Z",
@@ -1103,9 +1096,29 @@
     {
       "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
       "company": "World Business Lenders, LLC",
+      "url": "https://jobs.workable.com/view/4d1JAy1rzb2G9UeEr6DRQg/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-philadelphia-at-world-business-lenders%2C-llc",
+      "source": "Workable",
+      "date": "2026-09-21T14:35:17.828Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
+      "company": "World Business Lenders, LLC",
       "url": "https://jobs.workable.com/view/tKMi1nb4wgEgQcNZkxSLHD/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-jersey-city-at-world-business-lenders%2C-llc",
       "source": "Workable",
       "date": "2026-09-21T14:35:17.427Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Sr. Vice President, Deputy General Counsel (Head of Asset Resolution Department)",
+      "company": "World Business Lenders, LLC",
+      "url": "https://jobs.workable.com/view/6WizUAyz2Ls6aquWTF8td8/remote-sr.-vice-president%2C-deputy-general-counsel-(head-of-asset-resolution-department)-in-new-york-at-world-business-lenders%2C-llc",
+      "source": "Workable",
+      "date": "2026-09-21T14:35:16.439Z",
       "tags": [
         "Remote"
       ]
@@ -1146,6 +1159,14 @@
       "url": "https://www.indeed.com/viewjob?jk=a168db565257e1a8",
       "source": "JobSpy/indeed",
       "date": "2026-09-16",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=befd02b36e008e4e",
+      "source": "JobSpy/indeed",
+      "date": "2026-07-01",
       "tags": []
     },
     {
@@ -1205,14 +1226,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4466208147",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant",
       "company": "Somewhere",
       "url": "https://www.linkedin.com/jobs/view/4467557909",
@@ -1223,7 +1236,7 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4469030071",
+      "url": "https://www.linkedin.com/jobs/view/4469057687",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1231,7 +1244,15 @@
     {
       "title": "Virtual Assistant, Entry Level",
       "company": "Jobright.ai",
-      "url": "https://www.linkedin.com/jobs/view/4469025149",
+      "url": "https://www.linkedin.com/jobs/view/4469044964",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Admin & Executive Assistant",
+      "company": "Orbit VA Agency",
+      "url": "https://www.linkedin.com/jobs/view/4469023997",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1301,14 +1322,6 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "haart Estate Agents",
-      "url": "https://www.linkedin.com/jobs/view/4467559642",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
       "title": "Property Manager - Residential Property Management - Exeter",
       "company": "Ikon Consultancy",
       "url": "https://www.linkedin.com/jobs/view/4466861195",
@@ -1341,11 +1354,19 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "ZRS Management",
-      "url": "https://www.linkedin.com/jobs/view/4465921444",
+      "title": "Property Manager, Residential",
+      "company": "Peterson Real Estate",
+      "url": "https://www.linkedin.com/jobs/view/4469045278",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-15",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Minor Hotels",
+      "url": "https://www.linkedin.com/jobs/view/4470629568",
+      "source": "JobSpy/linkedin",
+      "date": "",
       "tags": []
     },
     {
@@ -1397,11 +1418,11 @@
       "tags": []
     },
     {
-      "title": "AI Automation Specialist",
-      "company": "Oaklanecapital",
-      "url": "https://www.linkedin.com/jobs/view/4468645618",
+      "title": "AI & Automation Specialist",
+      "company": "Hammer & Hanborg",
+      "url": "https://www.linkedin.com/jobs/view/4466223017",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
+      "date": "2026-09-16",
       "tags": []
     },
     {
@@ -1416,6 +1437,14 @@
       "title": "Finance AI & Automation Specialist",
       "company": "IFF",
       "url": "https://www.linkedin.com/jobs/view/4470461144",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Finance AI & Automation Specialist",
+      "company": "IFF",
+      "url": "https://www.linkedin.com/jobs/view/4470444748",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
