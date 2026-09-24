@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-24T00:16:55.396Z",
-  "count": 140,
+  "generatedAt": "2026-09-24T06:16:31.838Z",
+  "count": 142,
   "sources": {
-    "node": 97,
+    "node": 99,
     "jobspy": 43
   },
   "jobs": [
@@ -371,6 +371,17 @@
     {
       "title": "2027 Early Careers Programme - Property Management",
       "company": "Workman LLP",
+      "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
+      "source": "Workable",
+      "date": "2026-09-23T14:57:37.696Z",
+      "tags": [
+        "Full-time",
+        "London, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "2027 Early Careers Programme - Property Management",
+      "company": "Workman LLP",
       "url": "https://jobs.workable.com/view/nBx1hbvk8aUS1nybJ6nzgq/2027-early-careers-programme---property-management-in-newcastle-upon-tyne-at-workman-llp",
       "source": "Workable",
       "date": "2026-09-23T14:57:37.288Z",
@@ -410,17 +421,6 @@
       "tags": [
         "Full-time",
         "Birmingham, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:37.696Z",
-      "tags": [
-        "Full-time",
-        "London, England, United Kingdom"
       ]
     },
     {
@@ -532,25 +532,43 @@
       ]
     },
     {
-      "title": "HOA Portfolio Manager - DFW",
-      "company": "WRMC, Inc.",
-      "url": "https://jobs.workable.com/view/6VWx5nUZx7oPFdNCw8iMk5/hybrid-hoa-portfolio-manager---dfw-in-irving-at-wrmc%2C-inc.",
+      "title": "Business Intelligence Analyst (Remote)",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/8DgQpK4bvmWYyXQnxY8MFD/business-intelligence-analyst-(remote)-in-venezuela%2C-bolivarian-republic-of-at-collective-residential",
       "source": "Workable",
-      "date": "2026-09-23T18:43:34.879Z",
+      "date": "2026-09-24T04:03:34.277Z",
       "tags": [
-        "Full-time",
-        "Irving, Texas, United States"
+        "Remote"
       ]
     },
     {
-      "title": "Part Time Office Administrator Manufactured Housing and RV Park",
-      "company": "Investment Property Group",
-      "url": "https://jobs.workable.com/view/5o8bAz1BPtJo2BFcxkyBdx/part-time-office-administrator-manufactured-housing-and-rv-park-in-kelso-at-investment-property-group",
+      "title": "Business Intelligence Analyst (Remote)",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/sp4KgZpW2KPJAuxiWrZLgM/business-intelligence-analyst-(remote)-in-mexico-at-collective-residential",
       "source": "Workable",
-      "date": "2026-09-22T22:34:37.377Z",
+      "date": "2026-09-24T04:03:33.831Z",
       "tags": [
-        "Part-time",
-        "Kelso, Washington, United States"
+        "Remote"
+      ]
+    },
+    {
+      "title": "Business Intelligence Analyst (Remote)",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/fNJazgfrNuMrQsfa2zrVqr/business-intelligence-analyst-(remote)-in-argentina-at-collective-residential",
+      "source": "Workable",
+      "date": "2026-09-24T04:03:34.456Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Business Intelligence Analyst (Remote)",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/pVSqFPStmEA66FEozGhZEc/business-intelligence-analyst-(remote)-in-philippines-at-collective-residential",
+      "source": "Workable",
+      "date": "2026-09-24T04:03:33.406Z",
+      "tags": [
+        "Remote"
       ]
     },
     {
@@ -654,9 +672,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
+      "date": "2026-04-14T04:04:07.688Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -665,9 +683,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
+      "date": "2026-04-14T04:04:07.073Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -676,9 +694,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
+      "date": "2026-04-14T04:02:40.771Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -850,6 +868,17 @@
       ]
     },
     {
+      "title": "Process Automation Specialist (m/w/x)",
+      "company": "Thorlabs",
+      "url": "https://jobs.workable.com/view/gjS1LM1ZUXxFj27zrf9EZ2/process-automation-specialist-(m%2Fw%2Fx)-in-bergkirchen-at-thorlabs",
+      "source": "Workable",
+      "date": "2026-09-03T05:49:37.048Z",
+      "tags": [
+        "Full-time",
+        "Bergkirchen, Bavaria, Germany"
+      ]
+    },
+    {
       "title": "Automation Specialists - EPMS",
       "company": "Albireo Energy",
       "url": "https://jobs.workable.com/view/hMeDfypQQRk3qkntQcapgq/hybrid-automation-specialists---epms-in-toledo-at-albireo-energy",
@@ -869,17 +898,6 @@
       "tags": [
         "Full-time",
         "Ann Arbor, Michigan, United States"
-      ]
-    },
-    {
-      "title": "Process Automation Specialist (m/w/x)",
-      "company": "Thorlabs",
-      "url": "https://jobs.workable.com/view/gjS1LM1ZUXxFj27zrf9EZ2/process-automation-specialist-(m%2Fw%2Fx)-in-bergkirchen-at-thorlabs",
-      "source": "Workable",
-      "date": "2026-09-03T05:49:37.048Z",
-      "tags": [
-        "Full-time",
-        "Bergkirchen, Bavaria, Germany"
       ]
     },
     {
@@ -1069,6 +1087,14 @@
       ]
     },
     {
+      "title": "Executive Assistant to the CEO",
+      "company": "Brello Health",
+      "url": "https://www.indeed.com/viewjob?jk=91b2d0be4e626312",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-23",
+      "tags": []
+    },
+    {
       "title": "Russian-English Administrative Assistant",
       "company": "Cold Cloud Mechanical",
       "url": "https://www.indeed.com/viewjob?jk=a776e691d25b5ca9",
@@ -1181,14 +1207,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "SourcingXPress",
-      "url": "https://www.linkedin.com/jobs/view/4466759764",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
       "title": "EXECUTIVE ASSISTANT (CEO LEVEL)",
       "company": "AfricaTalents",
       "url": "https://www.linkedin.com/jobs/view/4469331631",
@@ -1221,11 +1239,11 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Minor Hotels",
-      "url": "https://www.linkedin.com/jobs/view/4470629568",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-22",
+      "title": "Part -Time Self Storage Property Manager - Palm, PA",
+      "company": "Store Here Self Storage",
+      "url": "https://www.indeed.com/viewjob?jk=55d78293eb0e25cb",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-23",
       "tags": []
     },
     {
@@ -1286,14 +1304,6 @@
     },
     {
       "title": "Property Manager",
-      "company": "Broad Management Group LLC",
-      "url": "https://www.linkedin.com/jobs/view/4468347509",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
       "company": "James Gibb residential factors",
       "url": "https://www.linkedin.com/jobs/view/4468657056",
       "source": "JobSpy/linkedin",
@@ -1336,6 +1346,14 @@
       "title": "Residential Property Manager",
       "company": "Universal Realty Group",
       "url": "https://www.linkedin.com/jobs/view/4470997097",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Armco",
+      "url": "https://www.linkedin.com/jobs/view/4471401132",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
