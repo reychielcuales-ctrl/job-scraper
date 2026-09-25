@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T12:16:14.612Z",
+  "generatedAt": "2026-09-25T18:14:13.854Z",
   "count": 148,
   "sources": {
-    "node": 95,
-    "jobspy": 53
+    "node": 98,
+    "jobspy": 50
   },
   "jobs": [
     {
@@ -370,23 +370,23 @@
     {
       "title": "2027 Early Careers Programme - Property Management",
       "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:37.696Z",
-      "tags": [
-        "Full-time",
-        "London, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
       "url": "https://jobs.workable.com/view/2SM5rxnV4hrQ36j9SyiT2v/2027-early-careers-programme---property-management-in-manchester-at-workman-llp",
       "source": "Workable",
       "date": "2026-09-23T14:57:38.168Z",
       "tags": [
         "Full-time",
         "Manchester, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "2027 Early Careers Programme - Property Management",
+      "company": "Workman LLP",
+      "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
+      "source": "Workable",
+      "date": "2026-09-23T14:57:37.696Z",
+      "tags": [
+        "Full-time",
+        "London, England, United Kingdom"
       ]
     },
     {
@@ -542,6 +542,28 @@
       ]
     },
     {
+      "title": "Sales Team Manager",
+      "company": "F&F Properties",
+      "url": "https://jobs.workable.com/view/ncPV9WHHsvYfSofFA3H6NE/sales-team-manager-in-san-diego-at-f%26f-properties",
+      "source": "Workable",
+      "date": "2026-09-25T14:58:12.992Z",
+      "tags": [
+        "Full-time",
+        "San Diego, California, United States"
+      ]
+    },
+    {
+      "title": "Plumber",
+      "company": "VSF Rentals",
+      "url": "https://jobs.workable.com/view/1B4JakLSbnJ9uARaR8TnC8/plumber-in-piqua-at-vsf-rentals",
+      "source": "Workable",
+      "date": "2026-09-25T14:08:20.893Z",
+      "tags": [
+        "Full-time",
+        "Piqua, Ohio, United States"
+      ]
+    },
+    {
       "title": "HR Generalist",
       "company": "KPM",
       "url": "https://jobs.workable.com/view/3xc6nnDD9xSGzz1HWnkjWN/hr-generalist-in-houston-at-kpm",
@@ -550,27 +572,6 @@
       "tags": [
         "Full-time",
         "Houston, Texas, United States"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "Property Rush",
-      "url": "https://jobs.workable.com/view/tYrvbi4miKkgzB8RL33Gz7/property-manager-in-east-ridge-at-property-rush",
-      "source": "Workable",
-      "date": "2026-09-24T20:20:59.689Z",
-      "tags": [
-        "Full-time",
-        "East Ridge, Tennessee, United States"
-      ]
-    },
-    {
-      "title": "Onsite Property Manager",
-      "company": "Taylor Management",
-      "url": "https://jobs.workable.com/view/5L56DEB19cWnYZft6QT8t5/onsite-property-manager-in-boonton-at-taylor-management",
-      "source": "Workable",
-      "date": "2026-09-24T19:25:15.902Z",
-      "tags": [
-        "Boonton, New Jersey, United States"
       ]
     },
     {
@@ -674,9 +675,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
+      "date": "2026-04-14T04:07:25.674Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -685,9 +686,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.073Z",
+      "date": "2026-04-14T04:07:25.602Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -696,9 +697,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:40.771Z",
+      "date": "2026-04-14T04:07:25.548Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -782,6 +783,17 @@
       ]
     },
     {
+      "title": "Forward Deployed Engineer",
+      "company": "Leena AI",
+      "url": "https://jobs.workable.com/view/3tuV3fsJLodGZSLcL2mNYk/remote-forward-deployed-engineer-in-united-states-at-leena-ai",
+      "source": "Workable",
+      "date": "2026-09-25T12:31:36.146Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "AI Operations Executive",
       "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
@@ -812,17 +824,6 @@
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
-      ]
-    },
-    {
-      "title": "AI Onboarding Specialist",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/czozumGDb75oAoDEHPyAcn/hybrid-ai-onboarding-specialist-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:21:47.346Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -867,6 +868,17 @@
       "tags": [
         "Full-time",
         "Remote"
+      ]
+    },
+    {
+      "title": "Digital Transformation & Automation Specialist",
+      "company": "Charger Logistics Inc",
+      "url": "https://jobs.workable.com/view/tWtzKf77c2YwjxNWMxjwZd/hybrid-digital-transformation-%26-automation-specialist-in-tegucigalpa-at-charger-logistics-inc",
+      "source": "Workable",
+      "date": "2026-09-25T16:39:01.951Z",
+      "tags": [
+        "Full-time",
+        "Tegucigalpa, Francisco Morazán Department, Honduras"
       ]
     },
     {
@@ -957,25 +969,14 @@
       ]
     },
     {
-      "title": "Automation Specialist (OT/ICSS)",
-      "company": "Pacific Energy Canada",
-      "url": "https://jobs.workable.com/view/4WdQKheiNazMbFjWrupdeZ/automation-specialist-(ot%2Ficss)-in-vancouver-at-pacific-energy-canada",
+      "title": "AI Automation & Integration Specialist",
+      "company": "Primal Storm",
+      "url": "https://jobs.workable.com/view/c2ewTZkUMLLBg72UvXubSP/remote-ai-automation-%26-integration-specialist-in-bulgaria-at-primal-storm",
       "source": "Workable",
-      "date": "2026-05-25T17:25:20.667Z",
+      "date": "2026-09-07T07:44:42.966Z",
       "tags": [
-        "Full-time",
-        "Vancouver, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Automation Specialist (OT/ICSS)",
-      "company": "Pacific Energy Canada",
-      "url": "https://jobs.workable.com/view/rwUo6PmVhHJnSCRjMXVLZ8/automation-specialist-(ot%2Ficss)-in-squamish-at-pacific-energy-canada",
-      "source": "Workable",
-      "date": "2026-05-25T17:25:20.194Z",
-      "tags": [
-        "Full-time",
-        "Squamish, British Columbia, Canada"
+        "Contract",
+        "Remote"
       ]
     },
     {
@@ -1045,6 +1046,63 @@
       ]
     },
     {
+      "title": "Technical Business Analyst I - Alternative Investments Operations",
+      "company": "Neuberger Berman",
+      "url": "https://jobs.workable.com/view/d4kJu5AAQM7hzm9cYVwrQH/technical-business-analyst-i---alternative-investments-operations-in-new-york-at-neuberger-berman",
+      "source": "Workable",
+      "date": "2026-09-22T09:22:05.467Z",
+      "tags": [
+        "Full-time",
+        "New York, United States"
+      ]
+    },
+    {
+      "title": "Senior Product Manager",
+      "company": "Libra Solutions",
+      "url": "https://jobs.workable.com/view/9UvHx2Q6g1rWd9oxS62NXN/remote-senior-product-manager-in-united-states-at-libra-solutions",
+      "source": "Workable",
+      "date": "2026-09-21T21:27:11.157Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Lead Product Manager (SaaS & AI Agent)",
+      "company": "CWILL",
+      "url": "https://jobs.workable.com/view/53MYqGjVGAdavtkUQvMADL/remote-lead-product-manager-(saas-%26-ai-agent)-in-texas-at-cwill",
+      "source": "Workable",
+      "date": "2026-09-21T18:38:24.654Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Patriot Growth Insurance Services",
+      "url": "https://www.indeed.com/viewjob?jk=9cdffe537bc106cc",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Patriot Growth Insurance Services",
+      "url": "https://www.indeed.com/viewjob?jk=6c49d547d9be9527",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Director",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=fe7e5967eeee439a",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant",
       "company": "Ck Specialty Insurance Associates",
       "url": "https://www.indeed.com/viewjob?jk=d37b956f87ee97bc",
@@ -1056,14 +1114,6 @@
       "title": "Executive Assistant",
       "company": "Just Right Reader",
       "url": "https://www.indeed.com/viewjob?jk=e52bdffc14b7d182",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=4f5ec24fd2788fcf",
       "source": "JobSpy/indeed",
       "date": "2026-09-24",
       "tags": []
@@ -1109,11 +1159,27 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the Founder",
-      "company": "BeAtitud Wellness",
-      "url": "https://www.indeed.com/viewjob?jk=f7bacc6a3a2bea9d",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-22",
+      "title": "Executive Assistant to the Management (Standort: Düsseldorf, Germany)",
+      "company": "Kronospan",
+      "url": "https://www.linkedin.com/jobs/view/4453149130",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CEO",
+      "company": "H&S Real Estate Dubai",
+      "url": "https://www.linkedin.com/jobs/view/4471475164",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant - Holding Finanziaria",
+      "company": "WeHunt",
+      "url": "https://www.linkedin.com/jobs/view/4469020667",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
       "tags": []
     },
     {
@@ -1173,41 +1239,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the President & CEO",
-      "company": "OEC Group (Canada)",
-      "url": "https://www.linkedin.com/jobs/view/4469953054",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-21",
-      "tags": []
-    },
-    {
-      "title": "Senior Executive Assistant",
-      "company": "AKIN GLOBAL MEDICAL",
-      "url": "https://www.linkedin.com/jobs/view/4466685924",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the Management (Standort: Düsseldorf, Germany)",
-      "company": "Kronospan",
-      "url": "https://www.linkedin.com/jobs/view/4453149130",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO",
-      "company": "H&S Real Estate Dubai",
-      "url": "https://www.linkedin.com/jobs/view/4471475164",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant - Holding Finanziaria",
-      "company": "WeHunt",
-      "url": "https://www.linkedin.com/jobs/view/4469020667",
+      "title": "Executive Assistant",
+      "company": "Sokabet Africa",
+      "url": "https://www.linkedin.com/jobs/view/4470161367",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1232,6 +1266,22 @@
       "title": "Property Manager",
       "company": "James Gibb residential factors",
       "url": "https://www.linkedin.com/jobs/view/4469725645",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Apartment Management Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4466943098",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "title": "Residential Property Manager",
+      "company": "Residential Leasing Group Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4469683938",
       "source": "JobSpy/linkedin",
       "date": "2026-09-24",
       "tags": []
@@ -1293,11 +1343,11 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
-      "url": "https://www.linkedin.com/jobs/view/4466121591",
+      "title": "Property Manager - Missoula, MT",
+      "company": "PURE HomeRiver Property Management",
+      "url": "https://www.linkedin.com/jobs/view/4469923892",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
+      "date": "2026-09-21",
       "tags": []
     },
     {
@@ -1309,25 +1359,9 @@
       "tags": []
     },
     {
-      "title": "Property Manager - Boca Raton FL",
-      "company": "JCMLiving",
-      "url": "https://www.linkedin.com/jobs/view/4466908590",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Apartment Management Consultants",
-      "url": "https://www.linkedin.com/jobs/view/4466943098",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Residential Property Manager",
-      "company": "Residential Leasing Group Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4469683938",
+      "title": "Property Manager (Residential Condo)",
+      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+      "url": "https://www.linkedin.com/jobs/view/4470318548",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1341,27 +1375,11 @@
       "tags": []
     },
     {
-      "title": "Manager, Insurance Operations - Hospital experience",
-      "company": "Med-Metrix",
-      "url": "https://www.indeed.com/viewjob?jk=79cdb54e3c0cd00c",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-21",
-      "tags": []
-    },
-    {
-      "title": "Insurance Operations",
-      "company": "Tata Consultancy Services",
-      "url": "https://www.linkedin.com/jobs/view/4471193789",
+      "title": "Intelligent Automation Specialist",
+      "company": "Allyis",
+      "url": "https://www.linkedin.com/jobs/view/4469759796",
       "source": "JobSpy/linkedin",
       "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Insurance Operations Coordinator",
-      "company": "Marsh",
-      "url": "https://www.linkedin.com/jobs/view/4462085111",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-23",
       "tags": []
     },
     {
@@ -1421,26 +1439,26 @@
       "tags": []
     },
     {
-      "title": "Intelligent Automation Specialist",
-      "company": "Allyis",
-      "url": "https://www.linkedin.com/jobs/view/4469759796",
+      "title": "Senior Automation Specialist",
+      "company": "Jobgether",
+      "url": "https://www.linkedin.com/jobs/view/4470356479",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
     },
     {
-      "title": "Hiring for AI Automation Specialist in #UAE",
-      "company": "Wave Visas Immigration Consultants in Delhi",
-      "url": "https://www.linkedin.com/jobs/view/4469739264",
+      "title": "Senior Automation Specialist",
+      "company": "Jobgether",
+      "url": "https://www.linkedin.com/jobs/view/4470352554",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
     },
     {
-      "title": "Systems Automation Engineer",
-      "company": "BV Teck",
-      "url": "https://www.indeed.com/viewjob?jk=41fc0ee351c03fd6",
-      "source": "JobSpy/indeed",
+      "title": "AI Automation Analyst",
+      "company": "OpenLoop",
+      "url": "https://www.linkedin.com/jobs/view/4461368119",
+      "source": "JobSpy/linkedin",
       "date": "2026-09-24",
       "tags": []
     },
@@ -1456,14 +1474,6 @@
       "title": "Automation Engineer - Cross-Functional Operations",
       "company": "Adoreal",
       "url": "https://www.linkedin.com/jobs/view/4471686057",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Analyst",
-      "company": "OpenLoop",
-      "url": "https://www.linkedin.com/jobs/view/4461368119",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
