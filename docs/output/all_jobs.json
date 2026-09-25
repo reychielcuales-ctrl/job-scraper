@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-24T18:15:09.039Z",
-  "count": 120,
+  "generatedAt": "2026-09-25T00:18:19.543Z",
+  "count": 124,
   "sources": {
-    "node": 95,
-    "jobspy": 25
+    "node": 96,
+    "jobspy": 28
   },
   "jobs": [
     {
@@ -71,6 +71,16 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "Lead Automation Engineer",
+      "company": "Capital on Tap",
+      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
+      "source": "Jobicy",
+      "date": "2026-09-24T15:33:09+00:00",
+      "tags": [
+        "QA & Testing"
       ]
     },
     {
@@ -146,6 +156,61 @@
       "source": "We Work Remotely",
       "date": "Tue, 07 Feb 2023 20:07:41 +0000",
       "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Teamswell",
+      "url": "https://jobs.workable.com/view/jajnwhECm8igYqK5EzPoaQ/remote-virtual-assistant-in-nicaragua-at-teamswell",
+      "source": "Workable",
+      "date": "2026-09-24T20:36:55.807Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Teamswell",
+      "url": "https://jobs.workable.com/view/fZZrp73sPsEASzq6NeKEy9/remote-virtual-assistant-in-el-salvador-at-teamswell",
+      "source": "Workable",
+      "date": "2026-09-24T20:36:55.602Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Teamswell",
+      "url": "https://jobs.workable.com/view/1pWrd2HBNLPYL1ZKsJuzms/remote-virtual-assistant-in-honduras-at-teamswell",
+      "source": "Workable",
+      "date": "2026-09-24T20:36:55.659Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Teamswell",
+      "url": "https://jobs.workable.com/view/4pJvasP412jVN7WzD61TPZ/remote-virtual-assistant-in-mexico-at-teamswell",
+      "source": "Workable",
+      "date": "2026-09-24T20:36:56.155Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Teamswell",
+      "url": "https://jobs.workable.com/view/3Gv8oLJRgReiRazT9X2KCj/remote-virtual-assistant-in-guatemala-at-teamswell",
+      "source": "Workable",
+      "date": "2026-09-24T20:36:55.965Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
     },
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
@@ -313,72 +378,6 @@
       ]
     },
     {
-      "title": "Virtual Assistant - Indianapolis",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/dmYXVZyHhPd3rR61mfrRbW/remote-virtual-assistant---indianapolis-in-indianapolis-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-08-29T17:40:47.149Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Kansas City",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/3FpiP2cHbzEcYB8tuBYLZ7/remote-virtual-assistant---kansas-city-in-kansas-city-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-08-29T17:39:44.724Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Pittsburgh",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/pdoQEXjwtpKuSufpnrBkX8/remote-virtual-assistant---pittsburgh-in-pittsburgh-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-08-29T17:37:43.558Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Milwaukee",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/uVtfmEMhNir5CQDhFdNo6Z/remote-virtual-assistant---milwaukee-in-milwaukee-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-08-29T17:36:40.885Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - St. Louis",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/9EJrEazp7TAr8Baat81e2d/remote-virtual-assistant---st.-louis-in-st.-louis-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-08-29T17:36:43.081Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:37.696Z",
-      "tags": [
-        "Full-time",
-        "London, England, United Kingdom"
-      ]
-    },
-    {
       "title": "2027 Early Careers Programme - Property Management",
       "company": "Workman LLP",
       "url": "https://jobs.workable.com/view/2SM5rxnV4hrQ36j9SyiT2v/2027-early-careers-programme---property-management-in-manchester-at-workman-llp",
@@ -431,6 +430,17 @@
       "tags": [
         "Full-time",
         "Birmingham, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "2027 Early Careers Programme - Property Management",
+      "company": "Workman LLP",
+      "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
+      "source": "Workable",
+      "date": "2026-09-23T14:57:37.696Z",
+      "tags": [
+        "Full-time",
+        "London, England, United Kingdom"
       ]
     },
     {
@@ -531,6 +541,27 @@
       ]
     },
     {
+      "title": "Property Manager",
+      "company": "Property Rush",
+      "url": "https://jobs.workable.com/view/tYrvbi4miKkgzB8RL33Gz7/property-manager-in-east-ridge-at-property-rush",
+      "source": "Workable",
+      "date": "2026-09-24T20:20:59.689Z",
+      "tags": [
+        "Full-time",
+        "East Ridge, Tennessee, United States"
+      ]
+    },
+    {
+      "title": "Onsite Property Manager",
+      "company": "Taylor Management",
+      "url": "https://jobs.workable.com/view/5L56DEB19cWnYZft6QT8t5/onsite-property-manager-in-boonton-at-taylor-management",
+      "source": "Workable",
+      "date": "2026-09-24T19:25:15.902Z",
+      "tags": [
+        "Boonton, New Jersey, United States"
+      ]
+    },
+    {
       "title": "Assistant Property Manager",
       "company": "WS Development",
       "url": "https://jobs.workable.com/view/5uvnDgXWW2Yptq2PD9Uj35/assistant-property-manager-in-boston-at-ws-development",
@@ -542,33 +573,14 @@
       ]
     },
     {
-      "title": "Business Intelligence Analyst (Remote)",
-      "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/8DgQpK4bvmWYyXQnxY8MFD/business-intelligence-analyst-(remote)-in-venezuela%2C-bolivarian-republic-of-at-collective-residential",
+      "title": "Administrative Coordinator / Property Operations Administrative Assistant",
+      "company": "E-State Management, LLC",
+      "url": "https://jobs.workable.com/view/4rHedZ4ChugMNYr2TgpCmB/administrative-coordinator-%2F-property-operations-administrative-assistant-in-lawrence-at-e-state-management%2C-llc",
       "source": "Workable",
-      "date": "2026-09-24T04:03:34.277Z",
+      "date": "2026-09-24T18:46:34.303Z",
       "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Business Intelligence Analyst (Remote)",
-      "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/sp4KgZpW2KPJAuxiWrZLgM/business-intelligence-analyst-(remote)-in-mexico-at-collective-residential",
-      "source": "Workable",
-      "date": "2026-09-24T04:03:33.831Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Business Intelligence Analyst (Remote)",
-      "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/fNJazgfrNuMrQsfa2zrVqr/business-intelligence-analyst-(remote)-in-argentina-at-collective-residential",
-      "source": "Workable",
-      "date": "2026-09-24T04:03:34.456Z",
-      "tags": [
-        "Remote"
+        "Full-time",
+        "Lawrence, Kansas, United States"
       ]
     },
     {
@@ -705,9 +717,31 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -741,28 +775,6 @@
       "url": "https://jobs.workable.com/view/wvnLszhhBgJA2o8Hahso4G/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-ukraine-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.785Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1227,17 +1239,41 @@
       "tags": []
     },
     {
-      "title": "AI Automation Specialist",
-      "company": "Rex Moore Electrical & Systems Contractors & Engineers",
-      "url": "https://www.linkedin.com/jobs/view/4468832729",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-17",
-      "tags": []
-    },
-    {
       "title": "Intelligent Automation Specialist",
       "company": "Allyis",
       "url": "https://www.linkedin.com/jobs/view/4469759796",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Engineer",
+      "company": "Future Electronics",
+      "url": "https://www.linkedin.com/jobs/view/4471610295",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Workflow Automation Developer",
+      "company": "Stikeman Elliott LLP",
+      "url": "https://www.linkedin.com/jobs/view/4459202581",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-22",
+      "tags": []
+    },
+    {
+      "title": "Automation Engineer - Cross-Functional Operations",
+      "company": "Adoreal",
+      "url": "https://www.linkedin.com/jobs/view/4471686057",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Analyst",
+      "company": "OpenLoop",
+      "url": "https://www.linkedin.com/jobs/view/4461368119",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
