@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T00:18:19.543Z",
-  "count": 124,
+  "generatedAt": "2026-09-25T06:16:46.679Z",
+  "count": 141,
   "sources": {
     "node": 96,
-    "jobspy": 28
+    "jobspy": 45
   },
   "jobs": [
     {
@@ -684,9 +684,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
+      "date": "2026-04-14T04:07:25.674Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -695,9 +695,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.073Z",
+      "date": "2026-04-14T04:07:25.602Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -706,9 +706,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:40.771Z",
+      "date": "2026-04-14T04:07:25.548Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -880,17 +880,6 @@
       ]
     },
     {
-      "title": "Process Automation Specialist (m/w/x)",
-      "company": "Thorlabs",
-      "url": "https://jobs.workable.com/view/gjS1LM1ZUXxFj27zrf9EZ2/process-automation-specialist-(m%2Fw%2Fx)-in-bergkirchen-at-thorlabs",
-      "source": "Workable",
-      "date": "2026-09-03T05:49:37.048Z",
-      "tags": [
-        "Full-time",
-        "Bergkirchen, Bavaria, Germany"
-      ]
-    },
-    {
       "title": "Digital Transformation & Automation Specialist",
       "company": "Charger Logistics Inc",
       "url": "https://jobs.workable.com/view/hmkDDA2GiKT7pP3rXozoTb/hybrid-digital-transformation-%26-automation-specialist-in-parque-industrial-quer%C3%A9taro-at-charger-logistics-inc",
@@ -899,6 +888,17 @@
       "tags": [
         "Full-time",
         "Parque Industrial Querétaro, Querétaro, Mexico"
+      ]
+    },
+    {
+      "title": "Process Automation Specialist (m/w/x)",
+      "company": "Thorlabs",
+      "url": "https://jobs.workable.com/view/gjS1LM1ZUXxFj27zrf9EZ2/process-automation-specialist-(m%2Fw%2Fx)-in-bergkirchen-at-thorlabs",
+      "source": "Workable",
+      "date": "2026-09-03T05:49:37.048Z",
+      "tags": [
+        "Full-time",
+        "Bergkirchen, Bavaria, Germany"
       ]
     },
     {
@@ -1055,11 +1055,131 @@
       ]
     },
     {
+      "title": "Virtual Assistant",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=befd02b36e008e4e",
+      "source": "JobSpy/indeed",
+      "date": "2026-07-01",
+      "tags": []
+    },
+    {
+      "title": "Virtual Administrative Assistant (Fully Remote UK) £25,000–£30,000",
+      "company": "CV-BRIDGE LTD",
+      "url": "https://www.linkedin.com/jobs/view/4469379800",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "title": "Remote Virtual Assistant",
+      "company": "AbroadWorks",
+      "url": "https://www.linkedin.com/jobs/view/3943044946",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-23",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (Remote Work) - For Pooling",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4468783206",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (Work From Home) – For Pooling",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4468760775",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant – Fully Remote London, UK (£32,000 - £38,000)",
+      "company": "CV-BRIDGE LTD",
+      "url": "https://www.linkedin.com/jobs/view/4468452321",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-20",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Great Work Perks",
+      "url": "https://www.linkedin.com/jobs/view/4468095874",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-19",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Great Work Perks",
+      "url": "https://www.linkedin.com/jobs/view/4468400817",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-19",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "Marlow Hiring",
+      "url": "https://www.linkedin.com/jobs/view/4469718287",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant, Entry Level",
+      "company": "Jobright.ai",
+      "url": "https://www.linkedin.com/jobs/view/4470028717",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant, Entry Level",
+      "company": "Jobright.ai",
+      "url": "https://www.linkedin.com/jobs/view/4470041584",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Executive Assistant (Remote)",
+      "company": "ConnectPro Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4469707258",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4469742923",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Evernest",
+      "url": "https://www.indeed.com/viewjob?jk=b7eaf6e8bf117d4e",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
       "title": "Part -Time Self Storage Property Manager - Palm, PA",
       "company": "Store Here Self Storage",
       "url": "https://www.indeed.com/viewjob?jk=55d78293eb0e25cb",
       "source": "JobSpy/indeed",
       "date": "2026-09-23",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Armco",
+      "url": "https://www.linkedin.com/jobs/view/4471401132",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
       "tags": []
     },
     {
@@ -1108,14 +1228,6 @@
       "url": "https://www.linkedin.com/jobs/view/4470449630",
       "source": "JobSpy/linkedin",
       "date": "2026-09-22",
-      "tags": []
-    },
-    {
-      "title": "Property Manager - Affordable Housing Experienced",
-      "company": "ZRS Management",
-      "url": "https://www.linkedin.com/jobs/view/4466621872",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
       "tags": []
     },
     {
@@ -1172,6 +1284,30 @@
       "url": "https://www.linkedin.com/jobs/view/4471439196",
       "source": "JobSpy/linkedin",
       "date": "",
+      "tags": []
+    },
+    {
+      "title": "Manager, Insurance Operations - Hospital experience",
+      "company": "Med-Metrix",
+      "url": "https://www.indeed.com/viewjob?jk=79cdb54e3c0cd00c",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
+      "title": "Insurance Operations",
+      "company": "Tata Consultancy Services",
+      "url": "https://www.linkedin.com/jobs/view/4471193789",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "title": "Insurance Operations Coordinator",
+      "company": "Marsh",
+      "url": "https://www.linkedin.com/jobs/view/4462085111",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-23",
       "tags": []
     },
     {
