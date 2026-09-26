@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T00:16:30.281Z",
-  "count": 147,
+  "generatedAt": "2026-09-26T06:16:10.297Z",
+  "count": 152,
   "sources": {
-    "node": 96,
-    "jobspy": 51
+    "node": 99,
+    "jobspy": 53
   },
   "jobs": [
     {
@@ -543,14 +543,13 @@
       ]
     },
     {
-      "title": "Property Manager",
-      "company": "Lynco Properties",
-      "url": "https://jobs.workable.com/view/58CgDBDTwKcEHwjqagRh6u/property-manager-in-wichita-at-lynco-properties",
+      "title": "Strategic Accounts Executive, Commercial",
+      "company": "Fortify Companies",
+      "url": "https://jobs.workable.com/view/5aTYi4jGCgKkk5RhcX4bUT/hybrid-strategic-accounts-executive%2C-commercial-in-portsmouth-at-fortify-companies",
       "source": "Workable",
-      "date": "2026-06-26T21:15:35.691Z",
+      "date": "2026-09-26T01:36:56.381Z",
       "tags": [
-        "Full-time",
-        "Wichita, Kansas, United States"
+        "Portsmouth, New Hampshire, United States"
       ]
     },
     {
@@ -654,9 +653,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
+      "date": "2026-04-14T04:07:25.674Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -665,9 +664,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.073Z",
+      "date": "2026-04-14T04:07:25.602Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -676,9 +675,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:40.771Z",
+      "date": "2026-04-14T04:07:25.548Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -959,6 +958,61 @@
       ]
     },
     {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/gQyE7X59R44JhLNZ9gPCg9/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-09-26T01:55:16.854Z",
+      "tags": [
+        "Full-time",
+        "Philadelphia, Pennsylvania, United States"
+      ]
+    },
+    {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/3ug6rFVjwDtT4qPM6Sq3Po/hybrid-lims-consultant-in-dallas-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-09-26T01:55:16.509Z",
+      "tags": [
+        "Full-time",
+        "Dallas, Texas, United States"
+      ]
+    },
+    {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/78oSVbaekSFLg4ux8bJKoG/hybrid-lims-consultant-in-detroit-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-09-26T01:55:17.617Z",
+      "tags": [
+        "Full-time",
+        "Detroit, Michigan, United States"
+      ]
+    },
+    {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/fMkvo1vN5ri5ZVd5tbMpkG/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-09-26T01:55:17.196Z",
+      "tags": [
+        "Full-time",
+        "Wilmington, Delaware, United States"
+      ]
+    },
+    {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/tuQKEXovyyWuAVvVaEjKgJ/hybrid-lims-consultant-in-atlanta-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-09-26T01:55:16.154Z",
+      "tags": [
+        "Full-time",
+        "Atlanta, Georgia, United States"
+      ]
+    },
+    {
       "title": "AI Workflow Analyst",
       "company": "AJAIA",
       "url": "https://jobs.workable.com/view/9Td5MFfk3Cu9KaN1o1WWTf/remote-ai-workflow-analyst-in-pakistan-at-ajaia",
@@ -1036,28 +1090,6 @@
       ]
     },
     {
-      "title": "Senior Product Manager",
-      "company": "Libra Solutions",
-      "url": "https://jobs.workable.com/view/9UvHx2Q6g1rWd9oxS62NXN/remote-senior-product-manager-in-united-states-at-libra-solutions",
-      "source": "Workable",
-      "date": "2026-09-21T21:27:11.157Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Lead Product Manager (SaaS & AI Agent)",
-      "company": "CWILL",
-      "url": "https://jobs.workable.com/view/53MYqGjVGAdavtkUQvMADL/remote-lead-product-manager-(saas-%26-ai-agent)-in-texas-at-cwill",
-      "source": "Workable",
-      "date": "2026-09-21T18:38:24.654Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
       "title": "Executive Assistant",
       "company": "Patriot Growth Insurance Services",
       "url": "https://www.indeed.com/viewjob?jk=9cdffe537bc106cc",
@@ -1122,17 +1154,17 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the CEO",
-      "company": "Brello Health",
-      "url": "https://www.indeed.com/viewjob?jk=91b2d0be4e626312",
+      "title": "Personal/Executive Assistant",
+      "company": "CINCO",
+      "url": "https://www.indeed.com/viewjob?jk=8c0c7b195c86766b",
       "source": "JobSpy/indeed",
-      "date": "2026-09-23",
+      "date": "2026-09-24",
       "tags": []
     },
     {
-      "title": "Russian-English Administrative Assistant",
-      "company": "Cold Cloud Mechanical",
-      "url": "https://www.indeed.com/viewjob?jk=a776e691d25b5ca9",
+      "title": "Executive Assistant to the CEO",
+      "company": "Brello Health",
+      "url": "https://www.indeed.com/viewjob?jk=91b2d0be4e626312",
       "source": "JobSpy/indeed",
       "date": "2026-09-23",
       "tags": []
@@ -1197,6 +1229,14 @@
       "title": "Executive Assistant",
       "company": "East to West Plant Services",
       "url": "https://www.linkedin.com/jobs/view/4468773529",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-22",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CEO and Head of Territory for BNP Paribas Group in Switzerland",
+      "company": "BNP Paribas in Switzerland",
+      "url": "https://www.linkedin.com/jobs/view/4469019306",
       "source": "JobSpy/linkedin",
       "date": "2026-09-22",
       "tags": []
@@ -1431,6 +1471,14 @@
       "url": "https://www.linkedin.com/jobs/view/4470352554",
       "source": "JobSpy/linkedin",
       "date": "",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant / GoHighLevel Operations Coordinator",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=341a9aa79aefc2b7",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-26",
       "tags": []
     },
     {
