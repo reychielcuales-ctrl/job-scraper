@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-26T06:16:10.297Z",
-  "count": 152,
+  "generatedAt": "2026-09-26T12:14:55.825Z",
+  "count": 147,
   "sources": {
-    "node": 99,
-    "jobspy": 53
+    "node": 98,
+    "jobspy": 49
   },
   "jobs": [
     {
@@ -77,14 +77,6 @@
       "title": "Lead Customer Success Manager - West",
       "company": "Tines",
       "url": "https://weworkremotely.com/remote-jobs/tines-lead-customer-success-manager-west",
-      "source": "We Work Remotely",
-      "date": "Fri, 18 Sep 2026 07:30:46 +0000",
-      "tags": []
-    },
-    {
-      "title": "Deal Desk Analyst",
-      "company": "Tines",
-      "url": "https://weworkremotely.com/remote-jobs/tines-deal-desk-analyst",
       "source": "We Work Remotely",
       "date": "Fri, 18 Sep 2026 07:30:46 +0000",
       "tags": []
@@ -360,23 +352,23 @@
     {
       "title": "2027 Early Careers Programme - Property Management",
       "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/2SM5rxnV4hrQ36j9SyiT2v/2027-early-careers-programme---property-management-in-manchester-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:38.168Z",
-      "tags": [
-        "Full-time",
-        "Manchester, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
       "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
       "source": "Workable",
       "date": "2026-09-23T14:57:37.696Z",
       "tags": [
         "Full-time",
         "London, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "2027 Early Careers Programme - Property Management",
+      "company": "Workman LLP",
+      "url": "https://jobs.workable.com/view/2SM5rxnV4hrQ36j9SyiT2v/2027-early-careers-programme---property-management-in-manchester-at-workman-llp",
+      "source": "Workable",
+      "date": "2026-09-23T14:57:38.168Z",
+      "tags": [
+        "Full-time",
+        "Manchester, England, United Kingdom"
       ]
     },
     {
@@ -521,6 +513,16 @@
       ]
     },
     {
+      "title": "Strategic Accounts Executive, Commercial",
+      "company": "Fortify Companies",
+      "url": "https://jobs.workable.com/view/5aTYi4jGCgKkk5RhcX4bUT/hybrid-strategic-accounts-executive%2C-commercial-in-portsmouth-at-fortify-companies",
+      "source": "Workable",
+      "date": "2026-09-26T01:36:56.381Z",
+      "tags": [
+        "Portsmouth, New Hampshire, United States"
+      ]
+    },
+    {
       "title": "Property Manager",
       "company": "PeakMade Real Estate",
       "url": "https://jobs.workable.com/view/bFY3YaRduSXfqvzaJ9iTuo/property-manager-in-davis-at-peakmade-real-estate",
@@ -540,16 +542,6 @@
       "tags": [
         "Full-time",
         "Hoover, Alabama, United States"
-      ]
-    },
-    {
-      "title": "Strategic Accounts Executive, Commercial",
-      "company": "Fortify Companies",
-      "url": "https://jobs.workable.com/view/5aTYi4jGCgKkk5RhcX4bUT/hybrid-strategic-accounts-executive%2C-commercial-in-portsmouth-at-fortify-companies",
-      "source": "Workable",
-      "date": "2026-09-26T01:36:56.381Z",
-      "tags": [
-        "Portsmouth, New Hampshire, United States"
       ]
     },
     {
@@ -653,9 +645,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
+      "date": "2026-04-14T04:04:07.688Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -664,9 +656,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
+      "date": "2026-04-14T04:04:07.073Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -675,9 +667,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
+      "date": "2026-04-14T04:02:40.771Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1139,34 +1131,18 @@
     },
     {
       "title": "Executive Assistant",
-      "company": "Solovis",
-      "url": "https://www.indeed.com/viewjob?jk=074b2d90dcff3e4d",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=4f5ec24fd2788fcf",
       "source": "JobSpy/indeed",
       "date": "2026-09-24",
       "tags": []
     },
     {
       "title": "Executive Assistant",
-      "company": "Hyland",
-      "url": "https://www.indeed.com/viewjob?jk=2c44de7bdf4976f0",
+      "company": "Solovis",
+      "url": "https://www.indeed.com/viewjob?jk=074b2d90dcff3e4d",
       "source": "JobSpy/indeed",
       "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Personal/Executive Assistant",
-      "company": "CINCO",
-      "url": "https://www.indeed.com/viewjob?jk=8c0c7b195c86766b",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO",
-      "company": "Brello Health",
-      "url": "https://www.indeed.com/viewjob?jk=91b2d0be4e626312",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-23",
       "tags": []
     },
     {
@@ -1258,14 +1234,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to President & CEO",
-      "company": "dkstudio architects inc.",
-      "url": "https://www.linkedin.com/jobs/view/4470733132",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Property Manager",
       "company": "Evernest",
       "url": "https://www.indeed.com/viewjob?jk=b7eaf6e8bf117d4e",
@@ -1285,6 +1253,14 @@
       "title": "Property Manager",
       "company": "Myan Management Group",
       "url": "https://www.linkedin.com/jobs/view/4472087565",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Broad Management Group LLC",
+      "url": "https://www.linkedin.com/jobs/view/4471868655",
       "source": "JobSpy/linkedin",
       "date": "2026-09-25",
       "tags": []
@@ -1386,14 +1362,6 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Broad Management Group LLC",
-      "url": "https://www.linkedin.com/jobs/view/4471868655",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Intelligent Automation Specialist",
       "company": "Allyis",
       "url": "https://www.linkedin.com/jobs/view/4469759796",
@@ -1471,14 +1439,6 @@
       "url": "https://www.linkedin.com/jobs/view/4470352554",
       "source": "JobSpy/linkedin",
       "date": "",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant / GoHighLevel Operations Coordinator",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=341a9aa79aefc2b7",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-26",
       "tags": []
     },
     {
