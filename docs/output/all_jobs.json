@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-25T18:14:13.854Z",
-  "count": 148,
+  "generatedAt": "2026-09-26T00:16:30.281Z",
+  "count": 147,
   "sources": {
-    "node": 98,
-    "jobspy": 50
+    "node": 96,
+    "jobspy": 51
   },
   "jobs": [
     {
@@ -71,16 +71,6 @@
         "sales",
         "medical",
         "digital nomad"
-      ]
-    },
-    {
-      "title": "Lead Automation Engineer",
-      "company": "Capital on Tap",
-      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
-      "source": "Jobicy",
-      "date": "2026-09-24T15:33:09+00:00",
-      "tags": [
-        "QA & Testing"
       ]
     },
     {
@@ -532,6 +522,28 @@
     },
     {
       "title": "Property Manager",
+      "company": "PeakMade Real Estate",
+      "url": "https://jobs.workable.com/view/bFY3YaRduSXfqvzaJ9iTuo/property-manager-in-davis-at-peakmade-real-estate",
+      "source": "Workable",
+      "date": "2026-09-25T18:16:09.861Z",
+      "tags": [
+        "Full-time",
+        "Davis, California, United States"
+      ]
+    },
+    {
+      "title": "Residential Assistant Property Manager & Leasing",
+      "company": "Farbman Group",
+      "url": "https://jobs.workable.com/view/shtcsdyS98fxUAuu7mdxU7/residential-assistant-property-manager-%26-leasing-in-hoover-at-farbman-group",
+      "source": "Workable",
+      "date": "2026-09-25T18:46:33.385Z",
+      "tags": [
+        "Full-time",
+        "Hoover, Alabama, United States"
+      ]
+    },
+    {
+      "title": "Property Manager",
       "company": "Lynco Properties",
       "url": "https://jobs.workable.com/view/58CgDBDTwKcEHwjqagRh6u/property-manager-in-wichita-at-lynco-properties",
       "source": "Workable",
@@ -539,39 +551,6 @@
       "tags": [
         "Full-time",
         "Wichita, Kansas, United States"
-      ]
-    },
-    {
-      "title": "Sales Team Manager",
-      "company": "F&F Properties",
-      "url": "https://jobs.workable.com/view/ncPV9WHHsvYfSofFA3H6NE/sales-team-manager-in-san-diego-at-f%26f-properties",
-      "source": "Workable",
-      "date": "2026-09-25T14:58:12.992Z",
-      "tags": [
-        "Full-time",
-        "San Diego, California, United States"
-      ]
-    },
-    {
-      "title": "Plumber",
-      "company": "VSF Rentals",
-      "url": "https://jobs.workable.com/view/1B4JakLSbnJ9uARaR8TnC8/plumber-in-piqua-at-vsf-rentals",
-      "source": "Workable",
-      "date": "2026-09-25T14:08:20.893Z",
-      "tags": [
-        "Full-time",
-        "Piqua, Ohio, United States"
-      ]
-    },
-    {
-      "title": "HR Generalist",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/3xc6nnDD9xSGzz1HWnkjWN/hr-generalist-in-houston-at-kpm",
-      "source": "Workable",
-      "date": "2026-03-27T19:33:02.228Z",
-      "tags": [
-        "Full-time",
-        "Houston, Texas, United States"
       ]
     },
     {
@@ -675,9 +654,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
+      "date": "2026-04-14T04:04:07.688Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -686,9 +665,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
+      "date": "2026-04-14T04:04:07.073Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -697,9 +676,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
+      "date": "2026-04-14T04:02:40.771Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -873,6 +852,17 @@
     {
       "title": "Digital Transformation & Automation Specialist",
       "company": "Charger Logistics Inc",
+      "url": "https://jobs.workable.com/view/a1tfmD76Uwi93MhnCzwS4D/hybrid-digital-transformation-%26-automation-specialist-in-parque-industrial-quer%C3%A9taro-at-charger-logistics-inc",
+      "source": "Workable",
+      "date": "2026-09-25T22:01:46.782Z",
+      "tags": [
+        "Full-time",
+        "Parque Industrial Querétaro, Querétaro, Mexico"
+      ]
+    },
+    {
+      "title": "Digital Transformation & Automation Specialist",
+      "company": "Charger Logistics Inc",
       "url": "https://jobs.workable.com/view/tWtzKf77c2YwjxNWMxjwZd/hybrid-digital-transformation-%26-automation-specialist-in-tegucigalpa-at-charger-logistics-inc",
       "source": "Workable",
       "date": "2026-09-25T16:39:01.951Z",
@@ -890,17 +880,6 @@
       "tags": [
         "Full-time",
         "Remote"
-      ]
-    },
-    {
-      "title": "Digital Transformation & Automation Specialist",
-      "company": "Charger Logistics Inc",
-      "url": "https://jobs.workable.com/view/hmkDDA2GiKT7pP3rXozoTb/hybrid-digital-transformation-%26-automation-specialist-in-parque-industrial-quer%C3%A9taro-at-charger-logistics-inc",
-      "source": "Workable",
-      "date": "2026-09-18T23:56:49.674Z",
-      "tags": [
-        "Full-time",
-        "Parque Industrial Querétaro, Querétaro, Mexico"
       ]
     },
     {
@@ -1103,6 +1082,14 @@
       "tags": []
     },
     {
+      "title": "Mid Level Executive Assistant",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=d877e5d15471e26a",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant",
       "company": "Ck Specialty Insurance Associates",
       "url": "https://www.indeed.com/viewjob?jk=d37b956f87ee97bc",
@@ -1146,14 +1133,6 @@
       "title": "Russian-English Administrative Assistant",
       "company": "Cold Cloud Mechanical",
       "url": "https://www.indeed.com/viewjob?jk=a776e691d25b5ca9",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-23",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to Global CEO - Remote",
-      "company": "Asset Vantage Systems",
-      "url": "https://www.indeed.com/viewjob?jk=3816ae142e63afad",
       "source": "JobSpy/indeed",
       "date": "2026-09-23",
       "tags": []
@@ -1223,14 +1202,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the CEO and Head of Territory for BNP Paribas Group in Switzerland",
-      "company": "BNP Paribas in Switzerland",
-      "url": "https://www.linkedin.com/jobs/view/4469019306",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-22",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant to the General Manager – Four Seasons Hotel Rabat Kasr Al Bahr, Morocco",
       "company": "Four Seasons",
       "url": "https://www.linkedin.com/jobs/view/4461042446",
@@ -1239,9 +1210,17 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "Sokabet Africa",
-      "url": "https://www.linkedin.com/jobs/view/4470161367",
+      "title": "Executive Assistant To CEO in Jaipur",
+      "company": "Aselea Network",
+      "url": "https://www.linkedin.com/jobs/view/4472215655",
+      "source": "JobSpy/linkedin",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to President & CEO",
+      "company": "dkstudio architects inc.",
+      "url": "https://www.linkedin.com/jobs/view/4470733132",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1264,6 +1243,14 @@
     },
     {
       "title": "Property Manager",
+      "company": "Myan Management Group",
+      "url": "https://www.linkedin.com/jobs/view/4472087565",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
       "company": "James Gibb residential factors",
       "url": "https://www.linkedin.com/jobs/view/4469725645",
       "source": "JobSpy/linkedin",
@@ -1282,14 +1269,6 @@
       "title": "Residential Property Manager",
       "company": "Residential Leasing Group Inc.",
       "url": "https://www.linkedin.com/jobs/view/4469683938",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Armco",
-      "url": "https://www.linkedin.com/jobs/view/4471401132",
       "source": "JobSpy/linkedin",
       "date": "2026-09-24",
       "tags": []
@@ -1343,25 +1322,25 @@
       "tags": []
     },
     {
-      "title": "Property Manager - Missoula, MT",
-      "company": "PURE HomeRiver Property Management",
-      "url": "https://www.linkedin.com/jobs/view/4469923892",
+      "title": "Property Manager (Residential Condo)",
+      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+      "url": "https://www.linkedin.com/jobs/view/4470318548",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-21",
+      "date": "",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - The Park at Avellino",
+      "company": "Pegasus Residential",
+      "url": "https://www.linkedin.com/jobs/view/4472095261",
+      "source": "JobSpy/linkedin",
+      "date": "",
       "tags": []
     },
     {
       "title": "Property Manager",
-      "company": "ARBOUR VALLEY MANAGEMENT, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4469261556",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-18",
-      "tags": []
-    },
-    {
-      "title": "Property Manager (Residential Condo)",
-      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
-      "url": "https://www.linkedin.com/jobs/view/4470318548",
+      "company": "F3 Marina",
+      "url": "https://www.linkedin.com/jobs/view/4470500396",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1455,6 +1434,14 @@
       "tags": []
     },
     {
+      "title": "Automation Engineer - Cross-Functional Operations",
+      "company": "Adoreal",
+      "url": "https://www.linkedin.com/jobs/view/4471686057",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
       "title": "AI Automation Analyst",
       "company": "OpenLoop",
       "url": "https://www.linkedin.com/jobs/view/4461368119",
@@ -1471,9 +1458,9 @@
       "tags": []
     },
     {
-      "title": "Automation Engineer - Cross-Functional Operations",
-      "company": "Adoreal",
-      "url": "https://www.linkedin.com/jobs/view/4471686057",
+      "title": "HubSpot Automation Engineer (Remote)",
+      "company": "Process Pro Consulting",
+      "url": "https://www.linkedin.com/jobs/view/4472218101",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
