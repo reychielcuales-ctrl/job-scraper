@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-26T18:14:11.168Z",
+  "generatedAt": "2026-09-27T00:18:20.242Z",
   "count": 146,
   "sources": {
     "node": 98,
@@ -1098,14 +1098,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to Director",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=fe7e5967eeee439a",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant",
       "company": "Ck Specialty Insurance Associates",
       "url": "https://www.indeed.com/viewjob?jk=d37b956f87ee97bc",
@@ -1130,11 +1122,27 @@
       "tags": []
     },
     {
+      "title": "Personal/Executive Assistant",
+      "company": "CINCO",
+      "url": "https://www.indeed.com/viewjob?jk=8c0c7b195c86766b",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant to the CEO",
       "company": "Brello Health",
       "url": "https://www.indeed.com/viewjob?jk=91b2d0be4e626312",
       "source": "JobSpy/indeed",
       "date": "2026-09-23",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant To CEO in Jaipur",
+      "company": "Aselea Network",
+      "url": "https://www.linkedin.com/jobs/view/4472215655",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-26",
       "tags": []
     },
     {
@@ -1218,14 +1226,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant To CEO in Jaipur",
-      "company": "Aselea Network",
-      "url": "https://www.linkedin.com/jobs/view/4472215655",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Property Manager",
       "company": "Evernest",
       "url": "https://www.indeed.com/viewjob?jk=b7eaf6e8bf117d4e",
@@ -1245,6 +1245,22 @@
       "title": "Property Manager (Residential Condo)",
       "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
       "url": "https://www.linkedin.com/jobs/view/4470318548",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - The Park at Avellino",
+      "company": "Pegasus Residential",
+      "url": "https://www.linkedin.com/jobs/view/4472095261",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "F3 Marina",
+      "url": "https://www.linkedin.com/jobs/view/4470500396",
       "source": "JobSpy/linkedin",
       "date": "2026-09-25",
       "tags": []
@@ -1338,22 +1354,6 @@
       "tags": []
     },
     {
-      "title": "Property Manager - The Park at Avellino",
-      "company": "Pegasus Residential",
-      "url": "https://www.linkedin.com/jobs/view/4472095261",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "F3 Marina",
-      "url": "https://www.linkedin.com/jobs/view/4470500396",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Senior Automation Specialist",
       "company": "Jobgether",
       "url": "https://www.linkedin.com/jobs/view/4470356479",
@@ -1410,6 +1410,14 @@
       "tags": []
     },
     {
+      "title": "Senior Automation Engineer",
+      "company": "LinkedIn",
+      "url": "https://www.linkedin.com/jobs/view/4468517277",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-22",
+      "tags": []
+    },
+    {
       "title": "AI Automation Specialist",
       "company": "Zameen.com",
       "url": "https://www.linkedin.com/jobs/view/4467385472",
@@ -1455,14 +1463,6 @@
       "url": "https://www.linkedin.com/jobs/view/4459202581",
       "source": "JobSpy/linkedin",
       "date": "2026-09-22",
-      "tags": []
-    },
-    {
-      "title": "HubSpot Automation Engineer (Remote)",
-      "company": "Process Pro Consulting",
-      "url": "https://www.linkedin.com/jobs/view/4472218101",
-      "source": "JobSpy/linkedin",
-      "date": "",
       "tags": []
     }
   ]
