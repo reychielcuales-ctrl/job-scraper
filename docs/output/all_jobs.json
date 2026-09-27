@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-09-27T06:16:17.730Z",
-  "count": 147,
+  "generatedAt": "2026-09-27T12:15:47.193Z",
+  "count": 151,
   "sources": {
-    "node": 98,
+    "node": 102,
     "jobspy": 49
   },
   "jobs": [
@@ -74,6 +74,46 @@
       ]
     },
     {
+      "title": "Commercial Account Manager (UK)",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/151904-commercial-account-manager-uk",
+      "source": "Jobicy",
+      "date": "2026-09-27T07:40:11+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "title": "Senior, Business Risk & AI Automation",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/151849-senior-business-risk-ai-automation",
+      "source": "Jobicy",
+      "date": "2026-09-27T07:35:06+00:00",
+      "tags": [
+        "Legal & Compliance"
+      ]
+    },
+    {
+      "title": "Lifecycle Marketing Automation Specialist",
+      "company": "PadSplit",
+      "url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
+      "source": "Jobicy",
+      "date": "2026-09-27T07:30:30+00:00",
+      "tags": [
+        "Marketing & Sales"
+      ]
+    },
+    {
+      "title": "Forward Deployed Product Manager - AI Agent (EMEA)",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/151832-forward-deployed-product-manager-ai-agent-emea",
+      "source": "Jobicy",
+      "date": "2026-09-27T07:25:10+00:00",
+      "tags": [
+        "Product & Operations"
+      ]
+    },
+    {
       "title": "Lead Customer Success Manager - West",
       "company": "Tines",
       "url": "https://weworkremotely.com/remote-jobs/tines-lead-customer-success-manager-west",
@@ -132,9 +172,9 @@
     {
       "title": "Virtual Assistant",
       "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/1pWrd2HBNLPYL1ZKsJuzms/remote-virtual-assistant-in-honduras-at-teamswell",
+      "url": "https://jobs.workable.com/view/jajnwhECm8igYqK5EzPoaQ/remote-virtual-assistant-in-nicaragua-at-teamswell",
       "source": "Workable",
-      "date": "2026-09-24T20:36:55.659Z",
+      "date": "2026-09-24T20:36:55.807Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -143,9 +183,9 @@
     {
       "title": "Virtual Assistant",
       "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/jajnwhECm8igYqK5EzPoaQ/remote-virtual-assistant-in-nicaragua-at-teamswell",
+      "url": "https://jobs.workable.com/view/1pWrd2HBNLPYL1ZKsJuzms/remote-virtual-assistant-in-honduras-at-teamswell",
       "source": "Workable",
-      "date": "2026-09-24T20:36:55.807Z",
+      "date": "2026-09-24T20:36:55.659Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -678,9 +718,31 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -720,28 +782,6 @@
       ]
     },
     {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
       "title": "Senior QA Automation Engineer",
       "company": "Blue Machines AI",
       "url": "https://jobs.workable.com/view/fGbJJvdkYYR6G2YQP5JVzw/senior-qa-automation-engineer-in-bengaluru-at-blue-machines-ai",
@@ -766,23 +806,23 @@
     {
       "title": "AI Operations Executive",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:19:07.307Z",
-      "tags": [
-        "Full-time",
-        "Buenos Aires, Buenos Aires, Argentina"
-      ]
-    },
-    {
-      "title": "AI Operations Executive",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
       "source": "Workable",
       "date": "2025-09-26T10:19:07.025Z",
       "tags": [
         "Full-time",
         "Mexico City, Mexico City, Mexico"
+      ]
+    },
+    {
+      "title": "AI Operations Executive",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
+      "source": "Workable",
+      "date": "2025-09-26T10:19:07.307Z",
+      "tags": [
+        "Full-time",
+        "Buenos Aires, Buenos Aires, Argentina"
       ]
     },
     {
@@ -1098,6 +1138,14 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant to Director",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=fe7e5967eeee439a",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant",
       "company": "Ck Specialty Insurance Associates",
       "url": "https://www.indeed.com/viewjob?jk=d37b956f87ee97bc",
@@ -1119,22 +1167,6 @@
       "url": "https://www.indeed.com/viewjob?jk=2c44de7bdf4976f0",
       "source": "JobSpy/indeed",
       "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Personal/Executive Assistant",
-      "company": "CINCO",
-      "url": "https://www.indeed.com/viewjob?jk=8c0c7b195c86766b",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO",
-      "company": "Brello Health",
-      "url": "https://www.indeed.com/viewjob?jk=91b2d0be4e626312",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-23",
       "tags": []
     },
     {
@@ -1439,6 +1471,14 @@
       "url": "https://www.linkedin.com/jobs/view/4471058139",
       "source": "JobSpy/linkedin",
       "date": "",
+      "tags": []
+    },
+    {
+      "title": "AI-Ready Infrastructure Automation Engineer",
+      "company": "Smart Apply Test Company",
+      "url": "https://www.indeed.com/viewjob?jk=f72d854c5ea31431",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-27",
       "tags": []
     },
     {
