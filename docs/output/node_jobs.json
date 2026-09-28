@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-09-28T12:16:45.439Z",
-  "count": 100,
+  "generatedAt": "2026-09-28T18:15:18.075Z",
+  "count": 95,
   "jobs": [
     {
       "title": "VP Pricing & Packaging",
@@ -77,26 +77,6 @@
       "date": "2026-09-27T07:40:11+00:00",
       "tags": [
         "Sales"
-      ]
-    },
-    {
-      "title": "Senior, Business Risk & AI Automation",
-      "company": "Reddit",
-      "url": "https://jobicy.com/jobs/151849-senior-business-risk-ai-automation",
-      "source": "Jobicy",
-      "date": "2026-09-27T07:35:06+00:00",
-      "tags": [
-        "Legal & Compliance"
-      ]
-    },
-    {
-      "title": "Lifecycle Marketing Automation Specialist",
-      "company": "PadSplit",
-      "url": "https://jobicy.com/jobs/151881-lifecycle-marketing-automation-specialist",
-      "source": "Jobicy",
-      "date": "2026-09-27T07:30:30+00:00",
-      "tags": [
-        "Marketing & Sales"
       ]
     },
     {
@@ -400,67 +380,12 @@
     {
       "title": "2027 Early Careers Programme - Property Management",
       "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:37.696Z",
-      "tags": [
-        "Full-time",
-        "London, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/2SM5rxnV4hrQ36j9SyiT2v/2027-early-careers-programme---property-management-in-manchester-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:38.168Z",
-      "tags": [
-        "Full-time",
-        "Manchester, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/nBx1hbvk8aUS1nybJ6nzgq/2027-early-careers-programme---property-management-in-newcastle-upon-tyne-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:37.288Z",
-      "tags": [
-        "Full-time",
-        "Newcastle upon Tyne, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/tjK5PLS7Aui8vtG2jKR9Zj/2027-early-careers-programme---property-management-in-cambridge-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:36.543Z",
-      "tags": [
-        "Full-time",
-        "Cambridge, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/2e9hT86Qs4vMyVdtE1MMKw/2027-early-careers-programme---property-management-in-bristol-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:35.990Z",
-      "tags": [
-        "Full-time",
-        "Bristol, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/uMkDfZjx2tmBqSZ3T2boNE/2027-early-careers-programme---property-management-in-birmingham-at-workman-llp",
+      "url": "https://jobs.workable.com/view/uMkDfZjx2tmBqSZ3T2boNE/2027-early-careers-programme---property-management-in-england-%26-scotland-at-workman-llp",
       "source": "Workable",
       "date": "2026-09-23T14:57:35.559Z",
       "tags": [
         "Full-time",
-        "Birmingham, England, United Kingdom"
+        "England & Scotland, United Kingdom, United Kingdom"
       ]
     },
     {
@@ -551,16 +476,6 @@
       ]
     },
     {
-      "title": "Administrative Assistant - Property Management",
-      "company": "Smoker & Company LLC",
-      "url": "https://jobs.workable.com/view/19w1u2Qv6fa5p4UxjBCVYy/administrative-assistant---property-management-in-leola-at-smoker-%26-company-llc",
-      "source": "Workable",
-      "date": "2026-09-02T20:08:07.219Z",
-      "tags": [
-        "Leola, Pennsylvania, United States"
-      ]
-    },
-    {
       "title": "Enterprise Application Architect",
       "company": "ESR Group",
       "url": "https://jobs.workable.com/view/fXWkBaSWoaVJwtUe1ZNuwV/enterprise-application-architect-in-singapore-at-esr-group",
@@ -580,6 +495,26 @@
       "tags": [
         "Full-time",
         "Jeffersonville, Indiana, United States"
+      ]
+    },
+    {
+      "title": "Administrative Assistant - Property Management",
+      "company": "Smoker & Company LLC",
+      "url": "https://jobs.workable.com/view/19w1u2Qv6fa5p4UxjBCVYy/administrative-assistant---property-management-in-leola-at-smoker-%26-company-llc",
+      "source": "Workable",
+      "date": "2026-09-02T20:08:07.219Z",
+      "tags": [
+        "Leola, Pennsylvania, United States"
+      ]
+    },
+    {
+      "title": "Strategic Accounts Executive, Commercial",
+      "company": "Fortify Companies",
+      "url": "https://jobs.workable.com/view/5aTYi4jGCgKkk5RhcX4bUT/hybrid-strategic-accounts-executive%2C-commercial-in-portsmouth-at-fortify-companies",
+      "source": "Workable",
+      "date": "2026-09-26T01:36:56.381Z",
+      "tags": [
+        "Portsmouth, New Hampshire, United States"
       ]
     },
     {
@@ -716,31 +651,9 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -780,6 +693,28 @@
       ]
     },
     {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Senior QA Automation Engineer",
       "company": "Blue Machines AI",
       "url": "https://jobs.workable.com/view/fGbJJvdkYYR6G2YQP5JVzw/senior-qa-automation-engineer-in-bengaluru-at-blue-machines-ai",
@@ -804,23 +739,23 @@
     {
       "title": "AI Operations Executive",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:19:07.025Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
-      ]
-    },
-    {
-      "title": "AI Operations Executive",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
       "source": "Workable",
       "date": "2025-09-26T10:19:07.307Z",
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "AI Operations Executive",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2025-09-26T10:19:07.025Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -977,6 +912,50 @@
       ]
     },
     {
+      "title": "Business Development Representative, Slovenia",
+      "company": "FlowX.AI",
+      "url": "https://jobs.workable.com/view/f5CLjXm6uWTHvLZCgSuJxr/hybrid-business-development-representative%2C-slovenia-in-sarajevo-at-flowx.ai",
+      "source": "Workable",
+      "date": "2026-09-28T13:11:40.600Z",
+      "tags": [
+        "Full-time",
+        "Sarajevo, Federation of Bosnia and Herzegovina, Bosnia and Herzegovina"
+      ]
+    },
+    {
+      "title": "Business Development Representative, Slovenia",
+      "company": "FlowX.AI",
+      "url": "https://jobs.workable.com/view/eCckoUiDRH6tHD6jwrs5vL/hybrid-business-development-representative%2C-slovenia-in-ljubljana-at-flowx.ai",
+      "source": "Workable",
+      "date": "2026-09-28T13:11:40.129Z",
+      "tags": [
+        "Full-time",
+        "Ljubljana, Ljubljana, Slovenia"
+      ]
+    },
+    {
+      "title": "Business Development Representative, Slovenia",
+      "company": "FlowX.AI",
+      "url": "https://jobs.workable.com/view/oQSeN5zaMHgCued8LGutK1/hybrid-business-development-representative%2C-slovenia-in-skopje-at-flowx.ai",
+      "source": "Workable",
+      "date": "2026-09-28T13:11:40.390Z",
+      "tags": [
+        "Full-time",
+        "Skopje, Greater Skopje, North Macedonia"
+      ]
+    },
+    {
+      "title": "Business Development Representative, Slovenia",
+      "company": "FlowX.AI",
+      "url": "https://jobs.workable.com/view/oPgs6jtA8xsTY4AgdvyC14/hybrid-business-development-representative%2C-slovenia-in-belgrade-at-flowx.ai",
+      "source": "Workable",
+      "date": "2026-09-28T13:11:40.207Z",
+      "tags": [
+        "Full-time",
+        "Belgrade, Vojvodina, Serbia"
+      ]
+    },
+    {
       "title": "LIMS Consultant",
       "company": "Clarkston Consulting",
       "url": "https://jobs.workable.com/view/gQyE7X59R44JhLNZ9gPCg9/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
@@ -1062,39 +1041,6 @@
       "tags": [
         "Full-time",
         "Remote"
-      ]
-    },
-    {
-      "title": "Head of Global Application Support",
-      "company": "EDETEK",
-      "url": "https://jobs.workable.com/view/nGDpYdyrQsJRmGEsgx4Dth/head-of-global-application-support-in-jersey-city-at-edetek",
-      "source": "Workable",
-      "date": "2026-09-23T21:52:18.583Z",
-      "tags": [
-        "Full-time",
-        "Jersey City, New Jersey, United States"
-      ]
-    },
-    {
-      "title": "IS Business Analyst",
-      "company": "Arnett & Burgess Energy Services",
-      "url": "https://jobs.workable.com/view/eu4UDzyKrfMpiUCRKYtVao/is-business-analyst-in-calgary-at-arnett-%26-burgess-energy-services",
-      "source": "Workable",
-      "date": "2026-09-23T18:13:09.652Z",
-      "tags": [
-        "Contract",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Specialty Finance Senior Engineer",
-      "company": "Neuberger Berman",
-      "url": "https://jobs.workable.com/view/1r1pd6r3EaLdWSWQU7sJvT/specialty-finance-senior-engineer-in-minnesota-at-neuberger-berman",
-      "source": "Workable",
-      "date": "2026-09-22T09:22:02.289Z",
-      "tags": [
-        "Full-time",
-        "Minnesota, United States"
       ]
     }
   ]
