@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-28T06:18:03.226Z",
-  "count": 156,
+  "generatedAt": "2026-09-28T12:17:11.014Z",
+  "count": 135,
   "sources": {
-    "node": 103,
-    "jobspy": 53
+    "node": 100,
+    "jobspy": 35
   },
   "jobs": [
     {
@@ -104,16 +104,6 @@
       ]
     },
     {
-      "title": "Forward Deployed Product Manager - AI Agent (EMEA)",
-      "company": "Cresta",
-      "url": "https://jobicy.com/jobs/151832-forward-deployed-product-manager-ai-agent-emea",
-      "source": "Jobicy",
-      "date": "2026-09-27T07:25:10+00:00",
-      "tags": [
-        "Product & Operations"
-      ]
-    },
-    {
       "title": "Lead Customer Success Manager - West",
       "company": "Tines",
       "url": "https://weworkremotely.com/remote-jobs/tines-lead-customer-success-manager-west",
@@ -172,9 +162,9 @@
     {
       "title": "Virtual Assistant",
       "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/jajnwhECm8igYqK5EzPoaQ/remote-virtual-assistant-in-nicaragua-at-teamswell",
+      "url": "https://jobs.workable.com/view/1pWrd2HBNLPYL1ZKsJuzms/remote-virtual-assistant-in-honduras-at-teamswell",
       "source": "Workable",
-      "date": "2026-09-24T20:36:55.807Z",
+      "date": "2026-09-24T20:36:55.659Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -183,9 +173,9 @@
     {
       "title": "Virtual Assistant",
       "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/1pWrd2HBNLPYL1ZKsJuzms/remote-virtual-assistant-in-honduras-at-teamswell",
+      "url": "https://jobs.workable.com/view/jajnwhECm8igYqK5EzPoaQ/remote-virtual-assistant-in-nicaragua-at-teamswell",
       "source": "Workable",
-      "date": "2026-09-24T20:36:55.659Z",
+      "date": "2026-09-24T20:36:55.807Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -227,9 +217,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:15.278Z",
+      "date": "2025-09-26T11:49:14.467Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -238,9 +228,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
+      "date": "2025-09-26T11:49:15.278Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -414,23 +404,23 @@
     {
       "title": "2027 Early Careers Programme - Property Management",
       "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/2SM5rxnV4hrQ36j9SyiT2v/2027-early-careers-programme---property-management-in-manchester-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:38.168Z",
-      "tags": [
-        "Full-time",
-        "Manchester, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
       "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
       "source": "Workable",
       "date": "2026-09-23T14:57:37.696Z",
       "tags": [
         "Full-time",
         "London, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "2027 Early Careers Programme - Property Management",
+      "company": "Workman LLP",
+      "url": "https://jobs.workable.com/view/2SM5rxnV4hrQ36j9SyiT2v/2027-early-careers-programme---property-management-in-manchester-at-workman-llp",
+      "source": "Workable",
+      "date": "2026-09-23T14:57:38.168Z",
+      "tags": [
+        "Full-time",
+        "Manchester, England, United Kingdom"
       ]
     },
     {
@@ -575,6 +565,17 @@
       ]
     },
     {
+      "title": "Enterprise Application Architect",
+      "company": "ESR Group",
+      "url": "https://jobs.workable.com/view/fXWkBaSWoaVJwtUe1ZNuwV/enterprise-application-architect-in-singapore-at-esr-group",
+      "source": "Workable",
+      "date": "2026-07-02T06:27:26.197Z",
+      "tags": [
+        "Full-time",
+        "Singapore, Singapore, Singapore"
+      ]
+    },
+    {
       "title": "Executive Assistant",
       "company": "Denton Floyd Real Estate Group",
       "url": "https://jobs.workable.com/view/25PPJVhwcJDFcsHSzRmrKH/executive-assistant-in-jeffersonville-at-denton-floyd-real-estate-group",
@@ -583,16 +584,6 @@
       "tags": [
         "Full-time",
         "Jeffersonville, Indiana, United States"
-      ]
-    },
-    {
-      "title": "Strategic Accounts Executive, Commercial",
-      "company": "Fortify Companies",
-      "url": "https://jobs.workable.com/view/5aTYi4jGCgKkk5RhcX4bUT/hybrid-strategic-accounts-executive%2C-commercial-in-portsmouth-at-fortify-companies",
-      "source": "Workable",
-      "date": "2026-09-26T01:36:56.381Z",
-      "tags": [
-        "Portsmouth, New Hampshire, United States"
       ]
     },
     {
@@ -729,9 +720,31 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -771,28 +784,6 @@
       ]
     },
     {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
       "title": "Senior QA Automation Engineer",
       "company": "Blue Machines AI",
       "url": "https://jobs.workable.com/view/fGbJJvdkYYR6G2YQP5JVzw/senior-qa-automation-engineer-in-bengaluru-at-blue-machines-ai",
@@ -817,17 +808,6 @@
     {
       "title": "AI Operations Executive",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:19:07.307Z",
-      "tags": [
-        "Full-time",
-        "Buenos Aires, Buenos Aires, Argentina"
-      ]
-    },
-    {
-      "title": "AI Operations Executive",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
       "source": "Workable",
       "date": "2025-09-26T10:19:07.025Z",
@@ -837,11 +817,11 @@
       ]
     },
     {
-      "title": "AI Onboarding Specialist",
+      "title": "AI Operations Executive",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/6kwVoZvJuP7cfoVwJhY6kn/hybrid-ai-onboarding-specialist-in-buenos-aires-at-darwin-ai",
+      "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
       "source": "Workable",
-      "date": "2025-09-26T10:21:47.612Z",
+      "date": "2025-09-26T10:19:07.307Z",
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
@@ -889,6 +869,17 @@
       "tags": [
         "Full-time",
         "Remote"
+      ]
+    },
+    {
+      "title": "Cash Desk Analytics &amp; Automation Specialist",
+      "company": "PIMCO",
+      "url": "https://jobs.workable.com/view/9JVTmqXz14Fz2wdz1PFXzU/cash-desk-analytics-%26amp%3B-automation-specialist-in-newport-beach-at-pimco",
+      "source": "Workable",
+      "date": "2026-09-28T08:34:55.295Z",
+      "tags": [
+        "Full-time",
+        "Newport Beach, California, United States"
       ]
     },
     {
@@ -986,17 +977,6 @@
       "date": "2026-03-03T00:10:10.842Z",
       "tags": [
         "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "AI Automation & Integration Specialist",
-      "company": "Primal Storm",
-      "url": "https://jobs.workable.com/view/c2ewTZkUMLLBg72UvXubSP/remote-ai-automation-%26-integration-specialist-in-bulgaria-at-primal-storm",
-      "source": "Workable",
-      "date": "2026-09-07T07:44:42.966Z",
-      "tags": [
-        "Contract",
         "Remote"
       ]
     },
@@ -1120,193 +1100,6 @@
         "Full-time",
         "Minnesota, United States"
       ]
-    },
-    {
-      "title": "Technical Business Analyst I - Alternative Investments Operations",
-      "company": "Neuberger Berman",
-      "url": "https://jobs.workable.com/view/d4kJu5AAQM7hzm9cYVwrQH/technical-business-analyst-i---alternative-investments-operations-in-new-york-at-neuberger-berman",
-      "source": "Workable",
-      "date": "2026-09-22T09:22:05.467Z",
-      "tags": [
-        "Full-time",
-        "New York, United States"
-      ]
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Patriot Growth Insurance Services",
-      "url": "https://www.indeed.com/viewjob?jk=9cdffe537bc106cc",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "title": "Administrative Assistant",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=9eb9a45485dcb50a",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Patriot Growth Insurance Services",
-      "url": "https://www.indeed.com/viewjob?jk=6c49d547d9be9527",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Ck Specialty Insurance Associates",
-      "url": "https://www.indeed.com/viewjob?jk=d37b956f87ee97bc",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Just Right Reader",
-      "url": "https://www.indeed.com/viewjob?jk=e52bdffc14b7d182",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=4f5ec24fd2788fcf",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Hyland",
-      "url": "https://www.indeed.com/viewjob?jk=2c44de7bdf4976f0",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Personal/Executive Assistant",
-      "company": "CINCO",
-      "url": "https://www.indeed.com/viewjob?jk=8c0c7b195c86766b",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO",
-      "company": "Brello Health",
-      "url": "https://www.indeed.com/viewjob?jk=91b2d0be4e626312",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-23",
-      "tags": []
-    },
-    {
-      "title": "Russian-English Administrative Assistant",
-      "company": "Cold Cloud Mechanical",
-      "url": "https://www.indeed.com/viewjob?jk=a776e691d25b5ca9",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-23",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant To CEO in Jaipur",
-      "company": "Aselea Network",
-      "url": "https://www.linkedin.com/jobs/view/4472215655",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-26",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the Management (Standort: Düsseldorf, Germany)",
-      "company": "Kronospan",
-      "url": "https://www.linkedin.com/jobs/view/4453149130",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO",
-      "company": "H&S Real Estate Dubai",
-      "url": "https://www.linkedin.com/jobs/view/4471475164",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant - Holding Finanziaria",
-      "company": "WeHunt",
-      "url": "https://www.linkedin.com/jobs/view/4469020667",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "EXECUTIVE ASSISTANT (CEO LEVEL)",
-      "company": "AfricaTalents",
-      "url": "https://www.linkedin.com/jobs/view/4469331631",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-23",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the Chair",
-      "company": "Gizli Şirket",
-      "url": "https://www.linkedin.com/jobs/view/4468361798",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-23",
-      "tags": []
-    },
-    {
-      "title": "Sr Executive Assistant",
-      "company": "Springs Window Fashions",
-      "url": "https://www.linkedin.com/jobs/view/4469353647",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-23",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to Senior Management",
-      "company": "Kronospan",
-      "url": "https://www.linkedin.com/jobs/view/4451679592",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-22",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "East to West Plant Services",
-      "url": "https://www.linkedin.com/jobs/view/4468773529",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-22",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO and Head of Territory for BNP Paribas Group in Switzerland",
-      "company": "BNP Paribas in Switzerland",
-      "url": "https://www.linkedin.com/jobs/view/4469019306",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-22",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the General Manager – Four Seasons Hotel Rabat Kasr Al Bahr, Morocco",
-      "company": "Four Seasons",
-      "url": "https://www.linkedin.com/jobs/view/4461042446",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-21",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to CEO(J10062)",
-      "company": "广州南顺清洁用品有限公司",
-      "url": "https://www.linkedin.com/jobs/view/4470837085",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
     },
     {
       "title": "Property Manager",
@@ -1437,6 +1230,54 @@
       "tags": []
     },
     {
+      "title": "Insurance Operations and Servicing Associate III - National General",
+      "company": "National General Insurance",
+      "url": "https://www.indeed.com/viewjob?jk=046ca9d66678fa3b",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Head of Insurance Operations",
+      "company": "When",
+      "url": "https://www.indeed.com/viewjob?jk=2ba0fe15eebb2b4b",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Manager, Insurance Operations - Hospital experience",
+      "company": "Med-Metrix",
+      "url": "https://www.indeed.com/viewjob?jk=79cdb54e3c0cd00c",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-21",
+      "tags": []
+    },
+    {
+      "title": "HC & Insurance Operations Processing Sr Rep",
+      "company": "NTT DATA North America",
+      "url": "https://www.linkedin.com/jobs/view/4471870300",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Insurance Operations",
+      "company": "Tata Consultancy Services",
+      "url": "https://www.linkedin.com/jobs/view/4471193789",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "title": "Insurance Operations Coordinator",
+      "company": "Marsh",
+      "url": "https://www.linkedin.com/jobs/view/4462085111",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-23",
+      "tags": []
+    },
+    {
       "title": "AI Optimization & Automation Specialist",
       "company": "Everlife LLC",
       "url": "https://www.indeed.com/viewjob?jk=81a77d37af7dbf20",
@@ -1506,22 +1347,6 @@
       "url": "https://www.linkedin.com/jobs/view/4470444748",
       "source": "JobSpy/linkedin",
       "date": "2026-09-22",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Specialist",
-      "company": "Zameen.com",
-      "url": "https://www.linkedin.com/jobs/view/4467385472",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-21",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Engineer / AI Agent Workflow Architect",
-      "company": "York Towers",
-      "url": "https://www.linkedin.com/jobs/view/4471323208",
-      "source": "JobSpy/linkedin",
-      "date": "",
       "tags": []
     },
     {
