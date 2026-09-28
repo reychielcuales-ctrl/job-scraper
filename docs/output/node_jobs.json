@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-09-28T00:18:55.731Z",
+  "generatedAt": "2026-09-28T06:17:33.439Z",
   "count": 103,
   "jobs": [
     {
@@ -168,9 +168,9 @@
     {
       "title": "Virtual Assistant",
       "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/1pWrd2HBNLPYL1ZKsJuzms/remote-virtual-assistant-in-honduras-at-teamswell",
+      "url": "https://jobs.workable.com/view/jajnwhECm8igYqK5EzPoaQ/remote-virtual-assistant-in-nicaragua-at-teamswell",
       "source": "Workable",
-      "date": "2026-09-24T20:36:55.659Z",
+      "date": "2026-09-24T20:36:55.807Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -179,9 +179,9 @@
     {
       "title": "Virtual Assistant",
       "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/jajnwhECm8igYqK5EzPoaQ/remote-virtual-assistant-in-nicaragua-at-teamswell",
+      "url": "https://jobs.workable.com/view/1pWrd2HBNLPYL1ZKsJuzms/remote-virtual-assistant-in-honduras-at-teamswell",
       "source": "Workable",
-      "date": "2026-09-24T20:36:55.807Z",
+      "date": "2026-09-24T20:36:55.659Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -421,6 +421,17 @@
     {
       "title": "2027 Early Careers Programme - Property Management",
       "company": "Workman LLP",
+      "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
+      "source": "Workable",
+      "date": "2026-09-23T14:57:37.696Z",
+      "tags": [
+        "Full-time",
+        "London, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "2027 Early Careers Programme - Property Management",
+      "company": "Workman LLP",
       "url": "https://jobs.workable.com/view/nBx1hbvk8aUS1nybJ6nzgq/2027-early-careers-programme---property-management-in-newcastle-upon-tyne-at-workman-llp",
       "source": "Workable",
       "date": "2026-09-23T14:57:37.288Z",
@@ -460,17 +471,6 @@
       "tags": [
         "Full-time",
         "Birmingham, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "2027 Early Careers Programme - Property Management",
-      "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/rqhqMJke89qg8VC6EGjeXh/2027-early-careers-programme---property-management-in-london-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-23T14:57:37.696Z",
-      "tags": [
-        "Full-time",
-        "London, England, United Kingdom"
       ]
     },
     {
@@ -725,31 +725,9 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -789,6 +767,28 @@
       ]
     },
     {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Senior QA Automation Engineer",
       "company": "Blue Machines AI",
       "url": "https://jobs.workable.com/view/fGbJJvdkYYR6G2YQP5JVzw/senior-qa-automation-engineer-in-bengaluru-at-blue-machines-ai",
@@ -813,23 +813,23 @@
     {
       "title": "AI Operations Executive",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:19:07.025Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
-      ]
-    },
-    {
-      "title": "AI Operations Executive",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
       "source": "Workable",
       "date": "2025-09-26T10:19:07.307Z",
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "AI Operations Executive",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2025-09-26T10:19:07.025Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -965,6 +965,16 @@
       ]
     },
     {
+      "title": "Data Automation Specialist",
+      "company": "Intrepid Asia",
+      "url": "https://jobs.workable.com/view/9Swi5gWiacXqc44APZeu6R/data-automation-specialist-in-ho-chi-minh-city-at-intrepid-asia",
+      "source": "Workable",
+      "date": "2026-09-08T09:18:37.238Z",
+      "tags": [
+        "Ho Chi Minh City, Ho Chi Minh, Vietnam"
+      ]
+    },
+    {
       "title": "Process Automation Specialist, Remote (PH)",
       "company": "RocketAMS",
       "url": "https://jobs.workable.com/view/kHhDoArGAFfEzPfJEmdSfV/process-automation-specialist%2C-remote-(ph)-in-philippines-at-rocketams",
@@ -973,16 +983,6 @@
       "tags": [
         "Full-time",
         "Remote"
-      ]
-    },
-    {
-      "title": "Data Automation Specialist",
-      "company": "Intrepid Asia",
-      "url": "https://jobs.workable.com/view/9Swi5gWiacXqc44APZeu6R/data-automation-specialist-in-ho-chi-minh-city-at-intrepid-asia",
-      "source": "Workable",
-      "date": "2026-09-08T09:18:37.238Z",
-      "tags": [
-        "Ho Chi Minh City, Ho Chi Minh, Vietnam"
       ]
     },
     {
