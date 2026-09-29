@@ -96,22 +96,6 @@
     "tags": []
   },
   {
-    "title": "Property Manager",
-    "company": "Mission Rock Residential, LLC",
-    "url": "https://www.linkedin.com/jobs/view/4470961262",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-23",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "Apartment Management Consultants",
-    "url": "https://www.linkedin.com/jobs/view/4469343183",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-23",
-    "tags": []
-  },
-  {
     "title": "Residential Property Manager",
     "company": "Universal Realty Group",
     "url": "https://www.linkedin.com/jobs/view/4470997097",
@@ -128,11 +112,19 @@
     "tags": []
   },
   {
-    "title": "Insurance Operations and Servicing Associate III - National General",
-    "company": "National General Insurance",
-    "url": "https://www.indeed.com/viewjob?jk=046ca9d66678fa3b",
-    "source": "JobSpy/indeed",
-    "date": "2026-09-25",
+    "title": "Property Manager",
+    "company": "Apartment Management Consultants",
+    "url": "https://www.linkedin.com/jobs/view/4469343183",
+    "source": "JobSpy/linkedin",
+    "date": "",
+    "tags": []
+  },
+  {
+    "title": "Property Manager - ReNew Tallahassee",
+    "company": "Trinity Property Consultants",
+    "url": "https://www.linkedin.com/jobs/view/4473003912",
+    "source": "JobSpy/linkedin",
+    "date": "",
     "tags": []
   },
   {
@@ -141,14 +133,6 @@
     "url": "https://www.indeed.com/viewjob?jk=2ba0fe15eebb2b4b",
     "source": "JobSpy/indeed",
     "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Manager, Insurance Operations - Hospital experience",
-    "company": "Med-Metrix",
-    "url": "https://www.indeed.com/viewjob?jk=79cdb54e3c0cd00c",
-    "source": "JobSpy/indeed",
-    "date": "2026-09-21",
     "tags": []
   },
   {
@@ -165,14 +149,6 @@
     "url": "https://www.linkedin.com/jobs/view/4471193789",
     "source": "JobSpy/linkedin",
     "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Insurance Operations Coordinator",
-    "company": "Marsh",
-    "url": "https://www.linkedin.com/jobs/view/4462085111",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-23",
     "tags": []
   },
   {
@@ -240,6 +216,14 @@
     "tags": []
   },
   {
+    "title": "AI Automation Engineer / AI Agent Workflow Architect",
+    "company": "York Towers",
+    "url": "https://www.linkedin.com/jobs/view/4471323208",
+    "source": "JobSpy/linkedin",
+    "date": "",
+    "tags": []
+  },
+  {
     "title": "Automation Engineer - Cross-Functional Operations",
     "company": "Adoreal",
     "url": "https://www.linkedin.com/jobs/view/4471686057",
@@ -261,14 +245,6 @@
     "url": "https://www.linkedin.com/jobs/view/4459202581",
     "source": "JobSpy/linkedin",
     "date": "2026-09-22",
-    "tags": []
-  },
-  {
-    "title": "AI Automation Engineer / AI Agent Workflow Architect",
-    "company": "York Towers",
-    "url": "https://www.linkedin.com/jobs/view/4471323208",
-    "source": "JobSpy/linkedin",
-    "date": "",
     "tags": []
   }
 ]
