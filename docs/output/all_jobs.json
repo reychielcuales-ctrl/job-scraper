@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-09-29T18:16:10.560Z",
-  "count": 124,
+  "generatedAt": "2026-09-30T00:18:55.752Z",
+  "count": 125,
   "sources": {
-    "node": 94,
-    "jobspy": 30
+    "node": 98,
+    "jobspy": 27
   },
   "jobs": [
     {
@@ -74,6 +74,46 @@
       ]
     },
     {
+      "title": "Enterprise Account Manager, Creditors Rights & Collections",
+      "company": "Proof",
+      "url": "https://jobicy.com/jobs/154231-enterprise-account-manager-creditors-rights-collections",
+      "source": "Jobicy",
+      "date": "2026-09-29T17:54:50+00:00",
+      "tags": [
+        "Customer Support & Success"
+      ]
+    },
+    {
+      "title": "Senior Account Executive, Creditors Rights & Collections",
+      "company": "Proof",
+      "url": "https://jobicy.com/jobs/154238-senior-account-executive-creditors-rights-collections",
+      "source": "Jobicy",
+      "date": "2026-09-29T17:54:49+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "title": "Partnerships Manager",
+      "company": "Apaleo",
+      "url": "https://jobicy.com/jobs/154190-partnerships-manager-2",
+      "source": "Jobicy",
+      "date": "2026-09-29T14:32:48+00:00",
+      "tags": [
+        "Business Development"
+      ]
+    },
+    {
+      "title": "Business Development Representative – DACH/ France (f/m/d)",
+      "company": "Apaleo",
+      "url": "https://jobicy.com/jobs/154187-business-development-representative-dach-france-f-m-d",
+      "source": "Jobicy",
+      "date": "2026-09-29T14:32:44+00:00",
+      "tags": [
+        "Business Development"
+      ]
+    },
+    {
       "title": "Lead Customer Success Manager - West",
       "company": "Tines",
       "url": "https://weworkremotely.com/remote-jobs/tines-lead-customer-success-manager-west",
@@ -132,7 +172,7 @@
     {
       "title": "Virtual Assistant - Therapist / Therapy Practice Experience",
       "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/f2dxExdVW2CgZDanc5t8gp/remote-virtual-assistant---therapist-%2F-therapy-practice-experience-in-cincinnati-at-the-boutique-coo",
+      "url": "https://jobs.workable.com/view/f2dxExdVW2CgZDanc5t8gp/remote-virtual-assistant---therapist-%2F-therapy-practice-experience-in-united-states-at-the-boutique-coo",
       "source": "Workable",
       "date": "2026-09-29T03:41:42.692Z",
       "tags": [
@@ -352,9 +392,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
+      "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.769Z",
+      "date": "2026-09-29T13:32:09.916Z",
       "tags": [
         "Contract",
         "Remote"
@@ -363,9 +403,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
+      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.916Z",
+      "date": "2026-09-29T13:32:09.769Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1056,6 +1096,22 @@
       "tags": []
     },
     {
+      "title": "Property Manager",
+      "company": "Apartment Management Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4469343183",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-29",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Akelius Residential Property AB",
+      "url": "https://www.linkedin.com/jobs/view/4471208205",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
       "title": "Property Manager (Residential Condo)",
       "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
       "url": "https://www.linkedin.com/jobs/view/4470318548",
@@ -1137,16 +1193,8 @@
     },
     {
       "title": "Property Manager",
-      "company": "ARBOUR VALLEY MANAGEMENT, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4470649075",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-22",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Apartment Management Consultants",
-      "url": "https://www.linkedin.com/jobs/view/4469343183",
+      "company": "ZRS Management",
+      "url": "https://www.linkedin.com/jobs/view/4473526714",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1155,14 +1203,6 @@
       "title": "Property Manager - Residential Property Management - London",
       "company": "Lambert Smith Hampton (Ireland)",
       "url": "https://www.linkedin.com/jobs/view/4471233211",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Akelius Residential Property AB",
-      "url": "https://www.linkedin.com/jobs/view/4471208205",
       "source": "JobSpy/linkedin",
       "date": "",
       "tags": []
@@ -1181,14 +1221,6 @@
       "url": "https://www.linkedin.com/jobs/view/4471193789",
       "source": "JobSpy/linkedin",
       "date": "2026-09-24",
-      "tags": []
-    },
-    {
-      "title": "AI Optimization & Automation Specialist",
-      "company": "Everlife LLC",
-      "url": "https://www.indeed.com/viewjob?jk=81a77d37af7dbf20",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-27",
       "tags": []
     },
     {
@@ -1240,30 +1272,6 @@
       "tags": []
     },
     {
-      "title": "AI Automation Expert",
-      "company": "CWS Workwear",
-      "url": "https://www.linkedin.com/jobs/view/4473257943",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Engineer / AI Agent Workflow Architect",
-      "company": "York Towers",
-      "url": "https://www.linkedin.com/jobs/view/4471323208",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-28",
-      "tags": []
-    },
-    {
-      "title": "HubSpot Automation Engineer (Remote)",
-      "company": "Process Pro Consulting",
-      "url": "https://www.linkedin.com/jobs/view/4472218101",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
       "title": "Automation Engineer - Cross-Functional Operations",
       "company": "Adoreal",
       "url": "https://www.linkedin.com/jobs/view/4471686057",
@@ -1277,6 +1285,14 @@
       "url": "https://www.linkedin.com/jobs/view/4461368119",
       "source": "JobSpy/linkedin",
       "date": "2026-09-24",
+      "tags": []
+    },
+    {
+      "title": "Workflow Automation Developer",
+      "company": "Stikeman Elliott LLP",
+      "url": "https://www.linkedin.com/jobs/view/4459202581",
+      "source": "JobSpy/linkedin",
+      "date": "",
       "tags": []
     }
   ]
