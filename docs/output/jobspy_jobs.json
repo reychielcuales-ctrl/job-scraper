@@ -1,6 +1,14 @@
 [
   {
     "title": "Property Manager",
+    "company": "United Real Estate - Philadelphia",
+    "url": "https://www.indeed.com/viewjob?jk=133740e80fdf1540",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-30",
+    "tags": []
+  },
+  {
+    "title": "Property Manager",
     "company": "Evernest",
     "url": "https://www.indeed.com/viewjob?jk=b7eaf6e8bf117d4e",
     "source": "JobSpy/indeed",
@@ -120,9 +128,9 @@
     "tags": []
   },
   {
-    "title": "Property Manager - Residential Property Management - London",
-    "company": "Lambert Smith Hampton (Ireland)",
-    "url": "https://www.linkedin.com/jobs/view/4471233211",
+    "title": "Property Manager",
+    "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+    "url": "https://www.linkedin.com/jobs/view/4471984793",
     "source": "JobSpy/linkedin",
     "date": "",
     "tags": []
