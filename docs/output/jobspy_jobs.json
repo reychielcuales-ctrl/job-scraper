@@ -1,13 +1,5 @@
 [
   {
-    "title": "Remote Administrative Assistant",
-    "company": "",
-    "url": "https://www.indeed.com/viewjob?jk=cd552b8f14cc3424",
-    "source": "JobSpy/indeed",
-    "date": "2026-09-29",
-    "tags": []
-  },
-  {
     "title": "Virtual Assistant / GoHighLevel Operations Coordinator",
     "company": "",
     "url": "https://www.indeed.com/viewjob?jk=341a9aa79aefc2b7",
@@ -16,99 +8,83 @@
     "tags": []
   },
   {
-    "title": "Virtual Assistant to CEO",
-    "company": "Prime System Solutions",
-    "url": "https://www.linkedin.com/jobs/view/4473285444",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-29",
-    "tags": []
-  },
-  {
-    "title": "General Virtual Assistant (For Pooling)",
-    "company": "VirtuallyinCredible Careers Hub",
-    "url": "https://www.linkedin.com/jobs/view/4473216314",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-29",
-    "tags": []
-  },
-  {
-    "title": "Virtual Assistant",
-    "company": "Somewhere",
-    "url": "https://www.linkedin.com/jobs/view/4470327154",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Virtual Assistant",
-    "company": "Virtustant",
-    "url": "https://www.linkedin.com/jobs/view/4470154923",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Virtual Assistant | Full-Time",
-    "company": "Marlow Hiring",
-    "url": "https://www.linkedin.com/jobs/view/4469718287",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Virtual Executive Assistant (Remote)",
-    "company": "ConnectPro Ltd",
-    "url": "https://www.linkedin.com/jobs/view/4469707258",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Virtual Assistant",
-    "company": "Virtustant",
-    "url": "https://www.linkedin.com/jobs/view/4469742923",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "General Virtual Assistant - Soc Med Content Creation",
-    "company": "ConnectUs Marketing Solutions, Inc.",
-    "url": "https://www.linkedin.com/jobs/view/4469387975",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Remote Virtual Assistant",
-    "company": "AbroadWorks",
-    "url": "https://www.linkedin.com/jobs/view/3943044946",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-23",
-    "tags": []
-  },
-  {
-    "title": "Virtual Executive Assistant (Remote)",
-    "company": "RecruitLints",
-    "url": "https://www.linkedin.com/jobs/view/4472133010",
-    "source": "JobSpy/linkedin",
-    "date": "",
-    "tags": []
-  },
-  {
-    "title": "Virtual Assistant \u2192",
-    "company": "Whitecap SEO",
-    "url": "https://www.linkedin.com/jobs/view/4472168643",
-    "source": "JobSpy/linkedin",
-    "date": "",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "United Real Estate - Philadelphia",
-    "url": "https://www.indeed.com/viewjob?jk=133740e80fdf1540",
+    "title": "Executive Assistant",
+    "company": "Plumbing Solutions LLC",
+    "url": "https://www.indeed.com/viewjob?jk=ed9ff568c562818a",
     "source": "JobSpy/indeed",
     "date": "2026-09-30",
+    "tags": []
+  },
+  {
+    "title": "Executive Administrative Assistant (contract)",
+    "company": "Microsoft",
+    "url": "https://www.indeed.com/viewjob?jk=3a61378f389d959a",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-30",
+    "tags": []
+  },
+  {
+    "title": "Executive Assistant",
+    "company": "",
+    "url": "https://www.indeed.com/viewjob?jk=db902a382db13ecc",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-30",
+    "tags": []
+  },
+  {
+    "title": "Executive Assistant to the Chief Technology Officer",
+    "company": "Filevine",
+    "url": "https://www.indeed.com/viewjob?jk=7f8ee43921cc426c",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-29",
+    "tags": []
+  },
+  {
+    "title": "Executive Assistant and Board Liaison",
+    "company": "National Environmental Health",
+    "url": "https://www.indeed.com/viewjob?jk=300dc015e47180b7",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-29",
+    "tags": []
+  },
+  {
+    "title": "Executive Assistant",
+    "company": "Trillium Health Resources",
+    "url": "https://www.indeed.com/viewjob?jk=98878e39f53e4f7b",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-28",
+    "tags": []
+  },
+  {
+    "title": "Executive Assistant",
+    "company": "Patriot Growth Insurance Services",
+    "url": "https://www.indeed.com/viewjob?jk=9cdffe537bc106cc",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-25",
+    "tags": []
+  },
+  {
+    "title": "Commercial Insurance Executive Assistant",
+    "company": "Ck Specialty Insurance Associates",
+    "url": "https://www.indeed.com/viewjob?jk=d37b956f87ee97bc",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-24",
+    "tags": []
+  },
+  {
+    "title": "Executive Assistant",
+    "company": "Just Right Reader",
+    "url": "https://www.indeed.com/viewjob?jk=e52bdffc14b7d182",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-24",
+    "tags": []
+  },
+  {
+    "title": "Executive Assistant",
+    "company": "Solovis",
+    "url": "https://www.indeed.com/viewjob?jk=074b2d90dcff3e4d",
+    "source": "JobSpy/indeed",
+    "date": "2026-09-24",
     "tags": []
   },
   {
@@ -120,235 +96,11 @@
     "tags": []
   },
   {
-    "title": "Part -Time Self Storage Property Manager - Palm, PA",
-    "company": "Store Here Self Storage",
-    "url": "https://www.indeed.com/viewjob?jk=55d78293eb0e25cb",
-    "source": "JobSpy/indeed",
-    "date": "2026-09-23",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "Apartment Management Consultants",
-    "url": "https://www.linkedin.com/jobs/view/4469343183",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-29",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "Akelius Residential Property AB",
-    "url": "https://www.linkedin.com/jobs/view/4471208205",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-28",
-    "tags": []
-  },
-  {
-    "title": "Property Manager - Flemington",
-    "company": "Nelson Alexander Real Estate",
-    "url": "https://www.linkedin.com/jobs/view/4472492855",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-28",
-    "tags": []
-  },
-  {
-    "title": "Property Manager (Residential Condo)",
-    "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
-    "url": "https://www.linkedin.com/jobs/view/4470318548",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Property Manager - The Park at Avellino",
-    "company": "Pegasus Residential",
-    "url": "https://www.linkedin.com/jobs/view/4472095261",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "Myan Management Group",
-    "url": "https://www.linkedin.com/jobs/view/4472087565",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "Broad Management Group LLC",
-    "url": "https://www.linkedin.com/jobs/view/4471868655",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "Fitch Irick Corporation",
-    "url": "https://www.linkedin.com/jobs/view/4472059482",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "James Gibb residential factors",
-    "url": "https://www.linkedin.com/jobs/view/4469725645",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "Apartment Management Consultants",
-    "url": "https://www.linkedin.com/jobs/view/4466943098",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Residential Property Manager",
-    "company": "Residential Leasing Group Inc.",
-    "url": "https://www.linkedin.com/jobs/view/4469683938",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "Armco",
-    "url": "https://www.linkedin.com/jobs/view/4471401132",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "ZRS Management",
-    "url": "https://www.linkedin.com/jobs/view/4473526714",
-    "source": "JobSpy/linkedin",
-    "date": "",
-    "tags": []
-  },
-  {
-    "title": "Property Manager",
-    "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
-    "url": "https://www.linkedin.com/jobs/view/4471984793",
-    "source": "JobSpy/linkedin",
-    "date": "",
-    "tags": []
-  },
-  {
     "title": "Head of Insurance Operations",
     "company": "When",
     "url": "https://www.indeed.com/viewjob?jk=2ba0fe15eebb2b4b",
     "source": "JobSpy/indeed",
     "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Insurance Operations",
-    "company": "Tata Consultancy Services",
-    "url": "https://www.linkedin.com/jobs/view/4471193789",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "AI Automation Specialist",
-    "company": "Searchability\u00ae",
-    "url": "https://www.linkedin.com/jobs/view/4473273522",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-29",
-    "tags": []
-  },
-  {
-    "title": "AI Automation Specialist",
-    "company": "Rex Moore Electrical & Systems Contractors & Engineers",
-    "url": "https://www.linkedin.com/jobs/view/4473296596",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-29",
-    "tags": []
-  },
-  {
-    "title": "AI Automation Specialist",
-    "company": "CPA-DMV",
-    "url": "https://www.linkedin.com/jobs/view/4471058139",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-26",
-    "tags": []
-  },
-  {
-    "title": "Senior Automation Specialist",
-    "company": "Jobgether",
-    "url": "https://www.linkedin.com/jobs/view/4470356479",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Senior Automation Specialist",
-    "company": "Jobgether",
-    "url": "https://www.linkedin.com/jobs/view/4470352554",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "KI & Automation Specialist (gn*)",
-    "company": "Woolworth GmbH",
-    "url": "https://www.linkedin.com/jobs/view/4472310475",
-    "source": "JobSpy/linkedin",
-    "date": "",
-    "tags": []
-  },
-  {
-    "title": "AI Automation Engineer / AI Agent Workflow Architect",
-    "company": "York Towers",
-    "url": "https://www.linkedin.com/jobs/view/4471323208",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-28",
-    "tags": []
-  },
-  {
-    "title": "HubSpot Automation Engineer (Remote)",
-    "company": "Process Pro Consulting",
-    "url": "https://www.linkedin.com/jobs/view/4472218101",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-25",
-    "tags": []
-  },
-  {
-    "title": "Automation Engineer - Cross-Functional Operations",
-    "company": "Adoreal",
-    "url": "https://www.linkedin.com/jobs/view/4471686057",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "AI Automation Analyst",
-    "company": "OpenLoop",
-    "url": "https://www.linkedin.com/jobs/view/4461368119",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Automation Specialist",
-    "company": "Deel",
-    "url": "https://www.linkedin.com/jobs/view/4470104126",
-    "source": "JobSpy/linkedin",
-    "date": "2026-09-24",
-    "tags": []
-  },
-  {
-    "title": "Workflow Automation Developer",
-    "company": "Stikeman Elliott LLP",
-    "url": "https://www.linkedin.com/jobs/view/4459202581",
-    "source": "JobSpy/linkedin",
-    "date": "",
     "tags": []
   }
 ]
