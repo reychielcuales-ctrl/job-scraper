@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T12:17:02.478Z",
-  "count": 166,
+  "generatedAt": "2026-10-02T21:55:39.581Z",
+  "count": 167,
   "sources": {
-    "node": 102,
-    "jobspy": 64
+    "node": 104,
+    "jobspy": 63
   },
   "jobs": [
     {
@@ -71,6 +71,26 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "AI Automation Engineer",
+      "company": "Airtm",
+      "url": "https://jobicy.com/jobs/154409-ai-automation-engineer-2",
+      "source": "Jobicy",
+      "date": "2026-10-02T15:15:27+00:00",
+      "tags": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Automation Engineer (Customer Service)",
+      "company": "Nebius",
+      "url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
+      "source": "Jobicy",
+      "date": "2026-10-02T08:38:06+00:00",
+      "tags": [
+        "Software Engineering"
       ]
     },
     {
@@ -515,47 +535,46 @@
       ]
     },
     {
-      "title": "Talent Acquisition Manager",
-      "company": "Kaizen Asset Management Services",
-      "url": "https://jobs.workable.com/view/qhrVbBZKPSsgReZZq1MdmK/talent-acquisition-manager-in-dubai-at-kaizen-asset-management-services",
+      "title": "Regional Property Manager",
+      "company": "Encore Property Management",
+      "url": "https://jobs.workable.com/view/6EbSN9MHrK6581BzQ8oHox/regional-property-manager-in-tampa-at-encore-property-management",
       "source": "Workable",
-      "date": "2026-10-02T10:26:49.305Z",
+      "date": "2026-10-02T19:21:56.430Z",
       "tags": [
-        "Full-time",
-        "Dubai, Dubai, United Arab Emirates"
+        "Tampa, Florida, United States"
       ]
     },
     {
-      "title": "Debt Collector",
-      "company": "Makowsky Ringel Greenberg, LLC",
-      "url": "https://jobs.workable.com/view/uKSR9ZxFcS3AMmH6y4FyRs/debt-collector-in-memphis-at-makowsky-ringel-greenberg%2C-llc",
+      "title": "Customer Service - Community Manager",
+      "company": "VSF Rentals",
+      "url": "https://jobs.workable.com/view/513aiw4CGsEXD8rjqNtFCM/customer-service---community-manager-in-oxford-at-vsf-rentals",
       "source": "Workable",
-      "date": "2021-07-28T11:39:59.000Z",
+      "date": "2026-10-02T18:08:23.113Z",
       "tags": [
         "Full-time",
-        "Memphis, Tennessee, United States"
+        "Oxford, Ohio, United States"
       ]
     },
     {
-      "title": "Temporary Lease Up Property Manager",
-      "company": "SoLa Impact",
-      "url": "https://jobs.workable.com/view/ierWQfJEr7Yfq3dKGC5byB/temporary-lease-up-property-manager-in-los-angeles-at-sola-impact",
+      "title": "Painter / Turn Technician",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/xkwvHFLvcXU8NGiofSvKGT/painter-%2F-turn-technician-in-columbia-at-collective-residential",
       "source": "Workable",
-      "date": "2026-10-01T22:25:48.877Z",
+      "date": "2026-10-02T19:47:18.852Z",
       "tags": [
-        "Temporary",
-        "Los Angeles, California, United States"
+        "Full-time",
+        "Columbia, South Carolina, United States"
       ]
     },
     {
-      "title": "Facilities Manager, Station Square",
-      "company": "WS Development",
-      "url": "https://jobs.workable.com/view/nqextnGvEBusWzfPL79k3e/facilities-manager%2C-station-square-in-pittsburgh-at-ws-development",
+      "title": "Orphee Beinoglou - Furniture Rental & Home Solutions Manager",
+      "company": "OB Streem",
+      "url": "https://jobs.workable.com/view/wxAvjSWhttQwtUjiWqeSqZ/orphee-beinoglou---furniture-rental-%26-home-solutions-manager-in-elefsina-at-ob-streem",
       "source": "Workable",
-      "date": "2026-10-01T19:46:47.844Z",
+      "date": "2026-10-02T15:04:35.207Z",
       "tags": [
         "Full-time",
-        "Pittsburgh, Pennsylvania, United States"
+        "Elefsina, Attiki, Greece"
       ]
     },
     {
@@ -767,6 +786,17 @@
       ]
     },
     {
+      "title": "Senior Account Executive - Enterprise",
+      "company": "Leena AI",
+      "url": "https://jobs.workable.com/view/m8bq1kgb3B9KwecntKCaXF/remote-senior-account-executive---enterprise-in-united-states-at-leena-ai",
+      "source": "Workable",
+      "date": "2026-10-02T13:33:23.768Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Senior QA Automation Engineer",
       "company": "Blue Machines AI",
       "url": "https://jobs.workable.com/view/fGbJJvdkYYR6G2YQP5JVzw/senior-qa-automation-engineer-in-bengaluru-at-blue-machines-ai",
@@ -819,17 +849,6 @@
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
-      ]
-    },
-    {
-      "title": "AI Onboarding Specialist",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/czozumGDb75oAoDEHPyAcn/hybrid-ai-onboarding-specialist-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:21:47.346Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -967,17 +986,6 @@
     {
       "title": "Digital Transformation & Automation Specialist",
       "company": "Charger Logistics Inc",
-      "url": "https://jobs.workable.com/view/a1tfmD76Uwi93MhnCzwS4D/hybrid-digital-transformation-%26-automation-specialist-in-parque-industrial-quer%C3%A9taro-at-charger-logistics-inc",
-      "source": "Workable",
-      "date": "2026-09-25T22:01:46.782Z",
-      "tags": [
-        "Full-time",
-        "Parque Industrial Querétaro, Querétaro, Mexico"
-      ]
-    },
-    {
-      "title": "Digital Transformation & Automation Specialist",
-      "company": "Charger Logistics Inc",
       "url": "https://jobs.workable.com/view/tWtzKf77c2YwjxNWMxjwZd/hybrid-digital-transformation-%26-automation-specialist-in-tegucigalpa-at-charger-logistics-inc",
       "source": "Workable",
       "date": "2026-09-25T16:39:01.951Z",
@@ -1009,6 +1017,39 @@
       ]
     },
     {
+      "title": "Senior CRM & Automation Specialist (SCAS 0926)",
+      "company": "Skroutz S.A",
+      "url": "https://jobs.workable.com/view/iE4FXRT7UEjFKbRZ49op68/hybrid-senior-crm-%26-automation-specialist-(scas-0926)-in-athens-at-skroutz-s.a",
+      "source": "Workable",
+      "date": "2026-09-11T08:37:08.653Z",
+      "tags": [
+        "Full-time",
+        "Athens, Attica, Greece"
+      ]
+    },
+    {
+      "title": "Vice President, Operations Digitalization",
+      "company": "PIMCO",
+      "url": "https://jobs.workable.com/view/4nEEn5FboRCzP9nvEDrgff/vice-president%2C-operations-digitalization-in-new-york-at-pimco",
+      "source": "Workable",
+      "date": "2026-10-02T16:37:53.300Z",
+      "tags": [
+        "Full-time",
+        "New York, New York, United States"
+      ]
+    },
+    {
+      "title": "Senior Product Development & Brand Manager",
+      "company": "Pulse Trading Cards",
+      "url": "https://jobs.workable.com/view/4xM2pn6wzjEQaZSyWAypn5/remote-senior-product-development-%26-brand-manager-in-neptune-at-pulse-trading-cards",
+      "source": "Workable",
+      "date": "2026-10-02T14:19:33.296Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Senior Governance, Risk and Compliance Specialist",
       "company": "payabl.",
       "url": "https://jobs.workable.com/view/9FDBrmW3QgvJzRkfEAuqjx/remote-senior-governance%2C-risk-and-compliance-specialist-in-cyprus-at-payabl.",
@@ -1022,9 +1063,9 @@
     {
       "title": "Senior Governance, Risk and Compliance Specialist",
       "company": "payabl.",
-      "url": "https://jobs.workable.com/view/naCA6reXqrZndhn6Rzm4NK/remote-senior-governance%2C-risk-and-compliance-specialist-in-portugal-at-payabl.",
+      "url": "https://jobs.workable.com/view/aWK3TiZYPFL36G9T6gdwH3/remote-senior-governance%2C-risk-and-compliance-specialist-in-poland-at-payabl.",
       "source": "Workable",
-      "date": "2026-10-02T11:03:11.546Z",
+      "date": "2026-10-02T11:03:11.748Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1033,9 +1074,9 @@
     {
       "title": "Senior Governance, Risk and Compliance Specialist",
       "company": "payabl.",
-      "url": "https://jobs.workable.com/view/aWK3TiZYPFL36G9T6gdwH3/remote-senior-governance%2C-risk-and-compliance-specialist-in-poland-at-payabl.",
+      "url": "https://jobs.workable.com/view/naCA6reXqrZndhn6Rzm4NK/remote-senior-governance%2C-risk-and-compliance-specialist-in-portugal-at-payabl.",
       "source": "Workable",
-      "date": "2026-10-02T11:03:11.748Z",
+      "date": "2026-10-02T11:03:11.546Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1108,25 +1149,12 @@
       ]
     },
     {
-      "title": "Sr. Automation Engineer",
-      "company": "Zifo",
-      "url": "https://jobs.workable.com/view/dxKKFoev26u8rGQReeEvEN/hybrid-sr.-automation-engineer-in-boston-at-zifo",
-      "source": "Workable",
-      "date": "2026-10-01T01:34:01.038Z",
-      "tags": [
-        "Full-time",
-        "Boston, Massachusetts, United States"
-      ]
-    },
-    {
-      "title": "Infor Architect Manager",
-      "company": "Ember Group Consulting",
-      "url": "https://jobs.workable.com/view/3zDQmsTyYS3me5ima3M6we/infor-architect-manager-in-charlotte-at-ember-group-consulting",
-      "source": "Workable",
-      "date": "2026-09-30T18:50:38.766Z",
-      "tags": [
-        "Charlotte, North Carolina, United States"
-      ]
+      "title": "Medical Billing, Insurance & Credentialing Virtual Assistant (Part-Time, Remote, 1099)",
+      "company": "Oak & Willow Billing LLC",
+      "url": "https://www.indeed.com/viewjob?jk=e7d3ef8394c08ee9",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-02",
+      "tags": []
     },
     {
       "title": "Virtual Assistant (Spanish-English) Speaking",
@@ -1142,6 +1170,30 @@
       "url": "https://www.indeed.com/viewjob?jk=341a9aa79aefc2b7",
       "source": "JobSpy/indeed",
       "date": "2026-09-26",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant to CEO (Remote)",
+      "company": "Viva Talent",
+      "url": "https://www.linkedin.com/jobs/view/4474769562",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Alfa AI",
+      "url": "https://www.linkedin.com/jobs/view/4473368269",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant to CEO (Remote)",
+      "company": "Viva Talent",
+      "url": "https://www.linkedin.com/jobs/view/4474773369",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
       "tags": []
     },
     {
@@ -1185,25 +1237,9 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant to CEO (Remote)",
-      "company": "Viva Talent",
-      "url": "https://www.linkedin.com/jobs/view/4472570379",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
       "title": "Administrative Assistant",
       "company": "Scoutly",
       "url": "https://www.linkedin.com/jobs/view/4472936962",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant to CEO (Remote)",
-      "company": "Viva Talent",
-      "url": "https://www.linkedin.com/jobs/view/4474318746",
       "source": "JobSpy/linkedin",
       "date": "2026-10-01",
       "tags": []
@@ -1233,11 +1269,35 @@
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant to the CEO",
-      "company": "Freedom Real Estate Group",
-      "url": "https://www.indeed.com/viewjob?jk=5ddf667b395b47ae",
+      "title": "Virtual Assistant, Entry Level",
+      "company": "Jobright.ai",
+      "url": "https://www.linkedin.com/jobs/view/4471560112",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant, Entry Level",
+      "company": "Jobright.ai",
+      "url": "https://www.linkedin.com/jobs/view/4471511758",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=d0d404d35c14dbf2",
       "source": "JobSpy/indeed",
-      "date": "2026-10-01",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Finance and Executive Assistant",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=1955b4bf51a3e198",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-02",
       "tags": []
     },
     {
@@ -1281,11 +1341,11 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to Director",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=fe7e5967eeee439a",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-25",
+      "title": "Executive Assistant",
+      "company": "MedaStaré",
+      "url": "https://www.linkedin.com/jobs/view/4473177489",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
       "tags": []
     },
     {
@@ -1321,25 +1381,9 @@
       "tags": []
     },
     {
-      "title": "Secretary / Executive Assistant",
-      "company": "JobTrade",
-      "url": "https://www.linkedin.com/jobs/view/4471979565",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-30",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant to CEO - PostEx",
       "company": "Taraki",
       "url": "https://www.linkedin.com/jobs/view/4472343515",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-30",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Kolkata Ventures",
-      "url": "https://www.linkedin.com/jobs/view/4472167768",
       "source": "JobSpy/linkedin",
       "date": "2026-09-30",
       "tags": []
@@ -1401,9 +1445,49 @@
       "tags": []
     },
     {
+      "title": "Property Manager (High-Rise)",
+      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+      "url": "https://www.linkedin.com/jobs/view/4473806010",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Residential Property Management - Shrewsbury",
+      "company": "Ikon Consultancy",
+      "url": "https://www.linkedin.com/jobs/view/4473804190",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Residential Property Management - Shrewsbury",
+      "company": "Lambert Smith Hampton (Ireland)",
+      "url": "https://www.linkedin.com/jobs/view/4473153001",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
       "title": "Property Manager",
       "company": "Mission Rock Residential, LLC",
       "url": "https://www.linkedin.com/jobs/view/4474565889",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Kimco Realty Corporation",
+      "url": "https://www.linkedin.com/jobs/view/4446865099",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Apartment Management Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4473163752",
       "source": "JobSpy/linkedin",
       "date": "2026-10-02",
       "tags": []
@@ -1458,24 +1542,8 @@
     },
     {
       "title": "Property Manager",
-      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
-      "url": "https://www.linkedin.com/jobs/view/4471984793",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-30",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
       "company": "ZRS Management",
       "url": "https://www.linkedin.com/jobs/view/4473526714",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-29",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Apartment Management Consultants",
-      "url": "https://www.linkedin.com/jobs/view/4469343183",
       "source": "JobSpy/linkedin",
       "date": "2026-09-29",
       "tags": []
@@ -1494,38 +1562,6 @@
       "url": "https://www.linkedin.com/jobs/view/4471208205",
       "source": "JobSpy/linkedin",
       "date": "2026-09-28",
-      "tags": []
-    },
-    {
-      "title": "Property Manager - Flemington",
-      "company": "Nelson Alexander Real Estate",
-      "url": "https://www.linkedin.com/jobs/view/4472492855",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-28",
-      "tags": []
-    },
-    {
-      "title": "Property Manager - The Park at Avellino",
-      "company": "Pegasus Residential",
-      "url": "https://www.linkedin.com/jobs/view/4472095261",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "F3 Marina",
-      "url": "https://www.linkedin.com/jobs/view/4470500396",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "title": "Head of Insurance Operations",
-      "company": "When",
-      "url": "https://www.indeed.com/viewjob?jk=2ba0fe15eebb2b4b",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-25",
       "tags": []
     },
     {
@@ -1590,30 +1626,6 @@
       "url": "https://www.linkedin.com/jobs/view/4471058139",
       "source": "JobSpy/linkedin",
       "date": "2026-09-26",
-      "tags": []
-    },
-    {
-      "title": "Senior Automation Specialist",
-      "company": "Jobgether",
-      "url": "https://www.linkedin.com/jobs/view/4470356479",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "title": "Senior Automation Specialist",
-      "company": "Jobgether",
-      "url": "https://www.linkedin.com/jobs/view/4470352554",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "title": "Automation Engineer - Influencers",
-      "company": "ElevenLabs",
-      "url": "https://www.linkedin.com/jobs/view/4474372396",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-01",
       "tags": []
     },
     {
