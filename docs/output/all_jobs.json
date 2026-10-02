@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T00:18:58.741Z",
-  "count": 144,
+  "generatedAt": "2026-10-02T06:16:59.612Z",
+  "count": 167,
   "sources": {
-    "node": 102,
-    "jobspy": 42
+    "node": 103,
+    "jobspy": 64
   },
   "jobs": [
     {
@@ -103,6 +103,14 @@
       "url": "https://weworkremotely.com/remote-jobs/cxm-direct-crm-marketing-manager",
       "source": "We Work Remotely",
       "date": "Thu, 03 Sep 2026 01:35:18 +0000",
+      "tags": []
+    },
+    {
+      "title": "Chief Actuary",
+      "company": "Clover Health",
+      "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
+      "source": "We Work Remotely",
+      "date": "Fri, 02 Oct 2026 01:24:37 +0000",
       "tags": []
     },
     {
@@ -561,9 +569,9 @@
       ]
     },
     {
-      "title": "F&I Manager - Clifton Park",
+      "title": "F&I Manager - Clifton Park (Part Time)",
       "company": "Dennis & Co. Auto Group",
-      "url": "https://jobs.workable.com/view/9CCJpe9vf9XvQ1qb6hLYa9/f%26i-manager---clifton-park-in-clifton-park-at-dennis-%26-co.-auto-group",
+      "url": "https://jobs.workable.com/view/9CCJpe9vf9XvQ1qb6hLYa9/f%26i-manager---clifton-park-(part-time)-in-clifton-park-at-dennis-%26-co.-auto-group",
       "source": "Workable",
       "date": "2026-09-15T13:51:24.089Z",
       "tags": [
@@ -1147,9 +1155,57 @@
       "tags": []
     },
     {
+      "title": "Virtual Assistant",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4472581310",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
       "title": "Executive Virtual Assistant",
       "company": "Captain Jay's",
       "url": "https://www.linkedin.com/jobs/view/4474503476",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (Work From Home) – For Pooling",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4472511661",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Remote Leverage",
+      "url": "https://www.linkedin.com/jobs/view/4473029275",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "MSA Asia",
+      "url": "https://www.linkedin.com/jobs/view/4474332626",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant to CEO (Remote)",
+      "company": "Viva Talent",
+      "url": "https://www.linkedin.com/jobs/view/4472570379",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Scoutly",
+      "url": "https://www.linkedin.com/jobs/view/4472936962",
       "source": "JobSpy/linkedin",
       "date": "2026-10-01",
       "tags": []
@@ -1188,56 +1244,200 @@
     },
     {
       "title": "Virtual Assistant",
-      "company": "Somewhere",
-      "url": "https://www.linkedin.com/jobs/view/4472581310",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4470154923",
       "source": "JobSpy/linkedin",
-      "date": "",
+      "date": "2026-09-25",
       "tags": []
     },
     {
-      "title": "General Virtual Assistant (Work From Home) – For Pooling",
-      "company": "VirtuallyinCredible Careers Hub",
-      "url": "https://www.linkedin.com/jobs/view/4472511661",
-      "source": "JobSpy/linkedin",
-      "date": "",
+      "title": "Senior Executive Assistant to the CEO",
+      "company": "Freedom Real Estate Group",
+      "url": "https://www.indeed.com/viewjob?jk=5ddf667b395b47ae",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-01",
       "tags": []
     },
     {
-      "title": "Simpro Virtual Assistant",
-      "company": "virtualE",
-      "url": "https://www.linkedin.com/jobs/view/4472532067",
-      "source": "JobSpy/linkedin",
-      "date": "",
+      "title": "Executive Assistant",
+      "company": "Plumbing Solutions LLC",
+      "url": "https://www.indeed.com/viewjob?jk=ed9ff568c562818a",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-30",
       "tags": []
     },
     {
-      "title": "Administrative Assistant",
-      "company": "Remote Leverage",
-      "url": "https://www.linkedin.com/jobs/view/4473029275",
-      "source": "JobSpy/linkedin",
-      "date": "",
+      "title": "Executive Administrative Assistant (contract)",
+      "company": "Microsoft",
+      "url": "https://www.indeed.com/viewjob?jk=3a61378f389d959a",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-30",
       "tags": []
     },
     {
-      "title": "Virtual Assistant",
-      "company": "MSA Asia",
-      "url": "https://www.linkedin.com/jobs/view/4474332626",
-      "source": "JobSpy/linkedin",
-      "date": "",
+      "title": "Executive Assistant to the Chief Technology Officer",
+      "company": "Filevine",
+      "url": "https://www.indeed.com/viewjob?jk=7f8ee43921cc426c",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-29",
       "tags": []
     },
     {
-      "title": "Virtual Assistant to CEO (Remote)",
-      "company": "Viva Talent",
-      "url": "https://www.linkedin.com/jobs/view/4472570379",
+      "title": "Executive Assistant and Board Liaison",
+      "company": "National Environmental Health",
+      "url": "https://www.indeed.com/viewjob?jk=300dc015e47180b7",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-29",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Trillium Health Resources",
+      "url": "https://www.indeed.com/viewjob?jk=98878e39f53e4f7b",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Director",
+      "company": "",
+      "url": "https://www.indeed.com/viewjob?jk=fe7e5967eeee439a",
+      "source": "JobSpy/indeed",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "PE - Executive Assistant - Supporting U.S.-Based Executives",
+      "company": "MyOutDesk",
+      "url": "https://www.linkedin.com/jobs/view/4474520729",
       "source": "JobSpy/linkedin",
-      "date": "",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "FroxJob | Executive Jobs in Nepal",
+      "url": "https://www.linkedin.com/jobs/view/4472905722",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Chief Executive Officer",
+      "company": "Zeta",
+      "url": "https://www.linkedin.com/jobs/view/4472520540",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Secretary / Executive Assistant",
+      "company": "JobTrade",
+      "url": "https://www.linkedin.com/jobs/view/4471979565",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-30",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to CEO - PostEx",
+      "company": "Taraki",
+      "url": "https://www.linkedin.com/jobs/view/4472343515",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-30",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Kolkata Ventures",
+      "url": "https://www.linkedin.com/jobs/view/4472167768",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-30",
+      "tags": []
+    },
+    {
+      "title": "EXECUTIVE ASSISTANT TO THE CEO - GERMAN SPEAKING (m/f/d)",
+      "company": "Schwarz Digits",
+      "url": "https://www.linkedin.com/jobs/view/4472155758",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-30",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Chief Executive Officer",
+      "company": "Oway.com.mm",
+      "url": "https://www.linkedin.com/jobs/view/4473214893",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-29",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Battle Motors",
+      "url": "https://www.linkedin.com/jobs/view/4471566351",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Chief Executive Officer",
+      "company": "Calsoft",
+      "url": "https://www.linkedin.com/jobs/view/4471317987",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Dream Games",
+      "url": "https://www.linkedin.com/jobs/view/3976007382",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant To CEO in Jaipur",
+      "company": "Aselea Network",
+      "url": "https://www.linkedin.com/jobs/view/4472215655",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-26",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Anchor Health Properties",
+      "url": "https://www.indeed.com/viewjob?jk=ce181cae0dd8f6a1",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Mission Rock Residential, LLC",
+      "url": "https://www.linkedin.com/jobs/view/4474565889",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Property Manager (Residential Condo)",
+      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+      "url": "https://www.linkedin.com/jobs/view/4470318548",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
       "tags": []
     },
     {
       "title": "Property Manager",
       "company": "Apartment Management Consultants",
       "url": "https://www.linkedin.com/jobs/view/4472641727",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Gestionnaire d'immeubles / Property Manager",
+      "company": "Akelius Canada",
+      "url": "https://www.linkedin.com/jobs/view/4472582796",
       "source": "JobSpy/linkedin",
       "date": "2026-10-01",
       "tags": []
@@ -1331,35 +1531,51 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "SPM, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4470711047",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-25",
-      "tags": []
-    },
-    {
-      "title": "Property Manager (Residential Condo)",
-      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
-      "url": "https://www.linkedin.com/jobs/view/4470318548",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Gestionnaire d'immeubles / Property Manager",
-      "company": "Akelius Canada",
-      "url": "https://www.linkedin.com/jobs/view/4472582796",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Head of Insurance Operations",
       "company": "When",
       "url": "https://www.indeed.com/viewjob?jk=2ba0fe15eebb2b4b",
       "source": "JobSpy/indeed",
       "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "HC & Insurance Operations Processing Sr Rep",
+      "company": "NTT DATA North America",
+      "url": "https://www.linkedin.com/jobs/view/4471852792",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-25",
+      "tags": []
+    },
+    {
+      "title": "Senior AI Automation & Zendesk Specialist - South Africa",
+      "company": "MANUAL",
+      "url": "https://www.linkedin.com/jobs/view/4465644521",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Intelligent Automation Engineer",
+      "company": "Zurich Australia",
+      "url": "https://www.linkedin.com/jobs/view/4464193617",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Senior AI Automation Engineer",
+      "company": "York Towers",
+      "url": "https://www.linkedin.com/jobs/view/4472514152",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "AI Automation & Integration Specialist",
+      "company": "SCC España",
+      "url": "https://www.linkedin.com/jobs/view/4472572013",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
       "tags": []
     },
     {
@@ -1411,38 +1627,6 @@
       "tags": []
     },
     {
-      "title": "Senior AI Automation & Zendesk Specialist - South Africa",
-      "company": "MANUAL",
-      "url": "https://www.linkedin.com/jobs/view/4465644521",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Intelligent Automation Engineer",
-      "company": "Zurich Australia",
-      "url": "https://www.linkedin.com/jobs/view/4464193617",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "Senior AI Automation Engineer",
-      "company": "York Towers",
-      "url": "https://www.linkedin.com/jobs/view/4472514152",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
-      "title": "AI Automation & Integration Specialist",
-      "company": "SCC España",
-      "url": "https://www.linkedin.com/jobs/view/4472572013",
-      "source": "JobSpy/linkedin",
-      "date": "",
-      "tags": []
-    },
-    {
       "title": "Workflow Automation Developer",
       "company": "Stikeman Elliott LLP",
       "url": "https://www.linkedin.com/jobs/view/4459202581",
@@ -1459,11 +1643,11 @@
       "tags": []
     },
     {
-      "title": "Remote Accounting Automation Engineer",
-      "company": "Spotter Labs - Jordan",
-      "url": "https://www.linkedin.com/jobs/view/4472646484",
+      "title": "HubSpot Automation Engineer (Remote)",
+      "company": "Process Pro Consulting",
+      "url": "https://www.linkedin.com/jobs/view/4472218101",
       "source": "JobSpy/linkedin",
-      "date": "",
+      "date": "2026-09-25",
       "tags": []
     }
   ]
