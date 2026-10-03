@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-03T11:14:52.111Z",
-  "count": 163,
+  "generatedAt": "2026-10-03T15:52:08.216Z",
+  "count": 162,
   "sources": {
-    "node": 101,
+    "node": 100,
     "jobspy": 62
   },
   "jobs": [
@@ -482,17 +482,6 @@
       "tags": [
         "Full-time",
         "Dubai, Dubai, United Arab Emirates"
-      ]
-    },
-    {
-      "title": "Senior Property Management Surveyor",
-      "company": "Workman LLP",
-      "url": "https://jobs.workable.com/view/8ourJxfuApNVEbNWPXGXu8/hybrid-senior-property-management-surveyor-in-birmingham-at-workman-llp",
-      "source": "Workable",
-      "date": "2026-09-07T15:21:33.955Z",
-      "tags": [
-        "Full-time",
-        "Birmingham, England, United Kingdom"
       ]
     },
     {
@@ -1035,9 +1024,9 @@
     {
       "title": "Senior Governance, Risk and Compliance Specialist",
       "company": "payabl.",
-      "url": "https://jobs.workable.com/view/naCA6reXqrZndhn6Rzm4NK/remote-senior-governance%2C-risk-and-compliance-specialist-in-portugal-at-payabl.",
+      "url": "https://jobs.workable.com/view/aWK3TiZYPFL36G9T6gdwH3/remote-senior-governance%2C-risk-and-compliance-specialist-in-poland-at-payabl.",
       "source": "Workable",
-      "date": "2026-10-02T11:03:11.546Z",
+      "date": "2026-10-02T11:03:11.748Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1046,9 +1035,9 @@
     {
       "title": "Senior Governance, Risk and Compliance Specialist",
       "company": "payabl.",
-      "url": "https://jobs.workable.com/view/aWK3TiZYPFL36G9T6gdwH3/remote-senior-governance%2C-risk-and-compliance-specialist-in-poland-at-payabl.",
+      "url": "https://jobs.workable.com/view/naCA6reXqrZndhn6Rzm4NK/remote-senior-governance%2C-risk-and-compliance-specialist-in-portugal-at-payabl.",
       "source": "Workable",
-      "date": "2026-10-02T11:03:11.748Z",
+      "date": "2026-10-02T11:03:11.546Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1142,14 +1131,6 @@
       "url": "https://www.linkedin.com/jobs/view/4473836077",
       "source": "JobSpy/linkedin",
       "date": "2026-10-03",
-      "tags": []
-    },
-    {
-      "title": "General Virtual Assistant (GoHighLevel - Automation)",
-      "company": "Dynamic Business Outsourcing Solutions (DBOS)",
-      "url": "https://www.linkedin.com/jobs/view/4473809451",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
       "tags": []
     },
     {
@@ -1262,6 +1243,14 @@
       "url": "https://www.indeed.com/viewjob?jk=1955b4bf51a3e198",
       "source": "JobSpy/indeed",
       "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant to the CEO",
+      "company": "Freedom Real Estate Group",
+      "url": "https://www.indeed.com/viewjob?jk=5ddf667b395b47ae",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-01",
       "tags": []
     },
     {
@@ -1417,6 +1406,22 @@
       "tags": []
     },
     {
+      "title": "Property Manager - Residential Property Management - Shrewsbury",
+      "company": "Ikon Consultancy",
+      "url": "https://www.linkedin.com/jobs/view/4473804190",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Residential Property Management - Shrewsbury",
+      "company": "Lambert Smith Hampton (Ireland)",
+      "url": "https://www.linkedin.com/jobs/view/4473153001",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
       "title": "Property Manager, Residential",
       "company": "Peterson Real Estate",
       "url": "https://www.linkedin.com/jobs/view/4473801499",
@@ -1473,14 +1478,6 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Summit Management Group, Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4475003834",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
       "title": "Property Manager (Residential Condo)",
       "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
       "url": "https://www.linkedin.com/jobs/view/4470318548",
@@ -1513,19 +1510,27 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Akelius Residential Property AB",
-      "url": "https://www.linkedin.com/jobs/view/4471208205",
+      "title": "Property Manager - Residential Property Management - London",
+      "company": "Lambert Smith Hampton (Ireland)",
+      "url": "https://www.linkedin.com/jobs/view/4471233211",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-28",
+      "date": "2026-09-29",
       "tags": []
     },
     {
-      "title": "Property Manager - Flemington",
-      "company": "Nelson Alexander Real Estate",
-      "url": "https://www.linkedin.com/jobs/view/4472492855",
+      "title": "AI AUTOMATION SPECIALIST",
+      "company": "Al Yousef Group",
+      "url": "https://www.linkedin.com/jobs/view/4473453101",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-28",
+      "date": "2026-10-03",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Engineer (RPA e IA)",
+      "company": "HYBRICO Energy Technologies",
+      "url": "https://www.linkedin.com/jobs/view/4475336427",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-03",
       "tags": []
     },
     {
@@ -1574,22 +1579,6 @@
       "url": "https://www.linkedin.com/jobs/view/4473296596",
       "source": "JobSpy/linkedin",
       "date": "2026-09-29",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Expert",
-      "company": "CWS Workwear",
-      "url": "https://www.linkedin.com/jobs/view/4473257943",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-29",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Specialist",
-      "company": "CPA-DMV",
-      "url": "https://www.linkedin.com/jobs/view/4471058139",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-26",
       "tags": []
     },
     {
