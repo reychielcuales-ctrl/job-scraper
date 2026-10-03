@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-02T21:55:39.581Z",
-  "count": 167,
+  "generatedAt": "2026-10-03T04:13:53.235Z",
+  "count": 165,
   "sources": {
-    "node": 104,
-    "jobspy": 63
+    "node": 103,
+    "jobspy": 62
   },
   "jobs": [
     {
@@ -115,14 +115,6 @@
       "url": "https://weworkremotely.com/remote-jobs/prove-director-sales-compensation",
       "source": "We Work Remotely",
       "date": "Fri, 04 Sep 2026 07:30:58 +0000",
-      "tags": []
-    },
-    {
-      "title": "CRM Marketing Manager",
-      "company": "CXM Direct",
-      "url": "https://weworkremotely.com/remote-jobs/cxm-direct-crm-marketing-manager",
-      "source": "We Work Remotely",
-      "date": "Thu, 03 Sep 2026 01:35:18 +0000",
       "tags": []
     },
     {
@@ -416,9 +408,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -427,9 +419,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -545,17 +537,6 @@
       ]
     },
     {
-      "title": "Customer Service - Community Manager",
-      "company": "VSF Rentals",
-      "url": "https://jobs.workable.com/view/513aiw4CGsEXD8rjqNtFCM/customer-service---community-manager-in-oxford-at-vsf-rentals",
-      "source": "Workable",
-      "date": "2026-10-02T18:08:23.113Z",
-      "tags": [
-        "Full-time",
-        "Oxford, Ohio, United States"
-      ]
-    },
-    {
       "title": "Painter / Turn Technician",
       "company": "Collective Residential",
       "url": "https://jobs.workable.com/view/xkwvHFLvcXU8NGiofSvKGT/painter-%2F-turn-technician-in-columbia-at-collective-residential",
@@ -564,6 +545,17 @@
       "tags": [
         "Full-time",
         "Columbia, South Carolina, United States"
+      ]
+    },
+    {
+      "title": "Customer Service - Community Manager",
+      "company": "VSF Rentals",
+      "url": "https://jobs.workable.com/view/513aiw4CGsEXD8rjqNtFCM/customer-service---community-manager-in-oxford-at-vsf-rentals",
+      "source": "Workable",
+      "date": "2026-10-02T18:08:23.113Z",
+      "tags": [
+        "Full-time",
+        "Oxford, Ohio, United States"
       ]
     },
     {
@@ -720,6 +712,17 @@
       ]
     },
     {
+      "title": "Senior Account Executive - Enterprise",
+      "company": "Leena AI",
+      "url": "https://jobs.workable.com/view/m8bq1kgb3B9KwecntKCaXF/remote-senior-account-executive---enterprise-in-united-states-at-leena-ai",
+      "source": "Workable",
+      "date": "2026-10-02T13:33:23.768Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/me4URBWZJn3yMMrXk3N5Yu/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-romania-at-ai-acquisition",
@@ -780,17 +783,6 @@
       "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:23.864Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Senior Account Executive - Enterprise",
-      "company": "Leena AI",
-      "url": "https://jobs.workable.com/view/m8bq1kgb3B9KwecntKCaXF/remote-senior-account-executive---enterprise-in-united-states-at-leena-ai",
-      "source": "Workable",
-      "date": "2026-10-02T13:33:23.768Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -893,6 +885,17 @@
       "tags": [
         "Full-time",
         "Remote"
+      ]
+    },
+    {
+      "title": "Digital Transformation & Automation Specialist",
+      "company": "Charger Logistics Inc",
+      "url": "https://jobs.workable.com/view/7M2Q7DbqbFakspPcA5oZLz/hybrid-digital-transformation-%26-automation-specialist-in-parque-industrial-quer%C3%A9taro-at-charger-logistics-inc",
+      "source": "Workable",
+      "date": "2026-10-02T22:18:30.528Z",
+      "tags": [
+        "Full-time",
+        "Parque Industrial Querétaro, Querétaro, Mexico"
       ]
     },
     {
@@ -1017,17 +1020,6 @@
       ]
     },
     {
-      "title": "Senior CRM & Automation Specialist (SCAS 0926)",
-      "company": "Skroutz S.A",
-      "url": "https://jobs.workable.com/view/iE4FXRT7UEjFKbRZ49op68/hybrid-senior-crm-%26-automation-specialist-(scas-0926)-in-athens-at-skroutz-s.a",
-      "source": "Workable",
-      "date": "2026-09-11T08:37:08.653Z",
-      "tags": [
-        "Full-time",
-        "Athens, Attica, Greece"
-      ]
-    },
-    {
       "title": "Vice President, Operations Digitalization",
       "company": "PIMCO",
       "url": "https://jobs.workable.com/view/4nEEn5FboRCzP9nvEDrgff/vice-president%2C-operations-digitalization-in-new-york-at-pimco",
@@ -1063,9 +1055,9 @@
     {
       "title": "Senior Governance, Risk and Compliance Specialist",
       "company": "payabl.",
-      "url": "https://jobs.workable.com/view/aWK3TiZYPFL36G9T6gdwH3/remote-senior-governance%2C-risk-and-compliance-specialist-in-poland-at-payabl.",
+      "url": "https://jobs.workable.com/view/naCA6reXqrZndhn6Rzm4NK/remote-senior-governance%2C-risk-and-compliance-specialist-in-portugal-at-payabl.",
       "source": "Workable",
-      "date": "2026-10-02T11:03:11.748Z",
+      "date": "2026-10-02T11:03:11.546Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1074,9 +1066,9 @@
     {
       "title": "Senior Governance, Risk and Compliance Specialist",
       "company": "payabl.",
-      "url": "https://jobs.workable.com/view/naCA6reXqrZndhn6Rzm4NK/remote-senior-governance%2C-risk-and-compliance-specialist-in-portugal-at-payabl.",
+      "url": "https://jobs.workable.com/view/aWK3TiZYPFL36G9T6gdwH3/remote-senior-governance%2C-risk-and-compliance-specialist-in-poland-at-payabl.",
       "source": "Workable",
-      "date": "2026-10-02T11:03:11.546Z",
+      "date": "2026-10-02T11:03:11.748Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1165,11 +1157,27 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant / GoHighLevel Operations Coordinator",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=341a9aa79aefc2b7",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-26",
+      "title": "Virtual Administrative Assistant (Remote) Entry Level",
+      "company": "CV-BRIDGE LTD",
+      "url": "https://www.linkedin.com/jobs/view/4473836077",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-03",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (GoHighLevel - Automation)",
+      "company": "Dynamic Business Outsourcing Solutions (DBOS)",
+      "url": "https://www.linkedin.com/jobs/view/4473809451",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Remote Leverage",
+      "url": "https://www.linkedin.com/jobs/view/4473029275",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
       "tags": []
     },
     {
@@ -1221,25 +1229,9 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant",
-      "company": "Remote Leverage",
-      "url": "https://www.linkedin.com/jobs/view/4473029275",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant",
       "company": "MSA Asia",
       "url": "https://www.linkedin.com/jobs/view/4474332626",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
-      "title": "Administrative Assistant",
-      "company": "Scoutly",
-      "url": "https://www.linkedin.com/jobs/view/4472936962",
       "source": "JobSpy/linkedin",
       "date": "2026-10-01",
       "tags": []
@@ -1406,6 +1398,14 @@
     },
     {
       "title": "Executive Assistant",
+      "company": "Silverlink Technologies",
+      "url": "https://www.linkedin.com/jobs/view/4473542135",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-29",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
       "company": "Battle Motors",
       "url": "https://www.linkedin.com/jobs/view/4471566351",
       "source": "JobSpy/linkedin",
@@ -1429,22 +1429,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant To CEO in Jaipur",
-      "company": "Aselea Network",
-      "url": "https://www.linkedin.com/jobs/view/4472215655",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-26",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Anchor Health Properties",
-      "url": "https://www.indeed.com/viewjob?jk=ce181cae0dd8f6a1",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
       "title": "Property Manager (High-Rise)",
       "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
       "url": "https://www.linkedin.com/jobs/view/4473806010",
@@ -1464,6 +1448,14 @@
       "title": "Property Manager - Residential Property Management - Shrewsbury",
       "company": "Lambert Smith Hampton (Ireland)",
       "url": "https://www.linkedin.com/jobs/view/4473153001",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "Property Manager, Residential",
+      "company": "Peterson Real Estate",
+      "url": "https://www.linkedin.com/jobs/view/4473801499",
       "source": "JobSpy/linkedin",
       "date": "2026-10-02",
       "tags": []
@@ -1557,14 +1549,6 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Akelius Residential Property AB",
-      "url": "https://www.linkedin.com/jobs/view/4471208205",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-28",
-      "tags": []
-    },
-    {
       "title": "Senior AI Automation & Zendesk Specialist - South Africa",
       "company": "MANUAL",
       "url": "https://www.linkedin.com/jobs/view/4465644521",
@@ -1629,6 +1613,14 @@
       "tags": []
     },
     {
+      "title": "Automation Engineer - Influencers",
+      "company": "ElevenLabs",
+      "url": "https://www.linkedin.com/jobs/view/4474372396",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-01",
+      "tags": []
+    },
+    {
       "title": "Workflow Automation Developer",
       "company": "Stikeman Elliott LLP",
       "url": "https://www.linkedin.com/jobs/view/4459202581",
@@ -1642,14 +1634,6 @@
       "url": "https://www.linkedin.com/jobs/view/4471323208",
       "source": "JobSpy/linkedin",
       "date": "2026-09-28",
-      "tags": []
-    },
-    {
-      "title": "HubSpot Automation Engineer (Remote)",
-      "company": "Process Pro Consulting",
-      "url": "https://www.linkedin.com/jobs/view/4472218101",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-25",
       "tags": []
     }
   ]
