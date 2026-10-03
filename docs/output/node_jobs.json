@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-03T04:13:20.953Z",
-  "count": 103,
+  "generatedAt": "2026-10-03T11:14:17.926Z",
+  "count": 101,
   "jobs": [
     {
       "title": "VP Pricing & Packaging",
@@ -67,26 +67,6 @@
         "sales",
         "medical",
         "digital nomad"
-      ]
-    },
-    {
-      "title": "AI Automation Engineer",
-      "company": "Airtm",
-      "url": "https://jobicy.com/jobs/154409-ai-automation-engineer-2",
-      "source": "Jobicy",
-      "date": "2026-10-02T15:15:27+00:00",
-      "tags": [
-        "Software Engineering"
-      ]
-    },
-    {
-      "title": "Automation Engineer (Customer Service)",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
-      "source": "Jobicy",
-      "date": "2026-10-02T08:38:06+00:00",
-      "tags": [
-        "Software Engineering"
       ]
     },
     {
@@ -404,9 +384,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -415,9 +395,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -512,17 +492,6 @@
       ]
     },
     {
-      "title": "Snr Manager/ Associate Director, Property Management, East China",
-      "company": "ESR Group",
-      "url": "https://jobs.workable.com/view/pjRrK8xCczgdT8TpwwDRma/snr-manager%2F-associate-director%2C-property-management%2C-east-china-in-shanghai-at-esr-group",
-      "source": "Workable",
-      "date": "2026-09-07T09:59:10.721Z",
-      "tags": [
-        "Full-time",
-        "shanghai, Shanghai Shi, China"
-      ]
-    },
-    {
       "title": "Regional Property Manager",
       "company": "Encore Property Management",
       "url": "https://jobs.workable.com/view/6EbSN9MHrK6581BzQ8oHox/regional-property-manager-in-tampa-at-encore-property-management",
@@ -566,6 +535,17 @@
       ]
     },
     {
+      "title": "Talent Acquisition Manager",
+      "company": "Kaizen Asset Management Services",
+      "url": "https://jobs.workable.com/view/qhrVbBZKPSsgReZZq1MdmK/talent-acquisition-manager-in-dubai-at-kaizen-asset-management-services",
+      "source": "Workable",
+      "date": "2026-10-02T10:26:49.305Z",
+      "tags": [
+        "Full-time",
+        "Dubai, Dubai, United Arab Emirates"
+      ]
+    },
+    {
       "title": "Automotive Sales Manager/ F&I Manager",
       "company": "Dennis & Co. Auto Group",
       "url": "https://jobs.workable.com/view/tiNsUWt1SAD8AbvGGTmuZL/automotive-sales-manager%2F-f%26i-manager-in-new-york-at-dennis-%26-co.-auto-group",
@@ -600,17 +580,6 @@
     {
       "title": "Policy Administration & Insurance Operations Manager",
       "company": "Weekday AI",
-      "url": "https://jobs.workable.com/view/iijBqEHvxtiskHz9vhRJ5x/remote-policy-administration-%26-insurance-operations-manager-in-united-kingdom-at-weekday-ai",
-      "source": "Workable",
-      "date": "2026-09-14T19:48:16.488Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Policy Administration & Insurance Operations Manager",
-      "company": "Weekday AI",
       "url": "https://jobs.workable.com/view/uRPfnziJWcZnj86z8oxWM8/remote-policy-administration-%26-insurance-operations-manager-in-new-zealand-at-weekday-ai",
       "source": "Workable",
       "date": "2026-09-14T19:48:16.319Z",
@@ -636,6 +605,17 @@
       "url": "https://jobs.workable.com/view/rSmLPhZx39tQhfeSnKJA17/remote-policy-administration-%26-insurance-operations-manager-in-australia-at-weekday-ai",
       "source": "Workable",
       "date": "2026-09-14T19:48:15.862Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Policy Administration & Insurance Operations Manager",
+      "company": "Weekday AI",
+      "url": "https://jobs.workable.com/view/iijBqEHvxtiskHz9vhRJ5x/remote-policy-administration-%26-insurance-operations-manager-in-united-kingdom-at-weekday-ai",
+      "source": "Workable",
+      "date": "2026-09-14T19:48:16.488Z",
       "tags": [
         "Contract",
         "Remote"

@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-03T04:13:53.235Z",
-  "count": 165,
+  "generatedAt": "2026-10-03T11:14:52.111Z",
+  "count": 163,
   "sources": {
-    "node": 103,
+    "node": 101,
     "jobspy": 62
   },
   "jobs": [
@@ -71,26 +71,6 @@
         "sales",
         "medical",
         "digital nomad"
-      ]
-    },
-    {
-      "title": "AI Automation Engineer",
-      "company": "Airtm",
-      "url": "https://jobicy.com/jobs/154409-ai-automation-engineer-2",
-      "source": "Jobicy",
-      "date": "2026-10-02T15:15:27+00:00",
-      "tags": [
-        "Software Engineering"
-      ]
-    },
-    {
-      "title": "Automation Engineer (Customer Service)",
-      "company": "Nebius",
-      "url": "https://jobicy.com/jobs/154401-automation-engineer-customer-service",
-      "source": "Jobicy",
-      "date": "2026-10-02T08:38:06+00:00",
-      "tags": [
-        "Software Engineering"
       ]
     },
     {
@@ -408,9 +388,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -419,9 +399,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -516,17 +496,6 @@
       ]
     },
     {
-      "title": "Snr Manager/ Associate Director, Property Management, East China",
-      "company": "ESR Group",
-      "url": "https://jobs.workable.com/view/pjRrK8xCczgdT8TpwwDRma/snr-manager%2F-associate-director%2C-property-management%2C-east-china-in-shanghai-at-esr-group",
-      "source": "Workable",
-      "date": "2026-09-07T09:59:10.721Z",
-      "tags": [
-        "Full-time",
-        "shanghai, Shanghai Shi, China"
-      ]
-    },
-    {
       "title": "Regional Property Manager",
       "company": "Encore Property Management",
       "url": "https://jobs.workable.com/view/6EbSN9MHrK6581BzQ8oHox/regional-property-manager-in-tampa-at-encore-property-management",
@@ -570,6 +539,17 @@
       ]
     },
     {
+      "title": "Talent Acquisition Manager",
+      "company": "Kaizen Asset Management Services",
+      "url": "https://jobs.workable.com/view/qhrVbBZKPSsgReZZq1MdmK/talent-acquisition-manager-in-dubai-at-kaizen-asset-management-services",
+      "source": "Workable",
+      "date": "2026-10-02T10:26:49.305Z",
+      "tags": [
+        "Full-time",
+        "Dubai, Dubai, United Arab Emirates"
+      ]
+    },
+    {
       "title": "Automotive Sales Manager/ F&I Manager",
       "company": "Dennis & Co. Auto Group",
       "url": "https://jobs.workable.com/view/tiNsUWt1SAD8AbvGGTmuZL/automotive-sales-manager%2F-f%26i-manager-in-new-york-at-dennis-%26-co.-auto-group",
@@ -604,17 +584,6 @@
     {
       "title": "Policy Administration & Insurance Operations Manager",
       "company": "Weekday AI",
-      "url": "https://jobs.workable.com/view/iijBqEHvxtiskHz9vhRJ5x/remote-policy-administration-%26-insurance-operations-manager-in-united-kingdom-at-weekday-ai",
-      "source": "Workable",
-      "date": "2026-09-14T19:48:16.488Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Policy Administration & Insurance Operations Manager",
-      "company": "Weekday AI",
       "url": "https://jobs.workable.com/view/uRPfnziJWcZnj86z8oxWM8/remote-policy-administration-%26-insurance-operations-manager-in-new-zealand-at-weekday-ai",
       "source": "Workable",
       "date": "2026-09-14T19:48:16.319Z",
@@ -640,6 +609,17 @@
       "url": "https://jobs.workable.com/view/rSmLPhZx39tQhfeSnKJA17/remote-policy-administration-%26-insurance-operations-manager-in-australia-at-weekday-ai",
       "source": "Workable",
       "date": "2026-09-14T19:48:15.862Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Policy Administration & Insurance Operations Manager",
+      "company": "Weekday AI",
+      "url": "https://jobs.workable.com/view/iijBqEHvxtiskHz9vhRJ5x/remote-policy-administration-%26-insurance-operations-manager-in-united-kingdom-at-weekday-ai",
+      "source": "Workable",
+      "date": "2026-09-14T19:48:16.488Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1229,14 +1209,6 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant",
-      "company": "MSA Asia",
-      "url": "https://www.linkedin.com/jobs/view/4474332626",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
       "title": "Virtual Executive Assistant (Remote)",
       "company": "RecruitLints",
       "url": "https://www.linkedin.com/jobs/view/4472133010",
@@ -1333,14 +1305,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "MedaStaré",
-      "url": "https://www.linkedin.com/jobs/view/4473177489",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
       "title": "PE - Executive Assistant - Supporting U.S.-Based Executives",
       "company": "MyOutDesk",
       "url": "https://www.linkedin.com/jobs/view/4474520729",
@@ -1373,17 +1337,17 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to CEO - PostEx",
-      "company": "Taraki",
-      "url": "https://www.linkedin.com/jobs/view/4472343515",
+      "title": "EXECUTIVE ASSISTANT TO THE CEO - GERMAN SPEAKING (m/f/d)",
+      "company": "Schwarz Digits",
+      "url": "https://www.linkedin.com/jobs/view/4472155758",
       "source": "JobSpy/linkedin",
       "date": "2026-09-30",
       "tags": []
     },
     {
-      "title": "EXECUTIVE ASSISTANT TO THE CEO - GERMAN SPEAKING (m/f/d)",
-      "company": "Schwarz Digits",
-      "url": "https://www.linkedin.com/jobs/view/4472155758",
+      "title": "Executive Assistant  To CEO",
+      "company": "SilverRose Staffing Agency",
+      "url": "https://www.linkedin.com/jobs/view/4473740988",
       "source": "JobSpy/linkedin",
       "date": "2026-09-30",
       "tags": []
@@ -1400,6 +1364,14 @@
       "title": "Executive Assistant",
       "company": "Silverlink Technologies",
       "url": "https://www.linkedin.com/jobs/view/4473542135",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-29",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Managing Director",
+      "company": "Maruthi Plastics & Packaging Chennai Private Limited",
+      "url": "https://www.linkedin.com/jobs/view/4470306526",
       "source": "JobSpy/linkedin",
       "date": "2026-09-29",
       "tags": []
@@ -1429,25 +1401,17 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant to the Chair",
+      "company": "Gizli Şirket",
+      "url": "https://www.linkedin.com/jobs/view/4468361798",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
       "title": "Property Manager (High-Rise)",
       "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
       "url": "https://www.linkedin.com/jobs/view/4473806010",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
-      "title": "Property Manager - Residential Property Management - Shrewsbury",
-      "company": "Ikon Consultancy",
-      "url": "https://www.linkedin.com/jobs/view/4473804190",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
-      "title": "Property Manager - Residential Property Management - Shrewsbury",
-      "company": "Lambert Smith Hampton (Ireland)",
-      "url": "https://www.linkedin.com/jobs/view/4473153001",
       "source": "JobSpy/linkedin",
       "date": "2026-10-02",
       "tags": []
@@ -1509,6 +1473,14 @@
       "tags": []
     },
     {
+      "title": "Property Manager",
+      "company": "Summit Management Group, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4475003834",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
       "title": "Property Manager (Residential Condo)",
       "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
       "url": "https://www.linkedin.com/jobs/view/4470318548",
@@ -1541,11 +1513,19 @@
       "tags": []
     },
     {
-      "title": "Property Manager - Residential Property Management - London",
-      "company": "Lambert Smith Hampton (Ireland)",
-      "url": "https://www.linkedin.com/jobs/view/4471233211",
+      "title": "Property Manager",
+      "company": "Akelius Residential Property AB",
+      "url": "https://www.linkedin.com/jobs/view/4471208205",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-29",
+      "date": "2026-09-28",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Flemington",
+      "company": "Nelson Alexander Real Estate",
+      "url": "https://www.linkedin.com/jobs/view/4472492855",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-28",
       "tags": []
     },
     {
@@ -1581,14 +1561,6 @@
       "tags": []
     },
     {
-      "title": "KI & Automation Specialist (gn*)",
-      "company": "Woolworth GmbH",
-      "url": "https://www.linkedin.com/jobs/view/4472310475",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-30",
-      "tags": []
-    },
-    {
       "title": "AI Automation Specialist",
       "company": "Searchability®",
       "url": "https://www.linkedin.com/jobs/view/4473273522",
@@ -1600,6 +1572,14 @@
       "title": "AI Automation Specialist (remote in CA)",
       "company": "Rex Moore Electrical & Systems Contractors & Engineers",
       "url": "https://www.linkedin.com/jobs/view/4473296596",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-29",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Expert",
+      "company": "CWS Workwear",
+      "url": "https://www.linkedin.com/jobs/view/4473257943",
       "source": "JobSpy/linkedin",
       "date": "2026-09-29",
       "tags": []
