@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-04T11:54:40.605Z",
-  "count": 168,
+  "generatedAt": "2026-10-04T16:35:13.600Z",
+  "count": 166,
   "sources": {
     "node": 106,
-    "jobspy": 62
+    "jobspy": 60
   },
   "jobs": [
     {
@@ -460,9 +460,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -471,9 +471,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -711,42 +711,42 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.674Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.602Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.548Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.073Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:02:40.771Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:02:39.156Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1179,6 +1179,14 @@
       "tags": []
     },
     {
+      "title": "Medical Billing, Insurance & Credentialing Virtual Assistant (Part-Time, Remote, 1099)",
+      "company": "Oak & Willow Billing LLC",
+      "url": "https://www.indeed.com/viewjob?jk=e7d3ef8394c08ee9",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
       "title": "Virtual Assistant (Spanish-English) Speaking",
       "company": "",
       "url": "https://www.indeed.com/viewjob?jk=7f06baa0abf5e657",
@@ -1189,23 +1197,23 @@
     {
       "title": "Virtual Assistant to CEO (Remote)",
       "company": "Viva Talent",
-      "url": "https://www.linkedin.com/jobs/view/4475343237",
+      "url": "https://www.linkedin.com/jobs/view/4475512017",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-03",
+      "date": "2026-10-04",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant to CEO (Remote)",
+      "company": "Viva Talent",
+      "url": "https://www.linkedin.com/jobs/view/4475391679",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-04",
       "tags": []
     },
     {
       "title": "Virtual Administrative Assistant (Remote) Entry Level",
       "company": "CV-BRIDGE LTD",
       "url": "https://www.linkedin.com/jobs/view/4473836077",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-03",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant to CEO (Remote)",
-      "company": "Viva Talent",
-      "url": "https://www.linkedin.com/jobs/view/4475344219",
       "source": "JobSpy/linkedin",
       "date": "2026-10-03",
       "tags": []
@@ -1555,17 +1563,17 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "ZRS Management",
-      "url": "https://www.linkedin.com/jobs/view/4473526714",
+      "title": "Gestionnaire d'immeubles / Property Manager",
+      "company": "Akelius Canada",
+      "url": "https://www.linkedin.com/jobs/view/4472582796",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-29",
+      "date": "2026-10-01",
       "tags": []
     },
     {
-      "title": "Property Manager - Residential Property Management - London",
-      "company": "Lambert Smith Hampton (Ireland)",
-      "url": "https://www.linkedin.com/jobs/view/4471233211",
+      "title": "Property Manager",
+      "company": "ZRS Management",
+      "url": "https://www.linkedin.com/jobs/view/4473526714",
       "source": "JobSpy/linkedin",
       "date": "2026-09-29",
       "tags": []
@@ -1624,30 +1632,6 @@
       "url": "https://www.linkedin.com/jobs/view/4473296596",
       "source": "JobSpy/linkedin",
       "date": "2026-09-29",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Expert",
-      "company": "CWS Workwear",
-      "url": "https://www.linkedin.com/jobs/view/4473257943",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-29",
-      "tags": []
-    },
-    {
-      "title": "Business Process Automation Engineer",
-      "company": "81 North",
-      "url": "https://www.linkedin.com/jobs/view/4471549175",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
-      "title": "Automation Engineer - Influencers",
-      "company": "ElevenLabs",
-      "url": "https://www.linkedin.com/jobs/view/4474372396",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-01",
       "tags": []
     },
     {
