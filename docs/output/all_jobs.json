@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-05T04:33:34.786Z",
-  "count": 167,
+  "generatedAt": "2026-10-05T13:52:08.107Z",
+  "count": 171,
   "sources": {
-    "node": 107,
-    "jobspy": 60
+    "node": 106,
+    "jobspy": 65
   },
   "jobs": [
     {
@@ -124,34 +124,20 @@
       ]
     },
     {
-      "title": "Executive Assistant",
-      "company": "Solace",
-      "url": "https://jobicy.com/jobs/154494-executive-assistant-2",
-      "source": "Jobicy",
-      "date": "2026-10-04T05:30:42+00:00",
-      "tags": [
-        "Admin & Virtual Assistance"
-      ]
+      "title": "Senior Support Engineer",
+      "company": "Town Web",
+      "url": "https://weworkremotely.com/remote-jobs/town-web-senior-support-engineer",
+      "source": "We Work Remotely",
+      "date": "Mon, 05 Oct 2026 08:04:16 +0000",
+      "tags": []
     },
     {
-      "title": "Executive Assistant / Corporate Administrator",
-      "company": "Canonical",
-      "url": "https://jobicy.com/jobs/154489-executive-assistant-corporate-administrator-2",
-      "source": "Jobicy",
-      "date": "2026-10-04T05:30:42+00:00",
-      "tags": [
-        "Admin & Virtual Assistance"
-      ]
-    },
-    {
-      "title": "Senior QA Automation Engineer (Platform)",
-      "company": "Upgrade",
-      "url": "https://jobicy.com/jobs/152407-senior-qa-automation-engineer-platform",
-      "source": "Jobicy",
-      "date": "2026-10-04T04:30:14+00:00",
-      "tags": [
-        "QA & Testing"
-      ]
+      "title": "Legal Counsel, EMEA",
+      "company": "Tines",
+      "url": "https://weworkremotely.com/remote-jobs/tines-legal-counsel-emea",
+      "source": "We Work Remotely",
+      "date": "Mon, 05 Oct 2026 07:31:16 +0000",
+      "tags": []
     },
     {
       "title": "Lead Customer Success Manager - West",
@@ -611,6 +597,17 @@
       ]
     },
     {
+      "title": "Debt Collector",
+      "company": "Makowsky Ringel Greenberg, LLC",
+      "url": "https://jobs.workable.com/view/uKSR9ZxFcS3AMmH6y4FyRs/debt-collector-in-memphis-at-makowsky-ringel-greenberg%2C-llc",
+      "source": "Workable",
+      "date": "2021-07-28T11:39:59.000Z",
+      "tags": [
+        "Full-time",
+        "Memphis, Tennessee, United States"
+      ]
+    },
+    {
       "title": "Automotive Sales Manager/ F&I Manager",
       "company": "Dennis & Co. Auto Group",
       "url": "https://jobs.workable.com/view/tiNsUWt1SAD8AbvGGTmuZL/automotive-sales-manager%2F-f%26i-manager-in-new-york-at-dennis-%26-co.-auto-group",
@@ -1050,14 +1047,14 @@
       ]
     },
     {
-      "title": "Senior CRM & Automation Specialist (SCAS 0926)",
-      "company": "Skroutz S.A",
-      "url": "https://jobs.workable.com/view/iE4FXRT7UEjFKbRZ49op68/hybrid-senior-crm-%26-automation-specialist-(scas-0926)-in-athens-at-skroutz-s.a",
+      "title": "Process Automation Specialist (m/w/x)",
+      "company": "Thorlabs",
+      "url": "https://jobs.workable.com/view/gjS1LM1ZUXxFj27zrf9EZ2/process-automation-specialist-(m%2Fw%2Fx)-in-bergkirchen-at-thorlabs",
       "source": "Workable",
-      "date": "2026-09-11T08:37:08.653Z",
+      "date": "2026-09-03T05:49:37.048Z",
       "tags": [
         "Full-time",
-        "Athens, Attica, Greece"
+        "Bergkirchen, Bavaria, Germany"
       ]
     },
     {
@@ -1096,9 +1093,9 @@
     {
       "title": "Senior Governance, Risk and Compliance Specialist",
       "company": "payabl.",
-      "url": "https://jobs.workable.com/view/aWK3TiZYPFL36G9T6gdwH3/remote-senior-governance%2C-risk-and-compliance-specialist-in-poland-at-payabl.",
+      "url": "https://jobs.workable.com/view/naCA6reXqrZndhn6Rzm4NK/remote-senior-governance%2C-risk-and-compliance-specialist-in-portugal-at-payabl.",
       "source": "Workable",
-      "date": "2026-10-02T11:03:11.748Z",
+      "date": "2026-10-02T11:03:11.546Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1107,9 +1104,9 @@
     {
       "title": "Senior Governance, Risk and Compliance Specialist",
       "company": "payabl.",
-      "url": "https://jobs.workable.com/view/naCA6reXqrZndhn6Rzm4NK/remote-senior-governance%2C-risk-and-compliance-specialist-in-portugal-at-payabl.",
+      "url": "https://jobs.workable.com/view/aWK3TiZYPFL36G9T6gdwH3/remote-senior-governance%2C-risk-and-compliance-specialist-in-poland-at-payabl.",
       "source": "Workable",
-      "date": "2026-10-02T11:03:11.546Z",
+      "date": "2026-10-02T11:03:11.748Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1171,15 +1168,20 @@
       ]
     },
     {
-      "title": "Senior Recruiter",
-      "company": "LawnStarter",
-      "url": "https://jobs.workable.com/view/ebGR8jdYMop7i1uWyVG7ju/remote-senior-recruiter-in-metro-manila-at-lawnstarter",
-      "source": "Workable",
-      "date": "2026-10-01T20:48:41.782Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
+      "title": "HR Virtual Assistant (Remote - Accra, Ghana only)",
+      "company": "Boji Medical Billing",
+      "url": "https://www.indeed.com/viewjob?jk=a8bd6a463dd0e33b",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Elysion Health and Wellness",
+      "url": "https://www.indeed.com/viewjob?jk=26b2bf16c8c9db10",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-05",
+      "tags": []
     },
     {
       "title": "Remote Virtual Assistant for Mental Health Clinic",
@@ -1198,11 +1200,27 @@
       "tags": []
     },
     {
+      "title": "Medical Billing, Insurance & Credentialing Virtual Assistant (Part-Time, Remote, 1099)",
+      "company": "Oak & Willow Billing LLC",
+      "url": "https://www.indeed.com/viewjob?jk=e7d3ef8394c08ee9",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
       "title": "Virtual Assistant (Spanish-English) Speaking",
       "company": "",
       "url": "https://www.indeed.com/viewjob?jk=7f06baa0abf5e657",
       "source": "JobSpy/indeed",
       "date": "2026-10-01",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant Administrator / Data Entry Specialist",
+      "company": "HireCity Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4475538639",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-05",
       "tags": []
     },
     {
@@ -1270,14 +1288,6 @@
       "tags": []
     },
     {
-      "title": "Virtual Executive Assistant (Remote)",
-      "company": "RecruitLints",
-      "url": "https://www.linkedin.com/jobs/view/4472133010",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-30",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant to CEO",
       "company": "Prime System Solutions",
       "url": "https://www.linkedin.com/jobs/view/4473285444",
@@ -1318,11 +1328,11 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=d0d404d35c14dbf2",
+      "title": "Senior Executive Assistant to the CEO",
+      "company": "Freedom Real Estate Group",
+      "url": "https://www.indeed.com/viewjob?jk=5ddf667b395b47ae",
       "source": "JobSpy/indeed",
-      "date": "2026-10-02",
+      "date": "2026-10-01",
       "tags": []
     },
     {
@@ -1366,17 +1376,57 @@
       "tags": []
     },
     {
-      "title": "PE - Executive Assistant - Supporting U.S.-Based Executives",
-      "company": "MyOutDesk",
-      "url": "https://www.linkedin.com/jobs/view/4474520729",
+      "title": "Executive Assistant to Chief Executive Officer",
+      "company": "Innova ESI",
+      "url": "https://www.linkedin.com/jobs/view/4475560673",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-01",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Director",
+      "company": "Career Path HR Solution",
+      "url": "https://www.linkedin.com/jobs/view/4474260090",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-05",
       "tags": []
     },
     {
       "title": "Executive Assistant",
-      "company": "FroxJob | Executive Jobs in Nepal",
-      "url": "https://www.linkedin.com/jobs/view/4472905722",
+      "company": "Liberty Knitwear Ltd.",
+      "url": "https://www.linkedin.com/jobs/view/4474250530",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the Chair",
+      "company": "Gizli Şirket",
+      "url": "https://www.linkedin.com/jobs/view/4468361798",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "title": "Bilingual Executive Assistant (Mandarin)",
+      "company": "Michael Page",
+      "url": "https://www.linkedin.com/jobs/view/4475551304",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant / Assistenz der Geschäftsführung (m/w/d)",
+      "company": "Loyal Parking Deutschland",
+      "url": "https://www.linkedin.com/jobs/view/4474793901",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "PE - Executive Assistant - Supporting U.S.-Based Executives",
+      "company": "MyOutDesk",
+      "url": "https://www.linkedin.com/jobs/view/4474520729",
       "source": "JobSpy/linkedin",
       "date": "2026-10-01",
       "tags": []
@@ -1422,14 +1472,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to Chief Executive Officer",
-      "company": "Oway.com.mm",
-      "url": "https://www.linkedin.com/jobs/view/4473214893",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-29",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant",
       "company": "Silverlink Technologies",
       "url": "https://www.linkedin.com/jobs/view/4473542135",
@@ -1446,27 +1488,19 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to Chief Executive Officer",
-      "company": "Calsoft",
-      "url": "https://www.linkedin.com/jobs/view/4471317987",
+      "title": "Property Manager",
+      "company": "Minor Hotels",
+      "url": "https://www.linkedin.com/jobs/view/4466793809",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-28",
+      "date": "2026-10-05",
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "Dream Games",
-      "url": "https://www.linkedin.com/jobs/view/3976007382",
+      "title": "Property Manager (Residential)",
+      "company": "SmartCentres REIT",
+      "url": "https://www.linkedin.com/jobs/view/4446925202",
       "source": "JobSpy/linkedin",
-      "date": "2026-09-28",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the Chair",
-      "company": "Gizli Şirket",
-      "url": "https://www.linkedin.com/jobs/view/4468361798",
-      "source": "JobSpy/linkedin",
-      "date": "2026-09-28",
+      "date": "2026-10-05",
       "tags": []
     },
     {
@@ -1542,22 +1576,6 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Harbor Group Management Company",
-      "url": "https://www.linkedin.com/jobs/view/4464817387",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
-      "title": "Residential Property Manager",
-      "company": "LSH Residential",
-      "url": "https://www.linkedin.com/jobs/view/4473134165",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
       "title": "Property Manager (Residential Condo)",
       "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
       "url": "https://www.linkedin.com/jobs/view/4470318548",
@@ -1590,11 +1608,11 @@
       "tags": []
     },
     {
-      "title": "AI AUTOMATION SPECIALIST",
-      "company": "Al Yousef Group",
-      "url": "https://www.linkedin.com/jobs/view/4473453101",
+      "title": "RPA & Agentic Automation Specialist",
+      "company": "SEIDOR",
+      "url": "https://www.linkedin.com/jobs/view/4473614705",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-03",
+      "date": "2026-10-05",
       "tags": []
     },
     {
@@ -1641,6 +1659,14 @@
       "title": "AI Automation Specialist (remote in CA)",
       "company": "Rex Moore Electrical & Systems Contractors & Engineers",
       "url": "https://www.linkedin.com/jobs/view/4473296596",
+      "source": "JobSpy/linkedin",
+      "date": "2026-09-29",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Expert",
+      "company": "CWS Workwear",
+      "url": "https://www.linkedin.com/jobs/view/4473257943",
       "source": "JobSpy/linkedin",
       "date": "2026-09-29",
       "tags": []
