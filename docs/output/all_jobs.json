@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-07T12:49:50.637Z",
-  "count": 159,
+  "generatedAt": "2026-10-07T22:51:08.939Z",
+  "count": 151,
   "sources": {
-    "node": 98,
-    "jobspy": 61
+    "node": 97,
+    "jobspy": 54
   },
   "jobs": [
     {
@@ -361,17 +361,6 @@
       ]
     },
     {
-      "title": "Property Management Assistant",
-      "company": "iSupport Worldwide",
-      "url": "https://jobs.workable.com/view/jhk8Fde3aUkUMC78nR7k86/property-management-assistant-in-pasig-at-isupport-worldwide",
-      "source": "Workable",
-      "date": "2026-09-30T04:50:52.601Z",
-      "tags": [
-        "Full-time",
-        "Pasig, Metro Manila, Philippines"
-      ]
-    },
-    {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
       "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
@@ -407,9 +396,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -418,9 +407,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -493,34 +482,69 @@
       ]
     },
     {
-      "title": "Operations Assistant",
-      "company": "Bridge33 Capital",
-      "url": "https://jobs.workable.com/view/9zSPCdcE3utCCng7CbLbPd/remote-operations-assistant-in-metro-manila-at-bridge33-capital",
+      "title": "Customer Service - Community Manager",
+      "company": "VSF Rentals",
+      "url": "https://jobs.workable.com/view/513aiw4CGsEXD8rjqNtFCM/customer-service---community-manager-in-oxford-at-vsf-rentals",
       "source": "Workable",
-      "date": "2026-10-07T12:20:30.044Z",
+      "date": "2026-10-07T16:07:59.224Z",
       "tags": [
-        "Contract",
-        "Remote"
+        "Full-time",
+        "Oxford, Ohio, United States"
       ]
     },
     {
-      "title": "Regional Property Manager - Multi-Family Properties",
-      "company": "CYM Living LLC",
-      "url": "https://jobs.workable.com/view/tan9AzHWrRVL1xhXmjsxXi/regional-property-manager---multi-family-properties-in-indianapolis-at-cym-living-llc",
+      "title": "Plumber",
+      "company": "VSF Rentals",
+      "url": "https://jobs.workable.com/view/3PgPQsFg9YqhYq4dMDqmCo/plumber-in-oxford-at-vsf-rentals",
       "source": "Workable",
-      "date": "2026-10-06T20:13:52.517Z",
+      "date": "2026-10-07T16:09:31.182Z",
       "tags": [
-        "Indianapolis, Indiana, United States"
+        "Full-time",
+        "Oxford, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Operations Manager",
+      "company": "VSF Rentals",
+      "url": "https://jobs.workable.com/view/ujzV2nt4vnoQpFugckBKBv/operations-manager-in-oxford-at-vsf-rentals",
+      "source": "Workable",
+      "date": "2026-10-07T16:08:45.898Z",
+      "tags": [
+        "Full-time",
+        "Oxford, Ohio, United States"
       ]
     },
     {
       "title": "Property Manager",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/jpciaKcffDEPjoVhzkkAQ4/property-manager-in-dubai-at-driven-properties",
+      "company": "CommonPlace",
+      "url": "https://jobs.workable.com/view/jc4xAzXcGuri6VfjQba5W6/property-manager-in-charlotte-at-commonplace",
       "source": "Workable",
-      "date": "2026-10-06T10:52:55.718Z",
+      "date": "2026-10-07T21:52:05.556Z",
       "tags": [
-        "Dubai, Dubai, United Arab Emirates"
+        "Full-time",
+        "Charlotte, North Carolina, United States"
+      ]
+    },
+    {
+      "title": "Regional Property Manager",
+      "company": "Boulder Housing Partners",
+      "url": "https://jobs.workable.com/view/rHC6NHRDB3AaoZWboXUPPD/regional-property-manager-in-boulder-at-boulder-housing-partners",
+      "source": "Workable",
+      "date": "2026-10-07T22:06:29.653Z",
+      "tags": [
+        "Full-time",
+        "Boulder, Colorado, United States"
+      ]
+    },
+    {
+      "title": "B2B Field Sales / Outside Sales Rep - Florida",
+      "company": "RYSE Inc",
+      "url": "https://jobs.workable.com/view/63iNjFZ9VV5jz1xFofJm8j/remote-b2b-field-sales-%2F-outside-sales-rep---florida-in-miami-at-ryse-inc",
+      "source": "Workable",
+      "date": "2026-10-07T17:47:03.609Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     },
     {
@@ -580,17 +604,6 @@
     {
       "title": "Policy Administration & Insurance Operations Manager",
       "company": "Weekday AI",
-      "url": "https://jobs.workable.com/view/2pKZGxNA1VP4PubQe5ZBGd/remote-policy-administration-%26-insurance-operations-manager-in-germany-at-weekday-ai",
-      "source": "Workable",
-      "date": "2026-09-14T19:48:16.771Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Policy Administration & Insurance Operations Manager",
-      "company": "Weekday AI",
       "url": "https://jobs.workable.com/view/uRPfnziJWcZnj86z8oxWM8/remote-policy-administration-%26-insurance-operations-manager-in-new-zealand-at-weekday-ai",
       "source": "Workable",
       "date": "2026-09-14T19:48:16.319Z",
@@ -616,6 +629,17 @@
       "url": "https://jobs.workable.com/view/rSmLPhZx39tQhfeSnKJA17/remote-policy-administration-%26-insurance-operations-manager-in-australia-at-weekday-ai",
       "source": "Workable",
       "date": "2026-09-14T19:48:15.862Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Policy Administration & Insurance Operations Manager",
+      "company": "Weekday AI",
+      "url": "https://jobs.workable.com/view/2pKZGxNA1VP4PubQe5ZBGd/remote-policy-administration-%26-insurance-operations-manager-in-germany-at-weekday-ai",
+      "source": "Workable",
+      "date": "2026-09-14T19:48:16.771Z",
       "tags": [
         "Contract",
         "Remote"
@@ -679,6 +703,28 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/me4URBWZJn3yMMrXk3N5Yu/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-romania-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.977Z",
@@ -712,31 +758,9 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -767,23 +791,23 @@
     {
       "title": "AI Operations Executive",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:19:07.307Z",
-      "tags": [
-        "Full-time",
-        "Buenos Aires, Buenos Aires, Argentina"
-      ]
-    },
-    {
-      "title": "AI Operations Executive",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
       "source": "Workable",
       "date": "2025-09-26T10:19:07.025Z",
       "tags": [
         "Full-time",
         "Mexico City, Mexico City, Mexico"
+      ]
+    },
+    {
+      "title": "AI Operations Executive",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
+      "source": "Workable",
+      "date": "2025-09-26T10:19:07.307Z",
+      "tags": [
+        "Full-time",
+        "Buenos Aires, Buenos Aires, Argentina"
       ]
     },
     {
@@ -930,50 +954,6 @@
       ]
     },
     {
-      "title": "Automation Specialist (OT/ICSS)",
-      "company": "Pacific Energy Canada",
-      "url": "https://jobs.workable.com/view/4WdQKheiNazMbFjWrupdeZ/automation-specialist-(ot%2Ficss)-in-vancouver-at-pacific-energy-canada",
-      "source": "Workable",
-      "date": "2026-05-25T17:25:20.667Z",
-      "tags": [
-        "Full-time",
-        "Vancouver, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Automation Specialist (OT/ICSS)",
-      "company": "Pacific Energy Canada",
-      "url": "https://jobs.workable.com/view/rwUo6PmVhHJnSCRjMXVLZ8/automation-specialist-(ot%2Ficss)-in-squamish-at-pacific-energy-canada",
-      "source": "Workable",
-      "date": "2026-05-25T17:25:20.194Z",
-      "tags": [
-        "Full-time",
-        "Squamish, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Growth Marketing Specialist (Funnels & AI Automation) - Remote",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/g6jC7aA7dkzL5N1gGLcioC/growth-marketing-specialist-(funnels-%26-ai-automation)---remote-in-lviv-at-human-intelligence",
-      "source": "Workable",
-      "date": "2026-03-04T13:50:51.772Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Growth Marketing Specialist (Funnels & AI Automation) - Remote",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/iwA7YYJG467ZYtpgEhjEQi/growth-marketing-specialist-(funnels-%26-ai-automation)---remote-in-jakarta-at-human-intelligence",
-      "source": "Workable",
-      "date": "2026-03-04T13:50:50.725Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/remote-ai-workflow-engineer%2Fautomation-architect-in-california-at-modern-family-law",
@@ -1040,6 +1020,17 @@
       ]
     },
     {
+      "title": "Account Executive - Federal Government (Remote, United States)",
+      "company": "M-Files",
+      "url": "https://jobs.workable.com/view/8ef5YpXwxjGWh4PYS5cMZY/account-executive---federal-government-(remote%2C-united-states)-in-united-states-at-m-files",
+      "source": "Workable",
+      "date": "2026-10-07T20:18:01.576Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "CoPilot Product Owner",
       "company": "Northern Trust",
       "url": "https://jobs.workable.com/view/udYNaSsMQkLBoR8Mnm9x7a/copilot-product-owner-in-london-at-northern-trust",
@@ -1098,6 +1089,14 @@
       "tags": []
     },
     {
+      "title": "Executive Virtual Assistant - PH (Remote)",
+      "company": "Snapscale",
+      "url": "https://www.linkedin.com/jobs/view/4476787769",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-07",
+      "tags": []
+    },
+    {
       "title": "General Virtual Assistant (Remote Work) - For Pooling",
       "company": "VirtuallyinCredible Careers Hub",
       "url": "https://www.linkedin.com/jobs/view/4475401379",
@@ -1106,11 +1105,19 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant – Remote Staffing",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4476569995",
+      "title": "Administrative Assistant",
+      "company": "Remote Leverage",
+      "url": "https://www.linkedin.com/jobs/view/4475881891",
       "source": "JobSpy/linkedin",
       "date": "2026-10-07",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Closer Consulting",
+      "url": "https://www.linkedin.com/jobs/view/4476739074",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-06",
       "tags": []
     },
     {
@@ -1146,22 +1153,6 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant",
-      "company": "Remote Leverage",
-      "url": "https://www.linkedin.com/jobs/view/4475881891",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "title": "General Virtual Assistant",
-      "company": "F5 Hiring – Global Talent",
-      "url": "https://www.linkedin.com/jobs/view/4474276855",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant",
       "company": "Somewhere",
       "url": "https://www.linkedin.com/jobs/view/4472581310",
@@ -1186,43 +1177,11 @@
       "tags": []
     },
     {
-      "title": "Senior Administrative Assistant II",
-      "company": "The Nielsen Company",
-      "url": "https://www.indeed.com/viewjob?jk=ed7754f26acc51e7",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant & Client Relations Coordinator",
       "company": "OHM Hospitality",
       "url": "https://www.indeed.com/viewjob?jk=34e3546452add47e",
       "source": "JobSpy/indeed",
       "date": "2026-10-05",
-      "tags": []
-    },
-    {
-      "title": "Senior Executive Assistant to the CEO",
-      "company": "Freedom Real Estate Group",
-      "url": "https://www.indeed.com/viewjob?jk=5ddf667b395b47ae",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-01",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Plumbing Solutions LLC",
-      "url": "https://www.indeed.com/viewjob?jk=ed9ff568c562818a",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-30",
-      "tags": []
-    },
-    {
-      "title": "Executive Administrative Assistant (contract)",
-      "company": "Microsoft",
-      "url": "https://www.indeed.com/viewjob?jk=3a61378f389d959a",
-      "source": "JobSpy/indeed",
-      "date": "2026-09-30",
       "tags": []
     },
     {
@@ -1239,14 +1198,6 @@
       "url": "https://www.linkedin.com/jobs/view/4448574446",
       "source": "JobSpy/linkedin",
       "date": "2026-10-07",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "qazinitech",
-      "url": "https://www.linkedin.com/jobs/view/4474416288",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-06",
       "tags": []
     },
     {
@@ -1339,14 +1290,6 @@
     },
     {
       "title": "Property Manager",
-      "company": "unitiiPM Inc",
-      "url": "https://www.linkedin.com/jobs/view/4475127991",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-07",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
       "company": "GKR International - Real Estate Talent Specialists",
       "url": "https://www.linkedin.com/jobs/view/4475195264",
       "source": "JobSpy/linkedin",
@@ -1394,6 +1337,22 @@
       "tags": []
     },
     {
+      "title": "Property Manager - Garrett Gateway",
+      "company": "Pegasus Residential",
+      "url": "https://www.linkedin.com/jobs/view/4475878576",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "title": "Property Manager (Residential)",
+      "company": "SmartCentres REIT",
+      "url": "https://www.linkedin.com/jobs/view/4446925202",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
       "title": "Property Manager - Saskatoon",
       "company": "Zen Residential Ltd.",
       "url": "https://www.linkedin.com/jobs/view/4475092121",
@@ -1413,14 +1372,6 @@
       "title": "Property Manager - Residential Property Management - Shrewsbury",
       "company": "Lambert Smith Hampton (Ireland)",
       "url": "https://www.linkedin.com/jobs/view/4473153001",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
-      "title": "Property Manager, Residential",
-      "company": "Peterson Real Estate",
-      "url": "https://www.linkedin.com/jobs/view/4473801499",
       "source": "JobSpy/linkedin",
       "date": "2026-10-02",
       "tags": []
@@ -1450,19 +1401,19 @@
       "tags": []
     },
     {
+      "title": "HC & Insurance Operations Processing Sr Rep",
+      "company": "NTT DATA North America",
+      "url": "https://www.linkedin.com/jobs/view/4476907595",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-07",
+      "tags": []
+    },
+    {
       "title": "Claims Processing Officer-Emirati",
       "company": "Allianz Partners",
       "url": "https://www.linkedin.com/jobs/view/4476175707",
       "source": "JobSpy/linkedin",
       "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "title": "Marketing Automation Specialist",
-      "company": "",
-      "url": "https://www.indeed.com/viewjob?jk=7eb6ad19da8cf0c1",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-07",
       "tags": []
     },
     {
@@ -1546,27 +1497,11 @@
       "tags": []
     },
     {
-      "title": "AI Automation Developer Jr. – OpenAI, Claude & Integrations",
-      "company": "dFlow",
-      "url": "https://www.linkedin.com/jobs/view/4476579239",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-07",
-      "tags": []
-    },
-    {
       "title": "Business Process Automation Engineer",
       "company": "81 North",
       "url": "https://www.linkedin.com/jobs/view/4471549175",
       "source": "JobSpy/linkedin",
       "date": "2026-10-06",
-      "tags": []
-    },
-    {
-      "title": "Automation Engineer - Influencers",
-      "company": "ElevenLabs",
-      "url": "https://www.linkedin.com/jobs/view/4474372396",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-01",
       "tags": []
     }
   ]
