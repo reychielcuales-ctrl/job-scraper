@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-08T23:02:21.736Z",
-  "count": 169,
+  "generatedAt": "2026-10-09T05:01:37.199Z",
+  "count": 172,
   "sources": {
-    "node": 105,
-    "jobspy": 64
+    "node": 104,
+    "jobspy": 68
   },
   "jobs": [
     {
@@ -371,9 +371,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
+      "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.769Z",
+      "date": "2026-09-29T13:32:09.916Z",
       "tags": [
         "Contract",
         "Remote"
@@ -382,9 +382,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
+      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.916Z",
+      "date": "2026-09-29T13:32:09.769Z",
       "tags": [
         "Contract",
         "Remote"
@@ -490,9 +490,9 @@
       ]
     },
     {
-      "title": "Customer Service - Community Manager",
+      "title": "On-Site Customer Service",
       "company": "VSF Rentals",
-      "url": "https://jobs.workable.com/view/513aiw4CGsEXD8rjqNtFCM/customer-service---community-manager-in-oxford-at-vsf-rentals",
+      "url": "https://jobs.workable.com/view/513aiw4CGsEXD8rjqNtFCM/on-site-customer-service-in-oxford-at-vsf-rentals",
       "source": "Workable",
       "date": "2026-10-07T16:07:59.224Z",
       "tags": [
@@ -722,28 +722,6 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.292Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:23.864Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/me4URBWZJn3yMMrXk3N5Yu/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-romania-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.977Z",
@@ -777,9 +755,31 @@
     {
       "title": "Head of Marketing Technology & Automation (Independent Contractor)",
       "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/fCbbckBdmh5u7EaKiGZHVi/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-bulgaria-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:24.292Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
       "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
       "source": "Workable",
       "date": "2026-06-15T19:30:24.041Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/to6z5wVhfw9jMU9aVsw7xa/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-poland-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-06-15T19:30:23.864Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -805,17 +805,6 @@
       "tags": [
         "Full-time",
         "Remote"
-      ]
-    },
-    {
-      "title": "Senior QA Automation Engineer",
-      "company": "Blue Machines AI",
-      "url": "https://jobs.workable.com/view/fGbJJvdkYYR6G2YQP5JVzw/senior-qa-automation-engineer-in-bengaluru-at-blue-machines-ai",
-      "source": "Workable",
-      "date": "2026-09-07T11:53:27.978Z",
-      "tags": [
-        "Full-time",
-        "Bengaluru, Karnataka, India"
       ]
     },
     {
@@ -1230,6 +1219,14 @@
       "tags": []
     },
     {
+      "title": "Virtual Assistant – Golf Equipment",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4474834790",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
       "title": "Virtual Assistant",
       "company": "MSA Asia",
       "url": "https://www.linkedin.com/jobs/view/4477474754",
@@ -1238,9 +1235,9 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant Administrator / Data Entry Specialist",
-      "company": "DeHub Talents",
-      "url": "https://www.linkedin.com/jobs/view/4477158026",
+      "title": "Virtual Assistant – Remote Staffing",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4474851035",
       "source": "JobSpy/linkedin",
       "date": "2026-10-08",
       "tags": []
@@ -1336,7 +1333,7 @@
     {
       "title": "Executive Assistant (Mat Leave Coverage) - Contract",
       "company": "Ruggable",
-      "url": "https://www.indeed.com/viewjob?jk=c92c097b39e0985b",
+      "url": "https://www.indeed.com/viewjob?jk=7a2cf8100387fed4",
       "source": "JobSpy/indeed",
       "date": "2026-10-07",
       "tags": []
@@ -1462,6 +1459,14 @@
       "tags": []
     },
     {
+      "title": "Part-Time Property Management Bookkeeper",
+      "company": "Ochs Realty and Management Company",
+      "url": "https://www.indeed.com/viewjob?jk=eee350f3541d0e18",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
       "title": "Property Accountant with Appfolio Experience (Multifamily Property Management)",
       "company": "Sound Residential Investments",
       "url": "https://www.indeed.com/viewjob?jk=608cf962607aeceb",
@@ -1499,6 +1504,14 @@
       "url": "https://www.linkedin.com/jobs/view/4475195264",
       "source": "JobSpy/linkedin",
       "date": "2026-10-07",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Coastal Georgia Apartment Association",
+      "url": "https://www.linkedin.com/jobs/view/4476192145",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-06",
       "tags": []
     },
     {
@@ -1575,14 +1588,6 @@
     },
     {
       "title": "Property Manager",
-      "company": "Mission Rock Residential, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4474565889",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-02",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
       "company": "Megaward Property Group",
       "url": "https://www.linkedin.com/jobs/view/4472864843",
       "source": "JobSpy/linkedin",
@@ -1592,9 +1597,9 @@
     {
       "title": "HC & Insurance Operations Processing Sr Rep",
       "company": "NTT DATA North America",
-      "url": "https://www.linkedin.com/jobs/view/4476907595",
+      "url": "https://www.linkedin.com/jobs/view/4476958894",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-07",
+      "date": "2026-10-08",
       "tags": []
     },
     {
@@ -1603,6 +1608,14 @@
       "url": "https://www.linkedin.com/jobs/view/4476175707",
       "source": "JobSpy/linkedin",
       "date": "2026-10-06",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Specialist",
+      "company": "nextjobz",
+      "url": "https://www.linkedin.com/jobs/view/4474873106",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-09",
       "tags": []
     },
     {
@@ -1643,6 +1656,14 @@
       "url": "https://www.linkedin.com/jobs/view/4475034733",
       "source": "JobSpy/linkedin",
       "date": "2026-10-02",
+      "tags": []
+    },
+    {
+      "title": "RevOps Automation Specialist",
+      "company": "Kalungi Inc.",
+      "url": "https://www.indeed.com/viewjob?jk=a359abb686d1f535",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-09",
       "tags": []
     },
     {
