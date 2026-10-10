@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-10T04:47:11.781Z",
-  "count": 176,
+  "generatedAt": "2026-10-10T12:03:23.635Z",
+  "count": 186,
   "sources": {
-    "node": 108,
-    "jobspy": 68
+    "node": 116,
+    "jobspy": 70
   },
   "jobs": [
     {
@@ -63,14 +63,40 @@
       ]
     },
     {
-      "title": "Accounting Automation Engineer",
-      "company": "Ruby Labs",
-      "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
+      "title": "Staff Backend Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "url": "https://jobicy.com/jobs/152932-staff-backend-engineer-net-f-m-d",
       "source": "Jobicy",
-      "date": "2026-10-09T06:22:42+00:00",
+      "date": "2026-10-10T03:30:21+00:00",
       "tags": [
-        "Finance & Accounting"
+        "DevOps & Infrastructure"
       ]
+    },
+    {
+      "title": "Senior Software Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "url": "https://jobicy.com/jobs/152912-senior-software-engineer-net-f-m-d",
+      "source": "Jobicy",
+      "date": "2026-10-10T03:23:35+00:00",
+      "tags": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Manager, Renewals",
+      "company": "Tines",
+      "url": "https://weworkremotely.com/remote-jobs/tines-manager-renewals",
+      "source": "We Work Remotely",
+      "date": "Sat, 10 Oct 2026 07:31:08 +0000",
+      "tags": []
+    },
+    {
+      "title": "Senior Pre- &amp; Post-Sales Customer Engineer, Enterprise",
+      "company": "Pendo",
+      "url": "https://weworkremotely.com/remote-jobs/pendo-senior-pre-post-sales-customer-engineer-enterprise",
+      "source": "We Work Remotely",
+      "date": "Sat, 10 Oct 2026 07:30:46 +0000",
+      "tags": []
     },
     {
       "title": "Head of CRM &amp; Lifecycle Marketing",
@@ -110,6 +136,14 @@
       "url": "https://weworkremotely.com/remote-jobs/koast-ai-head-of-technical-support-koast-ai",
       "source": "We Work Remotely",
       "date": "Wed, 16 Sep 2026 17:51:58 +0000",
+      "tags": []
+    },
+    {
+      "title": "Freelance Principal Recruiter",
+      "company": "Typeform",
+      "url": "https://weworkremotely.com/remote-jobs/typeform-freelance-principal-recruiter",
+      "source": "We Work Remotely",
+      "date": "Sat, 10 Oct 2026 07:31:08 +0000",
       "tags": []
     },
     {
@@ -195,22 +229,11 @@
       ]
     },
     {
-      "title": "Virtual Assistant - DFW",
+      "title": "Virtual Assistant - Omaha",
       "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/3jMyiJuv1QEjsNTJWmQrry/remote-virtual-assistant---dfw-in-dallas-at-the-boutique-coo",
+      "url": "https://jobs.workable.com/view/t3cDunGhgHntsEovS1wEE9/remote-virtual-assistant---omaha-in-omaha-at-the-boutique-coo",
       "source": "Workable",
-      "date": "2026-10-10T04:04:49.684Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Detroit",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/h4fQ9SC9wBfRAK485xaWfN/remote-virtual-assistant---detroit-in-detroit-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-10-10T04:03:46.630Z",
+      "date": "2026-10-10T05:30:05.985Z",
       "tags": [
         "Contract",
         "Remote"
@@ -239,11 +262,33 @@
       ]
     },
     {
+      "title": "Virtual Assistant - DFW",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/3jMyiJuv1QEjsNTJWmQrry/remote-virtual-assistant---dfw-in-dallas-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-10T04:04:49.684Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
       "title": "Virtual Assistant - Columbus",
       "company": "The Boutique COO",
       "url": "https://jobs.workable.com/view/2pESnfZk7KcpgNbXjLfnAb/remote-virtual-assistant---columbus-in-columbus-at-the-boutique-coo",
       "source": "Workable",
       "date": "2026-10-10T04:15:51.818Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Detroit",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/h4fQ9SC9wBfRAK485xaWfN/remote-virtual-assistant---detroit-in-detroit-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-10T04:03:46.630Z",
       "tags": [
         "Contract",
         "Remote"
@@ -316,33 +361,22 @@
       ]
     },
     {
-      "title": "Virtual Assistant - Momence Experience",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/egSV7mShzEw5vR9npRqbWV/remote-virtual-assistant---momence-experience-in-united-states-at-the-boutique-coo",
+      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
+      "company": "Rankona Mazon AB",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2026-04-05T14:23:12.075Z",
+      "date": "2025-09-26T11:49:14.467Z",
       "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Therapist / Therapy Practice Experience",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/f2dxExdVW2CgZDanc5t8gp/remote-virtual-assistant---therapist-%2F-therapy-practice-experience-in-united-states-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-09-29T03:41:42.692Z",
-      "tags": [
-        "Contract",
+        "Full-time",
         "Remote"
       ]
     },
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
+      "date": "2025-09-26T11:49:15.278Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -514,17 +548,6 @@
       ]
     },
     {
-      "title": "Property Manager",
-      "company": "PeakMade Real Estate",
-      "url": "https://jobs.workable.com/view/mKrz7Ny7xo4apx79yCkNzG/property-manager-in-davis-at-peakmade-real-estate",
-      "source": "Workable",
-      "date": "2026-10-09T16:55:21.701Z",
-      "tags": [
-        "Full-time",
-        "Davis, California, United States"
-      ]
-    },
-    {
       "title": "Property Manager - Conventional Multi-Family",
       "company": "PeakMade Real Estate",
       "url": "https://jobs.workable.com/view/9zHnNGwAWaL6ghPZvauxD9/property-manager---conventional-multi-family-in-gainesville-at-peakmade-real-estate",
@@ -533,6 +556,17 @@
       "tags": [
         "Full-time",
         "Gainesville, Florida, United States"
+      ]
+    },
+    {
+      "title": "Property Manager",
+      "company": "PeakMade Real Estate",
+      "url": "https://jobs.workable.com/view/mKrz7Ny7xo4apx79yCkNzG/property-manager-in-davis-at-peakmade-real-estate",
+      "source": "Workable",
+      "date": "2026-10-09T16:55:21.701Z",
+      "tags": [
+        "Full-time",
+        "Davis, California, United States"
       ]
     },
     {
@@ -592,9 +626,9 @@
     {
       "title": "Policy Administration & Insurance Operations Manager",
       "company": "Weekday AI",
-      "url": "https://jobs.workable.com/view/uRPfnziJWcZnj86z8oxWM8/remote-policy-administration-%26-insurance-operations-manager-in-new-zealand-at-weekday-ai",
+      "url": "https://jobs.workable.com/view/iijBqEHvxtiskHz9vhRJ5x/remote-policy-administration-%26-insurance-operations-manager-in-united-kingdom-at-weekday-ai",
       "source": "Workable",
-      "date": "2026-09-14T19:48:16.319Z",
+      "date": "2026-09-14T19:48:16.488Z",
       "tags": [
         "Contract",
         "Remote"
@@ -603,9 +637,9 @@
     {
       "title": "Policy Administration & Insurance Operations Manager",
       "company": "Weekday AI",
-      "url": "https://jobs.workable.com/view/iijBqEHvxtiskHz9vhRJ5x/remote-policy-administration-%26-insurance-operations-manager-in-united-kingdom-at-weekday-ai",
+      "url": "https://jobs.workable.com/view/uRPfnziJWcZnj86z8oxWM8/remote-policy-administration-%26-insurance-operations-manager-in-new-zealand-at-weekday-ai",
       "source": "Workable",
-      "date": "2026-09-14T19:48:16.488Z",
+      "date": "2026-09-14T19:48:16.319Z",
       "tags": [
         "Contract",
         "Remote"
@@ -674,6 +708,72 @@
       "date": "2026-10-05T18:41:19.817Z",
       "tags": [
         "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/2FxnPJXMXQvnZaHfwMS7Uj/remote-staff-qa-automation-engineer-in-mexico-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T10:28:35.433Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/mjGsYdjkT1qgwEfHSxiZSB/remote-staff-qa-automation-engineer-in-united-states-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T10:28:35.591Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/pr4gcnBbBGsFKmYZkThs9P/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T10:28:35.261Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/aqvHDfEDqY9Kmz8MehNiBJ/remote-staff-qa-automation-engineer-in-argentina-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T10:28:35.079Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/dhQULtWMSbLcSBMHCZV9ya/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T10:28:34.968Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/7Sys7jnH7qzNXNNGfCBqFY/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T10:28:34.861Z",
+      "tags": [
+        "Other",
         "Remote"
       ]
     },
@@ -829,48 +929,6 @@
       "tags": [
         "Full-time",
         "Remote"
-      ]
-    },
-    {
-      "title": "Head of Marketing Technology & Automation (Independent Contractor)",
-      "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/eXRgUgyDyKSjyVnhBCHmAR/remote-head-of-marketing-technology-%26-automation-(independent-contractor)-in-belarus-at-ai-acquisition",
-      "source": "Workable",
-      "date": "2026-06-15T19:30:24.041Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Engineering Manager / Sr. EM Forward Deployed Engineering (FDE) - West",
-      "company": "Blue Machines AI",
-      "url": "https://jobs.workable.com/view/f2RXvvcP6tqQ44NYGwFPMo/hybrid-engineering-manager-%2F-sr.-em-forward-deployed-engineering-(fde)---west-in-mumbai-at-blue-machines-ai",
-      "source": "Workable",
-      "date": "2026-10-09T09:26:31.461Z",
-      "tags": [
-        "Mumbai, Maharashtra, India"
-      ]
-    },
-    {
-      "title": "Engineering Manager / Sr. EM Forward Deployed Engineering (FDE) - North",
-      "company": "Blue Machines AI",
-      "url": "https://jobs.workable.com/view/me5hHSZAkiwv3VLxe6FKnQ/hybrid-engineering-manager-%2F-sr.-em-forward-deployed-engineering-(fde)---north-in-delhi-at-blue-machines-ai",
-      "source": "Workable",
-      "date": "2026-10-09T09:19:22.291Z",
-      "tags": [
-        "Delhi, Delhi, India"
-      ]
-    },
-    {
-      "title": "AI Operations Executive",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/stsHbZLkTFKBYy2CuBBxef/hybrid-ai-operations-executive-in-s%C3%A3o-paulo-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-04-15T20:13:13.000Z",
-      "tags": [
-        "Full-time",
-        "São Paulo, State of São Paulo, Brazil"
       ]
     },
     {
@@ -1107,17 +1165,6 @@
     {
       "title": "LIMS Consultant",
       "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/ejk6PB62uU65hk8vk7pBxa/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-09T21:03:13.719Z",
-      "tags": [
-        "Full-time",
-        "Wilmington, Delaware, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
       "url": "https://jobs.workable.com/view/9E1SLcMF9M8jYQvPHg1Q1g/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
       "source": "Workable",
       "date": "2026-10-09T21:03:13.133Z",
@@ -1146,6 +1193,17 @@
       "tags": [
         "Full-time",
         "Atlanta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/ejk6PB62uU65hk8vk7pBxa/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-10-09T21:03:13.719Z",
+      "tags": [
+        "Full-time",
+        "Wilmington, Delaware, United States"
       ]
     },
     {
@@ -1182,6 +1240,26 @@
       ]
     },
     {
+      "title": "Engineering Manager / Sr. EM Forward Deployed Engineering (FDE) - West",
+      "company": "Blue Machines AI",
+      "url": "https://jobs.workable.com/view/f2RXvvcP6tqQ44NYGwFPMo/hybrid-engineering-manager-%2F-sr.-em-forward-deployed-engineering-(fde)---west-in-mumbai-at-blue-machines-ai",
+      "source": "Workable",
+      "date": "2026-10-09T09:26:31.461Z",
+      "tags": [
+        "Mumbai, Maharashtra, India"
+      ]
+    },
+    {
+      "title": "Engineering Manager / Sr. EM Forward Deployed Engineering (FDE) - North",
+      "company": "Blue Machines AI",
+      "url": "https://jobs.workable.com/view/me5hHSZAkiwv3VLxe6FKnQ/hybrid-engineering-manager-%2F-sr.-em-forward-deployed-engineering-(fde)---north-in-delhi-at-blue-machines-ai",
+      "source": "Workable",
+      "date": "2026-10-09T09:19:22.291Z",
+      "tags": [
+        "Delhi, Delhi, India"
+      ]
+    },
+    {
       "title": "Sales Funnel Conversion Specialist | AIFirst CRO & Customer Journey Optimization",
       "company": "Human Intelligence",
       "url": "https://jobs.workable.com/view/8ryC1qrL8jeTrejzjF9Gqr/remote-sales-funnel-conversion-specialist-%7C-aifirst-cro-%26-customer-journey-optimization-in-metro-manila-at-human-intelligence",
@@ -1193,25 +1271,17 @@
       ]
     },
     {
-      "title": "Executive Assistant, VP, Engineering - AI (Remote)",
-      "company": "Cisco",
-      "url": "https://www.indeed.com/viewjob?jk=83fbb9a7877637f2",
+      "title": "HV Administrative Assistant (Remote)",
+      "company": "SOLV Energy",
+      "url": "https://www.indeed.com/viewjob?jk=583da5f16725e1b1",
       "source": "JobSpy/indeed",
-      "date": "2026-10-10",
+      "date": "2026-10-08",
       "tags": []
     },
     {
       "title": "Executive Assistant to the Managing Partner (Remote)",
       "company": "Cedar Tree Native Law",
       "url": "https://www.indeed.com/viewjob?jk=7c91221cad6632c7",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-08",
-      "tags": []
-    },
-    {
-      "title": "HV Administrative Assistant (Remote)",
-      "company": "SOLV Energy",
-      "url": "https://www.indeed.com/viewjob?jk=b6a92f6b9acc1c6e",
       "source": "JobSpy/indeed",
       "date": "2026-10-08",
       "tags": []
@@ -1230,6 +1300,22 @@
       "url": "https://www.indeed.com/viewjob?jk=3838d9436007e48a",
       "source": "JobSpy/indeed",
       "date": "2026-10-07",
+      "tags": []
+    },
+    {
+      "title": "HR Virtual Assistant (Remote - Accra, Ghana only)",
+      "company": "Boji Medical Billing",
+      "url": "https://www.indeed.com/viewjob?jk=a8bd6a463dd0e33b",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Smartoutsourcingsolution",
+      "url": "https://www.linkedin.com/jobs/view/4476893238",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-10",
       "tags": []
     },
     {
@@ -1305,14 +1391,6 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://www.linkedin.com/jobs/view/4477420033",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-08",
-      "tags": []
-    },
-    {
       "title": "Executive Virtual Assistant - PH (Remote)",
       "company": "Snapscale",
       "url": "https://www.linkedin.com/jobs/view/4476787769",
@@ -1346,8 +1424,8 @@
     },
     {
       "title": "Executive Assistant",
-      "company": "CVS Health",
-      "url": "https://www.indeed.com/viewjob?jk=3d327a46649a5c87",
+      "company": "Center for Victims of Torture",
+      "url": "https://www.indeed.com/viewjob?jk=446b3f9c208e99b2",
       "source": "JobSpy/indeed",
       "date": "2026-10-10",
       "tags": []
@@ -1362,10 +1440,18 @@
     },
     {
       "title": "Executive Assistant",
-      "company": "Center for Victims of Torture",
-      "url": "https://www.indeed.com/viewjob?jk=446b3f9c208e99b2",
+      "company": "Harbor",
+      "url": "https://www.indeed.com/viewjob?jk=5d8fd4fedbe1c884",
       "source": "JobSpy/indeed",
-      "date": "2026-10-10",
+      "date": "2026-10-09",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant",
+      "company": "COMPASS Pathways",
+      "url": "https://www.indeed.com/viewjob?jk=889558571fac4dab",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-09",
       "tags": []
     },
     {
@@ -1374,38 +1460,6 @@
       "url": "https://www.indeed.com/viewjob?jk=edb6b25318406a9d",
       "source": "JobSpy/indeed",
       "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Harbor",
-      "url": "https://www.indeed.com/viewjob?jk=8af33115f87072e7",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "title": "Senior Executive Assistant",
-      "company": "COMPASS Pathways",
-      "url": "https://www.indeed.com/viewjob?jk=e6f8d35dde901187",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to SVP Trade Strategy and Operations",
-      "company": "CVS Health",
-      "url": "https://www.indeed.com/viewjob?jk=003be47e93f9ac29",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO",
-      "company": "Widelity Inc",
-      "url": "https://www.indeed.com/viewjob?jk=42002ae70a7072fc",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-08",
       "tags": []
     },
     {
@@ -1419,9 +1473,41 @@
     {
       "title": "Executive Assistant",
       "company": "Legrand",
-      "url": "https://www.indeed.com/viewjob?jk=7235a9f5be4660af",
+      "url": "https://www.indeed.com/viewjob?jk=b6fecebd6ef23c3c",
       "source": "JobSpy/indeed",
       "date": "2026-10-08",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant (Mat Leave Coverage) - Contract",
+      "company": "Ruggable",
+      "url": "https://www.indeed.com/viewjob?jk=c92c097b39e0985b",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-07",
+      "tags": []
+    },
+    {
+      "title": "Group Executive Assistant, AMERS",
+      "company": "nSCALE",
+      "url": "https://www.indeed.com/viewjob?jk=c8570f4255cd0789",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-06",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant – Employee Benefits",
+      "company": "The Standard Insurance",
+      "url": "https://www.indeed.com/viewjob?jk=48cb482d79ed7c96",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "OpenLoop Health",
+      "url": "https://www.indeed.com/viewjob?jk=7b6fb0ad59506c0d",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-05",
       "tags": []
     },
     {
@@ -1430,14 +1516,6 @@
       "url": "https://www.linkedin.com/jobs/view/4476873675",
       "source": "JobSpy/linkedin",
       "date": "2026-10-10",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to CEO",
-      "company": "eSewa Ltd.",
-      "url": "https://www.linkedin.com/jobs/view/4476290392",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-09",
       "tags": []
     },
     {
@@ -1460,6 +1538,14 @@
       "title": "Executive Assistant",
       "company": "Hubhawks",
       "url": "https://www.linkedin.com/jobs/view/4475218021",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-09",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant, Chief Operating Officer (Insurance)",
+      "company": "AMA - Alberta Motor Association",
+      "url": "https://www.linkedin.com/jobs/view/4474531103",
       "source": "JobSpy/linkedin",
       "date": "2026-10-09",
       "tags": []
@@ -1521,14 +1607,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to Director",
-      "company": "Career Path HR Solution",
-      "url": "https://www.linkedin.com/jobs/view/4474260090",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant to the Chair",
       "company": "Gizli Şirket",
       "url": "https://www.linkedin.com/jobs/view/4468361798",
@@ -1556,6 +1634,14 @@
       "title": "Gestionnaire immobilier Westwalk DDO / Property Manager Westwalk DDO",
       "company": "Scalia (Les Propriétés)",
       "url": "https://www.linkedin.com/jobs/view/4476845473",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-09",
+      "tags": []
+    },
+    {
+      "title": "Residential Property Manager",
+      "company": "LSH Residential",
+      "url": "https://www.linkedin.com/jobs/view/4473134165",
       "source": "JobSpy/linkedin",
       "date": "2026-10-09",
       "tags": []
@@ -1590,14 +1676,6 @@
       "url": "https://www.linkedin.com/jobs/view/4475195264",
       "source": "JobSpy/linkedin",
       "date": "2026-10-07",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Coastal Georgia Apartment Association",
-      "url": "https://www.linkedin.com/jobs/view/4476192145",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-06",
       "tags": []
     },
     {
@@ -1677,6 +1755,22 @@
       "company": "Allianz Partners",
       "url": "https://www.linkedin.com/jobs/view/4476175707",
       "source": "JobSpy/linkedin",
+      "date": "2026-10-06",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Specialist",
+      "company": "OL USA",
+      "url": "https://www.indeed.com/viewjob?jk=7004bdcab9b6bcd4",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-07",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Specialist",
+      "company": "Llano Real Estate",
+      "url": "https://www.indeed.com/viewjob?jk=57c9b6df0256bddd",
+      "source": "JobSpy/indeed",
       "date": "2026-10-06",
       "tags": []
     },
