@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-09T22:22:49.328Z",
-  "count": 106,
+  "generatedAt": "2026-10-10T04:46:27.855Z",
+  "count": 108,
   "jobs": [
     {
       "title": "VP Pricing & Packaging",
@@ -38,17 +38,6 @@
         "golang",
         "javascript",
         "typescript"
-      ]
-    },
-    {
-      "title": "Senior People & Talent Operations Partner",
-      "company": "TestGorilla",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-people-talent-operations-partner-testgorilla-1137378",
-      "source": "RemoteOK",
-      "date": "2026-09-10T21:13:22+00:00",
-      "tags": [
-        "hr",
-        "non tech"
       ]
     },
     {
@@ -202,6 +191,72 @@
       ]
     },
     {
+      "title": "Virtual Assistant - DFW",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/3jMyiJuv1QEjsNTJWmQrry/remote-virtual-assistant---dfw-in-dallas-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-10T04:04:49.684Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Detroit",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/h4fQ9SC9wBfRAK485xaWfN/remote-virtual-assistant---detroit-in-detroit-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-10T04:03:46.630Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Tulsa",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/wKtaXsgVQ5GKLcMaU6gB7S/remote-virtual-assistant---tulsa-in-tulsa-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-10T04:28:56.781Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Milwaukee",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/9GSYEdkC8RfP1h4Wztj1aA/remote-virtual-assistant---milwaukee-in-milwaukee-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-10T04:27:55.644Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Columbus",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/2pESnfZk7KcpgNbXjLfnAb/remote-virtual-assistant---columbus-in-columbus-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-10T04:15:51.818Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - SLC",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/s1fjND8E4X1XQEHRKrsDbT/remote-virtual-assistant---slc-in-salt-lake-city-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-10T02:28:19.555Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
       "title": "Virtual Assistant - Fulfillment",
       "company": "Decentralized Masters",
       "url": "https://jobs.workable.com/view/8dwbv65446mS4x16gwJN5d/remote-virtual-assistant---fulfillment-in-buenos-aires-at-decentralized-masters",
@@ -284,72 +339,6 @@
       "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
       "source": "Workable",
       "date": "2025-09-26T11:49:14.467Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
-      "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
-      "source": "Workable",
-      "date": "2025-09-26T11:49:15.278Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
-      "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/xhnoSCPBE7FZtYPzUveSyX/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-slovakia-at-rankona-mazon-ab",
-      "source": "Workable",
-      "date": "2025-09-26T11:49:13.953Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
-      "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/8raciRJMkXPjJ3XSBsHbwt/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-romania-at-rankona-mazon-ab",
-      "source": "Workable",
-      "date": "2025-09-26T11:49:14.075Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Executive Virtual Assistant",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/24S5wpqYcE6cetHFfwjmyd/remote-executive-virtual-assistant-in-united-states-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-10-09T05:09:49.253Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
-      "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/e6zvjtiYfWYxDwMhfarSQe/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-slovenia-at-rankona-mazon-ab",
-      "source": "Workable",
-      "date": "2025-09-10T08:21:42.250Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Onramp Lab",
-      "url": "https://jobs.workable.com/view/at2iy6ZVvz77dyJmku1YZZ/remote-virtual-assistant-in-metro-manila-at-onramp-lab",
-      "source": "Workable",
-      "date": "2026-09-03T08:06:26.344Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -599,9 +588,9 @@
     {
       "title": "Policy Administration & Insurance Operations Manager",
       "company": "Weekday AI",
-      "url": "https://jobs.workable.com/view/iijBqEHvxtiskHz9vhRJ5x/remote-policy-administration-%26-insurance-operations-manager-in-united-kingdom-at-weekday-ai",
+      "url": "https://jobs.workable.com/view/uRPfnziJWcZnj86z8oxWM8/remote-policy-administration-%26-insurance-operations-manager-in-new-zealand-at-weekday-ai",
       "source": "Workable",
-      "date": "2026-09-14T19:48:16.488Z",
+      "date": "2026-09-14T19:48:16.319Z",
       "tags": [
         "Contract",
         "Remote"
@@ -610,9 +599,9 @@
     {
       "title": "Policy Administration & Insurance Operations Manager",
       "company": "Weekday AI",
-      "url": "https://jobs.workable.com/view/uRPfnziJWcZnj86z8oxWM8/remote-policy-administration-%26-insurance-operations-manager-in-new-zealand-at-weekday-ai",
+      "url": "https://jobs.workable.com/view/iijBqEHvxtiskHz9vhRJ5x/remote-policy-administration-%26-insurance-operations-manager-in-united-kingdom-at-weekday-ai",
       "source": "Workable",
-      "date": "2026-09-14T19:48:16.319Z",
+      "date": "2026-09-14T19:48:16.488Z",
       "tags": [
         "Contract",
         "Remote"
@@ -663,24 +652,90 @@
       ]
     },
     {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "title": "Legal & Expert Witness Recruiter - Texas-Based",
+      "company": "Dane Street, LLC",
+      "url": "https://jobs.workable.com/view/iFp2D4K4mUtEdz2nFKUPad/remote-legal-%26-expert-witness-recruiter---texas-based-in-austin-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
+      "date": "2026-10-05T18:41:20.908Z",
       "tags": [
         "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
+      "title": "Legal & Expert Witness Recruiter - Texas-Based",
+      "company": "Dane Street, LLC",
+      "url": "https://jobs.workable.com/view/9nVBd5HHfhyX6cao3ukrBN/remote-legal-%26-expert-witness-recruiter---texas-based-in-dallas-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.073Z",
+      "date": "2026-10-05T18:41:19.817Z",
       "tags": [
         "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/rDYEC5e1Yw3D6G1az5SJJi/remote-staff-qa-automation-engineer-in-united-states-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:26.233Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:25.904Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:24.472Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/k7nzWWKBwMue7joZEBwMBX/remote-staff-qa-automation-engineer-in-colombia-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:26.020Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/hooXUakgitv47HbwmxEen2/remote-staff-qa-automation-engineer-in-argentina-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:25.730Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:25.446Z",
+      "tags": [
+        "Other",
         "Remote"
       ]
     },
@@ -812,39 +867,6 @@
       "tags": [
         "Full-time",
         "São Paulo, State of São Paulo, Brazil"
-      ]
-    },
-    {
-      "title": "Forward Deployed Engineer",
-      "company": "Leena AI",
-      "url": "https://jobs.workable.com/view/3tuV3fsJLodGZSLcL2mNYk/remote-forward-deployed-engineer-in-united-states-at-leena-ai",
-      "source": "Workable",
-      "date": "2026-09-25T12:31:36.146Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "AI Operations Executive",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/nDr2D3ib4hhHNmBgTKRdBd/hybrid-ai-operations-executive-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:19:07.025Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
-      ]
-    },
-    {
-      "title": "AI Operations Executive",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/1Vy26cUVT7u8PKSaXhzjLZ/hybrid-ai-operations-executive-in-buenos-aires-at-darwin-ai",
-      "source": "Workable",
-      "date": "2025-09-26T10:19:07.307Z",
-      "tags": [
-        "Full-time",
-        "Buenos Aires, Buenos Aires, Argentina"
       ]
     },
     {
@@ -1068,6 +1090,17 @@
       ]
     },
     {
+      "title": "Director, Customer Support and Shared Services",
+      "company": "PracticeTek",
+      "url": "https://jobs.workable.com/view/jLwY6y7mpda3C6YCgtLFg2/hybrid-director%2C-customer-support-and-shared-services-in-san-diego-at-practicetek",
+      "source": "Workable",
+      "date": "2026-10-10T01:46:59.959Z",
+      "tags": [
+        "Full-time",
+        "San Diego, California, United States"
+      ]
+    },
+    {
       "title": "LIMS Consultant",
       "company": "Clarkston Consulting",
       "url": "https://jobs.workable.com/view/ejk6PB62uU65hk8vk7pBxa/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
@@ -1150,17 +1183,6 @@
       "url": "https://jobs.workable.com/view/8ryC1qrL8jeTrejzjF9Gqr/remote-sales-funnel-conversion-specialist-%7C-aifirst-cro-%26-customer-journey-optimization-in-metro-manila-at-human-intelligence",
       "source": "Workable",
       "date": "2026-07-09T13:44:05.602Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "AI-Native Marketing Manager",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/6uXAvcHYMN189snEskySwy/remote-ai-native-marketing-manager-in-metro-manila-at-human-intelligence",
-      "source": "Workable",
-      "date": "2026-07-09T12:40:38.278Z",
       "tags": [
         "Contract",
         "Remote"
