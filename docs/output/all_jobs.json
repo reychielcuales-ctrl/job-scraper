@@ -1,11 +1,33 @@
 {
-  "generatedAt": "2026-10-10T12:03:23.635Z",
-  "count": 186,
+  "generatedAt": "2026-10-10T21:17:08.932Z",
+  "count": 189,
   "sources": {
-    "node": 116,
-    "jobspy": 70
+    "node": 120,
+    "jobspy": 69
   },
   "jobs": [
+    {
+      "title": "Senior React Full stack Developer",
+      "company": "Lemon.io",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
+      "source": "RemoteOK",
+      "date": "2026-10-09T13:09:18+00:00",
+      "tags": [
+        "dev",
+        "engineer",
+        "remote",
+        "python",
+        "aws",
+        "gcp",
+        "javascript",
+        "react",
+        "node",
+        "ruby",
+        "typescript",
+        "full time",
+        "full stack"
+      ]
+    },
     {
       "title": "VP Pricing & Packaging",
       "company": "Delinea",
@@ -60,6 +82,16 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "Account Executive, Law Firms",
+      "company": "Proof",
+      "url": "https://jobicy.com/jobs/154964-account-executive-law-firms",
+      "source": "Jobicy",
+      "date": "2026-10-10T15:46:48+00:00",
+      "tags": [
+        "Sales"
       ]
     },
     {
@@ -262,22 +294,22 @@
       ]
     },
     {
-      "title": "Virtual Assistant - DFW",
+      "title": "Virtual Assistant - Columbus",
       "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/3jMyiJuv1QEjsNTJWmQrry/remote-virtual-assistant---dfw-in-dallas-at-the-boutique-coo",
+      "url": "https://jobs.workable.com/view/2pESnfZk7KcpgNbXjLfnAb/remote-virtual-assistant---columbus-in-columbus-at-the-boutique-coo",
       "source": "Workable",
-      "date": "2026-10-10T04:04:49.684Z",
+      "date": "2026-10-10T04:15:51.818Z",
       "tags": [
         "Contract",
         "Remote"
       ]
     },
     {
-      "title": "Virtual Assistant - Columbus",
+      "title": "Virtual Assistant - DFW",
       "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/2pESnfZk7KcpgNbXjLfnAb/remote-virtual-assistant---columbus-in-columbus-at-the-boutique-coo",
+      "url": "https://jobs.workable.com/view/3jMyiJuv1QEjsNTJWmQrry/remote-virtual-assistant---dfw-in-dallas-at-the-boutique-coo",
       "source": "Workable",
-      "date": "2026-10-10T04:15:51.818Z",
+      "date": "2026-10-10T04:04:49.684Z",
       "tags": [
         "Contract",
         "Remote"
@@ -534,6 +566,28 @@
       "tags": [
         "Full-time",
         "Oxford, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Director of Operations",
+      "company": "City Wide Facility Solutions",
+      "url": "https://jobs.workable.com/view/tcU6nBqBwZDeNrYCdtqhJm/director-of-operations-in-perrysburg-at-city-wide-facility-solutions",
+      "source": "Workable",
+      "date": "2026-10-10T18:09:00.091Z",
+      "tags": [
+        "Full-time",
+        "Perrysburg, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Director of Operations",
+      "company": "City Wide Facility Solutions",
+      "url": "https://jobs.workable.com/view/coZVHZbu8Pdb6oqFbXyZfn/director-of-operations-in-toledo-at-city-wide-facility-solutions",
+      "source": "Workable",
+      "date": "2026-10-10T18:09:00.544Z",
+      "tags": [
+        "Full-time",
+        "Toledo, Ohio, United States"
       ]
     },
     {
@@ -1165,6 +1219,17 @@
     {
       "title": "LIMS Consultant",
       "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/ejk6PB62uU65hk8vk7pBxa/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-10-09T21:03:13.719Z",
+      "tags": [
+        "Full-time",
+        "Wilmington, Delaware, United States"
+      ]
+    },
+    {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
       "url": "https://jobs.workable.com/view/9E1SLcMF9M8jYQvPHg1Q1g/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
       "source": "Workable",
       "date": "2026-10-09T21:03:13.133Z",
@@ -1193,17 +1258,6 @@
       "tags": [
         "Full-time",
         "Atlanta, Georgia, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/ejk6PB62uU65hk8vk7pBxa/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-09T21:03:13.719Z",
-      "tags": [
-        "Full-time",
-        "Wilmington, Delaware, United States"
       ]
     },
     {
@@ -1271,6 +1325,14 @@
       ]
     },
     {
+      "title": "Executive Assistant to the Founder & CEO (Remote)",
+      "company": "CLM AI",
+      "url": "https://www.indeed.com/viewjob?jk=1a560a17243fec19",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-10",
+      "tags": []
+    },
+    {
       "title": "HV Administrative Assistant (Remote)",
       "company": "SOLV Energy",
       "url": "https://www.indeed.com/viewjob?jk=583da5f16725e1b1",
@@ -1311,6 +1373,22 @@
       "tags": []
     },
     {
+      "title": "Administrative Virtual Assistant",
+      "company": "Virtualassistantphilippines",
+      "url": "https://www.linkedin.com/jobs/view/4477231167",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-10",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Bold Magazine",
+      "url": "https://www.linkedin.com/jobs/view/4477217689",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-10",
+      "tags": []
+    },
+    {
       "title": "Virtual Assistant",
       "company": "Smartoutsourcingsolution",
       "url": "https://www.linkedin.com/jobs/view/4476893238",
@@ -1343,25 +1421,9 @@
       "tags": []
     },
     {
-      "title": "US Virtual Assistant",
-      "company": "Asiacruit",
-      "url": "https://www.linkedin.com/jobs/view/4475955427",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-08",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant",
       "company": "Teamswell",
       "url": "https://www.linkedin.com/jobs/view/4477473857",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-08",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant – Golf Equipment",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4474834790",
       "source": "JobSpy/linkedin",
       "date": "2026-10-08",
       "tags": []
@@ -1375,17 +1437,25 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant – Remote Staffing",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4474851035",
+      "title": "Virtual Assistant",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4476208268",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant - Fulfillment",
+      "company": "Decentralized Masters",
+      "url": "https://www.linkedin.com/jobs/view/4477420033",
       "source": "JobSpy/linkedin",
       "date": "2026-10-08",
       "tags": []
     },
     {
       "title": "Virtual Assistant",
-      "company": "Somewhere",
-      "url": "https://www.linkedin.com/jobs/view/4476208268",
+      "company": "Teamswell",
+      "url": "https://www.linkedin.com/jobs/view/4477474952",
       "source": "JobSpy/linkedin",
       "date": "2026-10-08",
       "tags": []
@@ -1407,19 +1477,27 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant",
-      "company": "Closer Consulting",
-      "url": "https://www.linkedin.com/jobs/view/4476739074",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-06",
-      "tags": []
-    },
-    {
       "title": "MEDICAL VIRTUAL ASSISTANT",
       "company": "Vital Virtuals Global HR Solutions",
       "url": "https://www.linkedin.com/jobs/view/4475117317",
       "source": "JobSpy/linkedin",
       "date": "2026-10-06",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Private Household",
+      "url": "https://www.indeed.com/viewjob?jk=0e9d3a536510063a",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-10",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant & Sourcing Coordinator",
+      "company": "Fundelivered",
+      "url": "https://www.indeed.com/viewjob?jk=bf6ff5452decff71",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-10",
       "tags": []
     },
     {
@@ -1431,19 +1509,11 @@
       "tags": []
     },
     {
-      "title": "Part-Time to Full-Time Executive Assistant",
-      "company": "Check Off Your List",
-      "url": "https://www.indeed.com/viewjob?jk=2bce5f0db474ed54",
+      "title": "Executive Assistant to CEO",
+      "company": "Equity & Impact Solutions",
+      "url": "https://www.indeed.com/viewjob?jk=8d6c5b6f9625df0e",
       "source": "JobSpy/indeed",
       "date": "2026-10-10",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Harbor",
-      "url": "https://www.indeed.com/viewjob?jk=5d8fd4fedbe1c884",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-09",
       "tags": []
     },
     {
@@ -1455,9 +1525,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the CEO",
-      "company": "LAF Advisers",
-      "url": "https://www.indeed.com/viewjob?jk=edb6b25318406a9d",
+      "title": "Executive Assistant",
+      "company": "Harbor",
+      "url": "https://www.indeed.com/viewjob?jk=5d8fd4fedbe1c884",
       "source": "JobSpy/indeed",
       "date": "2026-10-09",
       "tags": []
@@ -1495,14 +1565,6 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant – Employee Benefits",
-      "company": "The Standard Insurance",
-      "url": "https://www.indeed.com/viewjob?jk=48cb482d79ed7c96",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant",
       "company": "OpenLoop Health",
       "url": "https://www.indeed.com/viewjob?jk=7b6fb0ad59506c0d",
@@ -1511,9 +1573,25 @@
       "tags": []
     },
     {
+      "title": "Administrative Assistant – Employee Benefits",
+      "company": "The Standard Insurance",
+      "url": "https://www.indeed.com/viewjob?jk=48cb482d79ed7c96",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-05",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant to Chief Executive Officer",
       "company": "Y Media",
       "url": "https://www.linkedin.com/jobs/view/4476873675",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-10",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Managing Director",
+      "company": "Maruthi Plastics & Packaging Chennai Private Limited",
+      "url": "https://www.linkedin.com/jobs/view/4471012749",
       "source": "JobSpy/linkedin",
       "date": "2026-10-10",
       "tags": []
@@ -1538,14 +1616,6 @@
       "title": "Executive Assistant",
       "company": "Hubhawks",
       "url": "https://www.linkedin.com/jobs/view/4475218021",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant, Chief Operating Officer (Insurance)",
-      "company": "AMA - Alberta Motor Association",
-      "url": "https://www.linkedin.com/jobs/view/4474531103",
       "source": "JobSpy/linkedin",
       "date": "2026-10-09",
       "tags": []
@@ -1623,25 +1693,17 @@
       "tags": []
     },
     {
+      "title": "Property Manager ( RI )",
+      "company": "Levco Management",
+      "url": "https://www.linkedin.com/jobs/view/4478070688",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-10",
+      "tags": []
+    },
+    {
       "title": "Property Manager",
       "company": "Quantum Management Services Ltd.",
       "url": "https://www.linkedin.com/jobs/view/4477699996",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "title": "Gestionnaire immobilier Westwalk DDO / Property Manager Westwalk DDO",
-      "company": "Scalia (Les Propriétés)",
-      "url": "https://www.linkedin.com/jobs/view/4476845473",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "title": "Residential Property Manager",
-      "company": "LSH Residential",
-      "url": "https://www.linkedin.com/jobs/view/4473134165",
       "source": "JobSpy/linkedin",
       "date": "2026-10-09",
       "tags": []
@@ -1680,6 +1742,14 @@
     },
     {
       "title": "Property Manager",
+      "company": "Coastal Georgia Apartment Association",
+      "url": "https://www.linkedin.com/jobs/view/4476192145",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-06",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
       "company": "Minor Hotels",
       "url": "https://www.linkedin.com/jobs/view/4466793809",
       "source": "JobSpy/linkedin",
@@ -1698,46 +1768,6 @@
       "title": "Property Manager",
       "company": "Apartment Management Consultants",
       "url": "https://www.linkedin.com/jobs/view/4472641727",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
-      "title": "Property Manager - Garrett Gateway",
-      "company": "Pegasus Residential",
-      "url": "https://www.linkedin.com/jobs/view/4475878576",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
-      "title": "Property Manager (Residential)",
-      "company": "SmartCentres REIT",
-      "url": "https://www.linkedin.com/jobs/view/4446925202",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Mission Rock Residential, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4475861782",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Apartment Management Consultants",
-      "url": "https://www.linkedin.com/jobs/view/4472640741",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-05",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Keeley Properties",
-      "url": "https://www.linkedin.com/jobs/view/4473696059",
       "source": "JobSpy/linkedin",
       "date": "2026-10-05",
       "tags": []
@@ -1775,6 +1805,14 @@
       "tags": []
     },
     {
+      "title": "Process Automation Specialist (1-Year Contract)",
+      "company": "Blue Star Partners LLC",
+      "url": "https://www.indeed.com/viewjob?jk=cb3795647fd4f413",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-06",
+      "tags": []
+    },
+    {
       "title": "Spécialiste principal en automatisation de l’IA/Senior AI Automation Specialist",
       "company": "McKesson",
       "url": "https://www.linkedin.com/jobs/view/4432819107",
@@ -1804,6 +1842,14 @@
       "url": "https://www.linkedin.com/jobs/view/4473614705",
       "source": "JobSpy/linkedin",
       "date": "2026-10-05",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Engineer",
+      "company": "Freestone Capital Management",
+      "url": "https://www.linkedin.com/jobs/view/4422755833",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-10",
       "tags": []
     },
     {
