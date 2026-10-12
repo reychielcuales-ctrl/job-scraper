@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-11T21:36:22.638Z",
-  "count": 119,
+  "generatedAt": "2026-10-12T04:46:56.368Z",
+  "count": 118,
   "jobs": [
     {
       "title": "Senior React Full stack Developer",
@@ -455,17 +455,6 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
-      "source": "Workable",
-      "date": "2026-09-29T13:32:09.916Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Property Management Coordinator (Real Estate)",
-      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/ovtRYNY47d2BLFcHCvYAZM/remote-property-management-coordinator-(real-estate)-in-uruguay-at-propertyse",
       "source": "Workable",
       "date": "2026-09-29T13:32:10.405Z",
@@ -477,9 +466,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:09.916Z",
       "tags": [
         "Contract",
         "Remote"
@@ -491,6 +480,17 @@
       "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
       "date": "2026-09-29T13:32:10.219Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Coordinator (Real Estate)",
+      "company": "Propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "source": "Workable",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -598,23 +598,23 @@
     {
       "title": "Director of Operations",
       "company": "City Wide Facility Solutions",
-      "url": "https://jobs.workable.com/view/coZVHZbu8Pdb6oqFbXyZfn/director-of-operations-in-toledo-at-city-wide-facility-solutions",
-      "source": "Workable",
-      "date": "2026-10-10T18:09:00.544Z",
-      "tags": [
-        "Full-time",
-        "Toledo, Ohio, United States"
-      ]
-    },
-    {
-      "title": "Director of Operations",
-      "company": "City Wide Facility Solutions",
       "url": "https://jobs.workable.com/view/tcU6nBqBwZDeNrYCdtqhJm/director-of-operations-in-perrysburg-at-city-wide-facility-solutions",
       "source": "Workable",
       "date": "2026-10-10T18:09:00.091Z",
       "tags": [
         "Full-time",
         "Perrysburg, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Director of Operations",
+      "company": "City Wide Facility Solutions",
+      "url": "https://jobs.workable.com/view/coZVHZbu8Pdb6oqFbXyZfn/director-of-operations-in-toledo-at-city-wide-facility-solutions",
+      "source": "Workable",
+      "date": "2026-10-10T18:09:00.544Z",
+      "tags": [
+        "Full-time",
+        "Toledo, Ohio, United States"
       ]
     },
     {
@@ -1254,6 +1254,17 @@
       ]
     },
     {
+      "title": "Singpass Product Ops Specialist - 2 years Direct Contract (with Perm benefits)",
+      "company": "Assurity Trusted Solutions",
+      "url": "https://jobs.workable.com/view/cMMqFE4wY3xTHkHweqwkad/hybrid-singpass-product-ops-specialist---2-years-direct-contract-(with-perm-benefits)-in-singapore-at-assurity-trusted-solutions",
+      "source": "Workable",
+      "date": "2026-10-12T04:21:51.369Z",
+      "tags": [
+        "Full-time",
+        "Singapore, Singapore, Singapore"
+      ]
+    },
+    {
       "title": "Director, Customer Support and Shared Services",
       "company": "PracticeTek",
       "url": "https://jobs.workable.com/view/jLwY6y7mpda3C6YCgtLFg2/hybrid-director%2C-customer-support-and-shared-services-in-san-diego-at-practicetek",
@@ -1284,28 +1295,6 @@
       "tags": [
         "Full-time",
         "Philadelphia, Pennsylvania, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/3bRWnrJK7geMeTsdgucTgh/hybrid-lims-consultant-in-dallas-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-09T21:03:12.624Z",
-      "tags": [
-        "Full-time",
-        "Dallas, Texas, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/aE7QEAgcRJtLyVPZReVZm5/hybrid-lims-consultant-in-atlanta-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-09T21:03:12.084Z",
-      "tags": [
-        "Full-time",
-        "Atlanta, Georgia, United States"
       ]
     }
   ]
