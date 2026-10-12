@@ -1,7 +1,23 @@
 {
-  "generatedAt": "2026-10-12T04:46:56.368Z",
-  "count": 118,
+  "generatedAt": "2026-10-12T14:40:05.677Z",
+  "count": 114,
   "jobs": [
+    {
+      "title": "Marketing and Sales Administrator",
+      "company": "Hunt St",
+      "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
+      "source": "RemoteOK",
+      "date": "2026-10-11T08:00:06+00:00",
+      "tags": [
+        "customer support",
+        "marketing",
+        "finance",
+        "admin",
+        "exec",
+        "content writing",
+        "sales"
+      ]
+    },
     {
       "title": "Senior React Full stack Developer",
       "company": "Lemon.io",
@@ -81,54 +97,22 @@
       ]
     },
     {
-      "title": "Part-Time Virtual Travel Assistant & Affiliate Recruiter Management",
-      "company": "The Flex",
-      "url": "https://jobicy.com/jobs/155035-part-time-virtual-travel-assistant-affiliate-recruiter-management-2",
+      "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/155100-senior-forward-deployed-engineer-ai-agent-uk",
       "source": "Jobicy",
-      "date": "2026-10-11T06:09:50+00:00",
-      "tags": [
-        "Admin & Virtual Assistance"
-      ]
-    },
-    {
-      "title": "Senior Mobile Engineer",
-      "company": "Mattermost",
-      "url": "https://jobicy.com/jobs/154994-senior-mobile-engineer",
-      "source": "Jobicy",
-      "date": "2026-10-11T05:59:14+00:00",
+      "date": "2026-10-12T07:02:32+00:00",
       "tags": [
         "Software Engineering"
       ]
     },
     {
-      "title": "Automation Strategist, Customer Success",
-      "company": "Zapier",
-      "url": "https://jobicy.com/jobs/154992-automation-strategist-customer-success",
-      "source": "Jobicy",
-      "date": "2026-10-11T05:59:13+00:00",
-      "tags": [
-        "Customer Support & Success"
-      ]
-    },
-    {
-      "title": "Finance Manager, Marketing",
-      "company": "Zapier",
-      "url": "https://jobicy.com/jobs/154988-finance-manager-marketing",
-      "source": "Jobicy",
-      "date": "2026-10-11T05:59:13+00:00",
-      "tags": [
-        "Finance & Accounting"
-      ]
-    },
-    {
-      "title": "Senior Full Stack Engineer",
-      "company": "Mattermost",
-      "url": "https://jobicy.com/jobs/154987-senior-full-stack-engineer-6",
-      "source": "Jobicy",
-      "date": "2026-10-11T05:59:13+00:00",
-      "tags": [
-        "Software Engineering"
-      ]
+      "title": "Customer Resilience Manager - Customer Success (Remote)",
+      "company": "Rubrik Job Board",
+      "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-customer-resilience-manager-customer-success-remote",
+      "source": "We Work Remotely",
+      "date": "Mon, 12 Oct 2026 07:31:00 +0000",
+      "tags": []
     },
     {
       "title": "Manager, Renewals",
@@ -455,9 +439,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ovtRYNY47d2BLFcHCvYAZM/remote-property-management-coordinator-(real-estate)-in-uruguay-at-propertyse",
+      "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.405Z",
+      "date": "2026-09-29T13:32:09.916Z",
       "tags": [
         "Contract",
         "Remote"
@@ -466,9 +450,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
+      "url": "https://jobs.workable.com/view/ovtRYNY47d2BLFcHCvYAZM/remote-property-management-coordinator-(real-estate)-in-uruguay-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.916Z",
+      "date": "2026-09-29T13:32:10.405Z",
       "tags": [
         "Contract",
         "Remote"
@@ -585,6 +569,38 @@
       ]
     },
     {
+      "title": "Residential Rental Senior Associate (1805)",
+      "company": "Lamda Development SA",
+      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(1805)-in-greece-at-lamda-development-sa",
+      "source": "Workable",
+      "date": "2026-10-12T08:32:07.816Z",
+      "tags": [
+        "Greece"
+      ]
+    },
+    {
+      "title": "Team Manager - Elder people - Extra Sheltered Schemes - Hackney & Camden",
+      "company": "Outward",
+      "url": "https://jobs.workable.com/view/gAyyDxrp1QUjsizJPNDbrR/team-manager---elder-people---extra-sheltered-schemes---hackney-%26-camden-in-london-at-outward",
+      "source": "Workable",
+      "date": "2026-10-12T06:52:27.789Z",
+      "tags": [
+        "Full-time",
+        "London, London Borough of Camden, United Kingdom"
+      ]
+    },
+    {
+      "title": "Team Manager - Elder people - Extra Sheltered Schemes - Hackney & Camden",
+      "company": "Outward",
+      "url": "https://jobs.workable.com/view/bBRsz3mQjt57kKKUkPmSot/team-manager---elder-people---extra-sheltered-schemes---hackney-%26-camden-in-london-at-outward",
+      "source": "Workable",
+      "date": "2026-10-12T06:52:27.400Z",
+      "tags": [
+        "Full-time",
+        "London, London Borough of Hackney, United Kingdom"
+      ]
+    },
+    {
       "title": "Corporate Recruiter",
       "company": "CYM Living LLC",
       "url": "https://jobs.workable.com/view/7QopT5zzADGjbgRrZABmz8/corporate-recruiter-in-chicago-at-cym-living-llc",
@@ -593,39 +609,6 @@
       "tags": [
         "Full-time",
         "Chicago, Illinois, United States"
-      ]
-    },
-    {
-      "title": "Director of Operations",
-      "company": "City Wide Facility Solutions",
-      "url": "https://jobs.workable.com/view/tcU6nBqBwZDeNrYCdtqhJm/director-of-operations-in-perrysburg-at-city-wide-facility-solutions",
-      "source": "Workable",
-      "date": "2026-10-10T18:09:00.091Z",
-      "tags": [
-        "Full-time",
-        "Perrysburg, Ohio, United States"
-      ]
-    },
-    {
-      "title": "Director of Operations",
-      "company": "City Wide Facility Solutions",
-      "url": "https://jobs.workable.com/view/coZVHZbu8Pdb6oqFbXyZfn/director-of-operations-in-toledo-at-city-wide-facility-solutions",
-      "source": "Workable",
-      "date": "2026-10-10T18:09:00.544Z",
-      "tags": [
-        "Full-time",
-        "Toledo, Ohio, United States"
-      ]
-    },
-    {
-      "title": "Experienced Property Manager",
-      "company": "Banyan Living",
-      "url": "https://jobs.workable.com/view/h54WWPfEAyiri5J2MdJ1ze/experienced-property-manager-in-strongsville-at-banyan-living",
-      "source": "Workable",
-      "date": "2026-10-09T20:06:44.803Z",
-      "tags": [
-        "Full-time",
-        "Strongsville, Ohio, United States"
       ]
     },
     {
@@ -1034,39 +1017,6 @@
       ]
     },
     {
-      "title": "Automation Specialist",
-      "company": "Apogee Sustainability Limited",
-      "url": "https://jobs.workable.com/view/qwSdX49CducMwj5zKhHkTC/hybrid-automation-specialist-in-bratislava-at-apogee-sustainability-limited",
-      "source": "Workable",
-      "date": "2026-09-17T13:22:53.509Z",
-      "tags": [
-        "Full-time",
-        "Bratislava, Bratislava Region, Slovakia"
-      ]
-    },
-    {
-      "title": "Automation Specialist",
-      "company": "Apogee Sustainability Limited",
-      "url": "https://jobs.workable.com/view/gLV8tnbTmdAsubMyHaXYAz/hybrid-automation-specialist-in-prague-at-apogee-sustainability-limited",
-      "source": "Workable",
-      "date": "2026-09-17T13:22:53.249Z",
-      "tags": [
-        "Full-time",
-        "Prague, Prague, Czechia"
-      ]
-    },
-    {
-      "title": "Automation Specialist",
-      "company": "Apogee Sustainability Limited",
-      "url": "https://jobs.workable.com/view/umWVj2YVFjDXf3kGSZShYA/hybrid-automation-specialist-in-warsaw-at-apogee-sustainability-limited",
-      "source": "Workable",
-      "date": "2026-09-17T13:22:52.726Z",
-      "tags": [
-        "Full-time",
-        "Warsaw, Masovian Voivodeship, Poland"
-      ]
-    },
-    {
       "title": "PortPayables - Automation Specialist",
       "company": "Marcura",
       "url": "https://jobs.workable.com/view/r3NTcDJVsM1UTtCF5JDaWW/remote-portpayables---automation-specialist-in-india-at-marcura",
@@ -1188,6 +1138,39 @@
       ]
     },
     {
+      "title": "Growth Marketing Specialist (Funnels & AI Automation) - Remote",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/g6jC7aA7dkzL5N1gGLcioC/growth-marketing-specialist-(funnels-%26-ai-automation)---remote-in-lviv-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-03-04T13:50:51.772Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Growth Marketing Specialist (Funnels & AI Automation) - Remote",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/iwA7YYJG467ZYtpgEhjEQi/growth-marketing-specialist-(funnels-%26-ai-automation)---remote-in-jakarta-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-03-04T13:50:50.725Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Growth Marketing Specialist (Funnels & AI Automation) - Remote",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/3mFX1iaRXta1gcN6LWeh9w/growth-marketing-specialist-(funnels-%26-ai-automation)---remote-in-metro-manila-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-03-05T09:32:50.421Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/remote-ai-workflow-engineer%2Fautomation-architect-in-california-at-modern-family-law",
@@ -1273,28 +1256,6 @@
       "tags": [
         "Full-time",
         "San Diego, California, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/ejk6PB62uU65hk8vk7pBxa/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-09T21:03:13.719Z",
-      "tags": [
-        "Full-time",
-        "Wilmington, Delaware, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/9E1SLcMF9M8jYQvPHg1Q1g/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-09T21:03:13.133Z",
-      "tags": [
-        "Full-time",
-        "Philadelphia, Pennsylvania, United States"
       ]
     }
   ]
