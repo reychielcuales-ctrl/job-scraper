@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T13:43:52.005Z",
-  "count": 131,
+  "generatedAt": "2026-10-13T22:22:43.602Z",
+  "count": 126,
   "jobs": [
     {
       "title": "Marketing and Sales Administrator",
@@ -121,26 +121,6 @@
       "date": "2026-10-13T02:05:03+00:00",
       "tags": [
         "Data Science & Analytics"
-      ]
-    },
-    {
-      "title": "Sales Assist Representative",
-      "company": "Zapier",
-      "url": "https://jobicy.com/jobs/153087-sales-assist-representative",
-      "source": "Jobicy",
-      "date": "2026-10-13T02:04:57+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "title": "Account Executive, Mid Market",
-      "company": "Zapier",
-      "url": "https://jobicy.com/jobs/153092-account-executive-mid-market-3",
-      "source": "Jobicy",
-      "date": "2026-10-13T02:04:54+00:00",
-      "tags": [
-        "Sales"
       ]
     },
     {
@@ -306,6 +286,17 @@
       ]
     },
     {
+      "title": "Virtual Assistant - Board Support",
+      "company": "Mental Health Association of Maryland",
+      "url": "https://jobs.workable.com/view/8ZNMQasFDC1pndi4ZE3BYH/remote-virtual-assistant---board-support-in-united-states-at-mental-health-association-of-maryland",
+      "source": "Workable",
+      "date": "2026-10-13T15:12:22.125Z",
+      "tags": [
+        "Part-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Virtual Assistant - Omaha",
       "company": "The Boutique COO",
       "url": "https://jobs.workable.com/view/t3cDunGhgHntsEovS1wEE9/remote-virtual-assistant---omaha-in-omaha-at-the-boutique-coo",
@@ -449,13 +440,24 @@
       ]
     },
     {
-      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
-      "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
+      "title": "Property Management Assistant",
+      "company": "Bridge33 Capital",
+      "url": "https://jobs.workable.com/view/5BWqD7b3MdRbAbw5mM47y9/remote-property-management-assistant-in-central-visayas-at-bridge33-capital",
       "source": "Workable",
-      "date": "2025-09-26T11:49:15.278Z",
+      "date": "2026-10-13T20:38:25.912Z",
       "tags": [
-        "Full-time",
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Assistant",
+      "company": "Bridge33 Capital",
+      "url": "https://jobs.workable.com/view/6WgdRr2WqF9Q3eYpz8K46Y/remote-property-management-assistant-in-metro-manila-at-bridge33-capital",
+      "source": "Workable",
+      "date": "2026-10-13T20:38:25.652Z",
+      "tags": [
+        "Contract",
         "Remote"
       ]
     },
@@ -592,24 +594,35 @@
       ]
     },
     {
-      "title": "Experience Manager - Pulse",
-      "company": "Kaizen Asset Management Services",
-      "url": "https://jobs.workable.com/view/28fPXppjbye74YSGDDZ2rd/experience-manager---pulse-in-dubai-at-kaizen-asset-management-services",
+      "title": "Community Manager",
+      "company": "Flats LLC",
+      "url": "https://jobs.workable.com/view/x5o9GiTG2MqtsmiUdMvr9a/community-manager-in-minneapolis-at-flats-llc",
       "source": "Workable",
-      "date": "2026-10-13T12:44:40.957Z",
+      "date": "2026-10-13T20:08:46.636Z",
       "tags": [
-        "Dubai, Dubai, United Arab Emirates"
+        "Minneapolis, Minnesota, United States"
       ]
     },
     {
-      "title": "Assistant Finance Manager (AFM) - Financial Planning, Analysis & Reporting",
-      "company": "White Spot Facilities Management Services LLC",
-      "url": "https://jobs.workable.com/view/kPvcPoKYRKqeJrFT1H2mtL/assistant-finance-manager-(afm)---financial-planning%2C-analysis-%26-reporting-in-dubai-at-white-spot-facilities-management-services-llc",
+      "title": "Vice President of Operations",
+      "company": "WRMC, Inc.",
+      "url": "https://jobs.workable.com/view/5zQLL4d2MQoPSTHB7zNUAo/hybrid-vice-president-of-operations-in-irving-at-wrmc%2C-inc.",
       "source": "Workable",
-      "date": "2026-10-13T13:04:34.089Z",
+      "date": "2026-10-13T18:53:29.073Z",
       "tags": [
         "Full-time",
-        "Dubai, Dubai, United Arab Emirates"
+        "Irving, Texas, United States"
+      ]
+    },
+    {
+      "title": "Sales Admin On-Demand",
+      "company": "Blueground",
+      "url": "https://jobs.workable.com/view/oYBvh9NFntHvmHbLJGaowK/remote-sales-admin-on-demand-in-brazil-at-blueground",
+      "source": "Workable",
+      "date": "2026-10-13T15:21:32.243Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     },
     {
@@ -635,47 +648,14 @@
       ]
     },
     {
-      "title": "Assistant Property Manager",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/8kHSMdYoeUuNNvWxQFoS9X/assistant-property-manager-in-nashville-at-kpm",
+      "title": "Assistant Finance Manager (AFM) - Financial Planning, Analysis & Reporting",
+      "company": "White Spot Facilities Management Services LLC",
+      "url": "https://jobs.workable.com/view/kPvcPoKYRKqeJrFT1H2mtL/assistant-finance-manager-(afm)---financial-planning%2C-analysis-%26-reporting-in-dubai-at-white-spot-facilities-management-services-llc",
       "source": "Workable",
-      "date": "2026-10-12T21:52:29.200Z",
+      "date": "2026-10-13T13:04:34.089Z",
       "tags": [
         "Full-time",
-        "Nashville, Tennessee, United States"
-      ]
-    },
-    {
-      "title": "Community Manager",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/bXKXDxaX3BKfPU26rBEcxW/community-manager-in-nashville-at-kpm",
-      "source": "Workable",
-      "date": "2026-10-12T21:57:41.841Z",
-      "tags": [
-        "Full-time",
-        "Nashville, Tennessee, United States"
-      ]
-    },
-    {
-      "title": "Assistant Manager - Nashville, TN",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/jPLQvQPxHUXK6aN29wuHvE/assistant-manager---nashville%2C-tn-in-nashville-at-kpm",
-      "source": "Workable",
-      "date": "2026-10-12T21:54:00.369Z",
-      "tags": [
-        "Full-time",
-        "Nashville, Tennessee, United States"
-      ]
-    },
-    {
-      "title": "Assistant Manager",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/az5r9gyj96K6RdexwYSBSz/assistant-manager-in-nashville-at-kpm",
-      "source": "Workable",
-      "date": "2026-10-12T21:52:02.353Z",
-      "tags": [
-        "Full-time",
-        "Nashville, Tennessee, United States"
+        "Dubai, Dubai, United Arab Emirates"
       ]
     },
     {
@@ -1094,24 +1074,35 @@
       ]
     },
     {
-      "title": "AI Business Automation Specialist | Operational Automations",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/ubuV4RVknFJMbQvvnJa9nn/remote-ai-business-automation-specialist-%7C-operational-automations-in-metro-manila-at-human-intelligence",
+      "title": "AI Automation Expert (AI Implementation Specialist)",
+      "company": "Bush & Bush Law Group",
+      "url": "https://jobs.workable.com/view/2XyFGnnDeR1ADKSEvBrQ3Q/remote-ai-automation-expert-(ai-implementation-specialist)-in-philippines-at-bush-%26-bush-law-group",
       "source": "Workable",
-      "date": "2026-07-09T16:18:24.444Z",
+      "date": "2026-10-13T16:25:51.990Z",
       "tags": [
-        "Contract",
+        "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "GoHighLevel Automation Specialist | CRM, Funnels & AI Systems",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/7DqhD5brsA9qYNxoUYq5MW/remote-gohighlevel-automation-specialist-%7C-crm%2C-funnels-%26-ai-systems-in-metro-manila-at-human-intelligence",
+      "title": "AI Automation Expert (AI Implementation Specialist)",
+      "company": "Bush & Bush Law Group",
+      "url": "https://jobs.workable.com/view/rFawoNXPUpaNmd3vCSABkb/remote-ai-automation-expert-(ai-implementation-specialist)-in-india-at-bush-%26-bush-law-group",
       "source": "Workable",
-      "date": "2026-07-09T16:44:04.584Z",
+      "date": "2026-10-13T16:25:51.586Z",
       "tags": [
-        "Contract",
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI Automation Expert (AI Implementation Specialist)",
+      "company": "Bush & Bush Law Group",
+      "url": "https://jobs.workable.com/view/uMJRqkSQWydsuX8knHqx2Q/remote-ai-automation-expert-(ai-implementation-specialist)-in-pakistan-at-bush-%26-bush-law-group",
+      "source": "Workable",
+      "date": "2026-10-13T16:25:51.311Z",
+      "tags": [
+        "Full-time",
         "Remote"
       ]
     },
@@ -1171,17 +1162,6 @@
       ]
     },
     {
-      "title": "Process Automation Specialist (m/w/x)",
-      "company": "Thorlabs",
-      "url": "https://jobs.workable.com/view/gjS1LM1ZUXxFj27zrf9EZ2/process-automation-specialist-(m%2Fw%2Fx)-in-bergkirchen-at-thorlabs",
-      "source": "Workable",
-      "date": "2026-09-03T05:49:37.048Z",
-      "tags": [
-        "Full-time",
-        "Bergkirchen, Bavaria, Germany"
-      ]
-    },
-    {
       "title": "Automation Specialists - EPMS",
       "company": "Albireo Energy",
       "url": "https://jobs.workable.com/view/hMeDfypQQRk3qkntQcapgq/hybrid-automation-specialists---epms-in-toledo-at-albireo-energy",
@@ -1215,14 +1195,14 @@
       ]
     },
     {
-      "title": "Growth Marketing Specialist (Funnels & AI Automation) - Remote",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/g6jC7aA7dkzL5N1gGLcioC/growth-marketing-specialist-(funnels-%26-ai-automation)---remote-in-lviv-at-human-intelligence",
+      "title": "Automation Specialist (OT/ICSS)",
+      "company": "Pacific Energy Canada",
+      "url": "https://jobs.workable.com/view/4WdQKheiNazMbFjWrupdeZ/automation-specialist-(ot%2Ficss)-in-vancouver-at-pacific-energy-canada",
       "source": "Workable",
-      "date": "2026-03-04T13:50:51.772Z",
+      "date": "2026-05-25T17:25:20.667Z",
       "tags": [
-        "Contract",
-        "Remote"
+        "Full-time",
+        "Vancouver, British Columbia, Canada"
       ]
     },
     {
@@ -1292,6 +1272,17 @@
       ]
     },
     {
+      "title": "Senior HAM Developer",
+      "company": "TAWANTECH",
+      "url": "https://jobs.workable.com/view/1pCRvL5gycbArn1jDQg58g/senior-ham-developer-in-riyadh-at-tawantech",
+      "source": "Workable",
+      "date": "2026-10-13T12:45:44.961Z",
+      "tags": [
+        "Full-time",
+        "Riyadh, Riyadh Province, Saudi Arabia"
+      ]
+    },
+    {
       "title": "Data Modeler",
       "company": "Deeplight",
       "url": "https://jobs.workable.com/view/ambKx8GmZVsVwCK47ckBv1/hybrid-data-modeler-in-dubai-at-deeplight",
@@ -1314,44 +1305,11 @@
       ]
     },
     {
-      "title": "Senior HAM Developer",
-      "company": "TAWANTECH",
-      "url": "https://jobs.workable.com/view/1pCRvL5gycbArn1jDQg58g/senior-ham-developer-in-riyadh-at-tawantech",
-      "source": "Workable",
-      "date": "2026-10-13T12:45:44.961Z",
-      "tags": [
-        "Full-time",
-        "Riyadh, Riyadh Province, Saudi Arabia"
-      ]
-    },
-    {
-      "title": "AI-Native Marketing Manager",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/x9UkN4NuKiyzHUcvt6XE8f/remote-ai-native-marketing-manager-in-jakarta-at-human-intelligence",
-      "source": "Workable",
-      "date": "2026-07-14T19:16:43.629Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
       "title": "AI-Native Marketing Manager",
       "company": "Human Intelligence",
       "url": "https://jobs.workable.com/view/wBAnsEdv9rFKHx7E8cfuBs/remote-ai-native-marketing-manager-in-sofia-at-human-intelligence",
       "source": "Workable",
       "date": "2026-07-14T19:16:43.457Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "AI-Native Marketing Manager",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/jkob49LLMRf8Qg6uCDNrM2/remote-ai-native-marketing-manager-in-ia%C8%99i-at-human-intelligence",
-      "source": "Workable",
-      "date": "2026-07-14T19:16:43.291Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1380,6 +1338,28 @@
       ]
     },
     {
+      "title": "AI-Native Marketing Manager",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/x9UkN4NuKiyzHUcvt6XE8f/remote-ai-native-marketing-manager-in-jakarta-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:16:43.629Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI-Native Marketing Manager",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/jkob49LLMRf8Qg6uCDNrM2/remote-ai-native-marketing-manager-in-ia%C8%99i-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:16:43.291Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
       "title": "AI-Native Copywriter | Marketing, Product & Conversion Copy",
       "company": "Human Intelligence",
       "url": "https://jobs.workable.com/view/4GrYG3DjCBtQMV5CzmCxmK/remote-ai-native-copywriter-%7C-marketing%2C-product-%26-conversion-copy-in-sofia-at-human-intelligence",
@@ -1399,38 +1379,6 @@
       "tags": [
         "Contract",
         "Remote"
-      ]
-    },
-    {
-      "title": "AI-Native Copywriter | Marketing, Product & Conversion Copy",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/gL52yzYmVck9vx2taoFYPc/remote-ai-native-copywriter-%7C-marketing%2C-product-%26-conversion-copy-in-bucharest-at-human-intelligence",
-      "source": "Workable",
-      "date": "2026-07-14T19:04:12.089Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "AI-Native Copywriter | Marketing, Product & Conversion Copy",
-      "company": "Human Intelligence",
-      "url": "https://jobs.workable.com/view/cYucJBS2PHaKbGKFp8fRz3/remote-ai-native-copywriter-%7C-marketing%2C-product-%26-conversion-copy-in-kyiv-at-human-intelligence",
-      "source": "Workable",
-      "date": "2026-07-14T19:04:12.863Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Principal Forward Deployed Engineer - Applied AI (Claude Enterprise)",
-      "company": "V2 AI",
-      "url": "https://jobs.workable.com/view/khfQpiZMPCHb7XMXs9fxdp/hybrid-principal-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-new-delhi-at-v2-ai",
-      "source": "Workable",
-      "date": "2026-10-13T03:27:31.825Z",
-      "tags": [
-        "New Delhi, Delhi, India"
       ]
     }
   ]
