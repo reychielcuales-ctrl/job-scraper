@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-13T00:15:21.874Z",
-  "count": 114,
+  "generatedAt": "2026-10-13T13:43:52.005Z",
+  "count": 131,
   "jobs": [
     {
       "title": "Marketing and Sales Administrator",
@@ -66,19 +66,6 @@
       ]
     },
     {
-      "title": "AI agent engineer",
-      "company": "Sticker Mule",
-      "url": "https://remoteOK.com/remote-jobs/remote-ai-agent-engineer-sticker-mule-1137399",
-      "source": "RemoteOK",
-      "date": "2026-09-16T12:44:27+00:00",
-      "tags": [
-        "ai",
-        "golang",
-        "javascript",
-        "typescript"
-      ]
-    },
-    {
       "title": "Digital Workplace & Automation Specialist",
       "company": "Dreem Health",
       "url": "https://remoteOK.com/remote-jobs/remote-digital-workplace-automation-specialist-dreem-health-1136948",
@@ -97,14 +84,72 @@
       ]
     },
     {
-      "title": "Senior Forward Deployed Engineer (AI Agent) - UK",
+      "title": "Senior Forward Deployed Engineer (AI Agent)",
       "company": "Cresta",
-      "url": "https://jobicy.com/jobs/155100-senior-forward-deployed-engineer-ai-agent-uk",
+      "url": "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent",
       "source": "Jobicy",
-      "date": "2026-10-12T07:02:32+00:00",
+      "date": "2026-10-13T09:41:28+00:00",
       "tags": [
         "Software Engineering"
       ]
+    },
+    {
+      "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
+      "source": "Jobicy",
+      "date": "2026-10-13T02:10:05+00:00",
+      "tags": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Sr. Technical Account Manager",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/153103-sr-technical-account-manager",
+      "source": "Jobicy",
+      "date": "2026-10-13T02:05:06+00:00",
+      "tags": [
+        "Customer Support & Success"
+      ]
+    },
+    {
+      "title": "Manager, GTM Analytics",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/153099-manager-gtm-analytics",
+      "source": "Jobicy",
+      "date": "2026-10-13T02:05:03+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Sales Assist Representative",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/153087-sales-assist-representative",
+      "source": "Jobicy",
+      "date": "2026-10-13T02:04:57+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "title": "Account Executive, Mid Market",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/153092-account-executive-mid-market-3",
+      "source": "Jobicy",
+      "date": "2026-10-13T02:04:54+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "title": "Senior Director, Global Support",
+      "company": "Prove",
+      "url": "https://weworkremotely.com/remote-jobs/prove-senior-director-global-support",
+      "source": "We Work Remotely",
+      "date": "Tue, 13 Oct 2026 07:30:53 +0000",
+      "tags": []
     },
     {
       "title": "Customer Resilience Manager - Customer Success (Remote)",
@@ -461,9 +506,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -472,9 +517,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -547,14 +592,46 @@
       ]
     },
     {
-      "title": "PROPERTY LEASING & MANAGEMENT",
-      "company": "RAK Real Estate",
-      "url": "https://jobs.workable.com/view/2rjijPjSEaAY3MFsDCGBhP/property-leasing-%26-management-in-al-juwais-at-rak-real-estate",
+      "title": "Experience Manager - Pulse",
+      "company": "Kaizen Asset Management Services",
+      "url": "https://jobs.workable.com/view/28fPXppjbye74YSGDDZ2rd/experience-manager---pulse-in-dubai-at-kaizen-asset-management-services",
       "source": "Workable",
-      "date": "2026-09-17T05:01:07.892Z",
+      "date": "2026-10-13T12:44:40.957Z",
+      "tags": [
+        "Dubai, Dubai, United Arab Emirates"
+      ]
+    },
+    {
+      "title": "Assistant Finance Manager (AFM) - Financial Planning, Analysis & Reporting",
+      "company": "White Spot Facilities Management Services LLC",
+      "url": "https://jobs.workable.com/view/kPvcPoKYRKqeJrFT1H2mtL/assistant-finance-manager-(afm)---financial-planning%2C-analysis-%26-reporting-in-dubai-at-white-spot-facilities-management-services-llc",
+      "source": "Workable",
+      "date": "2026-10-13T13:04:34.089Z",
       "tags": [
         "Full-time",
-        "Al Juwais, Ras al-Khaimah, United Arab Emirates"
+        "Dubai, Dubai, United Arab Emirates"
+      ]
+    },
+    {
+      "title": "Property and Estate Administrator",
+      "company": "Dyson Farming",
+      "url": "https://jobs.workable.com/view/oNWqGkKJTTkMhZSkzbvNsf/property-and-estate-administrator-in-nocton-at-dyson-farming",
+      "source": "Workable",
+      "date": "2026-10-13T13:28:06.418Z",
+      "tags": [
+        "Other",
+        "Nocton, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "Property and Estate Administrator",
+      "company": "Dyson Farming",
+      "url": "https://jobs.workable.com/view/48mxRP4T95ACR4BKRQ7KyA/property-and-estate-administrator-in-carrington-at-dyson-farming",
+      "source": "Workable",
+      "date": "2026-10-13T13:28:06.368Z",
+      "tags": [
+        "Other",
+        "Carrington, England, United Kingdom"
       ]
     },
     {
@@ -599,38 +676,6 @@
       "tags": [
         "Full-time",
         "Nashville, Tennessee, United States"
-      ]
-    },
-    {
-      "title": "Residential Rental Senior Associate (1805)",
-      "company": "Lamda Development SA",
-      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(1805)-in-greece-at-lamda-development-sa",
-      "source": "Workable",
-      "date": "2026-10-12T08:32:07.816Z",
-      "tags": [
-        "Greece"
-      ]
-    },
-    {
-      "title": "Team Manager - Elder people - Extra Sheltered Schemes - Hackney & Camden",
-      "company": "Outward",
-      "url": "https://jobs.workable.com/view/gAyyDxrp1QUjsizJPNDbrR/team-manager---elder-people---extra-sheltered-schemes---hackney-%26-camden-in-london-at-outward",
-      "source": "Workable",
-      "date": "2026-10-12T06:52:27.789Z",
-      "tags": [
-        "Full-time",
-        "London, London Borough of Camden, United Kingdom"
-      ]
-    },
-    {
-      "title": "Team Manager - Elder people - Extra Sheltered Schemes - Hackney & Camden",
-      "company": "Outward",
-      "url": "https://jobs.workable.com/view/bBRsz3mQjt57kKKUkPmSot/team-manager---elder-people---extra-sheltered-schemes---hackney-%26-camden-in-london-at-outward",
-      "source": "Workable",
-      "date": "2026-10-12T06:52:27.400Z",
-      "tags": [
-        "Full-time",
-        "London, London Borough of Hackney, United Kingdom"
       ]
     },
     {
@@ -1019,34 +1064,33 @@
       ]
     },
     {
-      "title": "Engineering Manager / Sr. EM Forward Deployed Engineering (FDE) - West",
-      "company": "Blue Machines AI",
-      "url": "https://jobs.workable.com/view/f2RXvvcP6tqQ44NYGwFPMo/hybrid-engineering-manager-%2F-sr.-em-forward-deployed-engineering-(fde)---west-in-mumbai-at-blue-machines-ai",
+      "title": "Lead Forward Deployed Engineer - Applied AI (Claude Enterprise)",
+      "company": "V2 AI",
+      "url": "https://jobs.workable.com/view/ud73jWk1vuBm8mEVKKNDw6/hybrid-lead-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-new-delhi-at-v2-ai",
       "source": "Workable",
-      "date": "2026-10-09T09:26:31.461Z",
+      "date": "2026-10-13T03:33:40.992Z",
       "tags": [
-        "Mumbai, Maharashtra, India"
+        "New Delhi, Delhi, India"
       ]
     },
     {
-      "title": "Engineering Manager / Sr. EM Forward Deployed Engineering (FDE) - North",
-      "company": "Blue Machines AI",
-      "url": "https://jobs.workable.com/view/me5hHSZAkiwv3VLxe6FKnQ/hybrid-engineering-manager-%2F-sr.-em-forward-deployed-engineering-(fde)---north-in-delhi-at-blue-machines-ai",
+      "title": "Lead Forward Deployed Engineer - Applied AI (Claude Enterprise)",
+      "company": "V2 AI",
+      "url": "https://jobs.workable.com/view/nStSmstuEimLg7DD2ioT2t/hybrid-lead-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-gurugram-at-v2-ai",
       "source": "Workable",
-      "date": "2026-10-09T09:19:22.291Z",
+      "date": "2026-10-13T03:32:38.539Z",
       "tags": [
-        "Delhi, Delhi, India"
+        "Gurugram, Haryana, India"
       ]
     },
     {
-      "title": "PortPayables - Automation Specialist",
-      "company": "Marcura",
-      "url": "https://jobs.workable.com/view/r3NTcDJVsM1UTtCF5JDaWW/remote-portpayables---automation-specialist-in-india-at-marcura",
+      "title": "Principal Forward Deployed Engineer - Applied AI (Claude Enterprise)",
+      "company": "V2 AI",
+      "url": "https://jobs.workable.com/view/ioVRhdGtX635ifiUzKm8X1/hybrid-principal-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-gurugram-at-v2-ai",
       "source": "Workable",
-      "date": "2026-09-07T07:50:10.972Z",
+      "date": "2026-10-13T03:28:33.892Z",
       "tags": [
-        "Full-time",
-        "Remote"
+        "Gurugram, Haryana, India"
       ]
     },
     {
@@ -1068,6 +1112,17 @@
       "date": "2026-07-09T16:44:04.584Z",
       "tags": [
         "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "PortPayables - Automation Specialist",
+      "company": "Marcura",
+      "url": "https://jobs.workable.com/view/r3NTcDJVsM1UTtCF5JDaWW/remote-portpayables---automation-specialist-in-india-at-marcura",
+      "source": "Workable",
+      "date": "2026-09-07T07:50:10.972Z",
+      "tags": [
+        "Full-time",
         "Remote"
       ]
     },
@@ -1237,24 +1292,145 @@
       ]
     },
     {
-      "title": "Infor Architect Manager",
-      "company": "Ember Group Consulting",
-      "url": "https://jobs.workable.com/view/3zDQmsTyYS3me5ima3M6we/infor-architect-manager-in-charlotte-at-ember-group-consulting",
+      "title": "Data Modeler",
+      "company": "Deeplight",
+      "url": "https://jobs.workable.com/view/ambKx8GmZVsVwCK47ckBv1/hybrid-data-modeler-in-dubai-at-deeplight",
       "source": "Workable",
-      "date": "2026-10-12T20:11:38.702Z",
+      "date": "2026-10-13T11:23:09.203Z",
       "tags": [
-        "Charlotte, North Carolina, United States"
+        "Full-time",
+        "Dubai, Dubai, United Arab Emirates"
       ]
     },
     {
-      "title": "Singpass Product Ops Specialist - 2 years Direct Contract (with Perm benefits)",
-      "company": "Assurity Trusted Solutions",
-      "url": "https://jobs.workable.com/view/cMMqFE4wY3xTHkHweqwkad/hybrid-singpass-product-ops-specialist---2-years-direct-contract-(with-perm-benefits)-in-singapore-at-assurity-trusted-solutions",
+      "title": "Data Modeler",
+      "company": "Deeplight",
+      "url": "https://jobs.workable.com/view/wb9Xrja9oDSBTrudsZ68ky/hybrid-data-modeler-in-abu-dhabi-at-deeplight",
       "source": "Workable",
-      "date": "2026-10-12T04:21:51.369Z",
+      "date": "2026-10-13T11:23:09.512Z",
       "tags": [
         "Full-time",
-        "Singapore, Singapore, Singapore"
+        "Abu Dhabi, Abu Dhabi, United Arab Emirates"
+      ]
+    },
+    {
+      "title": "Senior HAM Developer",
+      "company": "TAWANTECH",
+      "url": "https://jobs.workable.com/view/1pCRvL5gycbArn1jDQg58g/senior-ham-developer-in-riyadh-at-tawantech",
+      "source": "Workable",
+      "date": "2026-10-13T12:45:44.961Z",
+      "tags": [
+        "Full-time",
+        "Riyadh, Riyadh Province, Saudi Arabia"
+      ]
+    },
+    {
+      "title": "AI-Native Marketing Manager",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/x9UkN4NuKiyzHUcvt6XE8f/remote-ai-native-marketing-manager-in-jakarta-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:16:43.629Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI-Native Marketing Manager",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/wBAnsEdv9rFKHx7E8cfuBs/remote-ai-native-marketing-manager-in-sofia-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:16:43.457Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI-Native Marketing Manager",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/jkob49LLMRf8Qg6uCDNrM2/remote-ai-native-marketing-manager-in-ia%C8%99i-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:16:43.291Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI-Native Marketing Manager",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/a8nhgLP5oCyGCYxJSTxswY/remote-ai-native-marketing-manager-in-krak%C3%B3w-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:16:42.667Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI-Native Marketing Manager",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/59A1Y5QVEUoUEvgNtYdK2d/remote-ai-native-marketing-manager-in-lviv-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:16:42.420Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI-Native Copywriter | Marketing, Product & Conversion Copy",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/4GrYG3DjCBtQMV5CzmCxmK/remote-ai-native-copywriter-%7C-marketing%2C-product-%26-conversion-copy-in-sofia-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:04:12.756Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI-Native Copywriter | Marketing, Product & Conversion Copy",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/h4b9Ztgw5CsZRCmgXu5iwH/remote-ai-native-copywriter-%7C-marketing%2C-product-%26-conversion-copy-in-warsaw-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:04:12.278Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI-Native Copywriter | Marketing, Product & Conversion Copy",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/gL52yzYmVck9vx2taoFYPc/remote-ai-native-copywriter-%7C-marketing%2C-product-%26-conversion-copy-in-bucharest-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:04:12.089Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI-Native Copywriter | Marketing, Product & Conversion Copy",
+      "company": "Human Intelligence",
+      "url": "https://jobs.workable.com/view/cYucJBS2PHaKbGKFp8fRz3/remote-ai-native-copywriter-%7C-marketing%2C-product-%26-conversion-copy-in-kyiv-at-human-intelligence",
+      "source": "Workable",
+      "date": "2026-07-14T19:04:12.863Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Principal Forward Deployed Engineer - Applied AI (Claude Enterprise)",
+      "company": "V2 AI",
+      "url": "https://jobs.workable.com/view/khfQpiZMPCHb7XMXs9fxdp/hybrid-principal-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-new-delhi-at-v2-ai",
+      "source": "Workable",
+      "date": "2026-10-13T03:27:31.825Z",
+      "tags": [
+        "New Delhi, Delhi, India"
       ]
     }
   ]
