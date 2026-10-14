@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-14T11:22:21.212Z",
-  "count": 115,
+  "generatedAt": "2026-10-14T16:43:26.536Z",
+  "count": 112,
   "jobs": [
     {
       "title": "Marketing and Sales Administrator",
@@ -81,16 +81,6 @@
         "sales",
         "medical",
         "digital nomad"
-      ]
-    },
-    {
-      "title": "Senior Forward Deployed Engineer (AI Agent)",
-      "company": "Cresta",
-      "url": "https://jobicy.com/jobs/155182-senior-forward-deployed-engineer-ai-agent",
-      "source": "Jobicy",
-      "date": "2026-10-13T09:41:28+00:00",
-      "tags": [
-        "Software Engineering"
       ]
     },
     {
@@ -189,72 +179,6 @@
       "date": "2026-10-09T18:57:23.372Z",
       "tags": [
         "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/axkFekedrZmzv254m6LSQy/remote-virtual-assistant-in-nicaragua-at-teamswell",
-      "source": "Workable",
-      "date": "2026-10-08T22:50:38.175Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/ectxjD9pPYcJYvMMgrP93A/remote-virtual-assistant-in-guatemala-at-teamswell",
-      "source": "Workable",
-      "date": "2026-10-08T22:50:38.586Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/oDvod2fSFM8Vvm7J5g86P3/remote-virtual-assistant-in-honduras-at-teamswell",
-      "source": "Workable",
-      "date": "2026-10-08T22:50:38.341Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/vz1FQ8puFEYVUcazbLkVjm/remote-virtual-assistant-in-mexico-at-teamswell",
-      "source": "Workable",
-      "date": "2026-10-08T22:50:38.741Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Teamswell",
-      "url": "https://jobs.workable.com/view/9HoMLGzpohP3skgezDVQcw/remote-virtual-assistant-in-el-salvador-at-teamswell",
-      "source": "Workable",
-      "date": "2026-10-08T22:50:38.107Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Board Support",
-      "company": "Mental Health Association of Maryland",
-      "url": "https://jobs.workable.com/view/8ZNMQasFDC1pndi4ZE3BYH/remote-virtual-assistant---board-support-in-united-states-at-mental-health-association-of-maryland",
-      "source": "Workable",
-      "date": "2026-10-13T15:12:22.125Z",
-      "tags": [
-        "Part-time",
         "Remote"
       ]
     },
@@ -402,25 +326,80 @@
       ]
     },
     {
-      "title": "Property Management Assistant",
-      "company": "Bridge33 Capital",
-      "url": "https://jobs.workable.com/view/5BWqD7b3MdRbAbw5mM47y9/remote-property-management-assistant-in-central-visayas-at-bridge33-capital",
+      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
+      "company": "Rankona Mazon AB",
+      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2026-10-13T20:38:25.912Z",
+      "date": "2025-09-26T11:49:15.278Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
+      "company": "Rankona Mazon AB",
+      "url": "https://jobs.workable.com/view/xhnoSCPBE7FZtYPzUveSyX/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-slovakia-at-rankona-mazon-ab",
+      "source": "Workable",
+      "date": "2025-09-26T11:49:13.953Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
+      "company": "Rankona Mazon AB",
+      "url": "https://jobs.workable.com/view/8raciRJMkXPjJ3XSBsHbwt/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-romania-at-rankona-mazon-ab",
+      "source": "Workable",
+      "date": "2025-09-26T11:49:14.075Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Executive Virtual Assistant",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/24S5wpqYcE6cetHFfwjmyd/remote-executive-virtual-assistant-in-united-states-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-09T05:09:49.253Z",
       "tags": [
         "Contract",
         "Remote"
       ]
     },
     {
-      "title": "Property Management Assistant",
-      "company": "Bridge33 Capital",
-      "url": "https://jobs.workable.com/view/6WgdRr2WqF9Q3eYpz8K46Y/remote-property-management-assistant-in-metro-manila-at-bridge33-capital",
+      "title": "Offshore Virtual Executive Assistant to the CEO",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/a7CqTHeFoiRwHqNhwQ4xMf/remote-offshore-virtual-executive-assistant-to-the-ceo-in-brazil-at-collective-residential",
       "source": "Workable",
-      "date": "2026-10-13T20:38:25.652Z",
+      "date": "2026-10-09T21:13:00.048Z",
       "tags": [
-        "Contract",
+        "Full-time",
         "Remote"
+      ]
+    },
+    {
+      "title": "Offshore Virtual Executive Assistant to the CEO",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/4JXyqmFV5syo8UoTt8gXrX/remote-offshore-virtual-executive-assistant-to-the-ceo-in-argentina-at-collective-residential",
+      "source": "Workable",
+      "date": "2026-10-09T21:13:00.272Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Associate",
+      "company": "Houst",
+      "url": "https://jobs.workable.com/view/d5CJeqj2uX5ej4AxoZCS32/hybrid-property-management-associate-in-cape-town-at-houst",
+      "source": "Workable",
+      "date": "2026-10-14T13:49:43.554Z",
+      "tags": [
+        "Full-time",
+        "Cape Town, Western Cape, South Africa"
       ]
     },
     {
@@ -556,6 +535,17 @@
       ]
     },
     {
+      "title": "Property Μanager",
+      "company": "Faraday Norton",
+      "url": "https://jobs.workable.com/view/pmSMoqnw69wnBtKbdqCoC2/property-%CE%BCanager-in-marousi-at-faraday-norton",
+      "source": "Workable",
+      "date": "2026-10-14T12:48:53.653Z",
+      "tags": [
+        "Full-time",
+        "Marousi, Attica, Greece"
+      ]
+    },
+    {
       "title": "Maintenance Supervisor",
       "company": "CYM Living LLC",
       "url": "https://jobs.workable.com/view/iPfFceEX5tBpsN7eJJ5niE/maintenance-supervisor-in-bridgeton-at-cym-living-llc",
@@ -596,28 +586,6 @@
       "tags": [
         "Full-time",
         "Remote"
-      ]
-    },
-    {
-      "title": "Property and Estate Administrator",
-      "company": "Dyson Farming",
-      "url": "https://jobs.workable.com/view/oNWqGkKJTTkMhZSkzbvNsf/property-and-estate-administrator-in-nocton-at-dyson-farming",
-      "source": "Workable",
-      "date": "2026-10-13T13:28:06.418Z",
-      "tags": [
-        "Other",
-        "Nocton, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "Property and Estate Administrator",
-      "company": "Dyson Farming",
-      "url": "https://jobs.workable.com/view/48mxRP4T95ACR4BKRQ7KyA/property-and-estate-administrator-in-carrington-at-dyson-farming",
-      "source": "Workable",
-      "date": "2026-10-13T13:28:06.368Z",
-      "tags": [
-        "Other",
-        "Carrington, England, United Kingdom"
       ]
     },
     {
@@ -853,28 +821,6 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/dhQULtWMSbLcSBMHCZV9ya/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
-      "source": "Workable",
-      "date": "2026-10-10T10:28:34.968Z",
-      "tags": [
-        "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Staff QA Automation Engineer",
-      "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/7Sys7jnH7qzNXNNGfCBqFY/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
-      "source": "Workable",
-      "date": "2026-10-10T10:28:34.861Z",
-      "tags": [
-        "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Staff QA Automation Engineer",
-      "company": "Meeru AI Inc",
       "url": "https://jobs.workable.com/view/mjGsYdjkT1qgwEfHSxiZSB/remote-staff-qa-automation-engineer-in-united-states-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T10:28:35.591Z",
@@ -908,9 +854,20 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
+      "url": "https://jobs.workable.com/view/dhQULtWMSbLcSBMHCZV9ya/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
       "source": "Workable",
-      "date": "2026-10-10T01:09:25.904Z",
+      "date": "2026-10-10T10:28:34.968Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/7Sys7jnH7qzNXNNGfCBqFY/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T10:28:34.861Z",
       "tags": [
         "Other",
         "Remote"
@@ -922,6 +879,17 @@
       "url": "https://jobs.workable.com/view/rDYEC5e1Yw3D6G1az5SJJi/remote-staff-qa-automation-engineer-in-united-states-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:26.233Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:25.904Z",
       "tags": [
         "Other",
         "Remote"
