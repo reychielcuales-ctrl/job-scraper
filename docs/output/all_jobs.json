@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-14T21:21:58.714Z",
-  "count": 172,
+  "generatedAt": "2026-10-15T03:36:19.120Z",
+  "count": 164,
   "sources": {
     "node": 112,
-    "jobspy": 60
+    "jobspy": 52
   },
   "jobs": [
     {
@@ -453,9 +453,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -464,9 +464,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -649,17 +649,6 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.453Z",
@@ -674,6 +663,28 @@
       "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.201Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:52.174Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.688Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -707,17 +718,6 @@
       "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:39.156Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:51:52.174Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1238,6 +1238,14 @@
       ]
     },
     {
+      "title": "Real Estate Lead Generation & Data Management Virtual Assistant",
+      "company": "Steadfast Home Buyers",
+      "url": "https://www.indeed.com/viewjob?jk=ddf977508086ee8b",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-12",
+      "tags": []
+    },
+    {
       "title": "HV Administrative Assistant (Remote)",
       "company": "SOLV Energy",
       "url": "https://www.indeed.com/viewjob?jk=989f1e57e915c3db",
@@ -1246,91 +1254,11 @@
       "tags": []
     },
     {
-      "title": "Virtual Executive Assistant (Remote)",
-      "company": "RecruitLax",
-      "url": "https://www.linkedin.com/jobs/view/4479280277",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "BackTech",
-      "url": "https://www.linkedin.com/jobs/view/4476603344",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant – Trailer Sales",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4476495159",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Executive Virtual Assistant (Customer Experience & Business Operations)",
-      "company": "GoLean Health",
-      "url": "https://www.linkedin.com/jobs/view/4478150790",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Executive Virtual Assistant (Customer Experience & Business Operations)",
-      "company": "GoLean Health",
-      "url": "https://www.linkedin.com/jobs/view/4478152691",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant – Trailer Sales",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4476491415",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "GRQ HOLDINGS",
-      "url": "https://www.linkedin.com/jobs/view/4476433970",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Set Up My Offshore",
-      "url": "https://www.linkedin.com/jobs/view/4476401560",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "General Virtual Assistant (For Pooling)",
-      "company": "VirtuallyinCredible Careers Hub",
-      "url": "https://www.linkedin.com/jobs/view/4476280761",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Somewhere",
-      "url": "https://www.linkedin.com/jobs/view/4476208268",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-08",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://www.linkedin.com/jobs/view/4477420033",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-08",
+      "title": "Executive Assistant to CEO",
+      "company": "Trivium",
+      "url": "https://www.indeed.com/viewjob?jk=26e14c19631a950c",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-15",
       "tags": []
     },
     {
@@ -1369,14 +1297,6 @@
       "title": "Part-Time to Full-Time Executive Assistant",
       "company": "Check Off Your List",
       "url": "https://www.indeed.com/viewjob?jk=2bce5f0db474ed54",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-10",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "CVS Health",
-      "url": "https://www.indeed.com/viewjob?jk=3d327a46649a5c87",
       "source": "JobSpy/indeed",
       "date": "2026-10-10",
       "tags": []
@@ -1430,35 +1350,19 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "By Practice",
-      "url": "https://www.linkedin.com/jobs/view/4470811332",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to CEO",
-      "company": "Tập Đoàn Khải Hoàn Land - Khai Hoan Land Real Estate Group",
-      "url": "https://www.linkedin.com/jobs/view/4478186964",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the Chair",
-      "company": "Gizli Şirket",
-      "url": "https://www.linkedin.com/jobs/view/4468361798",
+      "title": "Executive Assistant, Chief Operating Officer (Insurance)",
+      "company": "AMA - Alberta Motor Association",
+      "url": "https://www.linkedin.com/jobs/view/4474531103",
       "source": "JobSpy/linkedin",
       "date": "2026-10-14",
       "tags": []
     },
     {
       "title": "Executive Assistant",
-      "company": "Hillside - Alarko Tourism Group",
-      "url": "https://www.linkedin.com/jobs/view/4476000895",
+      "company": "Centurion",
+      "url": "https://www.linkedin.com/jobs/view/4478185508",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
+      "date": "2026-10-14",
       "tags": []
     },
     {
@@ -1470,11 +1374,75 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant",
+      "company": "News Corp Australia",
+      "url": "https://www.linkedin.com/jobs/view/4478781166",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "e-STORAGE",
+      "url": "https://www.linkedin.com/jobs/view/4464701647",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant / Personal Assistant",
+      "company": "Trade View",
+      "url": "https://www.linkedin.com/jobs/view/4477248213",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-11",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to SVP/MD - Capital Markets",
+      "company": "CIBC",
+      "url": "https://www.linkedin.com/jobs/view/4441608608",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-10",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant to Chairman",
       "company": "INTEC Energy Solutions",
       "url": "https://www.linkedin.com/jobs/view/4469116204",
       "source": "JobSpy/linkedin",
       "date": "2026-10-09",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant / Personal Assistant",
+      "company": "Trade View",
+      "url": "https://www.linkedin.com/jobs/view/4476227737",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the Publisher & CEO",
+      "company": "The Washington Post",
+      "url": "https://www.linkedin.com/jobs/view/4440077347",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to CCMO",
+      "company": "REA Group",
+      "url": "https://www.linkedin.com/jobs/view/4474808733",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
+      "title": "Vendor Specialist (Property Management)",
+      "company": "Asset Living",
+      "url": "https://www.indeed.com/viewjob?jk=fe90d8addff89a9a",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-14",
       "tags": []
     },
     {
@@ -1526,6 +1494,14 @@
       "tags": []
     },
     {
+      "title": "Property Manager - Memphis, TN",
+      "company": "Trinity Property Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4479755463",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
       "title": "Property Manager",
       "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
       "url": "https://www.linkedin.com/jobs/view/4476209427",
@@ -1545,6 +1521,14 @@
       "title": "Property Manager",
       "company": "Apartment Management Consultants",
       "url": "https://www.linkedin.com/jobs/view/4474859615",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Armco",
+      "url": "https://www.linkedin.com/jobs/view/4479707673",
       "source": "JobSpy/linkedin",
       "date": "2026-10-14",
       "tags": []
@@ -1599,24 +1583,8 @@
     },
     {
       "title": "Property Manager",
-      "company": "Armco",
-      "url": "https://www.linkedin.com/jobs/view/4477868827",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
       "company": "Harbor Group Management Company",
       "url": "https://www.linkedin.com/jobs/view/4475977807",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-08",
-      "tags": []
-    },
-    {
-      "title": "Property Manager | MAA Fall Creek",
-      "company": "MAA",
-      "url": "https://www.linkedin.com/jobs/view/4475727027",
       "source": "JobSpy/linkedin",
       "date": "2026-10-08",
       "tags": []
@@ -1635,14 +1603,6 @@
       "url": "https://www.linkedin.com/jobs/view/4470461144",
       "source": "JobSpy/linkedin",
       "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "AI Workflow Automation Specialist",
-      "company": "Oaklanecapital",
-      "url": "https://www.linkedin.com/jobs/view/4476428110",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
       "tags": []
     },
     {
@@ -1686,35 +1646,11 @@
       "tags": []
     },
     {
-      "title": "AI Agent & Workflow Specialist | Copilot Studio enPower Automate",
-      "company": "Strukton",
-      "url": "https://www.linkedin.com/jobs/view/4474896324",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-09",
-      "tags": []
-    },
-    {
       "title": "AI Automation Engineer / AI Agent Workflow Architect",
       "company": "York Towers",
       "url": "https://www.linkedin.com/jobs/view/4477298868",
       "source": "JobSpy/linkedin",
       "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "title": "AI & Automation Engineer",
-      "company": "Freestone Capital Management",
-      "url": "https://www.linkedin.com/jobs/view/4422755833",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-10",
-      "tags": []
-    },
-    {
-      "title": "Automation Engineer - Rewst",
-      "company": "Dijital Team",
-      "url": "https://www.linkedin.com/jobs/view/4468373190",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-08",
       "tags": []
     }
   ]
