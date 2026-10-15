@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-15T03:36:19.120Z",
-  "count": 164,
+  "generatedAt": "2026-10-15T11:00:05.956Z",
+  "count": 183,
   "sources": {
-    "node": 112,
-    "jobspy": 52
+    "node": 114,
+    "jobspy": 69
   },
   "jobs": [
     {
@@ -86,6 +86,44 @@
         "medical",
         "digital nomad"
       ]
+    },
+    {
+      "title": "Executive Assistant, Marketing",
+      "company": "Deepgram",
+      "url": "https://jobicy.com/jobs/153296-executive-assistant-marketing",
+      "source": "Jobicy",
+      "date": "2026-10-15T03:45:25+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Executive Assistant, Founders Office",
+      "company": "Solace",
+      "url": "https://jobicy.com/jobs/153290-executive-assistant-founders-office",
+      "source": "Jobicy",
+      "date": "2026-10-15T03:45:22+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Contract Executive Assistant",
+      "company": "Cobalt",
+      "url": "https://jobicy.com/jobs/153288-contract-executive-assistant",
+      "source": "Jobicy",
+      "date": "2026-10-15T03:45:21+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "IT Support Specialist",
+      "company": "6sense",
+      "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
+      "source": "We Work Remotely",
+      "date": "Thu, 15 Oct 2026 07:31:14 +0000",
+      "tags": []
     },
     {
       "title": "Customer Resilience Manager - Customer Success (Remote)",
@@ -571,28 +609,6 @@
       ]
     },
     {
-      "title": "Vice President of Operations",
-      "company": "WRMC, Inc.",
-      "url": "https://jobs.workable.com/view/5zQLL4d2MQoPSTHB7zNUAo/hybrid-vice-president-of-operations-in-irving-at-wrmc%2C-inc.",
-      "source": "Workable",
-      "date": "2026-10-13T18:53:29.073Z",
-      "tags": [
-        "Full-time",
-        "Irving, Texas, United States"
-      ]
-    },
-    {
-      "title": "Sales Admin On-Demand",
-      "company": "Blueground",
-      "url": "https://jobs.workable.com/view/oYBvh9NFntHvmHbLJGaowK/remote-sales-admin-on-demand-in-brazil-at-blueground",
-      "source": "Workable",
-      "date": "2026-10-13T15:21:32.243Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
       "title": "Insurance Operations Manager",
       "company": "Impact Performance Team",
       "url": "https://jobs.workable.com/view/dg6nZF2kcdAQdFJhahsbJC/insurance-operations-manager-in-indian-trail-at-impact-performance-team",
@@ -902,17 +918,6 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
-      "source": "Workable",
-      "date": "2026-10-10T01:09:24.472Z",
-      "tags": [
-        "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Staff QA Automation Engineer",
-      "company": "Meeru AI Inc",
       "url": "https://jobs.workable.com/view/k7nzWWKBwMue7joZEBwMBX/remote-staff-qa-automation-engineer-in-colombia-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:26.020Z",
@@ -938,6 +943,17 @@
       "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:25.446Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:24.472Z",
       "tags": [
         "Other",
         "Remote"
@@ -1238,18 +1254,106 @@
       ]
     },
     {
-      "title": "Real Estate Lead Generation & Data Management Virtual Assistant",
-      "company": "Steadfast Home Buyers",
-      "url": "https://www.indeed.com/viewjob?jk=ddf977508086ee8b",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-12",
-      "tags": []
-    },
-    {
       "title": "HV Administrative Assistant (Remote)",
       "company": "SOLV Energy",
       "url": "https://www.indeed.com/viewjob?jk=989f1e57e915c3db",
       "source": "JobSpy/indeed",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
+      "title": "Virtual Executive Assistant (Remote)",
+      "company": "RecruitLax",
+      "url": "https://www.linkedin.com/jobs/view/4479280277",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "BackTech",
+      "url": "https://www.linkedin.com/jobs/view/4476603344",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant – Trailer Sales",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4476495159",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "title": "Executive Virtual Assistant (Customer Experience & Business Operations)",
+      "company": "GoLean Health",
+      "url": "https://www.linkedin.com/jobs/view/4478150790",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "title": "Executive Virtual Assistant (Customer Experience & Business Operations)",
+      "company": "GoLean Health",
+      "url": "https://www.linkedin.com/jobs/view/4478152691",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "GRQ HOLDINGS",
+      "url": "https://www.linkedin.com/jobs/view/4476433970",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Set Up My Offshore",
+      "url": "https://www.linkedin.com/jobs/view/4476401560",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (For Pooling)",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4476280761",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-09",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant – Golf Equipment",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4474834790",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4476208268",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant - Fulfillment",
+      "company": "Decentralized Masters",
+      "url": "https://www.linkedin.com/jobs/view/4477420033",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-08",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Virtual Assistant",
+      "company": "Virtual Assist",
+      "url": "https://www.linkedin.com/jobs/view/4477147929",
+      "source": "JobSpy/linkedin",
       "date": "2026-10-08",
       "tags": []
     },
@@ -1273,6 +1377,14 @@
       "title": "Executive Assistant & Operations Coordinator",
       "company": "Fuller Theological Seminary",
       "url": "https://www.indeed.com/viewjob?jk=212d34dc6fe95bfc",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "title": "Senior Administrative Assistant",
+      "company": "National Registry of Emergency",
+      "url": "https://www.indeed.com/viewjob?jk=85b9788959ac3d41",
       "source": "JobSpy/indeed",
       "date": "2026-10-14",
       "tags": []
@@ -1326,25 +1438,17 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the Managing Partner (Remote)",
-      "company": "Cedar Tree Native Law",
-      "url": "https://www.indeed.com/viewjob?jk=7c91221cad6632c7",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-08",
+      "title": "Executive Assistant",
+      "company": "Ecolux Enterprises",
+      "url": "https://www.linkedin.com/jobs/view/4477063724",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-15",
       "tags": []
     },
     {
       "title": "Executive Assistant to Chief Executive Officer",
       "company": "NCLEX NEPAL",
       "url": "https://www.linkedin.com/jobs/view/4478427889",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "SAMA Holding Co- SAMA Construction C.J.S",
-      "url": "https://www.linkedin.com/jobs/view/4478456109",
       "source": "JobSpy/linkedin",
       "date": "2026-10-14",
       "tags": []
@@ -1361,6 +1465,14 @@
       "title": "Executive Assistant",
       "company": "Centurion",
       "url": "https://www.linkedin.com/jobs/view/4478185508",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "The Job Shop - India",
+      "url": "https://www.linkedin.com/jobs/view/4476660571",
       "source": "JobSpy/linkedin",
       "date": "2026-10-14",
       "tags": []
@@ -1430,11 +1542,11 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to CCMO",
-      "company": "REA Group",
-      "url": "https://www.linkedin.com/jobs/view/4474808733",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-08",
+      "title": "Associate Property Management Attorney - Remote, US",
+      "company": "PURE HomeRiver",
+      "url": "https://www.indeed.com/viewjob?jk=b600a285f9deb7a6",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-15",
       "tags": []
     },
     {
@@ -1494,9 +1606,25 @@
       "tags": []
     },
     {
+      "title": "Residential Property Manager",
+      "company": "Capital City Apartment Association",
+      "url": "https://www.linkedin.com/jobs/view/4479771294",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
       "title": "Property Manager - Memphis, TN",
       "company": "Trinity Property Consultants",
       "url": "https://www.linkedin.com/jobs/view/4479755463",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Minor Hotels",
+      "url": "https://www.linkedin.com/jobs/view/4479773358",
       "source": "JobSpy/linkedin",
       "date": "2026-10-15",
       "tags": []
@@ -1598,11 +1726,27 @@
       "tags": []
     },
     {
+      "title": "AI Automation Engineer",
+      "company": "TicketManager",
+      "url": "https://www.linkedin.com/jobs/view/4479728227",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
       "title": "Finance AI & Automation Specialist",
       "company": "IFF",
       "url": "https://www.linkedin.com/jobs/view/4470461144",
       "source": "JobSpy/linkedin",
       "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "title": "AI Workflow Automation Specialist",
+      "company": "Oaklanecapital",
+      "url": "https://www.linkedin.com/jobs/view/4476428110",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-13",
       "tags": []
     },
     {
@@ -1651,6 +1795,14 @@
       "url": "https://www.linkedin.com/jobs/view/4477298868",
       "source": "JobSpy/linkedin",
       "date": "2026-10-12",
+      "tags": []
+    },
+    {
+      "title": "Automation Engineer - Rewst",
+      "company": "Dijital Team",
+      "url": "https://www.linkedin.com/jobs/view/4468373190",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-08",
       "tags": []
     }
   ]
