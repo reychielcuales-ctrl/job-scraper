@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-17T15:07:37.735Z",
+  "generatedAt": "2026-10-17T20:15:33.240Z",
   "count": 112,
   "jobs": [
     {
@@ -550,28 +550,6 @@
       ]
     },
     {
-      "title": "Property Management",
-      "company": "Lynco Properties",
-      "url": "https://jobs.workable.com/view/bSrgQPRidjKcqcEVXGxJuY/property-management-in-joplin-at-lynco-properties",
-      "source": "Workable",
-      "date": "2026-06-24T21:18:40.730Z",
-      "tags": [
-        "Full-time",
-        "Joplin, Missouri, United States"
-      ]
-    },
-    {
-      "title": "Business Development Manager - Property Management",
-      "company": "Raine and Horne",
-      "url": "https://jobs.workable.com/view/oKWSKE1Gtfy1wVwBNE1BHH/business-development-manager---property-management-in-st-leonards-at-raine-and-horne",
-      "source": "Workable",
-      "date": "2026-06-25T02:37:07.632Z",
-      "tags": [
-        "Full-time",
-        "St Leonards, New South Wales, Australia"
-      ]
-    },
-    {
       "title": "On-Site Customer Service",
       "company": "VSF Rentals",
       "url": "https://jobs.workable.com/view/513aiw4CGsEXD8rjqNtFCM/on-site-customer-service-in-oxford-at-vsf-rentals",
@@ -591,6 +569,28 @@
       "tags": [
         "Full-time",
         "Oxford, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Property Management",
+      "company": "Lynco Properties",
+      "url": "https://jobs.workable.com/view/bSrgQPRidjKcqcEVXGxJuY/property-management-in-joplin-at-lynco-properties",
+      "source": "Workable",
+      "date": "2026-06-24T21:18:40.730Z",
+      "tags": [
+        "Full-time",
+        "Joplin, Missouri, United States"
+      ]
+    },
+    {
+      "title": "Business Development Manager - Property Management",
+      "company": "Raine and Horne",
+      "url": "https://jobs.workable.com/view/oKWSKE1Gtfy1wVwBNE1BHH/business-development-manager---property-management-in-st-leonards-at-raine-and-horne",
+      "source": "Workable",
+      "date": "2026-06-25T02:37:07.632Z",
+      "tags": [
+        "Full-time",
+        "St Leonards, New South Wales, Australia"
       ]
     },
     {
@@ -748,39 +748,6 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.073Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:02:40.771Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:40.248Z",
@@ -814,17 +781,6 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:02:39.156Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/vFBgjyabm3Pp7eJGZBUjkQ/health-insurance-subject-matter-expert-(fully-remote)-in-berlin-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T03:51:52.668Z",
@@ -847,9 +803,53 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
+      "url": "https://jobs.workable.com/view/jo5aM4CJqAGrAKV7kfHnfR/health-insurance-subject-matter-expert-(fully-remote)-in-m%C3%A1laga-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T03:51:51.492Z",
+      "date": "2026-04-14T03:50:06.625Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/tV4XWbhoMsw1U9PqtzhnZe/health-insurance-subject-matter-expert-(fully-remote)-in-madrid-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:06.380Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/n2SvCNTR8K15WVRayrwgKS/health-insurance-subject-matter-expert-(fully-remote)-in-barcelona-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:06.042Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.688Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.073Z",
       "tags": [
         "Full-time",
         "Remote"

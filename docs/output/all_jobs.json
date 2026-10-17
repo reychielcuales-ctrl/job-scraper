@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T15:08:11.352Z",
-  "count": 179,
+  "generatedAt": "2026-10-17T20:15:57.186Z",
+  "count": 172,
   "sources": {
     "node": 112,
-    "jobspy": 67
+    "jobspy": 60
   },
   "jobs": [
     {
@@ -554,28 +554,6 @@
       ]
     },
     {
-      "title": "Property Management",
-      "company": "Lynco Properties",
-      "url": "https://jobs.workable.com/view/bSrgQPRidjKcqcEVXGxJuY/property-management-in-joplin-at-lynco-properties",
-      "source": "Workable",
-      "date": "2026-06-24T21:18:40.730Z",
-      "tags": [
-        "Full-time",
-        "Joplin, Missouri, United States"
-      ]
-    },
-    {
-      "title": "Business Development Manager - Property Management",
-      "company": "Raine and Horne",
-      "url": "https://jobs.workable.com/view/oKWSKE1Gtfy1wVwBNE1BHH/business-development-manager---property-management-in-st-leonards-at-raine-and-horne",
-      "source": "Workable",
-      "date": "2026-06-25T02:37:07.632Z",
-      "tags": [
-        "Full-time",
-        "St Leonards, New South Wales, Australia"
-      ]
-    },
-    {
       "title": "On-Site Customer Service",
       "company": "VSF Rentals",
       "url": "https://jobs.workable.com/view/513aiw4CGsEXD8rjqNtFCM/on-site-customer-service-in-oxford-at-vsf-rentals",
@@ -595,6 +573,28 @@
       "tags": [
         "Full-time",
         "Oxford, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Property Management",
+      "company": "Lynco Properties",
+      "url": "https://jobs.workable.com/view/bSrgQPRidjKcqcEVXGxJuY/property-management-in-joplin-at-lynco-properties",
+      "source": "Workable",
+      "date": "2026-06-24T21:18:40.730Z",
+      "tags": [
+        "Full-time",
+        "Joplin, Missouri, United States"
+      ]
+    },
+    {
+      "title": "Business Development Manager - Property Management",
+      "company": "Raine and Horne",
+      "url": "https://jobs.workable.com/view/oKWSKE1Gtfy1wVwBNE1BHH/business-development-manager---property-management-in-st-leonards-at-raine-and-horne",
+      "source": "Workable",
+      "date": "2026-06-25T02:37:07.632Z",
+      "tags": [
+        "Full-time",
+        "St Leonards, New South Wales, Australia"
       ]
     },
     {
@@ -752,39 +752,6 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.073Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:02:40.771Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:40.248Z",
@@ -818,17 +785,6 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:02:39.156Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/vFBgjyabm3Pp7eJGZBUjkQ/health-insurance-subject-matter-expert-(fully-remote)-in-berlin-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T03:51:52.668Z",
@@ -851,9 +807,53 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
+      "url": "https://jobs.workable.com/view/jo5aM4CJqAGrAKV7kfHnfR/health-insurance-subject-matter-expert-(fully-remote)-in-m%C3%A1laga-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T03:51:51.492Z",
+      "date": "2026-04-14T03:50:06.625Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/tV4XWbhoMsw1U9PqtzhnZe/health-insurance-subject-matter-expert-(fully-remote)-in-madrid-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:06.380Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/n2SvCNTR8K15WVRayrwgKS/health-insurance-subject-matter-expert-(fully-remote)-in-barcelona-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:06.042Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.688Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.073Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1227,17 +1227,17 @@
       ]
     },
     {
-      "title": "Remote Sales Administrative Assistant",
-      "company": "Marriott International",
-      "url": "https://www.indeed.com/viewjob?jk=bc881938d0c8be27",
+      "title": "Executive Assistant, VPs, Operations and Renewals (Remote)",
+      "company": "Cisco",
+      "url": "https://www.indeed.com/viewjob?jk=a932fdaf37263638",
       "source": "JobSpy/indeed",
-      "date": "2026-10-16",
+      "date": "2026-10-17",
       "tags": []
     },
     {
-      "title": "Executive Assistant: VP, Business Development (Remote)",
-      "company": "Cisco",
-      "url": "https://www.indeed.com/viewjob?jk=26f8d77c4a81f01a",
+      "title": "Remote Sales Administrative Assistant",
+      "company": "Marriott International",
+      "url": "https://www.indeed.com/viewjob?jk=bc881938d0c8be27",
       "source": "JobSpy/indeed",
       "date": "2026-10-16",
       "tags": []
@@ -1347,9 +1347,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the Founder & CEO",
-      "company": "Veridian Strategic Planning Group, PLLC.",
-      "url": "https://www.indeed.com/viewjob?jk=afd1214776856a3d",
+      "title": "Executive Assistant: VP, Business Development (Remote)",
+      "company": "Cisco",
+      "url": "https://www.indeed.com/viewjob?jk=26f8d77c4a81f01a",
       "source": "JobSpy/indeed",
       "date": "2026-10-16",
       "tags": []
@@ -1484,6 +1484,14 @@
     },
     {
       "title": "Executive Assistant",
+      "company": "Europcar Mobility Group",
+      "url": "https://www.linkedin.com/jobs/view/4479276764",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
       "company": "News Corp Australia",
       "url": "https://www.linkedin.com/jobs/view/4478781166",
       "source": "JobSpy/linkedin",
@@ -1507,14 +1515,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to SVP/MD - Capital Markets",
-      "company": "CIBC",
-      "url": "https://www.linkedin.com/jobs/view/4441608608",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-10",
-      "tags": []
-    },
-    {
       "title": "Regional Property Manager – Tennessee (Remote)",
       "company": "Summerfield Management",
       "url": "https://www.indeed.com/viewjob?jk=29d990b2d2876e03",
@@ -1528,14 +1528,6 @@
       "url": "https://www.indeed.com/viewjob?jk=780cf31be21daec6",
       "source": "JobSpy/indeed",
       "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Vendor Specialist (Property Management)",
-      "company": "Asset Living",
-      "url": "https://www.indeed.com/viewjob?jk=fe90d8addff89a9a",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-14",
       "tags": []
     },
     {
@@ -1568,6 +1560,14 @@
       "url": "https://www.indeed.com/viewjob?jk=d2ff57f8e853574a",
       "source": "JobSpy/indeed",
       "date": "2026-10-12",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Red Tail Residential",
+      "url": "https://www.linkedin.com/jobs/view/4472200500",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-17",
       "tags": []
     },
     {
@@ -1635,6 +1635,14 @@
       "tags": []
     },
     {
+      "title": "Property Manager",
+      "company": "Armco",
+      "url": "https://www.linkedin.com/jobs/view/4479707673",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
       "title": "Property Manager - Garrett Forum",
       "company": "Pegasus Residential",
       "url": "https://www.linkedin.com/jobs/view/4479212200",
@@ -1643,99 +1651,19 @@
       "tags": []
     },
     {
-      "title": "Analyst- Insurance Operations",
-      "company": "Marsh",
-      "url": "https://www.linkedin.com/jobs/view/4462089061",
+      "title": "Property Manager",
+      "company": "KDM Property Management",
+      "url": "https://www.linkedin.com/jobs/view/4478109365",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
+      "date": "2026-10-13",
       "tags": []
     },
     {
-      "title": "AI & Process Automation Engineer (Agents, Automation & Digitalisation)",
-      "company": "Zurich Insurance",
-      "url": "https://www.linkedin.com/jobs/view/4435258633",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-17",
-      "tags": []
-    },
-    {
-      "title": "Mid-Level AI Automation Engineer - Oceania",
-      "company": "Orix Digi",
-      "url": "https://www.linkedin.com/jobs/view/4480594916",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-17",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Analyst",
-      "company": "OpenLoop",
-      "url": "https://www.linkedin.com/jobs/view/4461368119",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Junior AI & Automation Specialist",
-      "company": "Grayling",
-      "url": "https://www.linkedin.com/jobs/view/4480144188",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Senior AI Automation Engineer",
-      "company": "York Towers",
-      "url": "https://www.linkedin.com/jobs/view/4478864722",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Process Automation Specialist",
-      "company": "LeoVegas Group",
-      "url": "https://www.linkedin.com/jobs/view/4460021416",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "Finance AI & Automation Specialist",
-      "company": "IFF",
-      "url": "https://www.linkedin.com/jobs/view/4470461144",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "Finance AI & Automation Specialist",
-      "company": "IFF",
-      "url": "https://www.linkedin.com/jobs/view/4470444748",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "AI & Process Automation Specialist",
-      "company": "Tavola SpA",
-      "url": "https://www.linkedin.com/jobs/view/4477520328",
+      "title": "Residential Property Manager",
+      "company": "Kapital Property Management - Miami",
+      "url": "https://www.linkedin.com/jobs/view/4478548874",
       "source": "JobSpy/linkedin",
       "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Engineer / AI Agent Workflow Architect",
-      "company": "York Towers",
-      "url": "https://www.linkedin.com/jobs/view/4477298868",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "title": "Process Automation Specialist",
-      "company": "LeoVegas Group",
-      "url": "https://www.linkedin.com/jobs/view/4441351291",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-11",
       "tags": []
     },
     {
@@ -1755,11 +1683,27 @@
       "tags": []
     },
     {
+      "title": "AI Automation Analyst",
+      "company": "OpenLoop",
+      "url": "https://www.linkedin.com/jobs/view/4461368119",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
       "title": "Workflow Automation Developer",
       "company": "Stikeman Elliott LLP",
       "url": "https://www.linkedin.com/jobs/view/4459202581",
       "source": "JobSpy/linkedin",
       "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Engineer / AI Agent Workflow Architect",
+      "company": "York Towers",
+      "url": "https://www.linkedin.com/jobs/view/4477298868",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-12",
       "tags": []
     }
   ]
