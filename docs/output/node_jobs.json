@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-16T20:36:59.726Z",
-  "count": 112,
+  "generatedAt": "2026-10-17T03:22:26.288Z",
+  "count": 107,
   "jobs": [
     {
       "title": "Marketing and Sales Administrator",
@@ -101,36 +101,6 @@
       "date": "2026-10-16T13:32:34+00:00",
       "tags": [
         "Sales"
-      ]
-    },
-    {
-      "title": "Part-Time Virtual Travel Assistant & Affiliate Recruiter Management (A)",
-      "company": "The Flex",
-      "url": "https://jobicy.com/jobs/150697-part-time-virtual-travel-assistant-affiliate-recruiter-management-a",
-      "source": "Jobicy",
-      "date": "2026-10-16T02:40:19+00:00",
-      "tags": [
-        "Admin & Virtual Assistance"
-      ]
-    },
-    {
-      "title": "Part-Time Virtual Travel Assistant & Affiliate Recruiter Management",
-      "company": "The Flex",
-      "url": "https://jobicy.com/jobs/150701-part-time-virtual-travel-assistant-affiliate-recruiter-management",
-      "source": "Jobicy",
-      "date": "2026-10-16T02:40:07+00:00",
-      "tags": [
-        "Admin & Virtual Assistance"
-      ]
-    },
-    {
-      "title": "Part-time Virtual Travel Assistant (Kri)",
-      "company": "The Flex",
-      "url": "https://jobicy.com/jobs/150700-part-time-virtual-travel-assistant-kri",
-      "source": "Jobicy",
-      "date": "2026-10-16T02:40:06+00:00",
-      "tags": [
-        "Admin & Virtual Assistance"
       ]
     },
     {
@@ -461,17 +431,6 @@
       ]
     },
     {
-      "title": "Administrative Assistant - Property Management",
-      "company": "F&F Properties",
-      "url": "https://jobs.workable.com/view/2be4M85HMck5A4fJjqqhfq/administrative-assistant---property-management-in-san-diego-at-f%26f-properties",
-      "source": "Workable",
-      "date": "2026-10-05T16:47:40.357Z",
-      "tags": [
-        "Full-time",
-        "San Diego, California, United States"
-      ]
-    },
-    {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
       "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
@@ -496,9 +455,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -507,9 +466,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -622,17 +581,6 @@
       "tags": [
         "Full-time",
         "Montreal, Quebec, Canada"
-      ]
-    },
-    {
-      "title": "Account Representative / Account Manager / Project Manager",
-      "company": "City Wide Facility Solutions",
-      "url": "https://jobs.workable.com/view/7XRwqMksAFvQSPNwXhYKJW/account-representative-%2F-account-manager-%2F-project-manager-in-burnaby-at-city-wide-facility-solutions",
-      "source": "Workable",
-      "date": "2026-10-16T03:55:05.286Z",
-      "tags": [
-        "Full-time",
-        "Burnaby, British Columbia, Canada"
       ]
     },
     {
@@ -879,17 +827,6 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
-      "source": "Workable",
-      "date": "2026-10-10T01:09:24.472Z",
-      "tags": [
-        "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Staff QA Automation Engineer",
-      "company": "Meeru AI Inc",
       "url": "https://jobs.workable.com/view/k7nzWWKBwMue7joZEBwMBX/remote-staff-qa-automation-engineer-in-colombia-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:26.020Z",
@@ -904,6 +841,17 @@
       "url": "https://jobs.workable.com/view/hooXUakgitv47HbwmxEen2/remote-staff-qa-automation-engineer-in-argentina-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:25.730Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:24.472Z",
       "tags": [
         "Other",
         "Remote"
@@ -1011,6 +959,17 @@
       "date": "2026-10-09T09:19:22.291Z",
       "tags": [
         "Delhi, Delhi, India"
+      ]
+    },
+    {
+      "title": "Digital Transformation & Automation Specialist",
+      "company": "Charger Logistics Inc",
+      "url": "https://jobs.workable.com/view/ryAcXbxTEEvzVp5tVLtR5x/hybrid-digital-transformation-%26-automation-specialist-in-tegucigalpa-at-charger-logistics-inc",
+      "source": "Workable",
+      "date": "2026-10-16T21:14:09.573Z",
+      "tags": [
+        "Full-time",
+        "Tegucigalpa, Francisco Morazán Department, Honduras"
       ]
     },
     {
@@ -1132,17 +1091,6 @@
       "tags": [
         "Full-time",
         "Newport Beach, California, United States"
-      ]
-    },
-    {
-      "title": "Digital Transformation & Automation Specialist",
-      "company": "Charger Logistics Inc",
-      "url": "https://jobs.workable.com/view/tWtzKf77c2YwjxNWMxjwZd/hybrid-digital-transformation-%26-automation-specialist-in-tegucigalpa-at-charger-logistics-inc",
-      "source": "Workable",
-      "date": "2026-09-25T16:39:01.951Z",
-      "tags": [
-        "Full-time",
-        "Tegucigalpa, Francisco Morazán Department, Honduras"
       ]
     },
     {
