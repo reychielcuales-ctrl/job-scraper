@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-17T03:22:56.038Z",
-  "count": 162,
+  "generatedAt": "2026-10-17T10:17:03.686Z",
+  "count": 140,
   "sources": {
-    "node": 107,
-    "jobspy": 55
+    "node": 108,
+    "jobspy": 32
   },
   "jobs": [
     {
@@ -88,21 +88,31 @@
       ]
     },
     {
-      "title": "Senior Backend Engineer, Platform",
-      "company": "Apaleo",
-      "url": "https://jobicy.com/jobs/155450-senior-backend-engineer-platform",
+      "title": "Senior QA Automation Engineer - Product (LATAM)",
+      "company": "Upgrade",
+      "url": "https://jobicy.com/jobs/153469-senior-qa-automation-engineer-product-latam",
       "source": "Jobicy",
-      "date": "2026-10-16T13:32:35+00:00",
+      "date": "2026-10-17T04:10:28+00:00",
       "tags": [
-        "DevOps & Infrastructure"
+        "QA & Testing"
       ]
     },
     {
-      "title": "Sales Solutions Manager (f/m/d)",
-      "company": "Apaleo",
-      "url": "https://jobicy.com/jobs/155445-sales-solutions-manager-f-m-d",
+      "title": "GRC Manager",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/153443-grc-manager",
       "source": "Jobicy",
-      "date": "2026-10-16T13:32:34+00:00",
+      "date": "2026-10-17T04:05:08+00:00",
+      "tags": [
+        "Legal & Compliance"
+      ]
+    },
+    {
+      "title": "Account Manager - Federal",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/153438-account-manager-federal",
+      "source": "Jobicy",
+      "date": "2026-10-17T04:05:06+00:00",
       "tags": [
         "Sales"
       ]
@@ -121,14 +131,6 @@
       "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
       "source": "We Work Remotely",
       "date": "Thu, 15 Oct 2026 07:31:14 +0000",
-      "tags": []
-    },
-    {
-      "title": "Customer Resilience Manager - Customer Success (Remote)",
-      "company": "Rubrik Job Board",
-      "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-customer-resilience-manager-customer-success-remote",
-      "source": "We Work Remotely",
-      "date": "Mon, 12 Oct 2026 07:31:00 +0000",
       "tags": []
     },
     {
@@ -371,9 +373,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/xhnoSCPBE7FZtYPzUveSyX/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-slovakia-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:13.953Z",
+      "date": "2025-09-26T11:49:14.467Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -382,9 +384,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/xhnoSCPBE7FZtYPzUveSyX/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-slovakia-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
+      "date": "2025-09-26T11:49:13.953Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -459,9 +461,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -470,9 +472,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -553,6 +555,17 @@
       "tags": [
         "Full-time",
         "Oxford, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Legal Officer",
+      "company": "WeconnectU",
+      "url": "https://jobs.workable.com/view/kGQrYhMTHFWjfNyj1471FK/legal-officer-in-somerset-west-at-weconnectu",
+      "source": "Workable",
+      "date": "2026-10-17T04:12:41.374Z",
+      "tags": [
+        "Full-time",
+        "Somerset West, Western Cape, South Africa"
       ]
     },
     {
@@ -853,9 +866,9 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
+      "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
       "source": "Workable",
-      "date": "2026-10-10T01:09:24.472Z",
+      "date": "2026-10-10T01:09:25.446Z",
       "tags": [
         "Other",
         "Remote"
@@ -864,9 +877,9 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
+      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
       "source": "Workable",
-      "date": "2026-10-10T01:09:25.446Z",
+      "date": "2026-10-10T01:09:24.472Z",
       "tags": [
         "Other",
         "Remote"
@@ -1190,102 +1203,6 @@
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant",
-      "company": "Veta Virtual",
-      "url": "https://www.linkedin.com/jobs/view/4461373745",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO-female",
-      "company": "QBA Worldwide",
-      "url": "https://www.linkedin.com/jobs/view/4477728569",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Senior Executive Assistant",
-      "company": "Veta Virtual",
-      "url": "https://www.linkedin.com/jobs/view/4461393365",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Chosan",
-      "url": "https://www.linkedin.com/jobs/view/4478489634",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant – Trailer Sales",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4476495159",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant – Trailer Sales",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4476491415",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Set Up My Offshore",
-      "url": "https://www.linkedin.com/jobs/view/4476401560",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Executive Virtual Assistant (Customer Experience & Business Operations)",
-      "company": "GoLean Health",
-      "url": "https://www.linkedin.com/jobs/view/4478152691",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Executive Virtual Assistant (Customer Experience & Business Operations)",
-      "company": "GoLean Health",
-      "url": "https://www.linkedin.com/jobs/view/4478167308",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant | Cellexia Labs",
-      "company": "Cellexia Ltd",
-      "url": "https://www.linkedin.com/jobs/view/4478104885",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Operations Virtual Assistant – Project Tracking & Administrative Support (Remote)",
-      "company": "Snapscale",
-      "url": "https://www.linkedin.com/jobs/view/4478505829",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Scoutly",
-      "url": "https://www.linkedin.com/jobs/view/4475944009",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-12",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant",
       "company": "Kaseya",
       "url": "https://www.indeed.com/viewjob?jk=69abc0d986a00854",
@@ -1342,6 +1259,14 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant to CEO - Chiropractic & Healthcare Group",
+      "company": "Private Household",
+      "url": "https://www.indeed.com/viewjob?jk=0e9d3a536510063a",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-10",
+      "tags": []
+    },
+    {
       "title": "Regional Property Manager – Tennessee (Remote)",
       "company": "Summerfield Management",
       "url": "https://www.indeed.com/viewjob?jk=29d990b2d2876e03",
@@ -1353,14 +1278,6 @@
       "title": "Remote Bilingual Leasing / Property Manager",
       "company": "APARTMENT COMPLEX",
       "url": "https://www.indeed.com/viewjob?jk=780cf31be21daec6",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Associate Property Management Attorney - Remote, US",
-      "company": "PURE HomeRiver",
-      "url": "https://www.indeed.com/viewjob?jk=b600a285f9deb7a6",
       "source": "JobSpy/indeed",
       "date": "2026-10-15",
       "tags": []
@@ -1470,123 +1387,11 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Armco",
-      "url": "https://www.linkedin.com/jobs/view/4479707673",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
       "title": "Property Manager - Garrett Forum",
       "company": "Pegasus Residential",
       "url": "https://www.linkedin.com/jobs/view/4479212200",
       "source": "JobSpy/linkedin",
       "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "KDM Property Management",
-      "url": "https://www.linkedin.com/jobs/view/4478109365",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-13",
-      "tags": []
-    },
-    {
-      "title": "Residential Property Manager",
-      "company": "Kapital Property Management - Miami",
-      "url": "https://www.linkedin.com/jobs/view/4478548874",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "title": "AVP, Life Insurance Operations",
-      "company": "Manulife",
-      "url": "https://www.indeed.com/viewjob?jk=7994cc0e8f1366b5",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Analyst",
-      "company": "OpenLoop",
-      "url": "https://www.linkedin.com/jobs/view/4461368119",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Junior AI & Automation Specialist",
-      "company": "Grayling",
-      "url": "https://www.linkedin.com/jobs/view/4480144188",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Senior AI Automation Engineer",
-      "company": "York Towers",
-      "url": "https://www.linkedin.com/jobs/view/4478864722",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Process Automation Specialist",
-      "company": "LeoVegas Group",
-      "url": "https://www.linkedin.com/jobs/view/4460021416",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "Finance AI & Automation Specialist",
-      "company": "IFF",
-      "url": "https://www.linkedin.com/jobs/view/4470461144",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "Finance AI & Automation Specialist",
-      "company": "IFF",
-      "url": "https://www.linkedin.com/jobs/view/4470444748",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
-      "tags": []
-    },
-    {
-      "title": "AI & Process Automation Specialist",
-      "company": "Tavola SpA",
-      "url": "https://www.linkedin.com/jobs/view/4477520328",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Engineer / AI Agent Workflow Architect",
-      "company": "York Towers",
-      "url": "https://www.linkedin.com/jobs/view/4477298868",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "title": "Spécialiste principal en automatisation de l’IA/Senior AI Automation Specialist",
-      "company": "McKesson",
-      "url": "https://www.linkedin.com/jobs/view/4433336928",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-11",
-      "tags": []
-    },
-    {
-      "title": "Process Automation Specialist",
-      "company": "LeoVegas Group",
-      "url": "https://www.linkedin.com/jobs/view/4441351291",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-11",
       "tags": []
     },
     {
@@ -1606,11 +1411,35 @@
       "tags": []
     },
     {
+      "title": "AI Automation Analyst",
+      "company": "OpenLoop",
+      "url": "https://www.linkedin.com/jobs/view/4461368119",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
       "title": "Workflow Automation Developer",
       "company": "Stikeman Elliott LLP",
       "url": "https://www.linkedin.com/jobs/view/4459202581",
       "source": "JobSpy/linkedin",
       "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "title": "AI Automation Engineer / AI Agent Workflow Architect",
+      "company": "York Towers",
+      "url": "https://www.linkedin.com/jobs/view/4477298868",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-12",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Engineer",
+      "company": "Freestone Capital Management",
+      "url": "https://www.linkedin.com/jobs/view/4422755833",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-10",
       "tags": []
     }
   ]

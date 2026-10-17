@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T03:22:26.288Z",
-  "count": 107,
+  "generatedAt": "2026-10-17T10:16:52.601Z",
+  "count": 108,
   "jobs": [
     {
       "title": "Marketing and Sales Administrator",
@@ -84,21 +84,31 @@
       ]
     },
     {
-      "title": "Senior Backend Engineer, Platform",
-      "company": "Apaleo",
-      "url": "https://jobicy.com/jobs/155450-senior-backend-engineer-platform",
+      "title": "Senior QA Automation Engineer - Product (LATAM)",
+      "company": "Upgrade",
+      "url": "https://jobicy.com/jobs/153469-senior-qa-automation-engineer-product-latam",
       "source": "Jobicy",
-      "date": "2026-10-16T13:32:35+00:00",
+      "date": "2026-10-17T04:10:28+00:00",
       "tags": [
-        "DevOps & Infrastructure"
+        "QA & Testing"
       ]
     },
     {
-      "title": "Sales Solutions Manager (f/m/d)",
-      "company": "Apaleo",
-      "url": "https://jobicy.com/jobs/155445-sales-solutions-manager-f-m-d",
+      "title": "GRC Manager",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/153443-grc-manager",
       "source": "Jobicy",
-      "date": "2026-10-16T13:32:34+00:00",
+      "date": "2026-10-17T04:05:08+00:00",
+      "tags": [
+        "Legal & Compliance"
+      ]
+    },
+    {
+      "title": "Account Manager - Federal",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/153438-account-manager-federal",
+      "source": "Jobicy",
+      "date": "2026-10-17T04:05:06+00:00",
       "tags": [
         "Sales"
       ]
@@ -117,14 +127,6 @@
       "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
       "source": "We Work Remotely",
       "date": "Thu, 15 Oct 2026 07:31:14 +0000",
-      "tags": []
-    },
-    {
-      "title": "Customer Resilience Manager - Customer Success (Remote)",
-      "company": "Rubrik Job Board",
-      "url": "https://weworkremotely.com/remote-jobs/rubrik-job-board-customer-resilience-manager-customer-success-remote",
-      "source": "We Work Remotely",
-      "date": "Mon, 12 Oct 2026 07:31:00 +0000",
       "tags": []
     },
     {
@@ -367,9 +369,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/xhnoSCPBE7FZtYPzUveSyX/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-slovakia-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:13.953Z",
+      "date": "2025-09-26T11:49:14.467Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -378,9 +380,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/xhnoSCPBE7FZtYPzUveSyX/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-slovakia-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
+      "date": "2025-09-26T11:49:13.953Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -455,9 +457,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
+      "date": "2026-09-29T13:32:10.219Z",
       "tags": [
         "Contract",
         "Remote"
@@ -466,9 +468,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
-      "date": "2026-09-29T13:32:10.219Z",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -549,6 +551,17 @@
       "tags": [
         "Full-time",
         "Oxford, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Legal Officer",
+      "company": "WeconnectU",
+      "url": "https://jobs.workable.com/view/kGQrYhMTHFWjfNyj1471FK/legal-officer-in-somerset-west-at-weconnectu",
+      "source": "Workable",
+      "date": "2026-10-17T04:12:41.374Z",
+      "tags": [
+        "Full-time",
+        "Somerset West, Western Cape, South Africa"
       ]
     },
     {
@@ -849,9 +862,9 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
+      "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
       "source": "Workable",
-      "date": "2026-10-10T01:09:24.472Z",
+      "date": "2026-10-10T01:09:25.446Z",
       "tags": [
         "Other",
         "Remote"
@@ -860,9 +873,9 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
+      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
       "source": "Workable",
-      "date": "2026-10-10T01:09:25.446Z",
+      "date": "2026-10-10T01:09:24.472Z",
       "tags": [
         "Other",
         "Remote"
