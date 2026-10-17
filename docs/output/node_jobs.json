@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-17T10:16:52.601Z",
-  "count": 108,
+  "generatedAt": "2026-10-17T15:07:37.735Z",
+  "count": 112,
   "jobs": [
     {
       "title": "Marketing and Sales Administrator",
@@ -81,6 +81,46 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "Legal Counsel",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/155567-legal-counsel",
+      "source": "Jobicy",
+      "date": "2026-10-17T06:55:53+00:00",
+      "tags": [
+        "Legal & Compliance"
+      ]
+    },
+    {
+      "title": "Growth Design Lead",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/155564-growth-design-lead",
+      "source": "Jobicy",
+      "date": "2026-10-17T06:55:51+00:00",
+      "tags": [
+        "Web, UI & UX Design"
+      ]
+    },
+    {
+      "title": "Sr. Product Marketing Manager, Enterprise",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/155558-sr-product-marketing-manager-enterprise",
+      "source": "Jobicy",
+      "date": "2026-10-17T06:55:51+00:00",
+      "tags": [
+        "Marketing & Sales"
+      ]
+    },
+    {
+      "title": "Sr. Motion Designer",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/155561-sr-motion-designer",
+      "source": "Jobicy",
+      "date": "2026-10-17T06:55:50+00:00",
+      "tags": [
+        "Creative & Design"
       ]
     },
     {
@@ -303,17 +343,6 @@
     {
       "title": "Virtual Assistant - Fulfillment",
       "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/wZq6hgjrxVzVuYHTNuNHwb/remote-virtual-assistant---fulfillment-in-chile-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-10-08T15:43:28.056Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
       "url": "https://jobs.workable.com/view/8dwbv65446mS4x16gwJN5d/remote-virtual-assistant---fulfillment-in-buenos-aires-at-decentralized-masters",
       "source": "Workable",
       "date": "2026-10-08T15:43:27.273Z",
@@ -328,6 +357,17 @@
       "url": "https://jobs.workable.com/view/qfpv5sgeWWNPmLBWb7iNJj/remote-virtual-assistant---fulfillment-in-rio-de-janeiro-at-decentralized-masters",
       "source": "Workable",
       "date": "2026-10-08T15:43:27.153Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Fulfillment",
+      "company": "Decentralized Masters",
+      "url": "https://jobs.workable.com/view/wZq6hgjrxVzVuYHTNuNHwb/remote-virtual-assistant---fulfillment-in-chile-at-decentralized-masters",
+      "source": "Workable",
+      "date": "2026-10-08T15:43:28.056Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -358,9 +398,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:15.278Z",
+      "date": "2025-09-26T11:49:14.467Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -369,9 +409,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
+      "date": "2025-09-26T11:49:15.278Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -413,9 +453,9 @@
     {
       "title": "Offshore Virtual Executive Assistant to the CEO",
       "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/4JXyqmFV5syo8UoTt8gXrX/remote-offshore-virtual-executive-assistant-to-the-ceo-in-argentina-at-collective-residential",
+      "url": "https://jobs.workable.com/view/a7CqTHeFoiRwHqNhwQ4xMf/remote-offshore-virtual-executive-assistant-to-the-ceo-in-brazil-at-collective-residential",
       "source": "Workable",
-      "date": "2026-10-09T21:13:00.272Z",
+      "date": "2026-10-09T21:13:00.048Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -840,6 +880,17 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:24.472Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
       "url": "https://jobs.workable.com/view/k7nzWWKBwMue7joZEBwMBX/remote-staff-qa-automation-engineer-in-colombia-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:26.020Z",
@@ -865,17 +916,6 @@
       "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:25.446Z",
-      "tags": [
-        "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Staff QA Automation Engineer",
-      "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
-      "source": "Workable",
-      "date": "2026-10-10T01:09:24.472Z",
       "tags": [
         "Other",
         "Remote"
