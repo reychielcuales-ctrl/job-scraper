@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-18T10:32:52.147Z",
-  "count": 180,
+  "generatedAt": "2026-10-18T15:31:36.294Z",
+  "count": 178,
   "sources": {
     "node": 106,
-    "jobspy": 74
+    "jobspy": 72
   },
   "jobs": [
     {
@@ -432,28 +432,6 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ovtRYNY47d2BLFcHCvYAZM/remote-property-management-coordinator-(real-estate)-in-uruguay-at-propertyse",
-      "source": "Workable",
-      "date": "2026-09-29T13:32:10.405Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Property Management Coordinator (Real Estate)",
-      "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
-      "source": "Workable",
-      "date": "2026-09-29T13:32:09.396Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Property Management Coordinator (Real Estate)",
-      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
       "source": "Workable",
       "date": "2026-09-29T13:32:09.916Z",
@@ -465,9 +443,31 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
+      "url": "https://jobs.workable.com/view/ovtRYNY47d2BLFcHCvYAZM/remote-property-management-coordinator-(real-estate)-in-uruguay-at-propertyse",
+      "source": "Workable",
+      "date": "2026-09-29T13:32:10.405Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Coordinator (Real Estate)",
+      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
       "date": "2026-09-29T13:32:10.219Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Coordinator (Real Estate)",
+      "company": "Propertyse",
+      "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
+      "source": "Workable",
+      "date": "2026-09-29T13:32:09.396Z",
       "tags": [
         "Contract",
         "Remote"
@@ -804,6 +804,17 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/rDYEC5e1Yw3D6G1az5SJJi/remote-staff-qa-automation-engineer-in-united-states-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:26.233Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
       "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:25.904Z",
@@ -815,9 +826,9 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/rDYEC5e1Yw3D6G1az5SJJi/remote-staff-qa-automation-engineer-in-united-states-at-meeru-ai-inc",
+      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
       "source": "Workable",
-      "date": "2026-10-10T01:09:26.233Z",
+      "date": "2026-10-10T01:09:24.472Z",
       "tags": [
         "Other",
         "Remote"
@@ -851,17 +862,6 @@
       "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:25.446Z",
-      "tags": [
-        "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Staff QA Automation Engineer",
-      "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
-      "source": "Workable",
-      "date": "2026-10-10T01:09:24.472Z",
       "tags": [
         "Other",
         "Remote"
@@ -1273,22 +1273,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant, VPs, Operations and Renewals (Remote)",
-      "company": "Cisco",
-      "url": "https://www.indeed.com/viewjob?jk=a932fdaf37263638",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-17",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant: VP, Business Development (Remote)",
-      "company": "Cisco",
-      "url": "https://www.indeed.com/viewjob?jk=26f8d77c4a81f01a",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant to the Founder & CEO",
       "company": "Veridian Strategic Planning Group, PLLC.",
       "url": "https://www.indeed.com/viewjob?jk=afd1214776856a3d",
@@ -1350,6 +1334,14 @@
       "url": "https://www.indeed.com/viewjob?jk=b543069b5b12f9ce",
       "source": "JobSpy/indeed",
       "date": "2026-10-13",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Office of Rural municipal executive,Brahampuri,sarlahi",
+      "url": "https://www.linkedin.com/jobs/view/4479695907",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-18",
       "tags": []
     },
     {
@@ -1417,14 +1409,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "e-STORAGE",
-      "url": "https://www.linkedin.com/jobs/view/4464701647",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant, Chief Operating Officer (Insurance)",
       "company": "AMA - Alberta Motor Association",
       "url": "https://www.linkedin.com/jobs/view/4474531103",
@@ -1467,7 +1451,7 @@
     {
       "title": "Regional Property Manager – Florida (Remote)",
       "company": "Summerfield Management",
-      "url": "https://www.indeed.com/viewjob?jk=12f48f9a2ef98b76",
+      "url": "https://www.indeed.com/viewjob?jk=cc202472d8260734",
       "source": "JobSpy/indeed",
       "date": "2026-10-16",
       "tags": []
@@ -1625,6 +1609,14 @@
       "tags": []
     },
     {
+      "title": "Claims Processing Agent",
+      "company": "Nextcare",
+      "url": "https://www.linkedin.com/jobs/view/4480905253",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-18",
+      "tags": []
+    },
+    {
       "title": "Analyst- Insurance Operations",
       "company": "Marsh",
       "url": "https://www.linkedin.com/jobs/view/4462089061",
@@ -1710,14 +1702,6 @@
       "url": "https://www.linkedin.com/jobs/view/4477298868",
       "source": "JobSpy/linkedin",
       "date": "2026-10-12",
-      "tags": []
-    },
-    {
-      "title": "Process Automation Specialist",
-      "company": "LeoVegas Group",
-      "url": "https://www.linkedin.com/jobs/view/4441351291",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-11",
       "tags": []
     },
     {
