@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-20T16:28:51.215Z",
+  "generatedAt": "2026-10-20T21:20:46.956Z",
   "count": 100,
   "jobs": [
     {
@@ -488,17 +488,6 @@
       ]
     },
     {
-      "title": "Legal Officer",
-      "company": "WeconnectU",
-      "url": "https://jobs.workable.com/view/kGQrYhMTHFWjfNyj1471FK/legal-officer-in-somerset-west-at-weconnectu",
-      "source": "Workable",
-      "date": "2026-10-17T04:12:41.374Z",
-      "tags": [
-        "Full-time",
-        "Somerset West, Western Cape, South Africa"
-      ]
-    },
-    {
       "title": "Insurance Operations Manager",
       "company": "Impact Performance Team",
       "url": "https://jobs.workable.com/view/dg6nZF2kcdAQdFJhahsbJC/insurance-operations-manager-in-indian-trail-at-impact-performance-team",
@@ -720,17 +709,6 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
-      "source": "Workable",
-      "date": "2026-10-10T01:09:24.472Z",
-      "tags": [
-        "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Staff QA Automation Engineer",
-      "company": "Meeru AI Inc",
       "url": "https://jobs.workable.com/view/k7nzWWKBwMue7joZEBwMBX/remote-staff-qa-automation-engineer-in-colombia-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:26.020Z",
@@ -756,6 +734,17 @@
       "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:25.446Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/6VpkB6PBCpm65KaiJKfr1i/remote-staff-qa-automation-engineer-in-brazil-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:24.472Z",
       "tags": [
         "Other",
         "Remote"
@@ -1011,14 +1000,13 @@
       ]
     },
     {
-      "title": "AI Workflow Engineer",
-      "company": "Advansys",
-      "url": "https://jobs.workable.com/view/6JCyQtNuiq68JLYPH6MBGA/ai-workflow-engineer-in-nasr-city-at-advansys",
+      "title": "Technical Product Manager",
+      "company": "Charger Logistics Inc",
+      "url": "https://jobs.workable.com/view/cuxzFkadtSCfHqDJLBTNhk/technical-product-manager-in-brampton-at-charger-logistics-inc",
       "source": "Workable",
-      "date": "2026-10-20T10:57:27.818Z",
+      "date": "2026-10-20T20:14:42.608Z",
       "tags": [
-        "Full-time",
-        "Nasr City, Al Manteqah Al Oula, Egypt"
+        "Brampton, Ontario, Canada"
       ]
     },
     {
@@ -1052,6 +1040,17 @@
       "tags": [
         "Full-time",
         "Remote"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer",
+      "company": "Advansys",
+      "url": "https://jobs.workable.com/view/6JCyQtNuiq68JLYPH6MBGA/ai-workflow-engineer-in-nasr-city-at-advansys",
+      "source": "Workable",
+      "date": "2026-10-20T10:57:27.818Z",
+      "tags": [
+        "Full-time",
+        "Nasr City, Al Manteqah Al Oula, Egypt"
       ]
     },
     {
