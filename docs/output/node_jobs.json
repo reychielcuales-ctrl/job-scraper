@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-21T16:46:04.894Z",
+  "generatedAt": "2026-10-21T21:21:23.147Z",
   "count": 101,
   "jobs": [
     {
@@ -81,6 +81,16 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "AI Automation Manager",
+      "company": "Acquia, Inc.",
+      "url": "https://jobicy.com/jobs/156234-ai-automation-manager",
+      "source": "Jobicy",
+      "date": "2026-10-21T18:02:41+00:00",
+      "tags": [
+        "Product & Operations"
       ]
     },
     {
@@ -405,6 +415,28 @@
       ]
     },
     {
+      "title": "Property Manager",
+      "company": "Admiral Communities",
+      "url": "https://jobs.workable.com/view/uGiPTzmKaeX6nsrkk2VaPu/property-manager-in-north-little-rock-at-admiral-communities",
+      "source": "Workable",
+      "date": "2026-10-21T21:18:09.373Z",
+      "tags": [
+        "Full-time",
+        "North Little Rock, Arkansas, United States"
+      ]
+    },
+    {
+      "title": "Property Manager",
+      "company": "Admiral Communities",
+      "url": "https://jobs.workable.com/view/d11gLC6xwCZwZxFR77Zbw2/property-manager-in-bay-city-at-admiral-communities",
+      "source": "Workable",
+      "date": "2026-10-21T21:18:04.289Z",
+      "tags": [
+        "Full-time",
+        "Bay City, Michigan, United States"
+      ]
+    },
+    {
       "title": "Accounting/Administrator",
       "company": "Taylor Management",
       "url": "https://jobs.workable.com/view/5SxkmGJYvkTLP3EP6aUvt1/accounting%2Fadministrator-in-ventnor-city-at-taylor-management",
@@ -469,27 +501,6 @@
       ]
     },
     {
-      "title": "Property Manager",
-      "company": "CYM Living LLC",
-      "url": "https://jobs.workable.com/view/rLyPtBvkaq9UKdjQDdfJf9/property-manager-in-elkhart-at-cym-living-llc",
-      "source": "Workable",
-      "date": "2026-10-19T15:27:01.058Z",
-      "tags": [
-        "Full-time",
-        "Elkhart, Indiana, United States"
-      ]
-    },
-    {
-      "title": "Senior Property Manager",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/aM3KZC8rJNjJTo1XeCZMoL/senior-property-manager-in-dubai-at-driven-properties",
-      "source": "Workable",
-      "date": "2026-10-19T09:25:30.285Z",
-      "tags": [
-        "Dubai, Dubai, United Arab Emirates"
-      ]
-    },
-    {
       "title": "Insurance Operations Manager",
       "company": "Impact Performance Team",
       "url": "https://jobs.workable.com/view/dg6nZF2kcdAQdFJhahsbJC/insurance-operations-manager-in-indian-trail-at-impact-performance-team",
@@ -513,9 +524,64 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.674Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.602Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.548Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.453Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.201Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -557,6 +623,17 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:52.174Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T03:51:51.492Z",
@@ -582,72 +659,6 @@
       "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T03:50:06.921Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.453Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.201Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:51:52.174Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -826,69 +837,14 @@
       ]
     },
     {
-      "title": "DevOps Automation Specialist",
-      "company": "Partner One Software Inc",
-      "url": "https://jobs.workable.com/view/d4YULjfZyJpuPC8XKXBr4f/remote-devops-automation-specialist-in-chile-at-partner-one-software-inc",
+      "title": "Field Automation Specialist (All Levels) DATA CENTERS FREDERICK, MARYLAND",
+      "company": "Albireo Energy",
+      "url": "https://jobs.workable.com/view/vJE7p4aJMqo3fiAhwf6BST/field-automation-specialist-(all-levels)-data-centers-frederick%2C-maryland-in-frederick-at-albireo-energy",
       "source": "Workable",
-      "date": "2026-10-21T16:30:28.014Z",
+      "date": "2026-10-21T19:49:46.173Z",
       "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "DevOps Automation Specialist",
-      "company": "Partner One Software Inc",
-      "url": "https://jobs.workable.com/view/w8CJUkYkwz3qHRWXEwYtAR/remote-devops-automation-specialist-in-mexico-at-partner-one-software-inc",
-      "source": "Workable",
-      "date": "2026-10-21T16:30:27.771Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "DevOps Automation Specialist",
-      "company": "Partner One Software Inc",
-      "url": "https://jobs.workable.com/view/99E8YpPwyRSQ72rdhmDeqm/remote-devops-automation-specialist-in-argentina-at-partner-one-software-inc",
-      "source": "Workable",
-      "date": "2026-10-21T16:30:27.300Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "DevOps Automation Specialist",
-      "company": "Partner One Software Inc",
-      "url": "https://jobs.workable.com/view/2FoPMkSSxBnG2zawr9nURx/remote-devops-automation-specialist-in-costa-rica-at-partner-one-software-inc",
-      "source": "Workable",
-      "date": "2026-10-21T16:30:28.415Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "DevOps Automation Specialist",
-      "company": "Partner One Software Inc",
-      "url": "https://jobs.workable.com/view/x5GmurQz6YsrKKySJ5c8tM/remote-devops-automation-specialist-in-colombia-at-partner-one-software-inc",
-      "source": "Workable",
-      "date": "2026-10-21T16:30:27.602Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "DevOps Automation Specialist",
-      "company": "Partner One Software Inc",
-      "url": "https://jobs.workable.com/view/8eLJ46zZNRVyxqciFPPDmp/remote-devops-automation-specialist-in-brazil-at-partner-one-software-inc",
-      "source": "Workable",
-      "date": "2026-10-21T16:30:27.026Z",
-      "tags": [
-        "Contract",
-        "Remote"
+        "Full-time",
+        "Frederick, Maryland, United States"
       ]
     },
     {
@@ -941,6 +897,50 @@
       "url": "https://jobs.workable.com/view/uMJRqkSQWydsuX8knHqx2Q/remote-ai-automation-expert-(ai-implementation-specialist)-in-pakistan-at-bush-%26-bush-law-group",
       "source": "Workable",
       "date": "2026-10-13T16:25:51.311Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "IT Systems & Automation Specialist",
+      "company": "Geeks on Site",
+      "url": "https://jobs.workable.com/view/ezWDkfUfixVpE9JjdkgZ9N/remote-it-systems-%26-automation-specialist-in-peru-at-geeks-on-site",
+      "source": "Workable",
+      "date": "2026-09-30T22:18:07.982Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Cash Desk Analytics &amp; Automation Specialist",
+      "company": "PIMCO",
+      "url": "https://jobs.workable.com/view/9JVTmqXz14Fz2wdz1PFXzU/cash-desk-analytics-%26amp%3B-automation-specialist-in-newport-beach-at-pimco",
+      "source": "Workable",
+      "date": "2026-09-28T08:34:55.295Z",
+      "tags": [
+        "Full-time",
+        "Newport Beach, California, United States"
+      ]
+    },
+    {
+      "title": "Automation and AI Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/vrTNqu7GPEwa1R1Ewk2bh8/remote-automation-and-ai-specialist-in-united-states-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-06-26T18:21:52.743Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "PortPayables - Automation Specialist",
+      "company": "Marcura",
+      "url": "https://jobs.workable.com/view/r3NTcDJVsM1UTtCF5JDaWW/remote-portpayables---automation-specialist-in-india-at-marcura",
+      "source": "Workable",
+      "date": "2026-09-07T07:50:10.972Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1010,6 +1010,17 @@
       "tags": [
         "Full-time",
         "Remote"
+      ]
+    },
+    {
+      "title": "Senior Procurement Officer - AI & Process Automation",
+      "company": "MIRA CONSTRUCTION L.L.C",
+      "url": "https://jobs.workable.com/view/rewDj9YUpTkT9Jqp73swUJ/senior-procurement-officer---ai-%26-process-automation-in-dubai-at-mira-construction-l.l.c",
+      "source": "Workable",
+      "date": "2026-10-21T16:50:07.303Z",
+      "tags": [
+        "Full-time",
+        "Dubai, Dubai, United Arab Emirates"
       ]
     },
     {
@@ -1097,16 +1108,6 @@
       "tags": [
         "Full-time",
         "Perth, Western Australia, Australia"
-      ]
-    },
-    {
-      "title": "Software Engineer",
-      "company": "Enerwave",
-      "url": "https://jobs.workable.com/view/2ahjg88JyXDBgyqX97LjGF/software-engineer-in-marousi-at-enerwave",
-      "source": "Workable",
-      "date": "2026-07-20T14:01:44.585Z",
-      "tags": [
-        "Marousi, Attica, Greece"
       ]
     }
   ]
