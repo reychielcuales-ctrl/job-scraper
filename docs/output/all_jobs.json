@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T03:40:59.125Z",
-  "count": 139,
+  "generatedAt": "2026-10-21T11:20:19.489Z",
+  "count": 166,
   "sources": {
-    "node": 100,
-    "jobspy": 39
+    "node": 99,
+    "jobspy": 67
   },
   "jobs": [
     {
@@ -117,14 +117,6 @@
       "url": "https://weworkremotely.com/remote-jobs/tines-manager-renewals",
       "source": "We Work Remotely",
       "date": "Sat, 10 Oct 2026 07:31:08 +0000",
-      "tags": []
-    },
-    {
-      "title": "Senior Pre- &amp; Post-Sales Customer Engineer, Enterprise",
-      "company": "Pendo",
-      "url": "https://weworkremotely.com/remote-jobs/pendo-senior-pre-post-sales-customer-engineer-enterprise",
-      "source": "We Work Remotely",
-      "date": "Sat, 10 Oct 2026 07:30:46 +0000",
       "tags": []
     },
     {
@@ -702,9 +694,9 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
+      "url": "https://jobs.workable.com/view/k7nzWWKBwMue7joZEBwMBX/remote-staff-qa-automation-engineer-in-colombia-at-meeru-ai-inc",
       "source": "Workable",
-      "date": "2026-10-10T01:09:25.904Z",
+      "date": "2026-10-10T01:09:26.020Z",
       "tags": [
         "Other",
         "Remote"
@@ -713,9 +705,9 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/k7nzWWKBwMue7joZEBwMBX/remote-staff-qa-automation-engineer-in-colombia-at-meeru-ai-inc",
+      "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
       "source": "Workable",
-      "date": "2026-10-10T01:09:26.020Z",
+      "date": "2026-10-10T01:09:25.904Z",
       "tags": [
         "Other",
         "Remote"
@@ -828,6 +820,17 @@
       ]
     },
     {
+      "title": "QA & Testing Automation Specialist",
+      "company": "Advansys",
+      "url": "https://jobs.workable.com/view/rAqB5qDF3NnmSh2kqSA1ko/hybrid-qa-%26-testing-automation-specialist-in-6th-of-october-city-at-advansys",
+      "source": "Workable",
+      "date": "2026-07-22T09:37:31.827Z",
+      "tags": [
+        "Full-time",
+        "6th of October City, Giza Governorate, Egypt"
+      ]
+    },
+    {
       "title": "Digital Transformation & Automation Specialist",
       "company": "Charger Logistics Inc",
       "url": "https://jobs.workable.com/view/ryAcXbxTEEvzVp5tVLtR5x/hybrid-digital-transformation-%26-automation-specialist-in-tegucigalpa-at-charger-logistics-inc",
@@ -924,17 +927,6 @@
       "tags": [
         "Full-time",
         "Remote"
-      ]
-    },
-    {
-      "title": "Automation Specialists - EPMS",
-      "company": "Albireo Energy",
-      "url": "https://jobs.workable.com/view/hMeDfypQQRk3qkntQcapgq/hybrid-automation-specialists---epms-in-toledo-at-albireo-energy",
-      "source": "Workable",
-      "date": "2026-08-25T19:54:01.334Z",
-      "tags": [
-        "Full-time",
-        "Toledo, Ohio, United States"
       ]
     },
     {
@@ -1101,6 +1093,118 @@
       ]
     },
     {
+      "title": "Virtual Executive Assistant (Remote)",
+      "company": "CareerHelix",
+      "url": "https://www.linkedin.com/jobs/view/4482030902",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Great Work Perks",
+      "url": "https://www.linkedin.com/jobs/view/4480742546",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant Administrator / Data Entry Specialist",
+      "company": "CareerHelix",
+      "url": "https://www.linkedin.com/jobs/view/4482035842",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "Mar Lows",
+      "url": "https://www.linkedin.com/jobs/view/4481545735",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant Specialist",
+      "company": "Talentoma",
+      "url": "https://www.linkedin.com/jobs/view/4480474948",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant Associate",
+      "company": "Talentoma",
+      "url": "https://www.linkedin.com/jobs/view/4480491257",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "Mar Lows",
+      "url": "https://www.linkedin.com/jobs/view/4481549930",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4480222763",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant",
+      "company": "Veta Virtual",
+      "url": "https://www.linkedin.com/jobs/view/4461373745",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CEO-female",
+      "company": "QBA Worldwide",
+      "url": "https://www.linkedin.com/jobs/view/4477728569",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant",
+      "company": "Veta Virtual",
+      "url": "https://www.linkedin.com/jobs/view/4461393365",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Chosan",
+      "url": "https://www.linkedin.com/jobs/view/4478489634",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-14",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant",
+      "company": "Zillow",
+      "url": "https://www.indeed.com/viewjob?jk=1a8df03fc4ea1c0a",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to VP Employer Sales",
+      "company": "CVS Health",
+      "url": "https://www.indeed.com/viewjob?jk=9932a674f30f7398",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant",
       "company": "ServiceNow",
       "url": "https://www.indeed.com/viewjob?jk=499cf17b1b095617",
@@ -1109,17 +1213,17 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant",
-      "company": "CVS Health",
-      "url": "https://www.indeed.com/viewjob?jk=67a395f48a9ff975",
+      "title": "Executive Assistant to the Chief Business Officer",
+      "company": "Dropbox",
+      "url": "https://www.indeed.com/viewjob?jk=54ff18c570222f12",
       "source": "JobSpy/indeed",
       "date": "2026-10-20",
       "tags": []
     },
     {
-      "title": "Executive Assistant to the Chief Business Officer",
-      "company": "Dropbox",
-      "url": "https://www.indeed.com/viewjob?jk=54ff18c570222f12",
+      "title": "Administrative Assistant",
+      "company": "CVS Health",
+      "url": "https://www.indeed.com/viewjob?jk=67a395f48a9ff975",
       "source": "JobSpy/indeed",
       "date": "2026-10-20",
       "tags": []
@@ -1157,6 +1261,22 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant to the CEO",
+      "company": "CyberVision International",
+      "url": "https://www.linkedin.com/jobs/view/4478980456",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Managing Director",
+      "company": "Kreative Events",
+      "url": "https://www.linkedin.com/jobs/view/4480788271",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant to GM-Pursat",
       "company": "Qoosi (Cambodia) Co., Ltd",
       "url": "https://www.linkedin.com/jobs/view/4480429924",
@@ -1181,17 +1301,17 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the Management (m/w/d)",
-      "company": "Kronospan",
-      "url": "https://www.linkedin.com/jobs/view/4478943088",
+      "title": "Executive Assistant",
+      "company": "News Corp Australia",
+      "url": "https://www.linkedin.com/jobs/view/4478781166",
       "source": "JobSpy/linkedin",
       "date": "2026-10-20",
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "News Corp Australia",
-      "url": "https://www.linkedin.com/jobs/view/4478781166",
+      "title": "Executive Assistant To CEO",
+      "company": "Via Medica International Healthcare",
+      "url": "https://www.linkedin.com/jobs/view/4478684425",
       "source": "JobSpy/linkedin",
       "date": "2026-10-20",
       "tags": []
@@ -1218,6 +1338,30 @@
       "url": "https://www.linkedin.com/jobs/view/4479308840",
       "source": "JobSpy/linkedin",
       "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Direct Energy Business",
+      "url": "https://www.linkedin.com/jobs/view/4477724428",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant-Japanese Bilingual",
+      "company": "Pasona N A, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4480579000",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CEO",
+      "company": "Lightworks",
+      "url": "https://www.linkedin.com/jobs/view/4480148386",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-15",
       "tags": []
     },
     {
@@ -1263,9 +1407,9 @@
     {
       "title": "Property Manager-Frontgate Apartments",
       "company": "Cornerstone Residential",
-      "url": "https://www.linkedin.com/jobs/view/4482010049",
+      "url": "https://www.linkedin.com/jobs/view/4482083091",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "tags": []
     },
     {
@@ -1301,6 +1445,14 @@
       "tags": []
     },
     {
+      "title": "Property Manager",
+      "company": "Apartment Management Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4476489927",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-17",
+      "tags": []
+    },
+    {
       "title": "Property Manager - ReNew Brandon",
       "company": "Trinity Property Consultants",
       "url": "https://www.linkedin.com/jobs/view/4480570063",
@@ -1320,14 +1472,6 @@
       "title": "Property Manager - Memphis, TN",
       "company": "Trinity Property Consultants",
       "url": "https://www.linkedin.com/jobs/view/4479755463",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Minor Hotels",
-      "url": "https://www.linkedin.com/jobs/view/4479773358",
       "source": "JobSpy/linkedin",
       "date": "2026-10-15",
       "tags": []
@@ -1381,19 +1525,59 @@
       "tags": []
     },
     {
-      "title": "Automation Developer / Automation Engineer",
-      "company": "BAP Advisory Group LLC",
-      "url": "https://www.indeed.com/viewjob?jk=2fb342a3b80b3cff",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-15",
+      "title": "Process Automation Specialist",
+      "company": "LeoVegas Group",
+      "url": "https://www.linkedin.com/jobs/view/4480465694",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
       "tags": []
     },
     {
-      "title": "Automation Engineer",
-      "company": "Mishcon de Reya LLP",
-      "url": "https://www.linkedin.com/jobs/view/4481210921",
+      "title": "AI Automation I N8N Developer:in I hybrid",
+      "company": "Kleines Kraftwerk DE GmbH",
+      "url": "https://www.linkedin.com/jobs/view/4478680195",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Agentic AI and Automation Specialist",
+      "company": "Quadient",
+      "url": "https://www.linkedin.com/jobs/view/4480217460",
       "source": "JobSpy/linkedin",
       "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "title": "Applied AI & Automation Specialist",
+      "company": "Auto Europe Car Rental",
+      "url": "https://www.linkedin.com/jobs/view/4481267610",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Specialist - Microsoft Stack",
+      "company": "Housing Australia",
+      "url": "https://www.linkedin.com/jobs/view/4478251878",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-18",
+      "tags": []
+    },
+    {
+      "title": "AI & Process Automation Engineer (Agents, Automation & Digitalisation)",
+      "company": "Zurich Insurance",
+      "url": "https://www.linkedin.com/jobs/view/4435258633",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-17",
+      "tags": []
+    },
+    {
+      "title": "Mid-Level AI Automation Engineer - Oceania",
+      "company": "Orix Digi",
+      "url": "https://www.linkedin.com/jobs/view/4480594916",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-17",
       "tags": []
     },
     {
@@ -1402,6 +1586,38 @@
       "url": "https://www.linkedin.com/jobs/view/4461368119",
       "source": "JobSpy/linkedin",
       "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Senior AI Automation Engineer",
+      "company": "York Towers",
+      "url": "https://www.linkedin.com/jobs/view/4478864722",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "title": "Automation Developer / Automation Engineer",
+      "company": "BAP Advisory Group LLC",
+      "url": "https://www.indeed.com/viewjob?jk=2fb342a3b80b3cff",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "title": "Automation Analyst",
+      "company": "Strivolabs",
+      "url": "https://www.linkedin.com/jobs/view/4482058568",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Automation Engineer",
+      "company": "Mishcon de Reya LLP",
+      "url": "https://www.linkedin.com/jobs/view/4481210921",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-19",
       "tags": []
     },
     {
