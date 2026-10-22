@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-21T21:21:23.147Z",
-  "count": 101,
+  "generatedAt": "2026-10-22T03:39:58.702Z",
+  "count": 102,
   "jobs": [
     {
       "title": "Marketing and Sales Administrator",
@@ -81,6 +81,16 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "Sr. Marketing Automation Specialist",
+      "company": "Amplitude",
+      "url": "https://jobicy.com/jobs/156259-sr-marketing-automation-specialist",
+      "source": "Jobicy",
+      "date": "2026-10-21T18:39:48+00:00",
+      "tags": [
+        "Marketing & Sales"
       ]
     },
     {
@@ -437,6 +447,17 @@
       ]
     },
     {
+      "title": "Leasing Specialist",
+      "company": "Admiral Communities",
+      "url": "https://jobs.workable.com/view/iFcu8bjQuwHJYoJ6bTj5dw/leasing-specialist-in-columbia-at-admiral-communities",
+      "source": "Workable",
+      "date": "2026-10-21T22:08:05.201Z",
+      "tags": [
+        "Full-time",
+        "Columbia, Tennessee, United States"
+      ]
+    },
+    {
       "title": "Accounting/Administrator",
       "company": "Taylor Management",
       "url": "https://jobs.workable.com/view/5SxkmGJYvkTLP3EP6aUvt1/accounting%2Fadministrator-in-ventnor-city-at-taylor-management",
@@ -487,17 +508,6 @@
       "date": "2026-07-21T18:16:11.165Z",
       "tags": [
         "Greenville, North Carolina, United States"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "Admiral Communities",
-      "url": "https://jobs.workable.com/view/6LTM5K9Nm64USs9XET9m32/property-manager-in-columbia-at-admiral-communities",
-      "source": "Workable",
-      "date": "2026-10-19T18:19:52.354Z",
-      "tags": [
-        "Full-time",
-        "Columbia, Tennessee, United States"
       ]
     },
     {
@@ -557,17 +567,6 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.453Z",
@@ -582,6 +581,28 @@
       "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.201Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:52.174Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.688Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -615,17 +636,6 @@
       "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:39.156Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:51:52.174Z",
       "tags": [
         "Full-time",
         "Remote"

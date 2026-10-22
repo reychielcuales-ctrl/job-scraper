@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-21T21:21:57.398Z",
-  "count": 174,
+  "generatedAt": "2026-10-22T03:40:29.429Z",
+  "count": 156,
   "sources": {
-    "node": 101,
-    "jobspy": 73
+    "node": 102,
+    "jobspy": 54
   },
   "jobs": [
     {
@@ -85,6 +85,16 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "Sr. Marketing Automation Specialist",
+      "company": "Amplitude",
+      "url": "https://jobicy.com/jobs/156259-sr-marketing-automation-specialist",
+      "source": "Jobicy",
+      "date": "2026-10-21T18:39:48+00:00",
+      "tags": [
+        "Marketing & Sales"
       ]
     },
     {
@@ -441,6 +451,17 @@
       ]
     },
     {
+      "title": "Leasing Specialist",
+      "company": "Admiral Communities",
+      "url": "https://jobs.workable.com/view/iFcu8bjQuwHJYoJ6bTj5dw/leasing-specialist-in-columbia-at-admiral-communities",
+      "source": "Workable",
+      "date": "2026-10-21T22:08:05.201Z",
+      "tags": [
+        "Full-time",
+        "Columbia, Tennessee, United States"
+      ]
+    },
+    {
       "title": "Accounting/Administrator",
       "company": "Taylor Management",
       "url": "https://jobs.workable.com/view/5SxkmGJYvkTLP3EP6aUvt1/accounting%2Fadministrator-in-ventnor-city-at-taylor-management",
@@ -491,17 +512,6 @@
       "date": "2026-07-21T18:16:11.165Z",
       "tags": [
         "Greenville, North Carolina, United States"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "Admiral Communities",
-      "url": "https://jobs.workable.com/view/6LTM5K9Nm64USs9XET9m32/property-manager-in-columbia-at-admiral-communities",
-      "source": "Workable",
-      "date": "2026-10-19T18:19:52.354Z",
-      "tags": [
-        "Full-time",
-        "Columbia, Tennessee, United States"
       ]
     },
     {
@@ -561,17 +571,6 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.453Z",
@@ -586,6 +585,28 @@
       "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.201Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:52.174Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.688Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -619,17 +640,6 @@
       "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:39.156Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:51:52.174Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1147,14 +1157,6 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant Administrator / Data Entry Specialist",
-      "company": "CareerHelix",
-      "url": "https://www.linkedin.com/jobs/view/4482035842",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant | Full-Time",
       "company": "Mar Lows",
       "url": "https://www.linkedin.com/jobs/view/4481545735",
@@ -1179,33 +1181,9 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant | Full-Time",
-      "company": "Mar Lows",
-      "url": "https://www.linkedin.com/jobs/view/4481549930",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Somewhere",
-      "url": "https://www.linkedin.com/jobs/view/4480222763",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
       "title": "Senior Executive Assistant",
       "company": "Veta Virtual",
       "url": "https://www.linkedin.com/jobs/view/4461373745",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO-female",
-      "company": "QBA Worldwide",
-      "url": "https://www.linkedin.com/jobs/view/4477728569",
       "source": "JobSpy/linkedin",
       "date": "2026-10-16",
       "tags": []
@@ -1238,6 +1216,14 @@
       "title": "Senior Executive Assistant",
       "company": "Zillow",
       "url": "https://www.indeed.com/viewjob?jk=1a8df03fc4ea1c0a",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to VP Employer Sales",
+      "company": "CVS Health",
+      "url": "https://www.indeed.com/viewjob?jk=9932a674f30f7398",
       "source": "JobSpy/indeed",
       "date": "2026-10-21",
       "tags": []
@@ -1283,115 +1269,11 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to CEO",
-      "company": "Trivium",
-      "url": "https://www.indeed.com/viewjob?jk=26e14c19631a950c",
+      "title": "Senior Property Manager",
+      "company": "JLL",
+      "url": "https://www.indeed.com/viewjob?jk=cf2c39ce5a5f5f76",
       "source": "JobSpy/indeed",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO & COO",
-      "company": "cmi",
-      "url": "https://www.linkedin.com/jobs/view/4481124992",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "News Corp Australia",
-      "url": "https://www.linkedin.com/jobs/view/4478781166",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to CEO - TJ / 1893536",
-      "company": "Recruit AI",
-      "url": "https://www.linkedin.com/jobs/view/4482085201",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to GM-Pursat",
-      "company": "Qoosi (Cambodia) Co., Ltd",
-      "url": "https://www.linkedin.com/jobs/view/4480429924",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to GM: $700-$800 | At Pursat",
-      "company": "Qoosi (Cambodia) Co., Ltd",
-      "url": "https://www.linkedin.com/jobs/view/4480421660",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CFO",
-      "company": "The Washington Post",
-      "url": "https://www.linkedin.com/jobs/view/4481795561",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Jagger",
-      "url": "https://www.linkedin.com/jobs/view/4480272695",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-19",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the Founder",
-      "company": "White Fox",
-      "url": "https://www.linkedin.com/jobs/view/4479351747",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Starcom Australia",
-      "url": "https://www.linkedin.com/jobs/view/4479308840",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Direct Energy Business",
-      "url": "https://www.linkedin.com/jobs/view/4477724428",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant-Japanese Bilingual",
-      "company": "Pasona N A, Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4480579000",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Starcom Australia",
-      "url": "https://www.linkedin.com/jobs/view/4479324181",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO",
-      "company": "Lightworks",
-      "url": "https://www.linkedin.com/jobs/view/4480148386",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
+      "date": "2026-10-22",
       "tags": []
     },
     {
@@ -1413,7 +1295,7 @@
     {
       "title": "Regional Property Manager – Florida (Remote)",
       "company": "Summerfield Management",
-      "url": "https://www.indeed.com/viewjob?jk=e085339882d1b800",
+      "url": "https://www.indeed.com/viewjob?jk=12f48f9a2ef98b76",
       "source": "JobSpy/indeed",
       "date": "2026-10-16",
       "tags": []
@@ -1424,6 +1306,14 @@
       "url": "https://www.indeed.com/viewjob?jk=b600a285f9deb7a6",
       "source": "JobSpy/indeed",
       "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Commercial Northwest",
+      "url": "https://www.linkedin.com/jobs/view/4481171517",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-22",
       "tags": []
     },
     {
@@ -1446,6 +1336,14 @@
       "title": "Property Manager",
       "company": "Apartment Management Consultants",
       "url": "https://www.linkedin.com/jobs/view/4477302855",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Basswood Landing",
+      "company": "Pegasus Residential",
+      "url": "https://www.linkedin.com/jobs/view/4482175392",
       "source": "JobSpy/linkedin",
       "date": "2026-10-21",
       "tags": []
@@ -1512,22 +1410,6 @@
       "url": "https://www.linkedin.com/jobs/view/4480369482",
       "source": "JobSpy/linkedin",
       "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Property Manager - Memphis, TN",
-      "company": "Trinity Property Consultants",
-      "url": "https://www.linkedin.com/jobs/view/4479755463",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Armco",
-      "url": "https://www.linkedin.com/jobs/view/4479707673",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-14",
       "tags": []
     },
     {
@@ -1623,30 +1505,6 @@
       "company": "York Towers",
       "url": "https://www.linkedin.com/jobs/view/4478864722",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "Senior IT Automation Engineer",
-      "company": "Huntress Labs",
-      "url": "https://www.indeed.com/viewjob?jk=3ae8e584e4f7c327",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
-      "title": "Automation Developer / Automation Engineer",
-      "company": "BAP Advisory Group LLC",
-      "url": "https://www.indeed.com/viewjob?jk=2fb342a3b80b3cff",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Engineer, Finance & Operations",
-      "company": "Apptegy",
-      "url": "https://www.indeed.com/viewjob?jk=17c4a5259f10f16a",
-      "source": "JobSpy/indeed",
       "date": "2026-10-15",
       "tags": []
     },
