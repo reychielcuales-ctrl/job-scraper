@@ -1,7 +1,21 @@
 {
-  "generatedAt": "2026-10-22T11:18:50.887Z",
-  "count": 101,
+  "generatedAt": "2026-10-22T16:46:15.541Z",
+  "count": 113,
   "jobs": [
+    {
+      "title": "Senior Backend Engineer",
+      "company": "DuckDuckGo",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
+      "source": "RemoteOK",
+      "date": "2026-10-21T14:29:21+00:00",
+      "tags": [
+        "backend",
+        "perl",
+        "golang",
+        "javascript",
+        "node"
+      ]
+    },
     {
       "title": "Marketing and Sales Administrator",
       "company": "Hunt St",
@@ -84,13 +98,23 @@
       ]
     },
     {
-      "title": "Sr. Marketing Automation Specialist",
-      "company": "Amplitude",
-      "url": "https://jobicy.com/jobs/156259-sr-marketing-automation-specialist",
+      "title": "Staff Full Stack Engineer",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/156287-staff-full-stack-engineer",
       "source": "Jobicy",
-      "date": "2026-10-21T18:39:48+00:00",
+      "date": "2026-10-22T09:20:22+00:00",
       "tags": [
-        "Marketing & Sales"
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Senior Technical Account Manager (Federal)",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/156283-senior-technical-account-manager-federal",
+      "source": "Jobicy",
+      "date": "2026-10-22T09:20:20+00:00",
+      "tags": [
+        "Customer Support & Success"
       ]
     },
     {
@@ -291,61 +315,6 @@
       ]
     },
     {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/wZq6hgjrxVzVuYHTNuNHwb/remote-virtual-assistant---fulfillment-in-chile-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-10-08T15:43:28.056Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/8dwbv65446mS4x16gwJN5d/remote-virtual-assistant---fulfillment-in-buenos-aires-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-10-08T15:43:27.273Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/qfpv5sgeWWNPmLBWb7iNJj/remote-virtual-assistant---fulfillment-in-rio-de-janeiro-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-10-08T15:43:27.153Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/7oEmn43BqnmZ6mCaVggB1f/remote-virtual-assistant---fulfillment-in-mexico-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-10-08T15:43:28.253Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/4EPd6Cd29mPG8eWrAuDvwy/remote-virtual-assistant---fulfillment-in-colombia-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-10-08T15:43:27.754Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
       "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
@@ -397,6 +366,61 @@
       "date": "2026-10-09T05:09:49.253Z",
       "tags": [
         "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Offshore Virtual Executive Assistant to the CEO",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/4JXyqmFV5syo8UoTt8gXrX/remote-offshore-virtual-executive-assistant-to-the-ceo-in-argentina-at-collective-residential",
+      "source": "Workable",
+      "date": "2026-10-09T21:13:00.272Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Offshore Virtual Executive Assistant to the CEO",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/cTB4kuZvmwc3fJYkToZGqi/remote-offshore-virtual-executive-assistant-to-the-ceo-in-chile-at-collective-residential",
+      "source": "Workable",
+      "date": "2026-10-09T21:13:00.007Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Offshore Virtual Executive Assistant to the CEO",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/a7CqTHeFoiRwHqNhwQ4xMf/remote-offshore-virtual-executive-assistant-to-the-ceo-in-brazil-at-collective-residential",
+      "source": "Workable",
+      "date": "2026-10-09T21:13:00.048Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Offshore Virtual Executive Assistant to the CEO",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/fHrAhAirdHuh8ghw3A2y31/remote-offshore-virtual-executive-assistant-to-the-ceo-in-mexico-at-collective-residential",
+      "source": "Workable",
+      "date": "2026-10-09T21:13:00.595Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Offshore Virtual Executive Assistant to the CEO",
+      "company": "Collective Residential",
+      "url": "https://jobs.workable.com/view/fcnkyhkjn2PjMCBsDuLuFP/remote-offshore-virtual-executive-assistant-to-the-ceo-in-colombia-at-collective-residential",
+      "source": "Workable",
+      "date": "2026-10-09T21:12:59.965Z",
+      "tags": [
+        "Full-time",
         "Remote"
       ]
     },
@@ -566,6 +590,17 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.688Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.453Z",
@@ -580,28 +615,6 @@
       "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.201Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:51:52.174Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -635,6 +648,17 @@
       "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:39.156Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:52.174Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -731,6 +755,17 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:25.904Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
       "url": "https://jobs.workable.com/view/hooXUakgitv47HbwmxEen2/remote-staff-qa-automation-engineer-in-argentina-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:25.730Z",
@@ -745,17 +780,6 @@
       "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:25.446Z",
-      "tags": [
-        "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Staff QA Automation Engineer",
-      "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
-      "source": "Workable",
-      "date": "2026-10-10T01:09:25.904Z",
       "tags": [
         "Other",
         "Remote"
@@ -857,6 +881,72 @@
       ]
     },
     {
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/oWcFXecMNZypweBYZYoHah/remote-devops-automation-specialist-in-chile-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-10-22T11:33:55.022Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/tE7Vbr31ANakURkLMJjT6H/remote-devops-automation-specialist-in-colombia-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-10-22T11:33:54.610Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/n46Fv6NvBQNmSQ99hi9hkN/remote-devops-automation-specialist-in-costa-rica-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-10-22T11:33:55.209Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/fFbrDzTB6o2MSV8E8myNx8/remote-devops-automation-specialist-in-argentina-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-10-22T11:33:54.226Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/kgKimsMs4fQJXUZtFcdRpM/remote-devops-automation-specialist-in-brazil-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-10-22T11:33:53.952Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/9gajDf1ZTzGY8kraFZeB9G/remote-devops-automation-specialist-in-mexico-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-10-22T11:33:54.759Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
       "title": "AI Integrations & Automation Specialist",
       "company": "Square Enix",
       "url": "https://jobs.workable.com/view/gfGvRCEWSCWpywQkSh3nNi/hybrid-ai-integrations-%26-automation-specialist-in-london-at-square-enix",
@@ -865,6 +955,17 @@
       "tags": [
         "Full-time",
         "London, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
+      "company": "The People Group",
+      "url": "https://jobs.workable.com/view/meAHfhR3YTVubtPzshA93j/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-philippines-at-the-people-group",
+      "source": "Workable",
+      "date": "2026-10-22T16:10:59.417Z",
+      "tags": [
+        "Contract",
+        "Remote"
       ]
     },
     {
@@ -923,189 +1024,223 @@
       ]
     },
     {
-      "title": "IT Systems & Automation Specialist",
-      "company": "Geeks on Site",
-      "url": "https://jobs.workable.com/view/ezWDkfUfixVpE9JjdkgZ9N/remote-it-systems-%26-automation-specialist-in-peru-at-geeks-on-site",
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/jDuzuR2KStCUAtZxZQM5Wi/hybrid-ai-workflow-engineer%2Fautomation-architect-in-bellevue-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-09-30T22:18:07.982Z",
+      "date": "2026-10-22T15:32:39.488Z",
       "tags": [
         "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Cash Desk Analytics &amp; Automation Specialist",
-      "company": "PIMCO",
-      "url": "https://jobs.workable.com/view/9JVTmqXz14Fz2wdz1PFXzU/cash-desk-analytics-%26amp%3B-automation-specialist-in-newport-beach-at-pimco",
-      "source": "Workable",
-      "date": "2026-09-28T08:34:55.295Z",
-      "tags": [
-        "Full-time",
-        "Newport Beach, California, United States"
-      ]
-    },
-    {
-      "title": "Automation and AI Specialist",
-      "company": "Partner One Software Inc",
-      "url": "https://jobs.workable.com/view/vrTNqu7GPEwa1R1Ewk2bh8/remote-automation-and-ai-specialist-in-united-states-at-partner-one-software-inc",
-      "source": "Workable",
-      "date": "2026-06-26T18:21:52.743Z",
-      "tags": [
-        "Full-time",
-        "Remote"
+        "Bellevue, Washington, United States"
       ]
     },
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/remote-ai-workflow-engineer%2Fautomation-architect-in-california-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/iEUjnzBrSMSJWF3LJhJSCX/hybrid-ai-workflow-engineer%2Fautomation-architect-in-colorado-springs-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-10-05T21:16:42.492Z",
+      "date": "2026-10-22T15:30:31.767Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Colorado Springs, Colorado, United States"
       ]
     },
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/remote-ai-workflow-engineer%2Fautomation-architect-in-washington-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/xkHhxvB3BCg3ZnFyZkjoCG/hybrid-ai-workflow-engineer%2Fautomation-architect-in-dallas-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-10-05T21:16:28.057Z",
+      "date": "2026-10-22T15:28:04.734Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Dallas, Texas, United States"
       ]
     },
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/cpCbh28RDC8HRr39WvW6C2/remote-ai-workflow-engineer%2Fautomation-architect-in-colorado-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-10-05T21:16:11.242Z",
+      "date": "2026-10-22T15:14:11.185Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Savannah, Georgia, United States"
       ]
     },
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/uH5R3TSqyhNaQUu73T8ZcD/remote-ai-workflow-engineer%2Fautomation-architect-in-virginia-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-10-05T21:14:13.172Z",
+      "date": "2026-10-22T15:36:30.592Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Oakland, California, United States"
       ]
     },
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/aTwWaTNCib5GC1umcnPc1s/remote-ai-workflow-engineer%2Fautomation-architect-in-texas-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-10-05T21:13:06.341Z",
+      "date": "2026-10-22T15:30:32.227Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Fort Collins, Colorado, United States"
       ]
     },
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/c44YHZ8TveuZtyaH1XXJhv/remote-ai-workflow-engineer%2Fautomation-architect-in-georgia-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-10-05T21:11:47.216Z",
+      "date": "2026-10-22T15:09:55.187Z",
+      "tags": [
+        "Full-time",
+        "Seattle, Washington, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/c44YHZ8TveuZtyaH1XXJhv/hybrid-ai-workflow-engineer%2Fautomation-architect-in-atlanta-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T14:33:43.403Z",
+      "tags": [
+        "Full-time",
+        "Atlanta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/5CEh4dpxxuw9Hm6TDSvpce/hybrid-ai-workflow-engineer%2Fautomation-architect-in-san-jose-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:36:31.258Z",
+      "tags": [
+        "Full-time",
+        "San Jose, California, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/okEEqSqmfJWJyWq4WbsCE2/hybrid-ai-workflow-engineer%2Fautomation-architect-in-everett-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:32:39.912Z",
+      "tags": [
+        "Full-time",
+        "Everett, Washington, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/hcQiMvL7snteoYRcbjLMer/hybrid-ai-workflow-engineer%2Fautomation-architect-in-alpharetta-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:14:10.962Z",
+      "tags": [
+        "Full-time",
+        "Alpharetta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/cpCbh28RDC8HRr39WvW6C2/hybrid-ai-workflow-engineer%2Fautomation-architect-in-denver-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:05:53.279Z",
+      "tags": [
+        "Full-time",
+        "Denver, Colorado, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/aTwWaTNCib5GC1umcnPc1s/hybrid-ai-workflow-engineer%2Fautomation-architect-in-austin-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T14:38:35.701Z",
+      "tags": [
+        "Full-time",
+        "Austin, Texas, United States"
+      ]
+    },
+    {
+      "title": "Senior Recruiter",
+      "company": "LawnStarter",
+      "url": "https://jobs.workable.com/view/7gekFfk7EadL9645AJso26/remote-senior-recruiter-in-philippines-at-lawnstarter",
+      "source": "Workable",
+      "date": "2026-10-22T15:13:52.830Z",
       "tags": [
         "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "Senior Procurement Officer - AI & Process Automation",
-      "company": "MIRA CONSTRUCTION L.L.C",
-      "url": "https://jobs.workable.com/view/rewDj9YUpTkT9Jqp73swUJ/senior-procurement-officer---ai-%26-process-automation-in-dubai-at-mira-construction-l.l.c",
+      "title": "Senior Recruiter",
+      "company": "LawnStarter",
+      "url": "https://jobs.workable.com/view/uBQQ98rMiCwD3DdX6ftVLx/remote-senior-recruiter-in-cebu-at-lawnstarter",
       "source": "Workable",
-      "date": "2026-10-21T16:50:07.303Z",
-      "tags": [
-        "Full-time",
-        "Dubai, Dubai, United Arab Emirates"
-      ]
-    },
-    {
-      "title": "Nintex K2 Developer - BPM & Digital Process Automation (DPA)",
-      "company": "TAWANTECH",
-      "url": "https://jobs.workable.com/view/mo7QTDmL1iRb166Xh3iboP/nintex-k2-developer---bpm-%26-digital-process-automation-(dpa)-in-riyadh-at-tawantech",
-      "source": "Workable",
-      "date": "2026-10-21T12:41:52.565Z",
-      "tags": [
-        "Full-time",
-        "Riyadh, Riyadh Province, Saudi Arabia"
-      ]
-    },
-    {
-      "title": "Technical Product Manager",
-      "company": "Charger Logistics Inc",
-      "url": "https://jobs.workable.com/view/cuxzFkadtSCfHqDJLBTNhk/technical-product-manager-in-brampton-at-charger-logistics-inc",
-      "source": "Workable",
-      "date": "2026-10-20T20:14:42.608Z",
-      "tags": [
-        "Brampton, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Business Development Representative, Warsaw",
-      "company": "FlowX.AI",
-      "url": "https://jobs.workable.com/view/uRL3sUPLBjdA5VYCiPdawc/remote-business-development-representative%2C-warsaw-in-poland-at-flowx.ai",
-      "source": "Workable",
-      "date": "2026-10-20T13:41:51.097Z",
+      "date": "2026-10-22T15:13:52.425Z",
       "tags": [
         "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "Business Development Representative, Warsaw",
-      "company": "FlowX.AI",
-      "url": "https://jobs.workable.com/view/b534r2JTQ1ZD8qGxDnuQUp/remote-business-development-representative%2C-warsaw-in-warsaw-at-flowx.ai",
+      "title": "Senior Recruiter",
+      "company": "LawnStarter",
+      "url": "https://jobs.workable.com/view/euSHXT48RnoggwCUYRr1Kp/remote-senior-recruiter-in-angeles-city-at-lawnstarter",
       "source": "Workable",
-      "date": "2026-10-20T13:41:50.677Z",
+      "date": "2026-10-22T15:13:53.688Z",
       "tags": [
         "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "Business Development Representative, Warsaw",
-      "company": "FlowX.AI",
-      "url": "https://jobs.workable.com/view/bLwBDLBLmf88LjoihvAfCA/remote-business-development-representative%2C-warsaw-in-gda%C5%84sk-at-flowx.ai",
+      "title": "Senior Recruiter",
+      "company": "LawnStarter",
+      "url": "https://jobs.workable.com/view/cLAoJUih1gdnbb1oeD7uGX/remote-senior-recruiter-in-iloilo-at-lawnstarter",
       "source": "Workable",
-      "date": "2026-10-20T13:41:50.922Z",
+      "date": "2026-10-22T15:13:53.340Z",
       "tags": [
         "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "AI Workflow Engineer",
-      "company": "Advansys",
-      "url": "https://jobs.workable.com/view/6JCyQtNuiq68JLYPH6MBGA/ai-workflow-engineer-in-nasr-city-at-advansys",
+      "title": "Agentic Developer (Consultant)",
+      "company": "AG Consulting Partners, Inc.",
+      "url": "https://jobs.workable.com/view/ezXbXGhMokWvo1R6twcQUM/hybrid-agentic-developer-(consultant)-in-issaquah-at-ag-consulting-partners%2C-inc.",
       "source": "Workable",
-      "date": "2026-10-20T10:57:27.818Z",
+      "date": "2026-10-22T16:15:48.096Z",
       "tags": [
-        "Full-time",
-        "Nasr City, Al Manteqah Al Oula, Egypt"
+        "Temporary",
+        "Issaquah, Washington, United States"
       ]
     },
     {
-      "title": "Junior Ai Prompt Engineer",
-      "company": "TechOp Solutions International",
-      "url": "https://jobs.workable.com/view/osgs8pgXu4678CSHM22daT/hybrid-junior-ai-prompt-engineer-in-washington-at-techop-solutions-international",
+      "title": "Senior Recruiter",
+      "company": "LawnStarter",
+      "url": "https://jobs.workable.com/view/fow4pLmGfVzT68yYMQzxFA/remote-senior-recruiter-in-davao-region-at-lawnstarter",
       "source": "Workable",
-      "date": "2026-10-19T23:45:07.412Z",
+      "date": "2026-10-22T15:13:53.052Z",
       "tags": [
         "Full-time",
-        "Washington, District of Columbia, United States"
+        "Remote"
+      ]
+    },
+    {
+      "title": "Senior Recruiter",
+      "company": "LawnStarter",
+      "url": "https://jobs.workable.com/view/wnFcYs4EBiTedCatDzJaf3/remote-senior-recruiter-in-metro-manila-at-lawnstarter",
+      "source": "Workable",
+      "date": "2026-10-22T15:13:52.627Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     }
   ]
