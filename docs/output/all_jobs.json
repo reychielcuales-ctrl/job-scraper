@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-22T03:40:29.429Z",
-  "count": 156,
+  "generatedAt": "2026-10-22T11:19:27.368Z",
+  "count": 173,
   "sources": {
-    "node": 102,
-    "jobspy": 54
+    "node": 101,
+    "jobspy": 72
   },
   "jobs": [
     {
@@ -98,16 +98,6 @@
       ]
     },
     {
-      "title": "AI Automation Manager",
-      "company": "Acquia, Inc.",
-      "url": "https://jobicy.com/jobs/156234-ai-automation-manager",
-      "source": "Jobicy",
-      "date": "2026-10-21T18:02:41+00:00",
-      "tags": [
-        "Product & Operations"
-      ]
-    },
-    {
       "title": "Operations Support Specialist",
       "company": "Evolve Peptides",
       "url": "https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
@@ -169,6 +159,14 @@
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-solutions-engineer-customer-success",
       "source": "We Work Remotely",
       "date": "Tue, 07 Feb 2023 20:07:41 +0000",
+      "tags": []
+    },
+    {
+      "title": "Marketing Automation Manager - Canada, Spain, India",
+      "company": "Storyblok",
+      "url": "https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
+      "source": "We Work Remotely",
+      "date": "Thu, 22 Oct 2026 07:31:08 +0000",
       "tags": []
     },
     {
@@ -429,6 +427,17 @@
       ]
     },
     {
+      "title": "Bilingual Property Manager (English/Spanish)",
+      "company": "Admiral Communities",
+      "url": "https://jobs.workable.com/view/cBcShjhDgdBcxG6VuGoGRr/bilingual-property-manager-(english%2Fspanish)-in-columbia-at-admiral-communities",
+      "source": "Workable",
+      "date": "2026-10-22T05:08:41.092Z",
+      "tags": [
+        "Full-time",
+        "Columbia, Tennessee, United States"
+      ]
+    },
+    {
       "title": "Property Manager",
       "company": "Admiral Communities",
       "url": "https://jobs.workable.com/view/uGiPTzmKaeX6nsrkk2VaPu/property-manager-in-north-little-rock-at-admiral-communities",
@@ -502,16 +511,6 @@
       "tags": [
         "Full-time",
         "Northwood, Ohio, United States"
-      ]
-    },
-    {
-      "title": "Lead HVAC Maintenance Tech University Edge & Dickinson Lofts Greenville",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/kXdAFEHrx285jCXBKDH1LQ/lead-hvac-maintenance-tech-university-edge-%26-dickinson-lofts-greenville-in-greenville-at-kpm",
-      "source": "Workable",
-      "date": "2026-07-21T18:16:11.165Z",
-      "tags": [
-        "Greenville, North Carolina, United States"
       ]
     },
     {
@@ -725,17 +724,6 @@
     {
       "title": "Staff QA Automation Engineer",
       "company": "Meeru AI Inc",
-      "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
-      "source": "Workable",
-      "date": "2026-10-10T01:09:25.904Z",
-      "tags": [
-        "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Staff QA Automation Engineer",
-      "company": "Meeru AI Inc",
       "url": "https://jobs.workable.com/view/k7nzWWKBwMue7joZEBwMBX/remote-staff-qa-automation-engineer-in-colombia-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:26.020Z",
@@ -761,6 +749,17 @@
       "url": "https://jobs.workable.com/view/pf98ypgkcedrTXVnMsy4d1/remote-staff-qa-automation-engineer-in-poland-at-meeru-ai-inc",
       "source": "Workable",
       "date": "2026-10-10T01:09:25.446Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Staff QA Automation Engineer",
+      "company": "Meeru AI Inc",
+      "url": "https://jobs.workable.com/view/vuD3w2baqnunpaqEdoaWqe/remote-staff-qa-automation-engineer-in-romania-at-meeru-ai-inc",
+      "source": "Workable",
+      "date": "2026-10-10T01:09:25.904Z",
       "tags": [
         "Other",
         "Remote"
@@ -862,6 +861,17 @@
       ]
     },
     {
+      "title": "AI Integrations & Automation Specialist",
+      "company": "Square Enix",
+      "url": "https://jobs.workable.com/view/gfGvRCEWSCWpywQkSh3nNi/hybrid-ai-integrations-%26-automation-specialist-in-london-at-square-enix",
+      "source": "Workable",
+      "date": "2026-10-22T10:53:37.689Z",
+      "tags": [
+        "Full-time",
+        "London, England, United Kingdom"
+      ]
+    },
+    {
       "title": "QA & Testing Automation Specialist",
       "company": "Advansys",
       "url": "https://jobs.workable.com/view/rAqB5qDF3NnmSh2kqSA1ko/hybrid-qa-%26-testing-automation-specialist-in-6th-of-october-city-at-advansys",
@@ -944,17 +954,6 @@
       "url": "https://jobs.workable.com/view/vrTNqu7GPEwa1R1Ewk2bh8/remote-automation-and-ai-specialist-in-united-states-at-partner-one-software-inc",
       "source": "Workable",
       "date": "2026-06-26T18:21:52.743Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "PortPayables - Automation Specialist",
-      "company": "Marcura",
-      "url": "https://jobs.workable.com/view/r3NTcDJVsM1UTtCF5JDaWW/remote-portpayables---automation-specialist-in-india-at-marcura",
-      "source": "Workable",
-      "date": "2026-09-07T07:50:10.972Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1114,22 +1113,35 @@
       ]
     },
     {
-      "title": "AI Solutions Engineer (ProcessPath)",
-      "company": "Rmkble",
-      "url": "https://jobs.workable.com/view/4hHTy2n26diQceqqT88Hf7/ai-solutions-engineer-(processpath)-in-perth-at-rmkble",
-      "source": "Workable",
-      "date": "2026-07-21T02:09:49.129Z",
-      "tags": [
-        "Full-time",
-        "Perth, Western Australia, Australia"
-      ]
-    },
-    {
       "title": "Psychiatric Virtual Assistant",
       "company": "MICGRA PSYCH",
       "url": "https://www.indeed.com/viewjob?jk=739351ddd304d841",
       "source": "JobSpy/indeed",
       "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "ML Hire",
+      "url": "https://www.linkedin.com/jobs/view/4482424820",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (Work From Home) – For Pooling",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4480001624",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "ML Hire",
+      "url": "https://www.linkedin.com/jobs/view/4482452022",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-22",
       "tags": []
     },
     {
@@ -1157,11 +1169,11 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant | Full-Time",
-      "company": "Mar Lows",
-      "url": "https://www.linkedin.com/jobs/view/4481545735",
+      "title": "Virtual Assistant Administrator / Data Entry Specialist",
+      "company": "CareerHelix",
+      "url": "https://www.linkedin.com/jobs/view/4482035842",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-20",
+      "date": "2026-10-21",
       "tags": []
     },
     {
@@ -1181,9 +1193,25 @@
       "tags": []
     },
     {
+      "title": "Virtual Assistant",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4480222763",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
       "title": "Senior Executive Assistant",
       "company": "Veta Virtual",
       "url": "https://www.linkedin.com/jobs/view/4461373745",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CEO-female",
+      "company": "QBA Worldwide",
+      "url": "https://www.linkedin.com/jobs/view/4477728569",
       "source": "JobSpy/linkedin",
       "date": "2026-10-16",
       "tags": []
@@ -1194,6 +1222,14 @@
       "url": "https://www.linkedin.com/jobs/view/4461393365",
       "source": "JobSpy/linkedin",
       "date": "2026-10-15",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to VP, Portfolio Strategy and Marketing (Remote)",
+      "company": "Cisco",
+      "url": "https://www.indeed.com/viewjob?jk=9e042d01a6e52aaf",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-22",
       "tags": []
     },
     {
@@ -1216,14 +1252,6 @@
       "title": "Senior Executive Assistant",
       "company": "Zillow",
       "url": "https://www.indeed.com/viewjob?jk=1a8df03fc4ea1c0a",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to VP Employer Sales",
-      "company": "CVS Health",
-      "url": "https://www.indeed.com/viewjob?jk=9932a674f30f7398",
       "source": "JobSpy/indeed",
       "date": "2026-10-21",
       "tags": []
@@ -1269,9 +1297,121 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant to the Management (m/w/d)",
+      "company": "Kronospan",
+      "url": "https://www.linkedin.com/jobs/view/4480003969",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CEO & COO",
+      "company": "cmi",
+      "url": "https://www.linkedin.com/jobs/view/4481124992",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "News Corp Australia",
+      "url": "https://www.linkedin.com/jobs/view/4478781166",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to CEO - TJ / 1893536",
+      "company": "Recruit AI",
+      "url": "https://www.linkedin.com/jobs/view/4482085201",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-21",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to GM-Pursat",
+      "company": "Qoosi (Cambodia) Co., Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4480429924",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to GM: $700-$800 | At Pursat",
+      "company": "Qoosi (Cambodia) Co., Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4480421660",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CFO",
+      "company": "The Washington Post",
+      "url": "https://www.linkedin.com/jobs/view/4481795561",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "e-STORAGE",
+      "url": "https://www.linkedin.com/jobs/view/4464701647",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Jagger",
+      "url": "https://www.linkedin.com/jobs/view/4480272695",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the Founder",
+      "company": "White Fox",
+      "url": "https://www.linkedin.com/jobs/view/4479351747",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Starcom Australia",
+      "url": "https://www.linkedin.com/jobs/view/4479308840",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Direct Energy Business",
+      "url": "https://www.linkedin.com/jobs/view/4477724428",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-16",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CEO",
+      "company": "Lightworks",
+      "url": "https://www.linkedin.com/jobs/view/4480148386",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-15",
+      "tags": []
+    },
+    {
       "title": "Senior Property Manager",
       "company": "JLL",
       "url": "https://www.indeed.com/viewjob?jk=cf2c39ce5a5f5f76",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Tipton Asset Group, Inc.",
+      "url": "https://www.indeed.com/viewjob?jk=e56d35d872b4defe",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
@@ -1298,14 +1438,6 @@
       "url": "https://www.indeed.com/viewjob?jk=12f48f9a2ef98b76",
       "source": "JobSpy/indeed",
       "date": "2026-10-16",
-      "tags": []
-    },
-    {
-      "title": "Associate Property Management Attorney - Remote, US",
-      "company": "PURE HomeRiver",
-      "url": "https://www.indeed.com/viewjob?jk=b600a285f9deb7a6",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-15",
       "tags": []
     },
     {
@@ -1429,19 +1561,19 @@
       "tags": []
     },
     {
-      "title": "Analyst- Insurance Operations",
-      "company": "Marsh",
-      "url": "https://www.linkedin.com/jobs/view/4462089061",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
-      "tags": []
-    },
-    {
       "title": "Systems Integration & Automation Specialist",
       "company": "Frontier Psychiatry",
       "url": "https://www.indeed.com/viewjob?jk=deb64f610d986fff",
       "source": "JobSpy/indeed",
       "date": "2026-10-19",
+      "tags": []
+    },
+    {
+      "title": "Intelligent Automation Engineer",
+      "company": "Zurich Australia",
+      "url": "https://www.linkedin.com/jobs/view/4464193617",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-22",
       "tags": []
     },
     {
@@ -1501,11 +1633,11 @@
       "tags": []
     },
     {
-      "title": "Senior AI Automation Engineer",
-      "company": "York Towers",
-      "url": "https://www.linkedin.com/jobs/view/4478864722",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-15",
+      "title": "Senior IT Automation Engineer",
+      "company": "Huntress Labs",
+      "url": "https://www.indeed.com/viewjob?jk=3ae8e584e4f7c327",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-21",
       "tags": []
     },
     {
