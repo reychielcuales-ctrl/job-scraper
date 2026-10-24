@@ -1,7 +1,27 @@
 {
-  "generatedAt": "2026-10-24T15:32:07.752Z",
-  "count": 110,
+  "generatedAt": "2026-10-24T20:23:13.597Z",
+  "count": 113,
   "jobs": [
+    {
+      "title": "Sales Development Representative German Speaking",
+      "company": "Huzzle",
+      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
+      "source": "RemoteOK",
+      "date": "2026-10-23T16:00:18+00:00",
+      "tags": [
+        "saas",
+        "sys admin",
+        "dev",
+        "marketing",
+        "finance",
+        "c",
+        "exec",
+        "sales",
+        "medical",
+        "ecommerce",
+        "digital nomad"
+      ]
+    },
     {
       "title": "Senior DevOps Engineer",
       "company": "Lemon.io",
@@ -120,6 +140,26 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "Technical Sales Engineer/ Lead",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/156838-technical-sales-engineer-lead",
+      "source": "Jobicy",
+      "date": "2026-10-24T17:13:37+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "title": "AI Agent Engineer",
+      "company": "Binance",
+      "url": "https://jobicy.com/jobs/156835-ai-agent-engineer",
+      "source": "Jobicy",
+      "date": "2026-10-24T17:13:35+00:00",
+      "tags": [
+        "Software Engineering"
       ]
     },
     {
@@ -436,6 +476,17 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
+      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
+      "source": "Workable",
+      "date": "2026-10-22T22:06:37.698Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Coordinator (Real Estate)",
+      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/ovtRYNY47d2BLFcHCvYAZM/remote-property-management-coordinator-(real-estate)-in-uruguay-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:38.522Z",
@@ -469,17 +520,6 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
-      "source": "Workable",
-      "date": "2026-10-22T22:06:37.698Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Property Management Coordinator (Real Estate)",
-      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:38.009Z",
@@ -491,9 +531,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
+      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-22T22:07:21.252Z",
+      "date": "2026-10-22T22:07:21.449Z",
       "tags": [
         "Contract",
         "Remote"
@@ -502,9 +542,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
+      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-22T22:07:21.449Z",
+      "date": "2026-10-22T22:07:21.252Z",
       "tags": [
         "Contract",
         "Remote"
@@ -633,64 +673,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.453Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.201Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -732,9 +717,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
+      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T03:51:52.174Z",
+      "date": "2026-04-14T03:51:51.492Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -743,9 +728,64 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
+      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T03:51:51.492Z",
+      "date": "2026-04-14T03:50:07.284Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:06.921Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.674Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.602Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.548Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.453Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -835,16 +875,6 @@
       ]
     },
     {
-      "title": "Engineering Manager / Sr. EM Forward Deployed Engineering (FDE) - North",
-      "company": "Blue Machines AI",
-      "url": "https://jobs.workable.com/view/me5hHSZAkiwv3VLxe6FKnQ/hybrid-engineering-manager-%2F-sr.-em-forward-deployed-engineering-(fde)---north-in-delhi-at-blue-machines-ai",
-      "source": "Workable",
-      "date": "2026-10-09T09:19:22.291Z",
-      "tags": [
-        "Delhi, Delhi, India"
-      ]
-    },
-    {
       "title": "Automation Specialists III - EPMS",
       "company": "Albireo Energy",
       "url": "https://jobs.workable.com/view/dRwj6k7Hdrxy9An62GZgVu/hybrid-automation-specialists-iii---epms-in-saline-at-albireo-energy",
@@ -886,6 +916,61 @@
       "tags": [
         "Full-time",
         "Frederick, Maryland, United States"
+      ]
+    },
+    {
+      "title": "Executive Operations Specialist | AI & Automation",
+      "company": "Vertu Agent",
+      "url": "https://jobs.workable.com/view/aEeWPtTeX69czicD4ysdkH/remote-executive-operations-specialist-%7C-ai-%26-automation-in-brazil-at-vertu-agent",
+      "source": "Workable",
+      "date": "2026-10-24T18:06:02.007Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Executive Operations Specialist | AI & Automation",
+      "company": "Vertu Agent",
+      "url": "https://jobs.workable.com/view/9EUKJus3BmuX4PyWSwEMKW/remote-executive-operations-specialist-%7C-ai-%26-automation-in-poland-at-vertu-agent",
+      "source": "Workable",
+      "date": "2026-10-24T18:06:01.736Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Executive Operations Specialist | AI & Automation",
+      "company": "Vertu Agent",
+      "url": "https://jobs.workable.com/view/s4B9bxUKXAHhYsD7nraYcU/remote-executive-operations-specialist-%7C-ai-%26-automation-in-romania-at-vertu-agent",
+      "source": "Workable",
+      "date": "2026-10-24T18:06:01.817Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Executive Operations Specialist | AI & Automation",
+      "company": "Vertu Agent",
+      "url": "https://jobs.workable.com/view/pTvV3xEWLMpxEAH1LNqNKd/remote-executive-operations-specialist-%7C-ai-%26-automation-in-north-macedonia-at-vertu-agent",
+      "source": "Workable",
+      "date": "2026-10-24T18:06:01.489Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Executive Operations Specialist | AI & Automation",
+      "company": "Vertu Agent",
+      "url": "https://jobs.workable.com/view/uhZWo4p7ku8YRFywLMHt16/remote-executive-operations-specialist-%7C-ai-%26-automation-in-bosnia-and-herzegovina-at-vertu-agent",
+      "source": "Workable",
+      "date": "2026-10-24T18:06:01.313Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     },
     {
@@ -985,50 +1070,6 @@
       "tags": [
         "Full-time",
         "6th of October City, Giza Governorate, Egypt"
-      ]
-    },
-    {
-      "title": "Digital Transformation & Automation Specialist",
-      "company": "Charger Logistics Inc",
-      "url": "https://jobs.workable.com/view/ryAcXbxTEEvzVp5tVLtR5x/hybrid-digital-transformation-%26-automation-specialist-in-tegucigalpa-at-charger-logistics-inc",
-      "source": "Workable",
-      "date": "2026-10-16T21:14:09.573Z",
-      "tags": [
-        "Full-time",
-        "Tegucigalpa, Francisco Morazán Department, Honduras"
-      ]
-    },
-    {
-      "title": "AI Automation Expert (AI Implementation Specialist)",
-      "company": "Bush & Bush Law Group",
-      "url": "https://jobs.workable.com/view/2XyFGnnDeR1ADKSEvBrQ3Q/remote-ai-automation-expert-(ai-implementation-specialist)-in-philippines-at-bush-%26-bush-law-group",
-      "source": "Workable",
-      "date": "2026-10-13T16:25:51.990Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "AI Automation Expert (AI Implementation Specialist)",
-      "company": "Bush & Bush Law Group",
-      "url": "https://jobs.workable.com/view/rFawoNXPUpaNmd3vCSABkb/remote-ai-automation-expert-(ai-implementation-specialist)-in-india-at-bush-%26-bush-law-group",
-      "source": "Workable",
-      "date": "2026-10-13T16:25:51.586Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "AI Automation Expert (AI Implementation Specialist)",
-      "company": "Bush & Bush Law Group",
-      "url": "https://jobs.workable.com/view/uMJRqkSQWydsuX8knHqx2Q/remote-ai-automation-expert-(ai-implementation-specialist)-in-pakistan-at-bush-%26-bush-law-group",
-      "source": "Workable",
-      "date": "2026-10-13T16:25:51.311Z",
-      "tags": [
-        "Full-time",
-        "Remote"
       ]
     },
     {
