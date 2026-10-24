@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-24T03:38:51.346Z",
-  "count": 113,
+  "generatedAt": "2026-10-24T10:27:09.168Z",
+  "count": 110,
   "jobs": [
     {
       "title": "Senior DevOps Engineer",
@@ -123,16 +123,6 @@
       ]
     },
     {
-      "title": "Sr. Engineer, Infrastructure Security",
-      "company": "Zapier",
-      "url": "https://jobicy.com/jobs/156567-sr-engineer-infrastructure-security",
-      "source": "Jobicy",
-      "date": "2026-10-23T09:15:42+00:00",
-      "tags": [
-        "Cybersecurity"
-      ]
-    },
-    {
       "title": "Operations Support Specialist",
       "company": "Evolve Peptides",
       "url": "https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
@@ -178,14 +168,6 @@
       "url": "https://weworkremotely.com/remote-jobs/town-web-senior-support-engineer",
       "source": "We Work Remotely",
       "date": "Mon, 05 Oct 2026 08:04:16 +0000",
-      "tags": []
-    },
-    {
-      "title": "Legal Counsel, EMEA",
-      "company": "Tines",
-      "url": "https://weworkremotely.com/remote-jobs/tines-legal-counsel-emea",
-      "source": "We Work Remotely",
-      "date": "Mon, 05 Oct 2026 07:31:16 +0000",
       "tags": []
     },
     {
@@ -377,6 +359,17 @@
       ]
     },
     {
+      "title": "Medical Virtual Assistant | PHRN",
+      "company": "Global Medical Virtual Assistants",
+      "url": "https://jobs.workable.com/view/vMceL8xB6rGYgMnYn8MvcD/remote-medical-virtual-assistant-%7C-phrn-in-quezon-city-at-global-medical-virtual-assistants",
+      "source": "Workable",
+      "date": "2025-10-28T15:47:17.957Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "IT Support Virtual Assistant",
       "company": "iSupport Worldwide",
       "url": "https://jobs.workable.com/view/ieH7qj8S4Z627XoAmTZ7hn/it-support-virtual-assistant-in-pasig-at-isupport-worldwide",
@@ -415,17 +408,6 @@
       "url": "https://jobs.workable.com/view/4JXyqmFV5syo8UoTt8gXrX/remote-offshore-virtual-executive-assistant-to-the-ceo-in-argentina-at-collective-residential",
       "source": "Workable",
       "date": "2026-10-09T21:13:00.272Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Offshore Virtual Executive Assistant to the CEO",
-      "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/cTB4kuZvmwc3fJYkToZGqi/remote-offshore-virtual-executive-assistant-to-the-ceo-in-chile-at-collective-residential",
-      "source": "Workable",
-      "date": "2026-10-09T21:13:00.007Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -476,9 +458,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-22T22:06:37.698Z",
+      "date": "2026-10-22T22:06:38.309Z",
       "tags": [
         "Contract",
         "Remote"
@@ -487,9 +469,9 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-22T22:06:38.309Z",
+      "date": "2026-10-22T22:06:37.698Z",
       "tags": [
         "Contract",
         "Remote"
@@ -509,9 +491,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
+      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-22T22:07:21.449Z",
+      "date": "2026-10-22T22:07:21.252Z",
       "tags": [
         "Contract",
         "Remote"
@@ -520,9 +502,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
+      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-22T22:07:21.252Z",
+      "date": "2026-10-22T22:07:21.449Z",
       "tags": [
         "Contract",
         "Remote"
@@ -607,23 +589,23 @@
     {
       "title": "Underwriting Support - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-support---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Support - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-support---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
         "Toronto, Ontario, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Support - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-support---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
       ]
     },
     {
@@ -1074,17 +1056,6 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/xkHhxvB3BCg3ZnFyZkjoCG/hybrid-ai-workflow-engineer%2Fautomation-architect-in-dallas-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T15:28:04.734Z",
-      "tags": [
-        "Full-time",
-        "Dallas, Texas, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T15:36:30.592Z",
@@ -1096,12 +1067,12 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/xkHhxvB3BCg3ZnFyZkjoCG/hybrid-ai-workflow-engineer%2Fautomation-architect-in-dallas-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-10-22T15:30:32.227Z",
+      "date": "2026-10-22T15:28:04.734Z",
       "tags": [
         "Full-time",
-        "Fort Collins, Colorado, United States"
+        "Dallas, Texas, United States"
       ]
     },
     {
@@ -1118,12 +1089,12 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-10-22T15:14:11.185Z",
+      "date": "2026-10-22T15:30:32.227Z",
       "tags": [
         "Full-time",
-        "Savannah, Georgia, United States"
+        "Fort Collins, Colorado, United States"
       ]
     },
     {
@@ -1135,6 +1106,17 @@
       "tags": [
         "Full-time",
         "Everett, Washington, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:14:11.185Z",
+      "tags": [
+        "Full-time",
+        "Savannah, Georgia, United States"
       ]
     },
     {
@@ -1173,23 +1155,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/c44YHZ8TveuZtyaH1XXJhv/hybrid-ai-workflow-engineer%2Fautomation-architect-in-atlanta-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T14:33:43.403Z",
-      "tags": [
-        "Full-time",
-        "Atlanta, Georgia, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/aTwWaTNCib5GC1umcnPc1s/hybrid-ai-workflow-engineer%2Fautomation-architect-in-austin-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T14:38:35.701Z",
       "tags": [
         "Full-time",
         "Austin, Texas, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/c44YHZ8TveuZtyaH1XXJhv/hybrid-ai-workflow-engineer%2Fautomation-architect-in-atlanta-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T14:33:43.403Z",
+      "tags": [
+        "Full-time",
+        "Atlanta, Georgia, United States"
       ]
     },
     {
@@ -1244,17 +1226,6 @@
       "tags": [
         "Full-time",
         "Wilmington, Delaware, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/eZ2Ajqv4zGS7fox31rcdzU/hybrid-lims-consultant-in-atlanta-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-23T18:17:36.054Z",
-      "tags": [
-        "Full-time",
-        "Atlanta, Georgia, United States"
       ]
     }
   ]
