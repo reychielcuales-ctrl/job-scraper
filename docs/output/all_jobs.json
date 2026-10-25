@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-24T20:23:49.400Z",
-  "count": 188,
+  "generatedAt": "2026-10-25T03:37:06.266Z",
+  "count": 189,
   "sources": {
     "node": 113,
-    "jobspy": 75
+    "jobspy": 76
   },
   "jobs": [
     {
@@ -250,6 +250,17 @@
       ]
     },
     {
+      "title": "Virtual Assistant - Houston",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/9KHrTTPUhbXUMy7ER9bEQA/remote-virtual-assistant---houston-in-houston-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-25T03:00:52.813Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
       "title": "Virtual Assistant / Content Team Support",
       "company": "Eunice.io - All Things Money",
       "url": "https://jobs.workable.com/view/t7p2duc1gZ2CsgeoJxDNc1/remote-virtual-assistant-%2F-content-team-support-in-warsaw-at-eunice.io---all-things-money",
@@ -444,17 +455,6 @@
       "tags": [
         "Full-time",
         "Druid Hill Park, Maryland, United States"
-      ]
-    },
-    {
-      "title": "Offshore Virtual Executive Assistant to the CEO",
-      "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/4JXyqmFV5syo8UoTt8gXrX/remote-offshore-virtual-executive-assistant-to-the-ceo-in-argentina-at-collective-residential",
-      "source": "Workable",
-      "date": "2026-10-09T21:13:00.272Z",
-      "tags": [
-        "Full-time",
-        "Remote"
       ]
     },
     {
@@ -1167,23 +1167,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/hcQiMvL7snteoYRcbjLMer/hybrid-ai-workflow-engineer%2Fautomation-architect-in-alpharetta-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T15:14:10.962Z",
-      "tags": [
-        "Full-time",
-        "Alpharetta, Georgia, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T15:09:55.187Z",
       "tags": [
         "Full-time",
         "Seattle, Washington, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/hcQiMvL7snteoYRcbjLMer/hybrid-ai-workflow-engineer%2Fautomation-architect-in-alpharetta-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:14:10.962Z",
+      "tags": [
+        "Full-time",
+        "Alpharetta, Georgia, United States"
       ]
     },
     {
@@ -1200,23 +1200,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/aTwWaTNCib5GC1umcnPc1s/hybrid-ai-workflow-engineer%2Fautomation-architect-in-austin-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T14:38:35.701Z",
-      "tags": [
-        "Full-time",
-        "Austin, Texas, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/c44YHZ8TveuZtyaH1XXJhv/hybrid-ai-workflow-engineer%2Fautomation-architect-in-atlanta-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T14:33:43.403Z",
       "tags": [
         "Full-time",
         "Atlanta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/aTwWaTNCib5GC1umcnPc1s/hybrid-ai-workflow-engineer%2Fautomation-architect-in-austin-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T14:38:35.701Z",
+      "tags": [
+        "Full-time",
+        "Austin, Texas, United States"
       ]
     },
     {
@@ -1254,17 +1254,6 @@
     {
       "title": "LIMS Consultant",
       "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/4vi9fxMXZ36dXwPyoKUmne/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-23T18:17:37.243Z",
-      "tags": [
-        "Full-time",
-        "Wilmington, Delaware, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
       "url": "https://jobs.workable.com/view/s2qHYhGsUtxM3x5RDxrR7Y/hybrid-lims-consultant-in-dallas-at-clarkston-consulting",
       "source": "Workable",
       "date": "2026-10-23T18:17:36.482Z",
@@ -1274,25 +1263,44 @@
       ]
     },
     {
-      "title": "Remote Administrative Assistant (Temp-to-Hire)",
-      "company": "Gallagher",
-      "url": "https://www.indeed.com/viewjob?jk=3606c9a573c0eba6",
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/4vi9fxMXZ36dXwPyoKUmne/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-10-23T18:17:37.243Z",
+      "tags": [
+        "Full-time",
+        "Wilmington, Delaware, United States"
+      ]
+    },
+    {
+      "title": "Part-Time Patient Services & Administrative Assistant – Remote, Evenings & Weekends (1099 Contract)",
+      "company": "Restorative Mindset & Behavior Institute PLLC",
+      "url": "https://www.indeed.com/viewjob?jk=6149644c6c22505a",
       "source": "JobSpy/indeed",
-      "date": "2026-10-22",
+      "date": "2026-10-24",
       "tags": []
     },
     {
-      "title": "Virtual Assistant - 65843580457",
-      "company": "Somewhere",
-      "url": "https://www.linkedin.com/jobs/view/4483187310",
-      "source": "JobSpy/linkedin",
+      "title": "Virtual Assistant for Psychologist",
+      "company": "Dr. Alex Klein, Psy.D.",
+      "url": "https://www.indeed.com/viewjob?jk=57482c0f189492a4",
+      "source": "JobSpy/indeed",
       "date": "2026-10-24",
       "tags": []
     },
     {
       "title": "Virtual Assistant – Remote Staffing",
       "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4481041756",
+      "url": "https://www.linkedin.com/jobs/view/4481085065",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-25",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant - 65843580457",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4483187310",
       "source": "JobSpy/linkedin",
       "date": "2026-10-24",
       "tags": []
@@ -1402,6 +1410,14 @@
       "tags": []
     },
     {
+      "title": "Senior Executive Assistant / Executive Operations (East Coast)",
+      "company": "Ergomed",
+      "url": "https://www.indeed.com/viewjob?jk=318102d9788e1257",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-22",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant for Real Accounting Tax Department",
       "company": "NW Premier",
       "url": "https://www.indeed.com/viewjob?jk=480b8be8f0979450",
@@ -1410,9 +1426,9 @@
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant / Executive Operations (East Coast)",
-      "company": "Ergomed",
-      "url": "https://www.indeed.com/viewjob?jk=318102d9788e1257",
+      "title": "Executive Assistant to VP, Portfolio Strategy and Marketing (Remote)",
+      "company": "Cisco",
+      "url": "https://www.indeed.com/viewjob?jk=9e042d01a6e52aaf",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
@@ -1447,6 +1463,14 @@
       "url": "https://www.indeed.com/viewjob?jk=54ff18c570222f12",
       "source": "JobSpy/indeed",
       "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the Management (m/w/d)",
+      "company": "Kronospan",
+      "url": "https://www.linkedin.com/jobs/view/4481068248",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-24",
       "tags": []
     },
     {
@@ -1519,14 +1543,6 @@
       "url": "https://www.linkedin.com/jobs/view/4480010420",
       "source": "JobSpy/linkedin",
       "date": "2026-10-22",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO & COO",
-      "company": "cmi",
-      "url": "https://www.linkedin.com/jobs/view/4481124992",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-21",
       "tags": []
     },
     {
@@ -1754,11 +1770,11 @@
       "tags": []
     },
     {
-      "title": "Mainframe Automation Specialist/Engineer",
-      "company": "Superseva Global Services",
-      "url": "https://www.indeed.com/viewjob?jk=a3f7dcb891755bdd",
+      "title": "Automation Specialist III (Job 2995)",
+      "company": "Arizona Supreme Court",
+      "url": "https://www.indeed.com/viewjob?jk=8adbb37f87693d62",
       "source": "JobSpy/indeed",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "tags": []
     },
     {
@@ -1818,19 +1834,11 @@
       "tags": []
     },
     {
-      "title": "AI & Automation Specialist - Microsoft Stack",
-      "company": "Housing Australia",
-      "url": "https://www.linkedin.com/jobs/view/4478251878",
+      "title": "Applied AI & Automation Specialist",
+      "company": "Auto Europe Car Rental",
+      "url": "https://www.linkedin.com/jobs/view/4481267610",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-18",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Engineer",
-      "company": "TECH SYSTEMS, INC.",
-      "url": "https://www.indeed.com/viewjob?jk=3b02cfc50d0513df",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-23",
+      "date": "2026-10-19",
       "tags": []
     },
     {
