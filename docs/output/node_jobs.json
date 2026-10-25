@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-25T10:54:11.174Z",
-  "count": 115,
+  "generatedAt": "2026-10-25T15:41:43.720Z",
+  "count": 112,
   "jobs": [
     {
       "title": "Sales Development Representative German Speaking",
@@ -140,36 +140,6 @@
         "sales",
         "medical",
         "digital nomad"
-      ]
-    },
-    {
-      "title": "Lead Automation Engineer",
-      "company": "Capital on Tap",
-      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
-      "source": "Jobicy",
-      "date": "2026-10-25T04:20:11+00:00",
-      "tags": [
-        "QA & Testing"
-      ]
-    },
-    {
-      "title": "Technical Sales Engineer/ Lead",
-      "company": "Mattermost",
-      "url": "https://jobicy.com/jobs/156838-technical-sales-engineer-lead",
-      "source": "Jobicy",
-      "date": "2026-10-24T17:13:37+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "title": "AI Agent Engineer",
-      "company": "Binance",
-      "url": "https://jobicy.com/jobs/156835-ai-agent-engineer",
-      "source": "Jobicy",
-      "date": "2026-10-24T17:13:35+00:00",
-      "tags": [
-        "Software Engineering"
       ]
     },
     {
@@ -486,17 +456,6 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
-      "source": "Workable",
-      "date": "2026-10-22T22:06:37.698Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Property Management Coordinator (Real Estate)",
-      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/ovtRYNY47d2BLFcHCvYAZM/remote-property-management-coordinator-(real-estate)-in-uruguay-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:38.522Z",
@@ -511,6 +470,17 @@
       "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:37.313Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Coordinator (Real Estate)",
+      "company": "Propertyse",
+      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
+      "source": "Workable",
+      "date": "2026-10-22T22:06:37.698Z",
       "tags": [
         "Contract",
         "Remote"
@@ -650,23 +620,23 @@
     {
       "title": "Underwriting Support - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-support---account-analyst-in-toronto-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:49.575Z",
-      "tags": [
-        "Full-time",
-        "Toronto, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Support - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-support---account-analyst-in-calgary-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.013Z",
       "tags": [
         "Full-time",
         "Calgary, Alberta, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Support - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-support---account-analyst-in-toronto-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:49.575Z",
+      "tags": [
+        "Full-time",
+        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -1129,23 +1099,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/xkHhxvB3BCg3ZnFyZkjoCG/hybrid-ai-workflow-engineer%2Fautomation-architect-in-dallas-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T15:28:04.734Z",
-      "tags": [
-        "Full-time",
-        "Dallas, Texas, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/5CEh4dpxxuw9Hm6TDSvpce/hybrid-ai-workflow-engineer%2Fautomation-architect-in-san-jose-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T15:36:31.258Z",
       "tags": [
         "Full-time",
         "San Jose, California, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/xkHhxvB3BCg3ZnFyZkjoCG/hybrid-ai-workflow-engineer%2Fautomation-architect-in-dallas-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:28:04.734Z",
+      "tags": [
+        "Full-time",
+        "Dallas, Texas, United States"
       ]
     },
     {

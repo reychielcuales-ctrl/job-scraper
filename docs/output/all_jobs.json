@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-10-25T10:54:46.237Z",
-  "count": 190,
+  "generatedAt": "2026-10-25T15:42:19.316Z",
+  "count": 187,
   "sources": {
-    "node": 115,
+    "node": 112,
     "jobspy": 75
   },
   "jobs": [
@@ -144,36 +144,6 @@
         "sales",
         "medical",
         "digital nomad"
-      ]
-    },
-    {
-      "title": "Lead Automation Engineer",
-      "company": "Capital on Tap",
-      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
-      "source": "Jobicy",
-      "date": "2026-10-25T04:20:11+00:00",
-      "tags": [
-        "QA & Testing"
-      ]
-    },
-    {
-      "title": "Technical Sales Engineer/ Lead",
-      "company": "Mattermost",
-      "url": "https://jobicy.com/jobs/156838-technical-sales-engineer-lead",
-      "source": "Jobicy",
-      "date": "2026-10-24T17:13:37+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "title": "AI Agent Engineer",
-      "company": "Binance",
-      "url": "https://jobicy.com/jobs/156835-ai-agent-engineer",
-      "source": "Jobicy",
-      "date": "2026-10-24T17:13:35+00:00",
-      "tags": [
-        "Software Engineering"
       ]
     },
     {
@@ -490,17 +460,6 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
-      "source": "Workable",
-      "date": "2026-10-22T22:06:37.698Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Property Management Coordinator (Real Estate)",
-      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/ovtRYNY47d2BLFcHCvYAZM/remote-property-management-coordinator-(real-estate)-in-uruguay-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:38.522Z",
@@ -515,6 +474,17 @@
       "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:37.313Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Coordinator (Real Estate)",
+      "company": "Propertyse",
+      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
+      "source": "Workable",
+      "date": "2026-10-22T22:06:37.698Z",
       "tags": [
         "Contract",
         "Remote"
@@ -654,23 +624,23 @@
     {
       "title": "Underwriting Support - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-support---account-analyst-in-toronto-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:49.575Z",
-      "tags": [
-        "Full-time",
-        "Toronto, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Support - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-support---account-analyst-in-calgary-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.013Z",
       "tags": [
         "Full-time",
         "Calgary, Alberta, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Support - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-support---account-analyst-in-toronto-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:49.575Z",
+      "tags": [
+        "Full-time",
+        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -1133,23 +1103,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/xkHhxvB3BCg3ZnFyZkjoCG/hybrid-ai-workflow-engineer%2Fautomation-architect-in-dallas-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T15:28:04.734Z",
-      "tags": [
-        "Full-time",
-        "Dallas, Texas, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/5CEh4dpxxuw9Hm6TDSvpce/hybrid-ai-workflow-engineer%2Fautomation-architect-in-san-jose-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T15:36:31.258Z",
       "tags": [
         "Full-time",
         "San Jose, California, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/xkHhxvB3BCg3ZnFyZkjoCG/hybrid-ai-workflow-engineer%2Fautomation-architect-in-dallas-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:28:04.734Z",
+      "tags": [
+        "Full-time",
+        "Dallas, Texas, United States"
       ]
     },
     {
@@ -1303,11 +1273,11 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant for Psychologist",
-      "company": "Dr. Alex Klein, Psy.D.",
-      "url": "https://www.indeed.com/viewjob?jk=57482c0f189492a4",
+      "title": "Psychiatric Virtual Assistant",
+      "company": "MICGRA PSYCH",
+      "url": "https://www.indeed.com/viewjob?jk=739351ddd304d841",
       "source": "JobSpy/indeed",
-      "date": "2026-10-24",
+      "date": "2026-10-21",
       "tags": []
     },
     {
@@ -1423,17 +1393,17 @@
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant / Executive Operations (East Coast)",
-      "company": "Ergomed",
-      "url": "https://www.indeed.com/viewjob?jk=318102d9788e1257",
+      "title": "Executive Assistant",
+      "company": "Zone 5 Technologies",
+      "url": "https://www.indeed.com/viewjob?jk=c0c39086551c8803",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "Zone 5 Technologies",
-      "url": "https://www.indeed.com/viewjob?jk=c0c39086551c8803",
+      "title": "Senior Executive Assistant / Executive Operations (East Coast)",
+      "company": "Ergomed",
+      "url": "https://www.indeed.com/viewjob?jk=318102d9788e1257",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
@@ -1447,14 +1417,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "CONNEXUS CREDIT UNION",
-      "url": "https://www.indeed.com/viewjob?jk=82a2ba87dd7e3186",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-21",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant to Director of Operations",
       "company": "Your child and mine early education center",
       "url": "https://www.indeed.com/viewjob?jk=f4965f65a834be66",
@@ -1463,9 +1425,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to VP Employer Sales",
-      "company": "CVS Health",
-      "url": "https://www.indeed.com/viewjob?jk=9932a674f30f7398",
+      "title": "Executive Assistant",
+      "company": "CONNEXUS CREDIT UNION",
+      "url": "https://www.indeed.com/viewjob?jk=82a2ba87dd7e3186",
       "source": "JobSpy/indeed",
       "date": "2026-10-21",
       "tags": []
@@ -1474,6 +1436,14 @@
       "title": "Executive Assistant",
       "company": "ServiceNow",
       "url": "https://www.indeed.com/viewjob?jk=499cf17b1b095617",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the Chief Business Officer",
+      "company": "Dropbox",
+      "url": "https://www.indeed.com/viewjob?jk=54ff18c570222f12",
       "source": "JobSpy/indeed",
       "date": "2026-10-20",
       "tags": []
@@ -1535,14 +1505,6 @@
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant",
-      "company": "Atlas Air",
-      "url": "https://www.linkedin.com/jobs/view/4483122775",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-23",
-      "tags": []
-    },
-    {
       "title": "Sr. Executive Assistant",
       "company": "Viral Nation",
       "url": "https://www.linkedin.com/jobs/view/4473972153",
@@ -1575,6 +1537,14 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant to VC & MD",
+      "company": "CIBC",
+      "url": "https://www.linkedin.com/jobs/view/4473023873",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-20",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant",
       "company": "Jagger",
       "url": "https://www.linkedin.com/jobs/view/4480272695",
@@ -1599,17 +1569,17 @@
       "tags": []
     },
     {
-      "title": "Senior Property Manager",
-      "company": "JLL",
-      "url": "https://www.indeed.com/viewjob?jk=cf2c39ce5a5f5f76",
+      "title": "Property Manager",
+      "company": "Tipton Asset Group, Inc.",
+      "url": "https://www.indeed.com/viewjob?jk=e56d35d872b4defe",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Tipton Asset Group, Inc.",
-      "url": "https://www.indeed.com/viewjob?jk=e56d35d872b4defe",
+      "title": "Senior Property Manager",
+      "company": "JLL",
+      "url": "https://www.indeed.com/viewjob?jk=cf2c39ce5a5f5f76",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
@@ -1775,19 +1745,19 @@
       "tags": []
     },
     {
-      "title": "Claims Processing Agent",
-      "company": "Nextcare",
-      "url": "https://www.linkedin.com/jobs/view/4480905253",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-18",
+      "title": "Automation Specialist III (Job 2995)",
+      "company": "Arizona Supreme Court",
+      "url": "https://www.indeed.com/viewjob?jk=8adbb37f87693d62",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-23",
       "tags": []
     },
     {
-      "title": "Mainframe Automation Specialist/Engineer",
-      "company": "Superseva Global Services",
-      "url": "https://www.indeed.com/viewjob?jk=a3f7dcb891755bdd",
+      "title": "Job 2995 Automation Specialist III",
+      "company": "State of Arizona",
+      "url": "https://www.indeed.com/viewjob?jk=ef6c0edf943f81e4",
       "source": "JobSpy/indeed",
-      "date": "2026-10-22",
+      "date": "2026-10-23",
       "tags": []
     },
     {
