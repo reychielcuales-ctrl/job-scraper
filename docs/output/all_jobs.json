@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-10-25T03:37:06.266Z",
-  "count": 189,
+  "generatedAt": "2026-10-25T10:54:46.237Z",
+  "count": 190,
   "sources": {
-    "node": 113,
-    "jobspy": 76
+    "node": 115,
+    "jobspy": 75
   },
   "jobs": [
     {
@@ -144,6 +144,16 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "Lead Automation Engineer",
+      "company": "Capital on Tap",
+      "url": "https://jobicy.com/jobs/154027-lead-automation-engineer",
+      "source": "Jobicy",
+      "date": "2026-10-25T04:20:11+00:00",
+      "tags": [
+        "QA & Testing"
       ]
     },
     {
@@ -566,6 +576,17 @@
       ]
     },
     {
+      "title": "Assitant Community Manager",
+      "company": "American Association Management, Inc.",
+      "url": "https://jobs.workable.com/view/o6wVx1sDXyXYjT9kc9Qwf8/assitant-community-manager-in-ann-arbor-at-american-association-management%2C-inc.",
+      "source": "Workable",
+      "date": "2026-04-27T17:35:25.057Z",
+      "tags": [
+        "Full-time",
+        "Ann Arbor, Michigan, United States"
+      ]
+    },
+    {
       "title": "Traveling Operations Specialist",
       "company": "LV Collective",
       "url": "https://jobs.workable.com/view/jfKJSvquoLaaLgEd6K3uqP/traveling-operations-specialist-in-austin-at-lv-collective",
@@ -633,23 +654,23 @@
     {
       "title": "Underwriting Support - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-support---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Support - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-support---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
         "Toronto, Ontario, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Support - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-support---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
       ]
     },
     {
@@ -677,9 +698,64 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.674Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.602Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.548Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.453Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.201Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -721,75 +797,20 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:52.174Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T03:51:51.492Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:07.284Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:06.921Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.453Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -812,17 +833,6 @@
       "url": "https://jobs.workable.com/view/iQG2rcdiSaVtDViHzmci1h/remote-senior-account-executive---enterprise-in-united-kingdom-at-leena-ai",
       "source": "Workable",
       "date": "2026-10-06T14:25:16.682Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Senior Account Executive - Enterprise",
-      "company": "Leena AI",
-      "url": "https://jobs.workable.com/view/m8bq1kgb3B9KwecntKCaXF/remote-senior-account-executive---enterprise-in-united-states-at-leena-ai",
-      "source": "Workable",
-      "date": "2026-10-02T13:33:23.768Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -866,6 +876,17 @@
       "date": "2026-10-13T03:27:31.825Z",
       "tags": [
         "New Delhi, Delhi, India"
+      ]
+    },
+    {
+      "title": "Senior Account Executive - Enterprise",
+      "company": "Leena AI",
+      "url": "https://jobs.workable.com/view/m8bq1kgb3B9KwecntKCaXF/remote-senior-account-executive---enterprise-in-united-states-at-leena-ai",
+      "source": "Workable",
+      "date": "2026-10-02T13:33:23.768Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     },
     {
@@ -1090,23 +1111,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/iEUjnzBrSMSJWF3LJhJSCX/hybrid-ai-workflow-engineer%2Fautomation-architect-in-colorado-springs-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T15:30:31.767Z",
-      "tags": [
-        "Full-time",
-        "Colorado Springs, Colorado, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T15:36:30.592Z",
       "tags": [
         "Full-time",
         "Oakland, California, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/iEUjnzBrSMSJWF3LJhJSCX/hybrid-ai-workflow-engineer%2Fautomation-architect-in-colorado-springs-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:30:31.767Z",
+      "tags": [
+        "Full-time",
+        "Colorado Springs, Colorado, United States"
       ]
     },
     {
@@ -1167,23 +1188,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T15:09:55.187Z",
-      "tags": [
-        "Full-time",
-        "Seattle, Washington, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/hcQiMvL7snteoYRcbjLMer/hybrid-ai-workflow-engineer%2Fautomation-architect-in-alpharetta-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T15:14:10.962Z",
       "tags": [
         "Full-time",
         "Alpharetta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:09:55.187Z",
+      "tags": [
+        "Full-time",
+        "Seattle, Washington, United States"
       ]
     },
     {
@@ -1200,23 +1221,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/c44YHZ8TveuZtyaH1XXJhv/hybrid-ai-workflow-engineer%2Fautomation-architect-in-atlanta-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T14:33:43.403Z",
-      "tags": [
-        "Full-time",
-        "Atlanta, Georgia, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/aTwWaTNCib5GC1umcnPc1s/hybrid-ai-workflow-engineer%2Fautomation-architect-in-austin-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T14:38:35.701Z",
       "tags": [
         "Full-time",
         "Austin, Texas, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/c44YHZ8TveuZtyaH1XXJhv/hybrid-ai-workflow-engineer%2Fautomation-architect-in-atlanta-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T14:33:43.403Z",
+      "tags": [
+        "Full-time",
+        "Atlanta, Georgia, United States"
       ]
     },
     {
@@ -1254,23 +1275,23 @@
     {
       "title": "LIMS Consultant",
       "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/s2qHYhGsUtxM3x5RDxrR7Y/hybrid-lims-consultant-in-dallas-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-23T18:17:36.482Z",
-      "tags": [
-        "Full-time",
-        "Dallas, Texas, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
       "url": "https://jobs.workable.com/view/4vi9fxMXZ36dXwPyoKUmne/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
       "source": "Workable",
       "date": "2026-10-23T18:17:37.243Z",
       "tags": [
         "Full-time",
         "Wilmington, Delaware, United States"
+      ]
+    },
+    {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/s2qHYhGsUtxM3x5RDxrR7Y/hybrid-lims-consultant-in-dallas-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-10-23T18:17:36.482Z",
+      "tags": [
+        "Full-time",
+        "Dallas, Texas, United States"
       ]
     },
     {
@@ -1290,9 +1311,17 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant – Remote Staffing",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4481085065",
+      "title": "Virtual Assistant",
+      "company": "A Full Renovation – Residential Remodeling",
+      "url": "https://www.linkedin.com/jobs/view/4481064904",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-25",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Equity House",
+      "url": "https://www.linkedin.com/jobs/view/4483380262",
       "source": "JobSpy/linkedin",
       "date": "2026-10-25",
       "tags": []
@@ -1301,14 +1330,6 @@
       "title": "Virtual Assistant - 65843580457",
       "company": "Somewhere",
       "url": "https://www.linkedin.com/jobs/view/4483187310",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-24",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant - Remote",
-      "company": "Torentify",
-      "url": "https://www.linkedin.com/jobs/view/4483329636",
       "source": "JobSpy/linkedin",
       "date": "2026-10-24",
       "tags": []
@@ -1402,17 +1423,17 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "Zone 5 Technologies",
-      "url": "https://www.indeed.com/viewjob?jk=c0c39086551c8803",
+      "title": "Senior Executive Assistant / Executive Operations (East Coast)",
+      "company": "Ergomed",
+      "url": "https://www.indeed.com/viewjob?jk=318102d9788e1257",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant / Executive Operations (East Coast)",
-      "company": "Ergomed",
-      "url": "https://www.indeed.com/viewjob?jk=318102d9788e1257",
+      "title": "Executive Assistant",
+      "company": "Zone 5 Technologies",
+      "url": "https://www.indeed.com/viewjob?jk=c0c39086551c8803",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
@@ -1426,11 +1447,11 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to VP, Portfolio Strategy and Marketing (Remote)",
-      "company": "Cisco",
-      "url": "https://www.indeed.com/viewjob?jk=9e042d01a6e52aaf",
+      "title": "Executive Assistant",
+      "company": "CONNEXUS CREDIT UNION",
+      "url": "https://www.indeed.com/viewjob?jk=82a2ba87dd7e3186",
       "source": "JobSpy/indeed",
-      "date": "2026-10-22",
+      "date": "2026-10-21",
       "tags": []
     },
     {
@@ -1442,9 +1463,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "CONNEXUS CREDIT UNION",
-      "url": "https://www.indeed.com/viewjob?jk=82a2ba87dd7e3186",
+      "title": "Executive Assistant to VP Employer Sales",
+      "company": "CVS Health",
+      "url": "https://www.indeed.com/viewjob?jk=9932a674f30f7398",
       "source": "JobSpy/indeed",
       "date": "2026-10-21",
       "tags": []
@@ -1453,14 +1474,6 @@
       "title": "Executive Assistant",
       "company": "ServiceNow",
       "url": "https://www.indeed.com/viewjob?jk=499cf17b1b095617",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-20",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the Chief Business Officer",
-      "company": "Dropbox",
-      "url": "https://www.indeed.com/viewjob?jk=54ff18c570222f12",
       "source": "JobSpy/indeed",
       "date": "2026-10-20",
       "tags": []
@@ -1586,17 +1599,17 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Tipton Asset Group, Inc.",
-      "url": "https://www.indeed.com/viewjob?jk=e56d35d872b4defe",
+      "title": "Senior Property Manager",
+      "company": "JLL",
+      "url": "https://www.indeed.com/viewjob?jk=cf2c39ce5a5f5f76",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
     },
     {
-      "title": "Senior Property Manager",
-      "company": "JLL",
-      "url": "https://www.indeed.com/viewjob?jk=cf2c39ce5a5f5f76",
+      "title": "Property Manager",
+      "company": "Tipton Asset Group, Inc.",
+      "url": "https://www.indeed.com/viewjob?jk=e56d35d872b4defe",
       "source": "JobSpy/indeed",
       "date": "2026-10-22",
       "tags": []
@@ -1770,11 +1783,11 @@
       "tags": []
     },
     {
-      "title": "Automation Specialist III (Job 2995)",
-      "company": "Arizona Supreme Court",
-      "url": "https://www.indeed.com/viewjob?jk=8adbb37f87693d62",
+      "title": "Mainframe Automation Specialist/Engineer",
+      "company": "Superseva Global Services",
+      "url": "https://www.indeed.com/viewjob?jk=a3f7dcb891755bdd",
       "source": "JobSpy/indeed",
-      "date": "2026-10-23",
+      "date": "2026-10-22",
       "tags": []
     },
     {
