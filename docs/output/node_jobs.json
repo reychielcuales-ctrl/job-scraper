@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T12:25:09.500Z",
-  "count": 114,
+  "generatedAt": "2026-10-26T22:23:21.936Z",
+  "count": 113,
   "jobs": [
     {
       "title": "Sales Development Representative German Speaking",
@@ -140,16 +140,6 @@
         "sales",
         "medical",
         "digital nomad"
-      ]
-    },
-    {
-      "title": "Senior IT Automation Engineer",
-      "company": "Huntress",
-      "url": "https://jobicy.com/jobs/157074-senior-it-automation-engineer",
-      "source": "Jobicy",
-      "date": "2026-10-26T06:09:00+00:00",
-      "tags": [
-        "DevOps & Infrastructure"
       ]
     },
     {
@@ -552,6 +542,61 @@
       ]
     },
     {
+      "title": "Property Manager",
+      "company": "PeakMade Real Estate",
+      "url": "https://jobs.workable.com/view/9oTnNhyTJQt6949xfoQ6eF/property-manager-in-allendale-at-peakmade-real-estate",
+      "source": "Workable",
+      "date": "2026-10-26T19:06:14.248Z",
+      "tags": [
+        "Full-time",
+        "Allendale, Michigan, United States"
+      ]
+    },
+    {
+      "title": "Property Manager - Conventional Multi-Family",
+      "company": "PeakMade Real Estate",
+      "url": "https://jobs.workable.com/view/6SHnrJaH87Ty1TM5SbeFzc/property-manager---conventional-multi-family-in-altamonte-springs-at-peakmade-real-estate",
+      "source": "Workable",
+      "date": "2026-10-26T19:17:18.520Z",
+      "tags": [
+        "Full-time",
+        "Altamonte Springs, Florida, United States"
+      ]
+    },
+    {
+      "title": "Hidden Lake Property Manager",
+      "company": "Banyan Living",
+      "url": "https://jobs.workable.com/view/cy8RkcbCQXXAcCybda7j1p/hidden-lake-property-manager-in-cuyahoga-falls-at-banyan-living",
+      "source": "Workable",
+      "date": "2026-10-26T15:27:03.071Z",
+      "tags": [
+        "Full-time",
+        "Cuyahoga Falls, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Hidden Lake Property Manager",
+      "company": "Banyan Living",
+      "url": "https://jobs.workable.com/view/64jeUxMDedZ3sMkyaMnY4g/hidden-lake-property-manager-in-hudson-at-banyan-living",
+      "source": "Workable",
+      "date": "2026-10-26T15:27:02.525Z",
+      "tags": [
+        "Full-time",
+        "Hudson, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Hidden Lake Property Manager",
+      "company": "Banyan Living",
+      "url": "https://jobs.workable.com/view/1f7BHN47xaqN885AkxQmCB/hidden-lake-property-manager-in-stow-at-banyan-living",
+      "source": "Workable",
+      "date": "2026-10-26T15:27:01.986Z",
+      "tags": [
+        "Full-time",
+        "Stow, Ohio, United States"
+      ]
+    },
+    {
       "title": "Director of Operations",
       "company": "City Wide Facility Solutions",
       "url": "https://jobs.workable.com/view/tcU6nBqBwZDeNrYCdtqhJm/director-of-operations-in-perrysburg-at-city-wide-facility-solutions",
@@ -574,39 +619,6 @@
       ]
     },
     {
-      "title": "Assitant Community Manager",
-      "company": "American Association Management, Inc.",
-      "url": "https://jobs.workable.com/view/o6wVx1sDXyXYjT9kc9Qwf8/assitant-community-manager-in-ann-arbor-at-american-association-management%2C-inc.",
-      "source": "Workable",
-      "date": "2026-04-27T17:35:25.057Z",
-      "tags": [
-        "Full-time",
-        "Ann Arbor, Michigan, United States"
-      ]
-    },
-    {
-      "title": "Traveling Operations Specialist",
-      "company": "LV Collective",
-      "url": "https://jobs.workable.com/view/jfKJSvquoLaaLgEd6K3uqP/traveling-operations-specialist-in-austin-at-lv-collective",
-      "source": "Workable",
-      "date": "2026-10-23T19:58:21.730Z",
-      "tags": [
-        "Full-time",
-        "Austin, Texas, United States"
-      ]
-    },
-    {
-      "title": "Community Manager | Rambler Atlanta - Atlanta, GA",
-      "company": "LV Collective",
-      "url": "https://jobs.workable.com/view/v37Li3jV369pt8ETtuZESh/community-manager-%7C-rambler-atlanta---atlanta%2C-ga-in-atlanta-at-lv-collective",
-      "source": "Workable",
-      "date": "2026-10-23T19:35:49.535Z",
-      "tags": [
-        "Full-time",
-        "Atlanta, Georgia, United States"
-      ]
-    },
-    {
       "title": "Title & Insurance Operations Manager",
       "company": "Concord Servicing",
       "url": "https://jobs.workable.com/view/5VmcrLYw824KMidRXCGy67/title-%26-insurance-operations-manager-in-scottsdale-at-concord-servicing",
@@ -618,6 +630,16 @@
       ]
     },
     {
+      "title": "Insurance Operations Support Specialist (primarily Auto Insurance)",
+      "company": "Sfakianakis Group",
+      "url": "https://jobs.workable.com/view/w8QQvDKsnoWdNzkm6PkZSJ/insurance-operations-support-specialist-(primarily-auto-insurance)-in-athens-at-sfakianakis-group",
+      "source": "Workable",
+      "date": "2026-10-14T11:11:59.633Z",
+      "tags": [
+        "Athens, Attica, Greece"
+      ]
+    },
+    {
       "title": "Insurance Operations Manager",
       "company": "Impact Performance Team",
       "url": "https://jobs.workable.com/view/dg6nZF2kcdAQdFJhahsbJC/insurance-operations-manager-in-indian-trail-at-impact-performance-team",
@@ -626,16 +648,6 @@
       "tags": [
         "Full-time",
         "Indian Trail, North Carolina, United States"
-      ]
-    },
-    {
-      "title": "Insurance Operations Support Specialist (primarily Auto Insurance)",
-      "company": "Sfakianakis Group",
-      "url": "https://jobs.workable.com/view/w8QQvDKsnoWdNzkm6PkZSJ/insurance-operations-support-specialist-(primarily-auto-insurance)-in-athens-at-sfakianakis-group",
-      "source": "Workable",
-      "date": "2026-10-14T11:11:59.633Z",
-      "tags": [
-        "Athens, Attica, Greece"
       ]
     },
     {
@@ -685,6 +697,28 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:24.683Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.965Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
@@ -718,6 +752,39 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:40.248Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/qdxStjT5fKWWELqEbjfugc/health-insurance-subject-matter-expert-(fully-remote)-in-lisbon-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:39.852Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/3QtdJE6KbN8pQMePTK9ynF/health-insurance-subject-matter-expert-(fully-remote)-in-london-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:39.775Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:39.156Z",
@@ -729,9 +796,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
+      "url": "https://jobs.workable.com/view/vFBgjyabm3Pp7eJGZBUjkQ/health-insurance-subject-matter-expert-(fully-remote)-in-berlin-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T03:51:51.492Z",
+      "date": "2026-04-14T03:51:52.668Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -740,64 +807,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
+      "url": "https://jobs.workable.com/view/tNAq2zQEz9grz67XWq5fJu/health-insurance-subject-matter-expert-(fully-remote)-in-antwerp-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T03:50:07.284Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:06.921Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.453Z",
+      "date": "2026-04-14T03:51:52.500Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1108,6 +1120,17 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/5CEh4dpxxuw9Hm6TDSvpce/hybrid-ai-workflow-engineer%2Fautomation-architect-in-san-jose-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:36:31.258Z",
+      "tags": [
+        "Full-time",
+        "San Jose, California, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/iEUjnzBrSMSJWF3LJhJSCX/hybrid-ai-workflow-engineer%2Fautomation-architect-in-colorado-springs-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T15:30:31.767Z",
@@ -1119,12 +1142,12 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/5CEh4dpxxuw9Hm6TDSvpce/hybrid-ai-workflow-engineer%2Fautomation-architect-in-san-jose-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/okEEqSqmfJWJyWq4WbsCE2/hybrid-ai-workflow-engineer%2Fautomation-architect-in-everett-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-10-22T15:36:31.258Z",
+      "date": "2026-10-22T15:32:39.912Z",
       "tags": [
         "Full-time",
-        "San Jose, California, United States"
+        "Everett, Washington, United States"
       ]
     },
     {
@@ -1147,17 +1170,6 @@
       "tags": [
         "Full-time",
         "Fort Collins, Colorado, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/okEEqSqmfJWJyWq4WbsCE2/hybrid-ai-workflow-engineer%2Fautomation-architect-in-everett-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T15:32:39.912Z",
-      "tags": [
-        "Full-time",
-        "Everett, Washington, United States"
       ]
     },
     {
@@ -1227,6 +1239,17 @@
       ]
     },
     {
+      "title": "Client Operations Specialist",
+      "company": "PIMCO",
+      "url": "https://jobs.workable.com/view/12JqxsFhTsg1AAWfJoTkhL/client-operations-specialist-in-newport-beach-at-pimco",
+      "source": "Workable",
+      "date": "2026-10-26T12:47:14.674Z",
+      "tags": [
+        "Full-time",
+        "Newport Beach, California, United States"
+      ]
+    },
+    {
       "title": "Lead AI Technical Architect (4060)",
       "company": "GBG",
       "url": "https://jobs.workable.com/view/weFju4foyrVkcb87A1tdjU/hybrid-lead-ai-technical-architect-(4060)-in-chester-at-gbg",
@@ -1246,38 +1269,6 @@
       "tags": [
         "Full-time",
         "London, England, United Kingdom"
-      ]
-    },
-    {
-      "title": "Technical Product Manager",
-      "company": "Charger Logistics Inc",
-      "url": "https://jobs.workable.com/view/5jYpPCcxhg6zdYGWUSh9ZD/technical-product-manager-in-brampton-at-charger-logistics-inc",
-      "source": "Workable",
-      "date": "2026-10-23T21:38:31.284Z",
-      "tags": [
-        "Brampton, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/bnziK8ukQgfnryqPj7ixZM/hybrid-lims-consultant-in-detroit-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-23T18:17:37.489Z",
-      "tags": [
-        "Full-time",
-        "Detroit, Michigan, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/jJRpYDXQz9Xt2x9sHb8H2Q/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-23T18:17:36.890Z",
-      "tags": [
-        "Full-time",
-        "Philadelphia, Pennsylvania, United States"
       ]
     }
   ]
