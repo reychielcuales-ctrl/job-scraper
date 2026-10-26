@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-10-26T03:39:08.025Z",
-  "count": 113,
+  "generatedAt": "2026-10-26T12:25:09.500Z",
+  "count": 114,
   "jobs": [
     {
       "title": "Sales Development Representative German Speaking",
@@ -140,6 +140,16 @@
         "sales",
         "medical",
         "digital nomad"
+      ]
+    },
+    {
+      "title": "Senior IT Automation Engineer",
+      "company": "Huntress",
+      "url": "https://jobicy.com/jobs/157074-senior-it-automation-engineer",
+      "source": "Jobicy",
+      "date": "2026-10-26T06:09:00+00:00",
+      "tags": [
+        "DevOps & Infrastructure"
       ]
     },
     {
@@ -335,6 +345,28 @@
       ]
     },
     {
+      "title": "Executive Virtual Assistant",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/24S5wpqYcE6cetHFfwjmyd/remote-executive-virtual-assistant-in-united-states-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-09T05:09:49.253Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
+      "company": "Rankona Mazon AB",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
+      "source": "Workable",
+      "date": "2025-09-26T11:49:14.467Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
       "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
@@ -359,33 +391,11 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
-      "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
-      "company": "Rankona Mazon AB",
       "url": "https://jobs.workable.com/view/8raciRJMkXPjJ3XSBsHbwt/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-romania-at-rankona-mazon-ab",
       "source": "Workable",
       "date": "2025-09-26T11:49:14.075Z",
       "tags": [
         "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Executive Virtual Assistant",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/24S5wpqYcE6cetHFfwjmyd/remote-executive-virtual-assistant-in-united-states-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-10-09T05:09:49.253Z",
-      "tags": [
-        "Contract",
         "Remote"
       ]
     },
@@ -456,17 +466,6 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
-      "source": "Workable",
-      "date": "2026-10-22T22:06:37.698Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Property Management Coordinator (Real Estate)",
-      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/ovtRYNY47d2BLFcHCvYAZM/remote-property-management-coordinator-(real-estate)-in-uruguay-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:38.522Z",
@@ -500,6 +499,17 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
+      "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
+      "source": "Workable",
+      "date": "2026-10-22T22:06:37.698Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Coordinator (Real Estate)",
+      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/r5989UJwtszn9VxovtctbP/remote-property-management-coordinator-(real-estate)-in-panama-city-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:38.009Z",
@@ -511,9 +521,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
+      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-22T22:07:21.449Z",
+      "date": "2026-10-22T22:07:21.252Z",
       "tags": [
         "Contract",
         "Remote"
@@ -522,9 +532,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
+      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-22T22:07:21.252Z",
+      "date": "2026-10-22T22:07:21.449Z",
       "tags": [
         "Contract",
         "Remote"
@@ -544,23 +554,23 @@
     {
       "title": "Director of Operations",
       "company": "City Wide Facility Solutions",
-      "url": "https://jobs.workable.com/view/coZVHZbu8Pdb6oqFbXyZfn/director-of-operations-in-toledo-at-city-wide-facility-solutions",
-      "source": "Workable",
-      "date": "2026-10-25T20:03:45.944Z",
-      "tags": [
-        "Full-time",
-        "Toledo, Ohio, United States"
-      ]
-    },
-    {
-      "title": "Director of Operations",
-      "company": "City Wide Facility Solutions",
       "url": "https://jobs.workable.com/view/tcU6nBqBwZDeNrYCdtqhJm/director-of-operations-in-perrysburg-at-city-wide-facility-solutions",
       "source": "Workable",
       "date": "2026-10-25T20:03:45.389Z",
       "tags": [
         "Full-time",
         "Perrysburg, Ohio, United States"
+      ]
+    },
+    {
+      "title": "Director of Operations",
+      "company": "City Wide Facility Solutions",
+      "url": "https://jobs.workable.com/view/coZVHZbu8Pdb6oqFbXyZfn/director-of-operations-in-toledo-at-city-wide-facility-solutions",
+      "source": "Workable",
+      "date": "2026-10-25T20:03:45.944Z",
+      "tags": [
+        "Full-time",
+        "Toledo, Ohio, United States"
       ]
     },
     {
@@ -642,17 +652,6 @@
     {
       "title": "Underwriting Support - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-support---account-analyst-in-toronto-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:49.575Z",
-      "tags": [
-        "Full-time",
-        "Toronto, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Support - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-support---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -670,6 +669,17 @@
       "tags": [
         "Full-time",
         "Vancouver, British Columbia, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Support - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-support---account-analyst-in-toronto-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:49.575Z",
+      "tags": [
+        "Full-time",
+        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -877,6 +887,16 @@
       ]
     },
     {
+      "title": "Engineering Manager / Sr. EM Forward Deployed Engineering (FDE) - North",
+      "company": "Blue Machines AI",
+      "url": "https://jobs.workable.com/view/me5hHSZAkiwv3VLxe6FKnQ/hybrid-engineering-manager-%2F-sr.-em-forward-deployed-engineering-(fde)---north-in-delhi-at-blue-machines-ai",
+      "source": "Workable",
+      "date": "2026-10-09T09:19:22.291Z",
+      "tags": [
+        "Delhi, Delhi, India"
+      ]
+    },
+    {
       "title": "Automation Specialists III - EPMS",
       "company": "Albireo Energy",
       "url": "https://jobs.workable.com/view/dRwj6k7Hdrxy9An62GZgVu/hybrid-automation-specialists-iii---epms-in-saline-at-albireo-energy",
@@ -976,17 +996,6 @@
       ]
     },
     {
-      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
-      "company": "The People Group",
-      "url": "https://jobs.workable.com/view/meAHfhR3YTVubtPzshA93j/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-philippines-at-the-people-group",
-      "source": "Workable",
-      "date": "2026-10-22T16:10:59.417Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
       "title": "DevOps Automation Specialist",
       "company": "Partner One Software Inc",
       "url": "https://jobs.workable.com/view/oWcFXecMNZypweBYZYoHah/remote-devops-automation-specialist-in-chile-at-partner-one-software-inc",
@@ -1077,23 +1086,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/jDuzuR2KStCUAtZxZQM5Wi/hybrid-ai-workflow-engineer%2Fautomation-architect-in-bellevue-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-10-22T15:32:39.488Z",
-      "tags": [
-        "Full-time",
-        "Bellevue, Washington, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
       "source": "Workable",
       "date": "2026-10-22T15:36:30.592Z",
       "tags": [
         "Full-time",
         "Oakland, California, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/jDuzuR2KStCUAtZxZQM5Wi/hybrid-ai-workflow-engineer%2Fautomation-architect-in-bellevue-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-10-22T15:32:39.488Z",
+      "tags": [
+        "Full-time",
+        "Bellevue, Washington, United States"
       ]
     },
     {
@@ -1218,6 +1227,28 @@
       ]
     },
     {
+      "title": "Lead AI Technical Architect (4060)",
+      "company": "GBG",
+      "url": "https://jobs.workable.com/view/weFju4foyrVkcb87A1tdjU/hybrid-lead-ai-technical-architect-(4060)-in-chester-at-gbg",
+      "source": "Workable",
+      "date": "2026-10-26T09:38:24.666Z",
+      "tags": [
+        "Full-time",
+        "Chester, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "Lead AI Technical Architect (4060)",
+      "company": "GBG",
+      "url": "https://jobs.workable.com/view/5GZm1fgMbrMramQnFd5Ma3/hybrid-lead-ai-technical-architect-(4060)-in-london-at-gbg",
+      "source": "Workable",
+      "date": "2026-10-26T09:38:25.187Z",
+      "tags": [
+        "Full-time",
+        "London, England, United Kingdom"
+      ]
+    },
+    {
       "title": "Technical Product Manager",
       "company": "Charger Logistics Inc",
       "url": "https://jobs.workable.com/view/5jYpPCcxhg6zdYGWUSh9ZD/technical-product-manager-in-brampton-at-charger-logistics-inc",
@@ -1247,28 +1278,6 @@
       "tags": [
         "Full-time",
         "Philadelphia, Pennsylvania, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/s2qHYhGsUtxM3x5RDxrR7Y/hybrid-lims-consultant-in-dallas-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-23T18:17:36.482Z",
-      "tags": [
-        "Full-time",
-        "Dallas, Texas, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/4vi9fxMXZ36dXwPyoKUmne/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-10-23T18:17:37.243Z",
-      "tags": [
-        "Full-time",
-        "Wilmington, Delaware, United States"
       ]
     }
   ]
