@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-29T04:45:52.832Z",
+  "generatedAt": "2026-10-29T12:26:40.589Z",
   "count": 106,
   "jobs": [
     {
@@ -143,14 +143,20 @@
       ]
     },
     {
-      "title": "Sr. Software Engineer, AI Agent & Orchestration (MXC)",
-      "company": "AlertMedia",
-      "url": "https://jobicy.com/jobs/157644-sr-software-engineer-ai-agent-orchestration-mxc",
-      "source": "Jobicy",
-      "date": "2026-10-28T15:15:01+00:00",
-      "tags": [
-        "Software Engineering"
-      ]
+      "title": "Senior Customer Success Manager",
+      "company": "Fin",
+      "url": "https://weworkremotely.com/remote-jobs/fin-senior-customer-success-manager",
+      "source": "We Work Remotely",
+      "date": "Thu, 29 Oct 2026 07:30:52 +0000",
+      "tags": []
+    },
+    {
+      "title": "Principal Customer Success Manager",
+      "company": "Fin",
+      "url": "https://weworkremotely.com/remote-jobs/fin-principal-customer-success-manager",
+      "source": "We Work Remotely",
+      "date": "Thu, 29 Oct 2026 07:30:52 +0000",
+      "tags": []
     },
     {
       "title": "Operations Support Specialist",
@@ -209,20 +215,23 @@
       "tags": []
     },
     {
-      "title": "Marketing Automation Manager - Canada, Spain, India",
-      "company": "Storyblok",
-      "url": "https://weworkremotely.com/remote-jobs/storyblok-marketing-automation-manager-canada-spain-india",
-      "source": "We Work Remotely",
-      "date": "Thu, 22 Oct 2026 07:31:08 +0000",
-      "tags": []
-    },
-    {
       "title": "Chief Actuary",
       "company": "Clover Health",
       "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
       "source": "We Work Remotely",
       "date": "Fri, 02 Oct 2026 01:24:37 +0000",
       "tags": []
+    },
+    {
+      "title": "Virtual Assistant - Houzz Pro Experience",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/kCshLw1EXfiQVFLhsBtaFT/remote-virtual-assistant---houzz-pro-experience-in-united-states-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-07-31T04:17:08.151Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
     },
     {
       "title": "Virtual Assistant - Houston",
@@ -413,17 +422,6 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
-      "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
-      "company": "Rankona Mazon AB",
       "url": "https://jobs.workable.com/view/xhnoSCPBE7FZtYPzUveSyX/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-slovakia-at-rankona-mazon-ab",
       "source": "Workable",
       "date": "2025-09-26T11:49:13.953Z",
@@ -435,9 +433,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/8raciRJMkXPjJ3XSBsHbwt/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-romania-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:14.075Z",
+      "date": "2025-09-26T11:49:14.467Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -549,6 +547,36 @@
       "tags": [
         "Full-time",
         "Davis, California, United States"
+      ]
+    },
+    {
+      "title": "Property Manager | Parental leave 12 month FTC",
+      "company": "ESR Group",
+      "url": "https://jobs.workable.com/view/s1Y5naxm6nLyyEm48RZL12/property-manager-%7C-parental-leave-12-month-ftc-in-auckland-at-esr-group",
+      "source": "Workable",
+      "date": "2026-10-29T04:47:29.407Z",
+      "tags": [
+        "Auckland, Auckland, New Zealand"
+      ]
+    },
+    {
+      "title": "Residential Rental Senior Associate ( 1805 )",
+      "company": "Lamda Development SA",
+      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(-1805-)-in-greece-at-lamda-development-sa",
+      "source": "Workable",
+      "date": "2026-10-29T09:19:32.785Z",
+      "tags": [
+        "Greece"
+      ]
+    },
+    {
+      "title": "Facility Management Senior Associate",
+      "company": "BILLYS",
+      "url": "https://jobs.workable.com/view/tBxFLyhUmvCwWcGNAt5PKf/hybrid-facility-management-senior-associate-in-athens-at-billys",
+      "source": "Workable",
+      "date": "2026-07-30T17:02:31.801Z",
+      "tags": [
+        "Athens, Central Athens, Greece"
       ]
     },
     {
@@ -964,9 +992,9 @@
     {
       "title": "Executive Operations Specialist | AI & Automation",
       "company": "Vertu Agent",
-      "url": "https://jobs.workable.com/view/s4B9bxUKXAHhYsD7nraYcU/remote-executive-operations-specialist-%7C-ai-%26-automation-in-romania-at-vertu-agent",
+      "url": "https://jobs.workable.com/view/9EUKJus3BmuX4PyWSwEMKW/remote-executive-operations-specialist-%7C-ai-%26-automation-in-poland-at-vertu-agent",
       "source": "Workable",
-      "date": "2026-10-24T18:06:01.817Z",
+      "date": "2026-10-24T18:06:01.736Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -975,9 +1003,9 @@
     {
       "title": "Executive Operations Specialist | AI & Automation",
       "company": "Vertu Agent",
-      "url": "https://jobs.workable.com/view/9EUKJus3BmuX4PyWSwEMKW/remote-executive-operations-specialist-%7C-ai-%26-automation-in-poland-at-vertu-agent",
+      "url": "https://jobs.workable.com/view/s4B9bxUKXAHhYsD7nraYcU/remote-executive-operations-specialist-%7C-ai-%26-automation-in-romania-at-vertu-agent",
       "source": "Workable",
-      "date": "2026-10-24T18:06:01.736Z",
+      "date": "2026-10-24T18:06:01.817Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1008,9 +1036,9 @@
     {
       "title": "DevOps Automation Specialist",
       "company": "Partner One Software Inc",
-      "url": "https://jobs.workable.com/view/n46Fv6NvBQNmSQ99hi9hkN/remote-devops-automation-specialist-in-costa-rica-at-partner-one-software-inc",
+      "url": "https://jobs.workable.com/view/oWcFXecMNZypweBYZYoHah/remote-devops-automation-specialist-in-chile-at-partner-one-software-inc",
       "source": "Workable",
-      "date": "2026-10-22T11:33:55.209Z",
+      "date": "2026-10-22T11:33:55.022Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1157,39 +1185,6 @@
       "tags": [
         "Full-time",
         "Atlanta, Georgia, United States"
-      ]
-    },
-    {
-      "title": "Infrastructure & Operations Engineer",
-      "company": "CloudShare",
-      "url": "https://jobs.workable.com/view/6mmxqfpU3egVEgYSvDFaGs/hybrid-infrastructure-%26-operations-engineer-in-denver-at-cloudshare",
-      "source": "Workable",
-      "date": "2026-07-29T14:54:43.910Z",
-      "tags": [
-        "Full-time",
-        "Denver, Colorado, United States"
-      ]
-    },
-    {
-      "title": "Vice President, Professional Services",
-      "company": "March Networks",
-      "url": "https://jobs.workable.com/view/wXomNCYH6bFZcC7FeGVsUb/hybrid-vice-president%2C-professional-services-in-ottawa-at-march-networks",
-      "source": "Workable",
-      "date": "2026-10-27T19:52:13.416Z",
-      "tags": [
-        "Full-time",
-        "Ottawa, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Responsible AI Consultant",
-      "company": "Accenture Greece",
-      "url": "https://jobs.workable.com/view/2XXA6KhHa8cy1riLV1fE6q/responsible-ai-consultant-in-athens-at-accenture-greece",
-      "source": "Workable",
-      "date": "2026-10-27T11:22:36.011Z",
-      "tags": [
-        "Full-time",
-        "Athens, Central Athens, Greece"
       ]
     }
   ]
