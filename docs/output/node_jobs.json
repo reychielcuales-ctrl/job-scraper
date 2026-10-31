@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-10-30T21:59:52.681Z",
+  "generatedAt": "2026-10-31T04:30:06.267Z",
   "count": 108,
   "jobs": [
     {
@@ -394,17 +394,6 @@
       ]
     },
     {
-      "title": "Executive Virtual Assistant",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/24S5wpqYcE6cetHFfwjmyd/remote-executive-virtual-assistant-in-united-states-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-10-09T05:09:49.253Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
       "title": "Virtual Assistant (Entry Level)",
       "company": "CFUF",
       "url": "https://jobs.workable.com/view/97LDvehaaG9LnCaBtzGbdr/hybrid-virtual-assistant-(entry-level)-in-druid-hill-park-at-cfuf",
@@ -413,6 +402,17 @@
       "tags": [
         "Full-time",
         "Druid Hill Park, Maryland, United States"
+      ]
+    },
+    {
+      "title": "Executive Virtual Assistant",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/24S5wpqYcE6cetHFfwjmyd/remote-executive-virtual-assistant-in-united-states-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-10-09T05:09:49.253Z",
+      "tags": [
+        "Contract",
+        "Remote"
       ]
     },
     {
@@ -515,6 +515,17 @@
     {
       "title": "Property Management Coordinator (Real Estate)",
       "company": "Propertyse",
+      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
+      "source": "Workable",
+      "date": "2026-10-22T22:06:38.309Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Property Management Coordinator (Real Estate)",
+      "company": "Propertyse",
       "url": "https://jobs.workable.com/view/qj1bzZzo1Y4iyvvxJnrwEa/remote-property-management-coordinator-(real-estate)-in-bogota-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:37.313Z",
@@ -529,17 +540,6 @@
       "url": "https://jobs.workable.com/view/i3xLCtvUkzBehDFTFA8Nv7/remote-property-management-coordinator-(real-estate)-in-mexico-city-at-propertyse",
       "source": "Workable",
       "date": "2026-10-22T22:06:37.698Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Property Management Coordinator (Real Estate)",
-      "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/ho85iy8pJoHe8h9NUdsvhD/remote-property-management-coordinator-(real-estate)-in-peru-at-propertyse",
-      "source": "Workable",
-      "date": "2026-10-22T22:06:38.309Z",
       "tags": [
         "Contract",
         "Remote"
@@ -700,17 +700,6 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:49.575Z",
-      "tags": [
-        "Full-time",
-        "Toronto, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -728,6 +717,17 @@
       "tags": [
         "Full-time",
         "Vancouver, British Columbia, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:49.575Z",
+      "tags": [
+        "Full-time",
+        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -810,9 +810,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
+      "date": "2026-04-14T04:07:24.683Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -821,9 +821,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
+      "date": "2026-04-14T04:04:07.965Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -832,9 +832,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
+      "date": "2026-04-14T04:02:40.248Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -843,9 +843,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
+      "url": "https://jobs.workable.com/view/qdxStjT5fKWWELqEbjfugc/health-insurance-subject-matter-expert-(fully-remote)-in-lisbon-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.453Z",
+      "date": "2026-04-14T04:02:39.852Z",
       "tags": [
         "Full-time",
         "Remote"
