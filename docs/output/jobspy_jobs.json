@@ -2,7 +2,7 @@
   {
     "title": "Administrative Assistant - Services, Field Operations (Remote)",
     "company": "SOLV Energy",
-    "url": "https://www.indeed.com/viewjob?jk=11d7a2a15eac867d",
+    "url": "https://www.indeed.com/viewjob?jk=03a2ac196875ab90",
     "source": "JobSpy/indeed",
     "date": "2026-10-29",
     "tags": []
@@ -43,14 +43,6 @@
     "title": "Virtual Assistant",
     "company": "Great Work Perks",
     "url": "https://www.linkedin.com/jobs/view/4485109945",
-    "source": "JobSpy/linkedin",
-    "date": "2026-10-31",
-    "tags": []
-  },
-  {
-    "title": "Virtual Assistant",
-    "company": "TaskVerse",
-    "url": "https://www.linkedin.com/jobs/view/4485698848",
     "source": "JobSpy/linkedin",
     "date": "2026-10-31",
     "tags": []
@@ -120,6 +112,14 @@
     "tags": []
   },
   {
+    "title": "Virtual Assistant",
+    "company": "Jane App",
+    "url": "https://www.linkedin.com/jobs/view/4484701972",
+    "source": "JobSpy/linkedin",
+    "date": "2026-10-28",
+    "tags": []
+  },
+  {
     "title": "Remote Virtual Assistant",
     "company": "AbroadWorks",
     "url": "https://www.linkedin.com/jobs/view/3943044946",
@@ -168,17 +168,17 @@
     "tags": []
   },
   {
-    "title": "Executive Assistant - Finance",
-    "company": "The Jackson Laboratory",
-    "url": "https://www.indeed.com/viewjob?jk=9148f416dece2a6f",
+    "title": "Executive Assistant/Chief of Staff to the Office of the President",
+    "company": "TopDog Law",
+    "url": "https://www.indeed.com/viewjob?jk=fd282b28a2589c14",
     "source": "JobSpy/indeed",
     "date": "2026-10-28",
     "tags": []
   },
   {
-    "title": "Executive Assistant/Chief of Staff to the Office of the President",
-    "company": "TopDog Law",
-    "url": "https://www.indeed.com/viewjob?jk=fd282b28a2589c14",
+    "title": "Executive Assistant - Finance",
+    "company": "The Jackson Laboratory",
+    "url": "https://www.indeed.com/viewjob?jk=8a9edfd0e6af7d6e",
     "source": "JobSpy/indeed",
     "date": "2026-10-28",
     "tags": []
@@ -192,17 +192,17 @@
     "tags": []
   },
   {
-    "title": "Executive Assistant",
-    "company": "TRS Healthcare",
-    "url": "https://www.indeed.com/viewjob?jk=c5138fa6b9fc23c8",
+    "title": "Full-Time Executive Assistant",
+    "company": "GDA",
+    "url": "https://www.indeed.com/viewjob?jk=2767aa8a65fa8685",
     "source": "JobSpy/indeed",
     "date": "2026-10-26",
     "tags": []
   },
   {
-    "title": "Full-Time Executive Assistant",
-    "company": "GDA",
-    "url": "https://www.indeed.com/viewjob?jk=2767aa8a65fa8685",
+    "title": "Executive Assistant",
+    "company": "TRS Healthcare",
+    "url": "https://www.indeed.com/viewjob?jk=c5138fa6b9fc23c8",
     "source": "JobSpy/indeed",
     "date": "2026-10-26",
     "tags": []
@@ -456,19 +456,27 @@
     "tags": []
   },
   {
-    "title": "AI & Automation Engineer (Enterprise)",
-    "company": "Magnet Forensics",
-    "url": "https://www.linkedin.com/jobs/view/4468280447",
+    "title": "AI Automation Specialist",
+    "company": "Inetum",
+    "url": "https://www.linkedin.com/jobs/view/4484782729",
     "source": "JobSpy/linkedin",
     "date": "2026-10-29",
     "tags": []
   },
   {
-    "title": "AI AUTOMATION ENGINEER",
-    "company": "Kave Home",
-    "url": "https://www.linkedin.com/jobs/view/4483843987",
+    "title": "AI & Automation Engineer (Enterprise)",
+    "company": "Magnet Forensics",
+    "url": "https://www.linkedin.com/jobs/view/4468262717",
     "source": "JobSpy/linkedin",
-    "date": "2026-10-28",
+    "date": "2026-10-29",
+    "tags": []
+  },
+  {
+    "title": "AI & Automation Engineer (Enterprise)",
+    "company": "Magnet Forensics",
+    "url": "https://www.linkedin.com/jobs/view/4468280446",
+    "source": "JobSpy/linkedin",
+    "date": "2026-10-29",
     "tags": []
   },
   {
@@ -485,14 +493,6 @@
     "url": "https://www.linkedin.com/jobs/view/4483620460",
     "source": "JobSpy/linkedin",
     "date": "2026-10-27",
-    "tags": []
-  },
-  {
-    "title": "AI Automation Engineer / AI Agent Workflow Architect",
-    "company": "York Towers",
-    "url": "https://www.linkedin.com/jobs/view/4482990659",
-    "source": "JobSpy/linkedin",
-    "date": "2026-10-26",
     "tags": []
   },
   {
@@ -516,30 +516,6 @@
     "company": "Noble Technologies LLC",
     "url": "https://www.indeed.com/viewjob?jk=0ee04131619847fb",
     "source": "JobSpy/indeed",
-    "date": "2026-10-27",
-    "tags": []
-  },
-  {
-    "title": "Workflow Automation Developer",
-    "company": "Stikeman Elliott LLP",
-    "url": "https://www.linkedin.com/jobs/view/4459202581",
-    "source": "JobSpy/linkedin",
-    "date": "2026-10-29",
-    "tags": []
-  },
-  {
-    "title": "Workflow Automation Developer",
-    "company": "Primops",
-    "url": "https://www.linkedin.com/jobs/view/4484579244",
-    "source": "JobSpy/linkedin",
-    "date": "2026-10-29",
-    "tags": []
-  },
-  {
-    "title": "AI & Automation Analyst",
-    "company": "UpGuard",
-    "url": "https://www.linkedin.com/jobs/view/4483295120",
-    "source": "JobSpy/linkedin",
     "date": "2026-10-27",
     "tags": []
   }
