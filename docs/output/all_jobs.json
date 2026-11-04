@@ -1,11 +1,36 @@
 {
-  "generatedAt": "2026-11-04T05:13:19.105Z",
-  "count": 177,
+  "generatedAt": "2026-11-04T13:54:48.719Z",
+  "count": 186,
   "sources": {
-    "node": 109,
-    "jobspy": 68
+    "node": 111,
+    "jobspy": 75
   },
   "jobs": [
+    {
+      "title": "Senior Property Manager ENG",
+      "company": "StaffRight",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-property-manager-eng-staffright-1137624",
+      "source": "RemoteOK",
+      "date": "2026-11-03T08:00:12+00:00",
+      "tags": [
+        "exec",
+        "hr",
+        "technical",
+        "customer support",
+        "dev",
+        "travel",
+        "finance",
+        "php",
+        "microsoft",
+        "senior",
+        "junior",
+        "ops",
+        "marketing",
+        "medical",
+        "full time",
+        "digital nomad"
+      ]
+    },
     {
       "title": "Sales Development Representative German Speaking",
       "company": "Huzzle",
@@ -104,6 +129,26 @@
       ]
     },
     {
+      "title": "Executive Assistant to the Chief Revenue Officer (CRO)",
+      "company": "EDB",
+      "url": "https://jobicy.com/jobs/154492-executive-assistant-to-the-chief-revenue-officer-cro",
+      "source": "Jobicy",
+      "date": "2026-11-04T03:37:24+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Executive Assistant III",
+      "company": "Affirm",
+      "url": "https://jobicy.com/jobs/154490-executive-assistant-iii",
+      "source": "Jobicy",
+      "date": "2026-11-04T03:37:12+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
       "title": "Lead Engineer - AI Agent Voice Experience",
       "company": "Cresta",
       "url": "https://jobicy.com/jobs/158822-lead-engineer-ai-agent-voice-experience",
@@ -175,14 +220,6 @@
       "url": "https://weworkremotely.com/remote-jobs/bondora-head-of-crm-lifecycle-marketing",
       "source": "We Work Remotely",
       "date": "Thu, 08 Oct 2026 18:37:31 +0000",
-      "tags": []
-    },
-    {
-      "title": "Senior Support Engineer",
-      "company": "Town Web",
-      "url": "https://weworkremotely.com/remote-jobs/town-web-senior-support-engineer",
-      "source": "We Work Remotely",
-      "date": "Mon, 05 Oct 2026 08:04:16 +0000",
       "tags": []
     },
     {
@@ -421,6 +458,66 @@
       ]
     },
     {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.968Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.387Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:55.736Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.615Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/qS6anyue8GZYK2tcsWBFgp/remote-head-of-property-management-in-switzerland-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.140Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/v8aGYpjHcXkmHUucmxPFxE/remote-head-of-property-management-in-united-arab-emirates-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.026Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
       "title": "PROPERTY LEASING & MANAGEMENT",
       "company": "RAK Real Estate",
       "url": "https://jobs.workable.com/view/2rjijPjSEaAY3MFsDCGBhP/property-leasing-%26-management-in-al-juwais-at-rak-real-estate",
@@ -584,17 +681,6 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:49.575Z",
-      "tags": [
-        "Full-time",
-        "Toronto, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -615,80 +701,14 @@
       ]
     },
     {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
+      "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.073Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:02:40.771Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:02:39.156Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:51:51.492Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:07.284Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:06.921Z",
-      "tags": [
-        "Full-time",
-        "Remote"
+        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -719,6 +739,83 @@
       "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:07:25.548Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:24.683Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.965Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.688Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.453Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.201Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.073Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:40.771Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -808,16 +905,6 @@
       ]
     },
     {
-      "title": "Engineering Manager / Sr. EM Forward Deployed Engineering (FDE) - North",
-      "company": "Blue Machines AI",
-      "url": "https://jobs.workable.com/view/me5hHSZAkiwv3VLxe6FKnQ/hybrid-engineering-manager-%2F-sr.-em-forward-deployed-engineering-(fde)---north-in-delhi-at-blue-machines-ai",
-      "source": "Workable",
-      "date": "2026-10-09T09:19:22.291Z",
-      "tags": [
-        "Delhi, Delhi, India"
-      ]
-    },
-    {
       "title": "Automation Specialists III - EPMS",
       "company": "Albireo Energy",
       "url": "https://jobs.workable.com/view/dRwj6k7Hdrxy9An62GZgVu/hybrid-automation-specialists-iii---epms-in-saline-at-albireo-energy",
@@ -848,17 +935,6 @@
       "tags": [
         "Full-time",
         "Toledo, Ohio, United States"
-      ]
-    },
-    {
-      "title": "AI & Automation Specialist",
-      "company": "Hatzi Filax Group",
-      "url": "https://jobs.workable.com/view/x43y6YV8xGbz6vWbsJfViF/ai-%26-automation-specialist-in-athens-at-hatzi-filax-group",
-      "source": "Workable",
-      "date": "2026-11-03T12:12:10.525Z",
-      "tags": [
-        "Full-time",
-        "Athens, Attica, Greece"
       ]
     },
     {
@@ -1148,64 +1224,36 @@
       ]
     },
     {
-      "title": "Executive Assistant",
-      "company": "Law Offices of Sabrina Li",
-      "url": "https://jobs.workable.com/view/rb6B6jvCNbNCAQJWA5LPaU/remote-executive-assistant-in-south-africa-at-law-offices-of-sabrina-li",
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/2vrTXyySoSAVGRRaTdB4Pg/hybrid-lims-consultant-in-detroit-at-clarkston-consulting",
       "source": "Workable",
-      "date": "2026-11-04T02:29:54.621Z",
+      "date": "2026-11-04T06:34:47.910Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Detroit, Michigan, United States"
       ]
     },
     {
-      "title": "Executive Assistant",
-      "company": "Law Offices of Sabrina Li",
-      "url": "https://jobs.workable.com/view/oRTGHiH1cdc4zPrFTNvNWC/remote-executive-assistant-in-guatemala-at-law-offices-of-sabrina-li",
-      "source": "Workable",
-      "date": "2026-11-04T02:29:55.379Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
+      "title": "Remote Medical Administrative Assistant – Insurance Verification",
+      "company": "Huntington Chiropractic Accident & Injury Clinic",
+      "url": "https://www.indeed.com/viewjob?jk=50c470e9274f1c39",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-04",
+      "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "Law Offices of Sabrina Li",
-      "url": "https://jobs.workable.com/view/reJ7A9q8kt3Y5mSuAfQn2J/remote-executive-assistant-in-colombia-at-law-offices-of-sabrina-li",
-      "source": "Workable",
-      "date": "2026-11-04T02:29:55.029Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Law Offices of Sabrina Li",
-      "url": "https://jobs.workable.com/view/pEPFiKNoNsMgeCFBxuLFsi/remote-executive-assistant-in-argentina-at-law-offices-of-sabrina-li",
-      "source": "Workable",
-      "date": "2026-11-04T02:29:54.845Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Specialty Finance Senior Engineer",
-      "company": "Neuberger Berman",
-      "url": "https://jobs.workable.com/view/1r1pd6r3EaLdWSWQU7sJvT/specialty-finance-senior-engineer-in-minnesota-at-neuberger-berman",
-      "source": "Workable",
-      "date": "2026-11-03T09:17:06.669Z",
-      "tags": [
-        "Full-time",
-        "Minnesota, United States"
-      ]
+      "title": "Executive Assistant to Business Owner | Remote | Part-Time",
+      "company": "Quality Custom Gifts LLC",
+      "url": "https://www.indeed.com/viewjob?jk=cdc6d75f716ecf5b",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-02",
+      "tags": []
     },
     {
       "title": "Administrative Assistant - Services, Field Operations (Remote)",
       "company": "SOLV Energy",
-      "url": "https://www.indeed.com/viewjob?jk=03a2ac196875ab90",
+      "url": "https://www.indeed.com/viewjob?jk=fe9197fc71e85d44",
       "source": "JobSpy/indeed",
       "date": "2026-10-29",
       "tags": []
@@ -1235,35 +1283,27 @@
       "tags": []
     },
     {
-      "title": "Virtual Executive Assistant (Remote)",
+      "title": "Virtual Assistant",
+      "company": "A Full Renovation – Residential Remodeling",
+      "url": "https://www.linkedin.com/jobs/view/4485064169",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant Administrator / Data Entry Specialist",
       "company": "Radarz PR",
-      "url": "https://www.linkedin.com/jobs/view/4487214544",
+      "url": "https://www.linkedin.com/jobs/view/4487206876",
       "source": "JobSpy/linkedin",
       "date": "2026-11-04",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant - HVAC",
-      "company": "Aidey",
-      "url": "https://www.linkedin.com/jobs/view/4485051406",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-04",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant | Full-Time",
-      "company": "DeHubs Ltd",
-      "url": "https://www.linkedin.com/jobs/view/4486810825",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-03",
       "tags": []
     },
     {
       "title": "Virtual Assistant",
-      "company": "Revi Agency",
-      "url": "https://www.linkedin.com/jobs/view/4485365860",
+      "company": "Radarz PR",
+      "url": "https://www.linkedin.com/jobs/view/4487218382",
       "source": "JobSpy/linkedin",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "tags": []
     },
     {
@@ -1278,6 +1318,14 @@
       "title": "General Virtual Assistant (Work From Home) – For Pooling",
       "company": "VirtuallyinCredible Careers Hub",
       "url": "https://www.linkedin.com/jobs/view/4485021077",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (For Pooling)",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4486043856",
       "source": "JobSpy/linkedin",
       "date": "2026-11-03",
       "tags": []
@@ -1323,11 +1371,35 @@
       "tags": []
     },
     {
+      "title": "Virtual Assistant",
+      "company": "Jane App",
+      "url": "https://www.linkedin.com/jobs/view/4484701972",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Kids First Swim School Midlothian, Va",
+      "url": "https://www.indeed.com/viewjob?jk=ff45b33dfd15443c",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
       "title": "Senior Executive Assistant",
       "company": "NVIDIA",
       "url": "https://www.indeed.com/viewjob?jk=bb31e1f812ec2a3b",
       "source": "JobSpy/indeed",
       "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "The Sponsorship Collective",
+      "url": "https://www.indeed.com/viewjob?jk=84bb7f5f27024338",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-02",
       "tags": []
     },
     {
@@ -1363,6 +1435,14 @@
       "tags": []
     },
     {
+      "title": "Part-Time Client Coordinator / Administrative Assistant",
+      "company": "Advisory Motion",
+      "url": "https://www.indeed.com/viewjob?jk=ddb250d08ba513d3",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-28",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant/Chief of Staff to the Office of the President",
       "company": "TopDog Law",
       "url": "https://www.indeed.com/viewjob?jk=fd282b28a2589c14",
@@ -1373,7 +1453,23 @@
     {
       "title": "Executive Assistant to the COO",
       "company": "Paywise",
+      "url": "https://www.linkedin.com/jobs/view/4486354680",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the COO",
+      "company": "Paywise",
       "url": "https://www.linkedin.com/jobs/view/4487203914",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to CEO",
+      "company": "House Buyers of America, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4485087292",
       "source": "JobSpy/linkedin",
       "date": "2026-11-04",
       "tags": []
@@ -1414,14 +1510,6 @@
       "title": "Executive Assistant to the Vice Chairman",
       "company": "nextjobz",
       "url": "https://www.linkedin.com/jobs/view/4484376317",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the Management (m/w/d)",
-      "company": "Kronospan",
-      "url": "https://www.linkedin.com/jobs/view/4484344357",
       "source": "JobSpy/linkedin",
       "date": "2026-11-02",
       "tags": []
@@ -1483,14 +1571,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the Executive General Manager",
-      "company": "GenusPlus Group",
-      "url": "https://www.linkedin.com/jobs/view/4483846268",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
       "title": "Residential Property Manager",
       "company": "Highland Rental",
       "url": "https://www.indeed.com/viewjob?jk=d544e67e86d1ce57",
@@ -1502,6 +1582,14 @@
       "title": "Property Management Administrator",
       "company": "SJA Property Management",
       "url": "https://www.indeed.com/viewjob?jk=d0f989d1bac141dc",
+      "source": "JobSpy/indeed",
+      "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "title": "Regional Director - JWB Property Management",
+      "company": "JWB Real Estate Capital",
+      "url": "https://www.indeed.com/viewjob?jk=78bd183478a02808",
       "source": "JobSpy/indeed",
       "date": "2026-10-29",
       "tags": []
@@ -1651,19 +1739,19 @@
       "tags": []
     },
     {
-      "title": "AI Process Automation Engineer",
-      "company": "Newlab+ Group",
-      "url": "https://www.linkedin.com/jobs/view/4476533991",
+      "title": "AI and Automation Specialist",
+      "company": "Hitachi Vantara",
+      "url": "https://www.linkedin.com/jobs/view/4487261117",
       "source": "JobSpy/linkedin",
       "date": "2026-11-04",
       "tags": []
     },
     {
-      "title": "AI & Automation Engineer",
-      "company": "HIDRA",
-      "url": "https://www.linkedin.com/jobs/view/4486874556",
+      "title": "AI Process Automation Engineer",
+      "company": "Newlab+ Group",
+      "url": "https://www.linkedin.com/jobs/view/4476533991",
       "source": "JobSpy/linkedin",
-      "date": "2026-11-03",
+      "date": "2026-11-04",
       "tags": []
     },
     {
@@ -1707,19 +1795,11 @@
       "tags": []
     },
     {
-      "title": "AI AUTOMATION ENGINEER",
-      "company": "Kave Home",
-      "url": "https://www.linkedin.com/jobs/view/4483843987",
+      "title": "AI & Automation Engineer (Enterprise)",
+      "company": "Magnet Forensics",
+      "url": "https://www.linkedin.com/jobs/view/4468262717",
       "source": "JobSpy/linkedin",
-      "date": "2026-10-28",
-      "tags": []
-    },
-    {
-      "title": "JUNIOR AI AUTOMATION ENGINEER",
-      "company": "Kave Home",
-      "url": "https://www.linkedin.com/jobs/view/4483867004",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-28",
+      "date": "2026-10-29",
       "tags": []
     },
     {
@@ -1728,6 +1808,14 @@
       "url": "https://www.linkedin.com/jobs/view/4486169236",
       "source": "JobSpy/linkedin",
       "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "title": "Process Automation Engineer (Power Apps, SQL, RPA, JavaScript)",
+      "company": "Fidelity Investments",
+      "url": "https://www.linkedin.com/jobs/view/4469264744",
+      "source": "JobSpy/linkedin",
+      "date": "2026-10-31",
       "tags": []
     },
     {
