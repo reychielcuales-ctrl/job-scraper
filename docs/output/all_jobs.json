@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-04T23:18:43.928Z",
-  "count": 172,
+  "generatedAt": "2026-11-05T05:34:24.917Z",
+  "count": 170,
   "sources": {
-    "node": 106,
+    "node": 104,
     "jobspy": 66
   },
   "jobs": [
@@ -28,26 +28,6 @@
         "marketing",
         "medical",
         "full time",
-        "digital nomad"
-      ]
-    },
-    {
-      "title": "Sales Development Representative German Speaking",
-      "company": "Huzzle",
-      "url": "https://remoteOK.com/remote-jobs/remote-sales-development-representative-german-speaking-huzzle-1137563",
-      "source": "RemoteOK",
-      "date": "2026-10-23T16:00:18+00:00",
-      "tags": [
-        "saas",
-        "sys admin",
-        "dev",
-        "marketing",
-        "finance",
-        "c",
-        "exec",
-        "sales",
-        "medical",
-        "ecommerce",
         "digital nomad"
       ]
     },
@@ -88,22 +68,6 @@
         "golang",
         "javascript",
         "node"
-      ]
-    },
-    {
-      "title": "Marketing and Sales Administrator",
-      "company": "Hunt St",
-      "url": "https://remoteOK.com/remote-jobs/remote-marketing-and-sales-administrator-hunt-st-1137488",
-      "source": "RemoteOK",
-      "date": "2026-10-11T08:00:06+00:00",
-      "tags": [
-        "customer support",
-        "marketing",
-        "finance",
-        "admin",
-        "exec",
-        "content writing",
-        "sales"
       ]
     },
     {
@@ -385,9 +349,9 @@
     {
       "title": "Offshore Virtual Executive Assistant to the CEO",
       "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/a7CqTHeFoiRwHqNhwQ4xMf/remote-offshore-virtual-executive-assistant-to-the-ceo-in-brazil-at-collective-residential",
+      "url": "https://jobs.workable.com/view/cTB4kuZvmwc3fJYkToZGqi/remote-offshore-virtual-executive-assistant-to-the-ceo-in-chile-at-collective-residential",
       "source": "Workable",
-      "date": "2026-11-02T06:13:07.254Z",
+      "date": "2026-11-02T06:13:07.427Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -396,9 +360,9 @@
     {
       "title": "Offshore Virtual Executive Assistant to the CEO",
       "company": "Collective Residential",
-      "url": "https://jobs.workable.com/view/cTB4kuZvmwc3fJYkToZGqi/remote-offshore-virtual-executive-assistant-to-the-ceo-in-chile-at-collective-residential",
+      "url": "https://jobs.workable.com/view/a7CqTHeFoiRwHqNhwQ4xMf/remote-offshore-virtual-executive-assistant-to-the-ceo-in-brazil-at-collective-residential",
       "source": "Workable",
-      "date": "2026-11-02T06:13:07.427Z",
+      "date": "2026-11-02T06:13:07.254Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -629,17 +593,6 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -662,12 +615,45 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
         "Toronto, Ontario, Canada"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:24.683Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.965Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     },
     {
@@ -706,6 +692,39 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:40.248Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/qdxStjT5fKWWELqEbjfugc/health-insurance-subject-matter-expert-(fully-remote)-in-lisbon-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:39.852Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/3QtdJE6KbN8pQMePTK9ynF/health-insurance-subject-matter-expert-(fully-remote)-in-london-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:39.775Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:39.156Z",
@@ -717,64 +736,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
+      "url": "https://jobs.workable.com/view/vFBgjyabm3Pp7eJGZBUjkQ/health-insurance-subject-matter-expert-(fully-remote)-in-berlin-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T03:51:51.492Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:07.284Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:06.921Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
+      "date": "2026-04-14T03:51:52.668Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1182,6 +1146,14 @@
       ]
     },
     {
+      "title": "Virtual Executive Assistant",
+      "company": "Team Delegate, LLC",
+      "url": "https://www.indeed.com/viewjob?jk=b97151a1276e0a5c",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
       "title": "Property Management Virtual Assistant",
       "company": "SJA Property Management",
       "url": "https://www.indeed.com/viewjob?jk=188a8334029401a2",
@@ -1214,11 +1186,35 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant - REMOTE",
-      "company": "Orbital Engineering",
-      "url": "https://www.indeed.com/viewjob?jk=65071ce3dff46d4f",
-      "source": "JobSpy/indeed",
-      "date": "2026-10-28",
+      "title": "Virtual Assistant | Full-Time",
+      "company": "TeamPrime",
+      "url": "https://www.linkedin.com/jobs/view/4487714235",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "TeamPrime",
+      "url": "https://www.linkedin.com/jobs/view/4487707507",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Anyre Logistics",
+      "url": "https://www.linkedin.com/jobs/view/4487541226",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "A Full Renovation – Residential Remodeling",
+      "url": "https://www.linkedin.com/jobs/view/4485588470",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-05",
       "tags": []
     },
     {
@@ -1249,22 +1245,6 @@
       "title": "General Virtual Assistant (For Pooling)",
       "company": "VirtuallyinCredible Careers Hub",
       "url": "https://www.linkedin.com/jobs/view/4486043856",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-03",
-      "tags": []
-    },
-    {
-      "title": "Administrative Assistant",
-      "company": "Care With love transportation corp",
-      "url": "https://www.linkedin.com/jobs/view/4467939099",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-03",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Scoutly",
-      "url": "https://www.linkedin.com/jobs/view/4475944009",
       "source": "JobSpy/linkedin",
       "date": "2026-11-03",
       "tags": []
@@ -1302,19 +1282,19 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant (Permanent Wfh)",
-      "company": "Cyberbacker Careers",
-      "url": "https://www.linkedin.com/jobs/view/4483081312",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-29",
-      "tags": []
-    },
-    {
       "title": "Virtual Assistant | Fluent English | Remote | U.S. Market",
       "company": "Bluedot | Staff",
       "url": "https://www.linkedin.com/jobs/view/4482216730",
       "source": "JobSpy/linkedin",
       "date": "2026-10-29",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CEO",
+      "company": "First Cornerstone Group, LLC",
+      "url": "https://www.indeed.com/viewjob?jk=493bf4fafce1eed3",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-05",
       "tags": []
     },
     {
@@ -1430,6 +1410,14 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant to Senior Vice President/Chief Legal Officer",
+      "company": "Carrier",
+      "url": "https://www.linkedin.com/jobs/view/4484551126",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant to the Vice Chairman",
       "company": "nextjobz",
       "url": "https://www.linkedin.com/jobs/view/4484376317",
@@ -1462,27 +1450,11 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "News Corp Australia",
-      "url": "https://www.linkedin.com/jobs/view/4478781166",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-29",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant to the Publisher & CEO",
       "company": "The Washington Post",
       "url": "https://www.linkedin.com/jobs/view/4440077347",
       "source": "JobSpy/linkedin",
       "date": "2026-10-29",
-      "tags": []
-    },
-    {
-      "title": "Buildium Property Management Bookkeeper",
-      "company": "IPHD Property Management",
-      "url": "https://www.indeed.com/viewjob?jk=5f6359546c614b2c",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-04",
       "tags": []
     },
     {
@@ -1665,14 +1637,6 @@
       "title": "AI & Automation Engineer (Enterprise)",
       "company": "Magnet Forensics",
       "url": "https://www.linkedin.com/jobs/view/4468280447",
-      "source": "JobSpy/linkedin",
-      "date": "2026-10-29",
-      "tags": []
-    },
-    {
-      "title": "AI Automation Specialist",
-      "company": "Inetum",
-      "url": "https://www.linkedin.com/jobs/view/4484782729",
       "source": "JobSpy/linkedin",
       "date": "2026-10-29",
       "tags": []
