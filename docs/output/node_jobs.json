@@ -1,7 +1,40 @@
 {
-  "generatedAt": "2026-11-06T13:52:02.605Z",
-  "count": 117,
+  "generatedAt": "2026-11-06T22:48:06.675Z",
+  "count": 123,
   "jobs": [
+    {
+      "title": "Operations Expert with Python for AI Supply Chain Task Design",
+      "company": "Toptal",
+      "url": "https://remoteOK.com/remote-jobs/remote-operations-expert-with-python-for-ai-supply-chain-task-design-toptal-1137690",
+      "source": "RemoteOK",
+      "date": "2026-11-05T15:01:09+00:00",
+      "tags": [
+        "Docker",
+        "Git",
+        "Inventory Management",
+        "Supply Chain",
+        "Microsoft Excel",
+        "Python",
+        "SAP",
+        "SAP Production Planning",
+        "SQL",
+        "Supply Chain Operations"
+      ]
+    },
+    {
+      "title": "ML Inference Engineer â Terminal-Bench Task Designer (vLLM / SGLang / TensorRT-LLM)",
+      "company": "Toptal",
+      "url": "https://remoteOK.com/remote-jobs/remote-ml-inference-engineer-terminal-bench-task-designer-vllm-sglang-tensorrt-llm-toptal-1137689",
+      "source": "RemoteOK",
+      "date": "2026-11-05T14:58:56+00:00",
+      "tags": [
+        "Artificial Intelligence",
+        "Docker",
+        "Git",
+        "Graphics Processing Unit",
+        "LLM"
+      ]
+    },
     {
       "title": "Senior Vue Developer",
       "company": "Lemon.io",
@@ -479,6 +512,17 @@
       ]
     },
     {
+      "title": "Property Management Assistant",
+      "company": "iSupport Worldwide",
+      "url": "https://jobs.workable.com/view/nnomeykJA9ux9SJE9FDRkN/property-management-assistant-in-pasig-at-isupport-worldwide",
+      "source": "Workable",
+      "date": "2026-11-06T18:18:18.707Z",
+      "tags": [
+        "Full-time",
+        "Pasig, Metro Manila, Philippines"
+      ]
+    },
+    {
       "title": "Vice President of Property and Asset Management",
       "company": "Kingsley Management Inc",
       "url": "https://jobs.workable.com/view/siXaManfFwyVAwKu3Lv53u/vice-president-of-property-and-asset-management-in-kitchener-at-kingsley-management-inc",
@@ -625,57 +669,58 @@
       ]
     },
     {
-      "title": "Assistant Property Manager",
-      "company": "Novo",
-      "url": "https://jobs.workable.com/view/euVHn9Q9i3VeMhofusshQE/assistant-property-manager-in-washington-at-novo",
+      "title": "Property Manager",
+      "company": "Admiral Communities",
+      "url": "https://jobs.workable.com/view/rj5Dij6jBArFM8DA9bTAdq/property-manager-in-maryville-at-admiral-communities",
       "source": "Workable",
-      "date": "2026-11-05T22:14:17.487Z",
+      "date": "2026-11-06T17:58:23.242Z",
       "tags": [
-        "Washington, District of Columbia, United States"
+        "Full-time",
+        "Maryville, Tennessee, United States"
       ]
     },
     {
       "title": "Property Manager",
-      "company": "CommonPlace",
-      "url": "https://jobs.workable.com/view/jH6RUCfU8idE2MAPEJWTd4/property-manager-in-raleigh-at-commonplace",
+      "company": "Admiral Communities",
+      "url": "https://jobs.workable.com/view/rPdfSGqartxAArkzETu1QV/property-manager-in-oak-ridge-at-admiral-communities",
       "source": "Workable",
-      "date": "2026-11-05T14:10:34.768Z",
+      "date": "2026-11-06T17:58:22.845Z",
       "tags": [
         "Full-time",
-        "Raleigh, North Carolina, United States"
+        "Oak Ridge, Tennessee, United States"
       ]
     },
     {
-      "title": "Sales Development Representative",
-      "company": "Funnel Leasing",
-      "url": "https://jobs.workable.com/view/ctZkGmgtP36o64f3shBDvS/remote-sales-development-representative-in-united-states-at-funnel-leasing",
+      "title": "Property Manager",
+      "company": "Admiral Communities",
+      "url": "https://jobs.workable.com/view/7yvAMYnVuUkcV4pXWAJVqz/property-manager-in-knoxville-at-admiral-communities",
       "source": "Workable",
-      "date": "2026-11-05T16:09:57.797Z",
+      "date": "2026-11-06T17:58:22.479Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Knoxville, Tennessee, United States"
       ]
     },
     {
-      "title": "(Senior) Property Manager",
-      "company": "P3 Logistic Parks",
-      "url": "https://jobs.workable.com/view/oPpFhGuAnmxApd7ihBhQop/hybrid-(senior)-property-manager-in-frankfurt-am-main-at-p3-logistic-parks",
+      "title": "Admin & Property Manager",
+      "company": "CorDx",
+      "url": "https://jobs.workable.com/view/mL7gQv58dDbnW83sZZ7WTH/admin-%26-property-manager-in-alpharetta-at-cordx",
       "source": "Workable",
-      "date": "2026-11-05T11:14:31.179Z",
+      "date": "2026-11-06T21:56:42.675Z",
       "tags": [
         "Full-time",
-        "Frankfurt am Main, Hessen, Germany"
+        "Alpharetta, Georgia, United States"
       ]
     },
     {
-      "title": "Business Development Manager - RedRabbit",
-      "company": "WeconnectU",
-      "url": "https://jobs.workable.com/view/brGHWz2zs92czKaygDKjjU/business-development-manager---redrabbit-in-somerset-west-at-weconnectu",
+      "title": "Assistant Community Association Manager",
+      "company": "Mountain Valley",
+      "url": "https://jobs.workable.com/view/aF5E1xbzzPR9uJexgKMSVK/hybrid-assistant-community-association-manager-in-avon-at-mountain-valley",
       "source": "Workable",
-      "date": "2026-11-05T06:14:56.322Z",
+      "date": "2026-11-06T19:57:50.842Z",
       "tags": [
         "Full-time",
-        "Somerset West, Western Cape, South Africa"
+        "Avon, Colorado, United States"
       ]
     },
     {
@@ -713,17 +758,6 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.747Z",
-      "tags": [
-        "Full-time",
-        "Halifax, Nova Scotia, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.013Z",
@@ -746,34 +780,23 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.747Z",
+      "tags": [
+        "Full-time",
+        "Halifax, Nova Scotia, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/gbn5q9Hktxa4xbzAmEA4Jz/hybrid-underwriting-operations---account-analyst-in-vancouver-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.412Z",
       "tags": [
         "Full-time",
         "Vancouver, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:24.683Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.965Z",
-      "tags": [
-        "Full-time",
-        "Remote"
       ]
     },
     {
@@ -812,9 +835,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
+      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:40.248Z",
+      "date": "2026-04-14T04:02:39.156Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -823,9 +846,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qdxStjT5fKWWELqEbjfugc/health-insurance-subject-matter-expert-(fully-remote)-in-lisbon-at-covergo",
+      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.852Z",
+      "date": "2026-04-14T03:51:51.492Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -834,34 +857,34 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3QtdJE6KbN8pQMePTK9ynF/health-insurance-subject-matter-expert-(fully-remote)-in-london-at-covergo",
+      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.775Z",
+      "date": "2026-04-14T03:50:07.284Z",
       "tags": [
         "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
       "source": "Workable",
-      "date": "2026-02-09T03:07:52.553Z",
+      "date": "2026-04-14T03:50:06.921Z",
       "tags": [
         "Full-time",
-        "São Paulo, State of São Paulo, Brazil"
+        "Remote"
       ]
     },
     {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
       "source": "Workable",
-      "date": "2026-02-09T03:07:52.334Z",
+      "date": "2026-04-14T04:07:25.674Z",
       "tags": [
         "Full-time",
-        "Mexico City, Mexico City, Mexico"
+        "Remote"
       ]
     },
     {
@@ -884,6 +907,28 @@
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.553Z",
+      "tags": [
+        "Full-time",
+        "São Paulo, State of São Paulo, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.334Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -1008,6 +1053,17 @@
       ]
     },
     {
+      "title": "Digital Transformation & Automation Specialist",
+      "company": "Charger Logistics Inc",
+      "url": "https://jobs.workable.com/view/byBcNhx7bzmQBUiC6yuFkH/hybrid-digital-transformation-%26-automation-specialist-in-tegucigalpa-at-charger-logistics-inc",
+      "source": "Workable",
+      "date": "2026-11-06T22:35:02.801Z",
+      "tags": [
+        "Full-time",
+        "Tegucigalpa, Francisco Morazán Department, Honduras"
+      ]
+    },
+    {
       "title": "Senior Quality Engineer / Test Automation Specialist",
       "company": "InventYOU AB",
       "url": "https://jobs.workable.com/view/5sQgkXDhqnRBzT1ureWW5F/senior-quality-engineer-%2F-test-automation-specialist-in-stockholm-at-inventyou-ab",
@@ -1114,6 +1170,16 @@
       "tags": [
         "Full-time",
         "Agoura Hills, California, United States"
+      ]
+    },
+    {
+      "title": "Software Engineer - AI & Workflow Automation",
+      "company": "Elevation Autism Center",
+      "url": "https://jobs.workable.com/view/eXix9o7y1qcn3WqoCAqhJj/hybrid-software-engineer---ai-%26-workflow-automation-in-atlanta-at-elevation-autism-center",
+      "source": "Workable",
+      "date": "2026-11-06T19:17:20.515Z",
+      "tags": [
+        "Atlanta, Georgia, United States"
       ]
     },
     {
@@ -1268,6 +1334,16 @@
       "tags": [
         "Full-time",
         "Atlanta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "Technical Product Manager",
+      "company": "Charger Logistics Inc",
+      "url": "https://jobs.workable.com/view/svqxvcYBy4dxiDwJgqxErM/technical-product-manager-in-brampton-at-charger-logistics-inc",
+      "source": "Workable",
+      "date": "2026-11-06T21:46:31.384Z",
+      "tags": [
+        "Brampton, Ontario, Canada"
       ]
     },
     {
