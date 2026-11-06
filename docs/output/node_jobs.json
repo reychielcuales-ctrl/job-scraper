@@ -1,7 +1,30 @@
 {
-  "generatedAt": "2026-11-06T05:30:35.439Z",
-  "count": 109,
+  "generatedAt": "2026-11-06T13:52:02.605Z",
+  "count": 117,
   "jobs": [
+    {
+      "title": "Senior Vue Developer",
+      "company": "Lemon.io",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-vue-developer-lemon-io-1137688",
+      "source": "RemoteOK",
+      "date": "2026-11-05T12:45:45+00:00",
+      "tags": [
+        "engineer",
+        "dev",
+        "full time",
+        "full stack",
+        "remote",
+        "remote work",
+        "javascript",
+        "typescript",
+        "php",
+        "laravel",
+        "node",
+        "dot net",
+        "python",
+        "front end"
+      ]
+    },
     {
       "title": "Software Engineer",
       "company": "Claims",
@@ -186,6 +209,30 @@
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-solutions-engineer-customer-success",
       "source": "We Work Remotely",
       "date": "Tue, 07 Feb 2023 20:07:41 +0000",
+      "tags": []
+    },
+    {
+      "title": "Shield Program Lead",
+      "company": "Guesty",
+      "url": "https://weworkremotely.com/remote-jobs/guesty-shield-program-lead",
+      "source": "We Work Remotely",
+      "date": "Fri, 06 Nov 2026 07:13:02 +0000",
+      "tags": []
+    },
+    {
+      "title": "Offshore Virtual Executive Assistant to the CEO",
+      "company": "Collective Residential",
+      "url": "https://weworkremotely.com/remote-jobs/collective-residential-offshore-virtual-executive-assistant-to-the-ceo",
+      "source": "We Work Remotely",
+      "date": "Fri, 06 Nov 2026 07:13:00 +0000",
+      "tags": []
+    },
+    {
+      "title": "HR Manager - Consultant",
+      "company": "A La C.A.R.T.E. Solutions",
+      "url": "https://weworkremotely.com/remote-jobs/a-la-c-a-r-t-e-solutions-hr-manager-consultant",
+      "source": "We Work Remotely",
+      "date": "Fri, 06 Nov 2026 07:12:52 +0000",
       "tags": []
     },
     {
@@ -390,9 +437,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
+      "date": "2025-09-26T11:49:15.278Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -401,9 +448,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:15.278Z",
+      "date": "2025-09-26T11:49:14.467Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -429,6 +476,17 @@
       "tags": [
         "Full-time",
         "Remote"
+      ]
+    },
+    {
+      "title": "Vice President of Property and Asset Management",
+      "company": "Kingsley Management Inc",
+      "url": "https://jobs.workable.com/view/siXaManfFwyVAwKu3Lv53u/vice-president-of-property-and-asset-management-in-kitchener-at-kingsley-management-inc",
+      "source": "Workable",
+      "date": "2026-11-06T13:22:58.651Z",
+      "tags": [
+        "Full-time",
+        "Kitchener, Ontario, Canada"
       ]
     },
     {
@@ -525,9 +583,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
+      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-29T22:04:28.700Z",
+      "date": "2026-10-29T22:04:28.429Z",
       "tags": [
         "Contract",
         "Remote"
@@ -536,9 +594,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
+      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-29T22:04:28.429Z",
+      "date": "2026-10-29T22:04:28.700Z",
       "tags": [
         "Contract",
         "Remote"
@@ -588,17 +646,6 @@
       ]
     },
     {
-      "title": "(Senior) Property Manager",
-      "company": "P3 Logistic Parks",
-      "url": "https://jobs.workable.com/view/oPpFhGuAnmxApd7ihBhQop/hybrid-(senior)-property-manager-in-frankfurt-am-main-at-p3-logistic-parks",
-      "source": "Workable",
-      "date": "2026-11-05T11:14:31.179Z",
-      "tags": [
-        "Full-time",
-        "Frankfurt am Main, Hessen, Germany"
-      ]
-    },
-    {
       "title": "Sales Development Representative",
       "company": "Funnel Leasing",
       "url": "https://jobs.workable.com/view/ctZkGmgtP36o64f3shBDvS/remote-sales-development-representative-in-united-states-at-funnel-leasing",
@@ -610,6 +657,17 @@
       ]
     },
     {
+      "title": "(Senior) Property Manager",
+      "company": "P3 Logistic Parks",
+      "url": "https://jobs.workable.com/view/oPpFhGuAnmxApd7ihBhQop/hybrid-(senior)-property-manager-in-frankfurt-am-main-at-p3-logistic-parks",
+      "source": "Workable",
+      "date": "2026-11-05T11:14:31.179Z",
+      "tags": [
+        "Full-time",
+        "Frankfurt am Main, Hessen, Germany"
+      ]
+    },
+    {
       "title": "Business Development Manager - RedRabbit",
       "company": "WeconnectU",
       "url": "https://jobs.workable.com/view/brGHWz2zs92czKaygDKjjU/business-development-manager---redrabbit-in-somerset-west-at-weconnectu",
@@ -618,17 +676,6 @@
       "tags": [
         "Full-time",
         "Somerset West, Western Cape, South Africa"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "Lynco Properties",
-      "url": "https://jobs.workable.com/view/ogKjKiMhRiKLayNUuGxXXp/property-manager-in-tahlequah-at-lynco-properties",
-      "source": "Workable",
-      "date": "2026-11-04T21:19:22.748Z",
-      "tags": [
-        "Full-time",
-        "Tahlequah, Oklahoma, United States"
       ]
     },
     {
@@ -666,6 +713,17 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.747Z",
+      "tags": [
+        "Full-time",
+        "Halifax, Nova Scotia, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.013Z",
@@ -683,17 +741,6 @@
       "tags": [
         "Full-time",
         "Toronto, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.747Z",
-      "tags": [
-        "Full-time",
-        "Halifax, Nova Scotia, Canada"
       ]
     },
     {
@@ -796,6 +843,83 @@
       ]
     },
     {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.553Z",
+      "tags": [
+        "Full-time",
+        "São Paulo, State of São Paulo, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.334Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/be8hXZ4rQdNW6RFbNfDyYo/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-florian%C3%B3polis-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:53.150Z",
+      "tags": [
+        "Full-time",
+        "Florianópolis, State of Santa Catarina, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/2yZ3p8tFze94AWQkH9qsVQ/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-buenos-aires-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.882Z",
+      "tags": [
+        "Full-time",
+        "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "Client Tech VA",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/v3ZeHmDzmhFDF2kCZz7qS5/remote-client-tech-va-in-united-arab-emirates-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-11-06T12:07:47.244Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Client Tech VA",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/4EgEpLSVkghJTvcRkGdcQa/remote-client-tech-va-in-united-kingdom-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-11-06T12:07:46.999Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Client Tech VA",
+      "company": "AI Acquisition",
+      "url": "https://jobs.workable.com/view/6LNJUvCEZD8N35SH3uwpMf/remote-client-tech-va-in-pakistan-at-ai-acquisition",
+      "source": "Workable",
+      "date": "2026-11-06T12:07:46.866Z",
+      "tags": [
+        "Other",
+        "Remote"
+      ]
+    },
+    {
       "title": "Forward Deployed Engineer",
       "company": "Leena AI",
       "url": "https://jobs.workable.com/view/nMVrzeQ2CTxHLiW4ihwxXw/remote-forward-deployed-engineer-in-united-kingdom-at-leena-ai",
@@ -815,46 +939,6 @@
       "tags": [
         "Other",
         "Paris, Île-de-France, France"
-      ]
-    },
-    {
-      "title": "Lead Forward Deployed Engineer - Applied AI (Claude Enterprise)",
-      "company": "V2 AI",
-      "url": "https://jobs.workable.com/view/ud73jWk1vuBm8mEVKKNDw6/hybrid-lead-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-new-delhi-at-v2-ai",
-      "source": "Workable",
-      "date": "2026-10-13T03:33:40.992Z",
-      "tags": [
-        "New Delhi, Delhi, India"
-      ]
-    },
-    {
-      "title": "Lead Forward Deployed Engineer - Applied AI (Claude Enterprise)",
-      "company": "V2 AI",
-      "url": "https://jobs.workable.com/view/nStSmstuEimLg7DD2ioT2t/hybrid-lead-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-gurugram-at-v2-ai",
-      "source": "Workable",
-      "date": "2026-10-13T03:32:38.539Z",
-      "tags": [
-        "Gurugram, Haryana, India"
-      ]
-    },
-    {
-      "title": "Principal Forward Deployed Engineer - Applied AI (Claude Enterprise)",
-      "company": "V2 AI",
-      "url": "https://jobs.workable.com/view/ioVRhdGtX635ifiUzKm8X1/hybrid-principal-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-gurugram-at-v2-ai",
-      "source": "Workable",
-      "date": "2026-10-13T03:28:33.892Z",
-      "tags": [
-        "Gurugram, Haryana, India"
-      ]
-    },
-    {
-      "title": "Principal Forward Deployed Engineer - Applied AI (Claude Enterprise)",
-      "company": "V2 AI",
-      "url": "https://jobs.workable.com/view/khfQpiZMPCHb7XMXs9fxdp/hybrid-principal-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-new-delhi-at-v2-ai",
-      "source": "Workable",
-      "date": "2026-10-13T03:27:31.825Z",
-      "tags": [
-        "New Delhi, Delhi, India"
       ]
     },
     {
@@ -921,6 +1005,16 @@
       "tags": [
         "Full-time",
         "St. Julian's, Malta"
+      ]
+    },
+    {
+      "title": "Senior Quality Engineer / Test Automation Specialist",
+      "company": "InventYOU AB",
+      "url": "https://jobs.workable.com/view/5sQgkXDhqnRBzT1ureWW5F/senior-quality-engineer-%2F-test-automation-specialist-in-stockholm-at-inventyou-ab",
+      "source": "Workable",
+      "date": "2026-11-06T11:14:44.813Z",
+      "tags": [
+        "Stockholm, Stockholm County, Sweden"
       ]
     },
     {
@@ -1028,17 +1122,6 @@
       "url": "https://jobs.workable.com/view/2k5xNCpec5bc4osh5Xdvmc/remote-ai-workflow-automation-specialist-in-united-states-at-food-truck-promotions",
       "source": "Workable",
       "date": "2026-11-02T20:01:23.745Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Email Marketing Automation Specialist",
-      "company": "ShowMojo",
-      "url": "https://jobs.workable.com/view/6rzjgiXxGJNp62uKaKnvza/remote-email-marketing-automation-specialist-in-calabarzon-at-showmojo",
-      "source": "Workable",
-      "date": "2026-10-30T05:07:27.126Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1185,6 +1268,17 @@
       "tags": [
         "Full-time",
         "Atlanta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "Sales Operations Executive (Sydney)",
+      "company": "Elect Capital",
+      "url": "https://jobs.workable.com/view/2GJzjFzsyMHdpL5mbSKvas/sales-operations-executive-(sydney)-in-sydney-at-elect-capital",
+      "source": "Workable",
+      "date": "2026-11-06T13:33:13.059Z",
+      "tags": [
+        "Full-time",
+        "Sydney, New South Wales, Australia"
       ]
     }
   ]
