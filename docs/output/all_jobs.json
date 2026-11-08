@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-07T21:32:25.689Z",
-  "count": 168,
+  "generatedAt": "2026-11-08T04:54:30.745Z",
+  "count": 171,
   "sources": {
     "node": 122,
-    "jobspy": 46
+    "jobspy": 49
   },
   "jobs": [
     {
@@ -651,17 +651,6 @@
       ]
     },
     {
-      "title": "Property Management Associate",
-      "company": "Houst",
-      "url": "https://jobs.workable.com/view/d5CJeqj2uX5ej4AxoZCS32/hybrid-property-management-associate-in-cape-town-at-houst",
-      "source": "Workable",
-      "date": "2026-10-14T13:49:43.554Z",
-      "tags": [
-        "Full-time",
-        "Cape Town, Western Cape, South Africa"
-      ]
-    },
-    {
       "title": "Property Manager",
       "company": "PeakMade Real Estate",
       "url": "https://jobs.workable.com/view/bFY3YaRduSXfqvzaJ9iTuo/property-manager-in-davis-at-peakmade-real-estate",
@@ -670,6 +659,17 @@
       "tags": [
         "Full-time",
         "Davis, California, United States"
+      ]
+    },
+    {
+      "title": "Property Management Associate",
+      "company": "Houst",
+      "url": "https://jobs.workable.com/view/d5CJeqj2uX5ej4AxoZCS32/hybrid-property-management-associate-in-cape-town-at-houst",
+      "source": "Workable",
+      "date": "2026-10-14T13:49:43.554Z",
+      "tags": [
+        "Full-time",
+        "Cape Town, Western Cape, South Africa"
       ]
     },
     {
@@ -751,17 +751,6 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -784,12 +773,45 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
         "Toronto, Ontario, Canada"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:24.683Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.965Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     },
     {
@@ -828,9 +850,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
+      "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.156Z",
+      "date": "2026-04-14T04:02:40.248Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -839,9 +861,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
+      "url": "https://jobs.workable.com/view/qdxStjT5fKWWELqEbjfugc/health-insurance-subject-matter-expert-(fully-remote)-in-lisbon-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T03:51:51.492Z",
+      "date": "2026-04-14T04:02:39.852Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -850,56 +872,12 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
+      "url": "https://jobs.workable.com/view/3QtdJE6KbN8pQMePTK9ynF/health-insurance-subject-matter-expert-(fully-remote)-in-london-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T03:50:07.284Z",
+      "date": "2026-04-14T04:02:39.775Z",
       "tags": [
         "Full-time",
         "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:06.921Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.553Z",
-      "tags": [
-        "Full-time",
-        "São Paulo, State of São Paulo, Brazil"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.334Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -922,6 +900,28 @@
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.553Z",
+      "tags": [
+        "Full-time",
+        "São Paulo, State of São Paulo, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.334Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -1069,17 +1069,6 @@
     {
       "title": "Marketing Ops & Automation Specialist",
       "company": "MM Coaching Limited",
-      "url": "https://jobs.workable.com/view/qMCNXRH782cWvfgsxtfGgt/remote-marketing-ops-%26-automation-specialist-in-ireland-at-mm-coaching-limited",
-      "source": "Workable",
-      "date": "2026-11-05T17:07:38.178Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Marketing Ops & Automation Specialist",
-      "company": "MM Coaching Limited",
       "url": "https://jobs.workable.com/view/64Z78o6yMLuBEYBXGz9KRV/remote-marketing-ops-%26-automation-specialist-in-cyprus-at-mm-coaching-limited",
       "source": "Workable",
       "date": "2026-11-05T17:07:37.979Z",
@@ -1116,6 +1105,17 @@
       "url": "https://jobs.workable.com/view/6qmBMoe3DNW5PSf2n33VRY/remote-marketing-ops-%26-automation-specialist-in-canada-at-mm-coaching-limited",
       "source": "Workable",
       "date": "2026-11-05T17:07:36.856Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Marketing Ops & Automation Specialist",
+      "company": "MM Coaching Limited",
+      "url": "https://jobs.workable.com/view/qMCNXRH782cWvfgsxtfGgt/remote-marketing-ops-%26-automation-specialist-in-ireland-at-mm-coaching-limited",
+      "source": "Workable",
+      "date": "2026-11-05T17:07:38.178Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1391,14 +1391,6 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant | Full-Time",
-      "company": "TellTeam",
-      "url": "https://www.linkedin.com/jobs/view/4488491993",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-07",
-      "tags": []
-    },
-    {
       "title": "Senior Executive Assistant",
       "company": "Veta Virtual",
       "url": "https://www.linkedin.com/jobs/view/4461373745",
@@ -1455,9 +1447,25 @@
       "tags": []
     },
     {
+      "title": "General Virtual Assistant (For Pooling)",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4486043856",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant, Office of the CFO",
       "company": "GitLab Inc",
       "url": "https://www.indeed.com/viewjob?jk=4d7399d2068624e4",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-07",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Just Right Reader",
+      "url": "https://www.indeed.com/viewjob?jk=c7934826763b1182",
       "source": "JobSpy/indeed",
       "date": "2026-11-07",
       "tags": []
@@ -1516,14 +1524,6 @@
       "url": "https://www.indeed.com/viewjob?jk=bb31e1f812ec2a3b",
       "source": "JobSpy/indeed",
       "date": "2026-11-03",
-      "tags": []
-    },
-    {
-      "title": "Part-Time Outbound Sales Representative – Property Management",
-      "company": "Keep it Clean Services SD",
-      "url": "https://www.indeed.com/viewjob?jk=04e5324ec11f962b",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-05",
       "tags": []
     },
     {
@@ -1714,6 +1714,30 @@
       "title": "Process Automation Specialist",
       "company": "LeoVegas Group",
       "url": "https://www.linkedin.com/jobs/view/4441351291",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "title": "QA Automation Engineer (Remote)",
+      "company": "Koniag Government Services",
+      "url": "https://www.indeed.com/viewjob?jk=95cb0df9232196f1",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "title": "Senior Business Process Automation Engineer - Remote",
+      "company": "Tower Hill Insurance Group",
+      "url": "https://www.linkedin.com/jobs/view/4476850517",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "title": "Power Platform Automation Engineer",
+      "company": "SILVARE",
+      "url": "https://www.linkedin.com/jobs/view/4486169236",
       "source": "JobSpy/linkedin",
       "date": "2026-11-02",
       "tags": []
