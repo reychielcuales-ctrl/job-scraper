@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T12:54:02.480Z",
-  "count": 192,
+  "generatedAt": "2026-11-08T21:47:26.764Z",
+  "count": 198,
   "sources": {
-    "node": 130,
-    "jobspy": 62
+    "node": 131,
+    "jobspy": 67
   },
   "jobs": [
     {
@@ -161,6 +161,26 @@
       ]
     },
     {
+      "title": "Director, Sales Engineering",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/159856-director-sales-engineering-3",
+      "source": "Jobicy",
+      "date": "2026-11-08T16:19:40+00:00",
+      "tags": [
+        "Sales"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Japan (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159812-project-lion-senior-prompt-engineer-japan-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T10:25:08+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
       "title": "Project Lion - Senior Prompt Engineer - Spain (Remote, Part-Time)",
       "company": "Welo Global",
       "url": "https://jobicy.com/jobs/159780-project-lion-senior-prompt-engineer-spain-remote-part-time",
@@ -218,16 +238,6 @@
       "date": "2026-11-08T09:22:14+00:00",
       "tags": [
         "Data Science & Analytics"
-      ]
-    },
-    {
-      "title": "Senior AI Engineer (AI Automation)",
-      "company": "TRM Labs",
-      "url": "https://jobicy.com/jobs/159726-senior-ai-engineer-ai-automation",
-      "source": "Jobicy",
-      "date": "2026-11-08T07:48:46+00:00",
-      "tags": [
-        "Software Engineering"
       ]
     },
     {
@@ -544,9 +554,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
+      "date": "2025-09-26T11:49:15.278Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -555,9 +565,9 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
       "source": "Workable",
-      "date": "2025-09-26T11:49:15.278Z",
+      "date": "2025-09-26T11:49:14.467Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -610,36 +620,6 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-04T11:11:56.615Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/qS6anyue8GZYK2tcsWBFgp/remote-head-of-property-management-in-switzerland-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-04T11:11:56.140Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/v8aGYpjHcXkmHUucmxPFxE/remote-head-of-property-management-in-united-arab-emirates-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-04T11:11:56.026Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
       "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
       "source": "Workable",
       "date": "2026-11-04T11:11:56.968Z",
@@ -663,6 +643,36 @@
       "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
       "source": "Workable",
       "date": "2026-11-04T11:11:55.736Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.615Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/qS6anyue8GZYK2tcsWBFgp/remote-head-of-property-management-in-switzerland-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.140Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/v8aGYpjHcXkmHUucmxPFxE/remote-head-of-property-management-in-united-arab-emirates-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.026Z",
       "tags": [
         "Remote"
       ]
@@ -701,9 +711,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
+      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-29T22:04:28.429Z",
+      "date": "2026-10-29T22:04:28.700Z",
       "tags": [
         "Contract",
         "Remote"
@@ -712,9 +722,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
+      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-29T22:04:28.700Z",
+      "date": "2026-10-29T22:04:28.429Z",
       "tags": [
         "Contract",
         "Remote"
@@ -765,6 +775,17 @@
       ]
     },
     {
+      "title": "Assistant Community Association Manager",
+      "company": "Mountain Valley",
+      "url": "https://jobs.workable.com/view/aF5E1xbzzPR9uJexgKMSVK/hybrid-assistant-community-association-manager-in-avon-at-mountain-valley",
+      "source": "Workable",
+      "date": "2026-11-06T19:57:50.842Z",
+      "tags": [
+        "Full-time",
+        "Avon, Colorado, United States"
+      ]
+    },
+    {
       "title": "Property Manager",
       "company": "Admiral Communities",
       "url": "https://jobs.workable.com/view/rj5Dij6jBArFM8DA9bTAdq/property-manager-in-maryville-at-admiral-communities",
@@ -773,17 +794,6 @@
       "tags": [
         "Full-time",
         "Maryville, Tennessee, United States"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "Admiral Communities",
-      "url": "https://jobs.workable.com/view/rPdfSGqartxAArkzETu1QV/property-manager-in-oak-ridge-at-admiral-communities",
-      "source": "Workable",
-      "date": "2026-11-06T17:58:22.845Z",
-      "tags": [
-        "Full-time",
-        "Oak Ridge, Tennessee, United States"
       ]
     },
     {
@@ -821,17 +831,6 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -849,6 +848,17 @@
       "tags": [
         "Full-time",
         "Vancouver, British Columbia, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
       ]
     },
     {
@@ -1431,17 +1441,25 @@
       ]
     },
     {
-      "title": "Executive Assistant (Remote, Creative)",
-      "company": "LiveViral Media",
-      "url": "https://www.indeed.com/viewjob?jk=8ece2bcf6035d7c9",
+      "title": "Virtual Assistant",
+      "company": "NETWORK OF SERIOUSFUN INC",
+      "url": "https://www.indeed.com/viewjob?jk=8cbe6e41c40f30dd",
       "source": "JobSpy/indeed",
-      "date": "2026-11-06",
+      "date": "2026-11-08",
       "tags": []
     },
     {
-      "title": "Remote Mental Health/Medical Administrative Assistant and Receptionist",
-      "company": "Vitality Clinical Services",
-      "url": "https://www.indeed.com/viewjob?jk=2b57fe9019891d32",
+      "title": "Remote Patient Care Coordinator & Administrative Assistant",
+      "company": "In Motion Physical Therapy",
+      "url": "https://www.indeed.com/viewjob?jk=a19bab343705e43f",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-08",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant (Remote, Creative)",
+      "company": "LiveViral Media",
+      "url": "https://www.indeed.com/viewjob?jk=8ece2bcf6035d7c9",
       "source": "JobSpy/indeed",
       "date": "2026-11-06",
       "tags": []
@@ -1463,14 +1481,6 @@
       "tags": []
     },
     {
-      "title": "Remote Medical Administrative Assistant – Insurance Verification",
-      "company": "Huntington Chiropractic Accident & Injury Clinic",
-      "url": "https://www.indeed.com/viewjob?jk=50c470e9274f1c39",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-04",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant & Project Manager (Contract, Remote)",
       "company": "MCC Marketing Group",
       "url": "https://www.indeed.com/viewjob?jk=ead0334af398a812",
@@ -1479,25 +1489,17 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to Business Owner | Remote | Part-Time",
-      "company": "Quality Custom Gifts LLC",
-      "url": "https://www.indeed.com/viewjob?jk=cdc6d75f716ecf5b",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "title": "Remote Medical Virtual Assistant - Permanent Work From Home",
-      "company": "Global Medical Virtual Assistants Careers Page",
-      "url": "https://www.linkedin.com/jobs/view/4486671873",
+      "title": "Virtual Assistant",
+      "company": "Rook Nexus",
+      "url": "https://www.linkedin.com/jobs/view/4487108220",
       "source": "JobSpy/linkedin",
       "date": "2026-11-08",
       "tags": []
     },
     {
-      "title": "Virtual Assistant",
-      "company": "A Full Renovation – Residential Remodeling",
-      "url": "https://www.linkedin.com/jobs/view/4486670784",
+      "title": "Virtual Assistant – Disaster Recovery",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4487102417",
       "source": "JobSpy/linkedin",
       "date": "2026-11-08",
       "tags": []
@@ -1505,7 +1507,7 @@
     {
       "title": "Administrative Assistant – Full Time",
       "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4486668774",
+      "url": "https://www.linkedin.com/jobs/view/4486692781",
       "source": "JobSpy/linkedin",
       "date": "2026-11-08",
       "tags": []
@@ -1514,14 +1516,6 @@
       "title": "Senior Executive Assistant",
       "company": "Veta Virtual",
       "url": "https://www.linkedin.com/jobs/view/4461373745",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-07",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant – Disaster Recovery",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4486656220",
       "source": "JobSpy/linkedin",
       "date": "2026-11-07",
       "tags": []
@@ -1548,22 +1542,6 @@
       "url": "https://www.linkedin.com/jobs/view/4461393365",
       "source": "JobSpy/linkedin",
       "date": "2026-11-06",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "MegHire",
-      "url": "https://www.linkedin.com/jobs/view/4488118245",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-06",
-      "tags": []
-    },
-    {
-      "title": "Virtual Administrative Assistant (Remote)",
-      "company": "CV-BRIDGE LTD",
-      "url": "https://www.linkedin.com/jobs/view/4486599388",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-05",
       "tags": []
     },
     {
@@ -1631,17 +1609,17 @@
       "tags": []
     },
     {
-      "title": "Operations & Executive Assistant",
-      "company": "Bohemian Rêves",
-      "url": "https://www.indeed.com/viewjob?jk=d7ad94f048734281",
+      "title": "Executive Assistant",
+      "company": "Foundant Technologies",
+      "url": "https://www.indeed.com/viewjob?jk=00060c2737bd94a0",
       "source": "JobSpy/indeed",
-      "date": "2026-11-05",
+      "date": "2026-11-04",
       "tags": []
     },
     {
       "title": "Executive Assistant",
-      "company": "Foundant Technologies",
-      "url": "https://www.indeed.com/viewjob?jk=00060c2737bd94a0",
+      "company": "Five9",
+      "url": "https://www.indeed.com/viewjob?jk=e49dc6de4969cd9a",
       "source": "JobSpy/indeed",
       "date": "2026-11-04",
       "tags": []
@@ -1655,25 +1633,113 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant",
-      "company": "Kids First Swim School Midlothian, Va",
-      "url": "https://www.indeed.com/viewjob?jk=ff45b33dfd15443c",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-03",
+      "title": "Executive Assistant-Japanese Bilingual",
+      "company": "Pasona N A, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4480579000",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-07",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Chief Product Officer",
+      "company": "The Washington Post",
+      "url": "https://www.linkedin.com/jobs/view/4488079571",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the Executive General Manager",
+      "company": "GenusPlus Group",
+      "url": "https://www.linkedin.com/jobs/view/4486943996",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-06",
       "tags": []
     },
     {
       "title": "Executive Assistant",
-      "company": "The Sponsorship Collective",
-      "url": "https://www.indeed.com/viewjob?jk=84bb7f5f27024338",
-      "source": "JobSpy/indeed",
+      "company": "News Corp Australia",
+      "url": "https://www.linkedin.com/jobs/view/4488110291",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant",
+      "company": "Avery Dennison",
+      "url": "https://www.linkedin.com/jobs/view/4487719820",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Global News",
+      "url": "https://www.linkedin.com/jobs/view/4487290525",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the COO",
+      "company": "Paywise",
+      "url": "https://www.linkedin.com/jobs/view/4486354680",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the COO",
+      "company": "Paywise",
+      "url": "https://www.linkedin.com/jobs/view/4487203914",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to CEO",
+      "company": "House Buyers of America, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4485087292",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "TAG HR",
+      "url": "https://www.linkedin.com/jobs/view/4487526326",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "mPokket",
+      "url": "https://www.linkedin.com/jobs/view/4486036734",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Senior Vice President/Chief Legal Officer",
+      "company": "Carrier",
+      "url": "https://www.linkedin.com/jobs/view/4484551126",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the Vice Chairman",
+      "company": "nextjobz",
+      "url": "https://www.linkedin.com/jobs/view/4484376317",
+      "source": "JobSpy/linkedin",
       "date": "2026-11-02",
       "tags": []
     },
     {
-      "title": "Part-Time Outbound Sales Representative – Property Management",
-      "company": "Keep it Clean Services SD",
-      "url": "https://www.indeed.com/viewjob?jk=04e5324ec11f962b",
+      "title": "Residential Property Manager",
+      "company": "Beacon Properties",
+      "url": "https://www.indeed.com/viewjob?jk=46084bb274c299d9",
       "source": "JobSpy/indeed",
       "date": "2026-11-05",
       "tags": []
@@ -1682,14 +1748,6 @@
       "title": "VP of Property Management",
       "company": "Wilhoit Properties, Inc",
       "url": "https://www.indeed.com/viewjob?jk=64d1d8caf167dfd6",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-05",
-      "tags": []
-    },
-    {
-      "title": "Residential Property Manager",
-      "company": "Beacon Properties",
-      "url": "https://www.indeed.com/viewjob?jk=46084bb274c299d9",
       "source": "JobSpy/indeed",
       "date": "2026-11-05",
       "tags": []
@@ -1900,14 +1958,6 @@
       "url": "https://www.linkedin.com/jobs/view/4441351291",
       "source": "JobSpy/linkedin",
       "date": "2026-11-02",
-      "tags": []
-    },
-    {
-      "title": "QA Automation Engineer (Remote)",
-      "company": "Koniag Government Services",
-      "url": "https://www.indeed.com/viewjob?jk=95cb0df9232196f1",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-03",
       "tags": []
     },
     {
