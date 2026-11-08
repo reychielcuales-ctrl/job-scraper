@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-08T04:53:54.601Z",
-  "count": 122,
+  "generatedAt": "2026-11-08T12:53:37.410Z",
+  "count": 130,
   "jobs": [
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -154,6 +154,76 @@
         "typescript",
         "full time",
         "full stack"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Spain (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159780-project-lion-senior-prompt-engineer-spain-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:40+00:00",
+      "tags": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Portugal (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159779-project-lion-senior-prompt-engineer-portugal-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:38+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Netherland (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159778-project-lion-senior-prompt-engineer-netherland-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:37+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Italy (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159777-project-lion-senior-prompt-engineer-italy-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:18+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Germany (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159776-project-lion-senior-prompt-engineer-germany-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:16+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - France (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159775-project-lion-senior-prompt-engineer-france-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:14+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Senior AI Engineer (AI Automation)",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/159726-senior-ai-engineer-ai-automation",
+      "source": "Jobicy",
+      "date": "2026-11-08T07:48:46+00:00",
+      "tags": [
+        "Software Engineering"
       ]
     },
     {
@@ -747,6 +817,17 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -769,45 +850,12 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
         "Toronto, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:24.683Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.965Z",
-      "tags": [
-        "Full-time",
-        "Remote"
       ]
     },
     {
@@ -846,9 +894,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
+      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:40.248Z",
+      "date": "2026-04-14T04:02:39.156Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -857,9 +905,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qdxStjT5fKWWELqEbjfugc/health-insurance-subject-matter-expert-(fully-remote)-in-lisbon-at-covergo",
+      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.852Z",
+      "date": "2026-04-14T03:51:51.492Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -868,9 +916,31 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3QtdJE6KbN8pQMePTK9ynF/health-insurance-subject-matter-expert-(fully-remote)-in-london-at-covergo",
+      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.775Z",
+      "date": "2026-04-14T03:50:07.284Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:06.921Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:24.683Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1065,6 +1135,17 @@
     {
       "title": "Marketing Ops & Automation Specialist",
       "company": "MM Coaching Limited",
+      "url": "https://jobs.workable.com/view/qMCNXRH782cWvfgsxtfGgt/remote-marketing-ops-%26-automation-specialist-in-ireland-at-mm-coaching-limited",
+      "source": "Workable",
+      "date": "2026-11-05T17:07:38.178Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Marketing Ops & Automation Specialist",
+      "company": "MM Coaching Limited",
       "url": "https://jobs.workable.com/view/64Z78o6yMLuBEYBXGz9KRV/remote-marketing-ops-%26-automation-specialist-in-cyprus-at-mm-coaching-limited",
       "source": "Workable",
       "date": "2026-11-05T17:07:37.979Z",
@@ -1101,17 +1182,6 @@
       "url": "https://jobs.workable.com/view/6qmBMoe3DNW5PSf2n33VRY/remote-marketing-ops-%26-automation-specialist-in-canada-at-mm-coaching-limited",
       "source": "Workable",
       "date": "2026-11-05T17:07:36.856Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Marketing Ops & Automation Specialist",
-      "company": "MM Coaching Limited",
-      "url": "https://jobs.workable.com/view/qMCNXRH782cWvfgsxtfGgt/remote-marketing-ops-%26-automation-specialist-in-ireland-at-mm-coaching-limited",
-      "source": "Workable",
-      "date": "2026-11-05T17:07:38.178Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1323,6 +1393,16 @@
       "tags": [
         "Full-time",
         "Atlanta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "CRM Developer",
+      "company": "Advansys",
+      "url": "https://jobs.workable.com/view/nHK4s7BF9WE5tATG42VwEH/hybrid-crm-developer-in-nasr-city-at-advansys",
+      "source": "Workable",
+      "date": "2026-11-08T11:35:26.527Z",
+      "tags": [
+        "Nasr City, Al Manteqah Al Oula, Egypt"
       ]
     },
     {

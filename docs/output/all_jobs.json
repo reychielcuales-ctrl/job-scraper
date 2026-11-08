@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-08T04:54:30.745Z",
-  "count": 171,
+  "generatedAt": "2026-11-08T12:54:02.480Z",
+  "count": 192,
   "sources": {
-    "node": 122,
-    "jobspy": 49
+    "node": 130,
+    "jobspy": 62
   },
   "jobs": [
     {
@@ -158,6 +158,76 @@
         "typescript",
         "full time",
         "full stack"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Spain (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159780-project-lion-senior-prompt-engineer-spain-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:40+00:00",
+      "tags": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Portugal (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159779-project-lion-senior-prompt-engineer-portugal-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:38+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Netherland (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159778-project-lion-senior-prompt-engineer-netherland-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:37+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Italy (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159777-project-lion-senior-prompt-engineer-italy-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:18+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - Germany (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159776-project-lion-senior-prompt-engineer-germany-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:16+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Project Lion - Senior Prompt Engineer - France (Remote, Part-Time)",
+      "company": "Welo Global",
+      "url": "https://jobicy.com/jobs/159775-project-lion-senior-prompt-engineer-france-remote-part-time",
+      "source": "Jobicy",
+      "date": "2026-11-08T09:22:14+00:00",
+      "tags": [
+        "Data Science & Analytics"
+      ]
+    },
+    {
+      "title": "Senior AI Engineer (AI Automation)",
+      "company": "TRM Labs",
+      "url": "https://jobicy.com/jobs/159726-senior-ai-engineer-ai-automation",
+      "source": "Jobicy",
+      "date": "2026-11-08T07:48:46+00:00",
+      "tags": [
+        "Software Engineering"
       ]
     },
     {
@@ -751,6 +821,17 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -773,45 +854,12 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
         "Toronto, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:24.683Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.965Z",
-      "tags": [
-        "Full-time",
-        "Remote"
       ]
     },
     {
@@ -850,9 +898,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
+      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:40.248Z",
+      "date": "2026-04-14T04:02:39.156Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -861,9 +909,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qdxStjT5fKWWELqEbjfugc/health-insurance-subject-matter-expert-(fully-remote)-in-lisbon-at-covergo",
+      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.852Z",
+      "date": "2026-04-14T03:51:51.492Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -872,9 +920,31 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3QtdJE6KbN8pQMePTK9ynF/health-insurance-subject-matter-expert-(fully-remote)-in-london-at-covergo",
+      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.775Z",
+      "date": "2026-04-14T03:50:07.284Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:50:06.921Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:24.683Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1069,6 +1139,17 @@
     {
       "title": "Marketing Ops & Automation Specialist",
       "company": "MM Coaching Limited",
+      "url": "https://jobs.workable.com/view/qMCNXRH782cWvfgsxtfGgt/remote-marketing-ops-%26-automation-specialist-in-ireland-at-mm-coaching-limited",
+      "source": "Workable",
+      "date": "2026-11-05T17:07:38.178Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Marketing Ops & Automation Specialist",
+      "company": "MM Coaching Limited",
       "url": "https://jobs.workable.com/view/64Z78o6yMLuBEYBXGz9KRV/remote-marketing-ops-%26-automation-specialist-in-cyprus-at-mm-coaching-limited",
       "source": "Workable",
       "date": "2026-11-05T17:07:37.979Z",
@@ -1105,17 +1186,6 @@
       "url": "https://jobs.workable.com/view/6qmBMoe3DNW5PSf2n33VRY/remote-marketing-ops-%26-automation-specialist-in-canada-at-mm-coaching-limited",
       "source": "Workable",
       "date": "2026-11-05T17:07:36.856Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Marketing Ops & Automation Specialist",
-      "company": "MM Coaching Limited",
-      "url": "https://jobs.workable.com/view/qMCNXRH782cWvfgsxtfGgt/remote-marketing-ops-%26-automation-specialist-in-ireland-at-mm-coaching-limited",
-      "source": "Workable",
-      "date": "2026-11-05T17:07:38.178Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1330,6 +1400,16 @@
       ]
     },
     {
+      "title": "CRM Developer",
+      "company": "Advansys",
+      "url": "https://jobs.workable.com/view/nHK4s7BF9WE5tATG42VwEH/hybrid-crm-developer-in-nasr-city-at-advansys",
+      "source": "Workable",
+      "date": "2026-11-08T11:35:26.527Z",
+      "tags": [
+        "Nasr City, Al Manteqah Al Oula, Egypt"
+      ]
+    },
+    {
       "title": "Technical Product Manager",
       "company": "Charger Logistics Inc",
       "url": "https://jobs.workable.com/view/svqxvcYBy4dxiDwJgqxErM/technical-product-manager-in-brampton-at-charger-logistics-inc",
@@ -1359,11 +1439,19 @@
       "tags": []
     },
     {
-      "title": "Bilingual Administrative Assistant (Remote)",
-      "company": "Mayitos Roofing",
-      "url": "https://www.indeed.com/viewjob?jk=fd20e71d4f38509e",
+      "title": "Remote Mental Health/Medical Administrative Assistant and Receptionist",
+      "company": "Vitality Clinical Services",
+      "url": "https://www.indeed.com/viewjob?jk=2b57fe9019891d32",
       "source": "JobSpy/indeed",
-      "date": "2026-11-05",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "title": "Property Management Virtual Assistant",
+      "company": "SJA Property Management",
+      "url": "https://www.indeed.com/viewjob?jk=188a8334029401a2",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-04",
       "tags": []
     },
     {
@@ -1375,9 +1463,9 @@
       "tags": []
     },
     {
-      "title": "Property Management Virtual Assistant",
-      "company": "SJA Property Management",
-      "url": "https://www.indeed.com/viewjob?jk=188a8334029401a2",
+      "title": "Remote Medical Administrative Assistant – Insurance Verification",
+      "company": "Huntington Chiropractic Accident & Injury Clinic",
+      "url": "https://www.indeed.com/viewjob?jk=50c470e9274f1c39",
       "source": "JobSpy/indeed",
       "date": "2026-11-04",
       "tags": []
@@ -1391,17 +1479,41 @@
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant",
-      "company": "Veta Virtual",
-      "url": "https://www.linkedin.com/jobs/view/4461373745",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-07",
+      "title": "Executive Assistant to Business Owner | Remote | Part-Time",
+      "company": "Quality Custom Gifts LLC",
+      "url": "https://www.indeed.com/viewjob?jk=cdc6d75f716ecf5b",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-02",
       "tags": []
     },
     {
-      "title": "Virtual Assistant – Remote Staffing",
+      "title": "Remote Medical Virtual Assistant - Permanent Work From Home",
+      "company": "Global Medical Virtual Assistants Careers Page",
+      "url": "https://www.linkedin.com/jobs/view/4486671873",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-08",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "A Full Renovation – Residential Remodeling",
+      "url": "https://www.linkedin.com/jobs/view/4486670784",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-08",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant – Full Time",
       "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4486647558",
+      "url": "https://www.linkedin.com/jobs/view/4486668774",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-08",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant",
+      "company": "Veta Virtual",
+      "url": "https://www.linkedin.com/jobs/view/4461373745",
       "source": "JobSpy/linkedin",
       "date": "2026-11-07",
       "tags": []
@@ -1440,8 +1552,32 @@
     },
     {
       "title": "Virtual Assistant",
+      "company": "MegHire",
+      "url": "https://www.linkedin.com/jobs/view/4488118245",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "title": "Virtual Administrative Assistant (Remote)",
+      "company": "CV-BRIDGE LTD",
+      "url": "https://www.linkedin.com/jobs/view/4486599388",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
       "company": "Promaynov Advisory Services Pvt. Ltd",
       "url": "https://www.linkedin.com/jobs/view/4487085747",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "General Virtual Assistant (Remote Work) - For Pooling",
+      "company": "VirtuallyinCredible Careers Hub",
+      "url": "https://www.linkedin.com/jobs/view/4486394184",
       "source": "JobSpy/linkedin",
       "date": "2026-11-04",
       "tags": []
@@ -1488,16 +1624,16 @@
     },
     {
       "title": "Executive Assistant",
-      "company": "IP STOYANOVA N.V.",
-      "url": "https://www.indeed.com/viewjob?jk=2c24250d0ca756d3",
+      "company": "GitHub",
+      "url": "https://www.indeed.com/viewjob?jk=d167df2a80d2fb5d",
       "source": "JobSpy/indeed",
-      "date": "2026-11-06",
+      "date": "2026-11-05",
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "GitHub",
-      "url": "https://www.indeed.com/viewjob?jk=d167df2a80d2fb5d",
+      "title": "Operations & Executive Assistant",
+      "company": "Bohemian Rêves",
+      "url": "https://www.indeed.com/viewjob?jk=d7ad94f048734281",
       "source": "JobSpy/indeed",
       "date": "2026-11-05",
       "tags": []
@@ -1511,14 +1647,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "Five9",
-      "url": "https://www.indeed.com/viewjob?jk=e49dc6de4969cd9a",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-04",
-      "tags": []
-    },
-    {
       "title": "Senior Executive Assistant",
       "company": "NVIDIA",
       "url": "https://www.indeed.com/viewjob?jk=bb31e1f812ec2a3b",
@@ -1527,9 +1655,25 @@
       "tags": []
     },
     {
-      "title": "Residential Property Manager",
-      "company": "Beacon Properties",
-      "url": "https://www.indeed.com/viewjob?jk=46084bb274c299d9",
+      "title": "Administrative Assistant",
+      "company": "Kids First Swim School Midlothian, Va",
+      "url": "https://www.indeed.com/viewjob?jk=ff45b33dfd15443c",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "The Sponsorship Collective",
+      "url": "https://www.indeed.com/viewjob?jk=84bb7f5f27024338",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "title": "Part-Time Outbound Sales Representative – Property Management",
+      "company": "Keep it Clean Services SD",
+      "url": "https://www.indeed.com/viewjob?jk=04e5324ec11f962b",
       "source": "JobSpy/indeed",
       "date": "2026-11-05",
       "tags": []
@@ -1538,6 +1682,14 @@
       "title": "VP of Property Management",
       "company": "Wilhoit Properties, Inc",
       "url": "https://www.indeed.com/viewjob?jk=64d1d8caf167dfd6",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "title": "Residential Property Manager",
+      "company": "Beacon Properties",
+      "url": "https://www.indeed.com/viewjob?jk=46084bb274c299d9",
       "source": "JobSpy/indeed",
       "date": "2026-11-05",
       "tags": []
@@ -1575,9 +1727,33 @@
       "tags": []
     },
     {
+      "title": "Residential Property Manager",
+      "company": "JP Management LLC",
+      "url": "https://www.linkedin.com/jobs/view/4487304118",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - St. Augustine, FL",
+      "company": "Pegasus Residential",
+      "url": "https://www.linkedin.com/jobs/view/4488459131",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
       "title": "Property Manager",
       "company": "LyvWell Apartments",
       "url": "https://www.linkedin.com/jobs/view/4485869420",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "title": "Property Manager - Apartment Community",
+      "company": "Monarch Investment and Management Group",
+      "url": "https://www.linkedin.com/jobs/view/4487700877",
       "source": "JobSpy/linkedin",
       "date": "2026-11-05",
       "tags": []
@@ -1610,6 +1786,14 @@
       "title": "Property Manager",
       "company": "Apartment Management Consultants",
       "url": "https://www.linkedin.com/jobs/view/4487054303",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Harbor Group Management Company",
+      "url": "https://www.linkedin.com/jobs/view/4486085352",
       "source": "JobSpy/linkedin",
       "date": "2026-11-03",
       "tags": []
