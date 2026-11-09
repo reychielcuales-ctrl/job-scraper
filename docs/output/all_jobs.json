@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-09T05:02:11.652Z",
-  "count": 188,
+  "generatedAt": "2026-11-09T15:28:18.540Z",
+  "count": 193,
   "sources": {
-    "node": 133,
-    "jobspy": 55
+    "node": 125,
+    "jobspy": 68
   },
   "jobs": [
     {
@@ -139,115 +139,13 @@
       ]
     },
     {
-      "title": "Senior React Full stack Developer",
-      "company": "Lemon.io",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-react-full-stack-developer-lemon-io-1137475",
-      "source": "RemoteOK",
-      "date": "2026-10-09T13:09:18+00:00",
-      "tags": [
-        "dev",
-        "engineer",
-        "remote",
-        "python",
-        "aws",
-        "gcp",
-        "javascript",
-        "react",
-        "node",
-        "ruby",
-        "typescript",
-        "full time",
-        "full stack"
-      ]
-    },
-    {
-      "title": "Executive Assistant - LATAM",
-      "company": "Elevenlabs",
-      "url": "https://jobicy.com/jobs/159876-executive-assistant-latam",
+      "title": "Accounting Automation Engineer",
+      "company": "Ruby Labs",
+      "url": "https://jobicy.com/jobs/154905-accounting-automation-engineer",
       "source": "Jobicy",
-      "date": "2026-11-08T19:48:22+00:00",
+      "date": "2026-11-09T03:15:19+00:00",
       "tags": [
-        "Admin & Virtual Assistance"
-      ]
-    },
-    {
-      "title": "Director, Sales Engineering",
-      "company": "Mattermost",
-      "url": "https://jobicy.com/jobs/159856-director-sales-engineering-3",
-      "source": "Jobicy",
-      "date": "2026-11-08T16:19:40+00:00",
-      "tags": [
-        "Sales"
-      ]
-    },
-    {
-      "title": "Project Lion - Senior Prompt Engineer - Japan (Remote, Part-Time)",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159812-project-lion-senior-prompt-engineer-japan-remote-part-time",
-      "source": "Jobicy",
-      "date": "2026-11-08T10:25:08+00:00",
-      "tags": [
-        "Data Science & Analytics"
-      ]
-    },
-    {
-      "title": "Project Lion - Senior Prompt Engineer - Spain (Remote, Part-Time)",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159780-project-lion-senior-prompt-engineer-spain-remote-part-time",
-      "source": "Jobicy",
-      "date": "2026-11-08T09:22:40+00:00",
-      "tags": [
-        "Software Engineering"
-      ]
-    },
-    {
-      "title": "Project Lion - Senior Prompt Engineer - Portugal (Remote, Part-Time)",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159779-project-lion-senior-prompt-engineer-portugal-remote-part-time",
-      "source": "Jobicy",
-      "date": "2026-11-08T09:22:38+00:00",
-      "tags": [
-        "Data Science & Analytics"
-      ]
-    },
-    {
-      "title": "Project Lion - Senior Prompt Engineer - Netherland (Remote, Part-Time)",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159778-project-lion-senior-prompt-engineer-netherland-remote-part-time",
-      "source": "Jobicy",
-      "date": "2026-11-08T09:22:37+00:00",
-      "tags": [
-        "Data Science & Analytics"
-      ]
-    },
-    {
-      "title": "Project Lion - Senior Prompt Engineer - Italy (Remote, Part-Time)",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159777-project-lion-senior-prompt-engineer-italy-remote-part-time",
-      "source": "Jobicy",
-      "date": "2026-11-08T09:22:18+00:00",
-      "tags": [
-        "Data Science & Analytics"
-      ]
-    },
-    {
-      "title": "Project Lion - Senior Prompt Engineer - Germany (Remote, Part-Time)",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159776-project-lion-senior-prompt-engineer-germany-remote-part-time",
-      "source": "Jobicy",
-      "date": "2026-11-08T09:22:16+00:00",
-      "tags": [
-        "Data Science & Analytics"
-      ]
-    },
-    {
-      "title": "Project Lion - Senior Prompt Engineer - France (Remote, Part-Time)",
-      "company": "Welo Global",
-      "url": "https://jobicy.com/jobs/159775-project-lion-senior-prompt-engineer-france-remote-part-time",
-      "source": "Jobicy",
-      "date": "2026-11-08T09:22:14+00:00",
-      "tags": [
-        "Data Science & Analytics"
+        "Finance & Accounting"
       ]
     },
     {
@@ -315,19 +213,19 @@
       "tags": []
     },
     {
-      "title": "Manager, Renewals",
-      "company": "Tines",
-      "url": "https://weworkremotely.com/remote-jobs/tines-manager-renewals",
-      "source": "We Work Remotely",
-      "date": "Sat, 10 Oct 2026 07:31:08 +0000",
-      "tags": []
-    },
-    {
       "title": "Solutions Engineer - Customer Success",
       "company": "New Law Business Model",
       "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-solutions-engineer-customer-success",
       "source": "We Work Remotely",
       "date": "Tue, 07 Feb 2023 20:07:41 +0000",
+      "tags": []
+    },
+    {
+      "title": "Hazard Claims Administrator (REMOTE)",
+      "company": "Dimont &amp; Associates, LLC",
+      "url": "https://weworkremotely.com/remote-jobs/dimont-associates-llc-hazard-claims-administrator-remote",
+      "source": "We Work Remotely",
+      "date": "Mon, 09 Nov 2026 09:07:10 +0000",
       "tags": []
     },
     {
@@ -630,36 +528,6 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-04T11:11:56.968Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-04T11:11:56.387Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-04T11:11:55.736Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
       "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
       "source": "Workable",
       "date": "2026-11-04T11:11:56.615Z",
@@ -683,6 +551,36 @@
       "url": "https://jobs.workable.com/view/v8aGYpjHcXkmHUucmxPFxE/remote-head-of-property-management-in-united-arab-emirates-at-acs-group",
       "source": "Workable",
       "date": "2026-11-04T11:11:56.026Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.968Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:56.387Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-04T11:11:55.736Z",
       "tags": [
         "Remote"
       ]
@@ -721,9 +619,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
+      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-29T22:04:28.700Z",
+      "date": "2026-10-29T22:04:28.429Z",
       "tags": [
         "Contract",
         "Remote"
@@ -732,9 +630,9 @@
     {
       "title": "Property Management Maintenance Coordinator (Remote - Real Estate)",
       "company": "Propertyse",
-      "url": "https://jobs.workable.com/view/fJyxVF9Q32EpYfDErHYQCj/property-management-maintenance-coordinator-(remote---real-estate)-in-colombia-at-propertyse",
+      "url": "https://jobs.workable.com/view/dHmFjcxrzBggZUbZUG1hyi/property-management-maintenance-coordinator-(remote---real-estate)-in-mexico-at-propertyse",
       "source": "Workable",
-      "date": "2026-10-29T22:04:28.429Z",
+      "date": "2026-10-29T22:04:28.700Z",
       "tags": [
         "Contract",
         "Remote"
@@ -752,14 +650,24 @@
       ]
     },
     {
-      "title": "Property Management Associate",
-      "company": "Houst",
-      "url": "https://jobs.workable.com/view/d5CJeqj2uX5ej4AxoZCS32/hybrid-property-management-associate-in-cape-town-at-houst",
+      "title": "Temporary Property Manager II (8-week Assignment)",
+      "company": "SoLa Impact",
+      "url": "https://jobs.workable.com/view/taAteqPy2osHaBuktM4ehP/temporary-property-manager-ii-(8-week-assignment)-in-los-angeles-at-sola-impact",
       "source": "Workable",
-      "date": "2026-10-14T13:49:43.554Z",
+      "date": "2026-08-10T21:50:12.456Z",
       "tags": [
-        "Full-time",
-        "Cape Town, Western Cape, South Africa"
+        "Temporary",
+        "Los Angeles, California, United States"
+      ]
+    },
+    {
+      "title": "Residential Rental Senior Associate ( 1805 )",
+      "company": "Lamda Development SA",
+      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-(-1805-)-in-greece-at-lamda-development-sa",
+      "source": "Workable",
+      "date": "2026-11-09T08:41:56.193Z",
+      "tags": [
+        "Greece"
       ]
     },
     {
@@ -782,28 +690,6 @@
       "tags": [
         "Full-time",
         "Alpharetta, Georgia, United States"
-      ]
-    },
-    {
-      "title": "Assistant Community Association Manager",
-      "company": "Mountain Valley",
-      "url": "https://jobs.workable.com/view/aF5E1xbzzPR9uJexgKMSVK/hybrid-assistant-community-association-manager-in-avon-at-mountain-valley",
-      "source": "Workable",
-      "date": "2026-11-06T19:57:50.842Z",
-      "tags": [
-        "Full-time",
-        "Avon, Colorado, United States"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "Admiral Communities",
-      "url": "https://jobs.workable.com/view/rj5Dij6jBArFM8DA9bTAdq/property-manager-in-maryville-at-admiral-communities",
-      "source": "Workable",
-      "date": "2026-11-06T17:58:23.242Z",
-      "tags": [
-        "Full-time",
-        "Maryville, Tennessee, United States"
       ]
     },
     {
@@ -841,28 +727,6 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.747Z",
-      "tags": [
-        "Full-time",
-        "Halifax, Nova Scotia, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/gbn5q9Hktxa4xbzAmEA4Jz/hybrid-underwriting-operations---account-analyst-in-vancouver-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.412Z",
-      "tags": [
-        "Full-time",
-        "Vancouver, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.013Z",
@@ -883,25 +747,25 @@
       ]
     },
     {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
-      "date": "2026-04-14T04:07:24.683Z",
+      "date": "2026-10-23T16:01:50.747Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Halifax, Nova Scotia, Canada"
       ]
     },
     {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/gbn5q9Hktxa4xbzAmEA4Jz/hybrid-underwriting-operations---account-analyst-in-vancouver-at-liberty-mutual-canada",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.965Z",
+      "date": "2026-10-23T16:01:50.412Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Vancouver, British Columbia, Canada"
       ]
     },
     {
@@ -940,9 +804,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/pN5HnXbM8goyb2sXnqo5RL/health-insurance-subject-matter-expert-(fully-remote)-in-cambridge-at-covergo",
+      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:40.248Z",
+      "date": "2026-04-14T04:02:39.156Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -951,9 +815,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qdxStjT5fKWWELqEbjfugc/health-insurance-subject-matter-expert-(fully-remote)-in-lisbon-at-covergo",
+      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.852Z",
+      "date": "2026-04-14T03:51:51.492Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -962,34 +826,34 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3QtdJE6KbN8pQMePTK9ynF/health-insurance-subject-matter-expert-(fully-remote)-in-london-at-covergo",
+      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.775Z",
+      "date": "2026-04-14T03:50:07.284Z",
       "tags": [
         "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
       "source": "Workable",
-      "date": "2026-02-09T03:07:52.553Z",
+      "date": "2026-04-14T03:50:06.921Z",
       "tags": [
         "Full-time",
-        "São Paulo, State of São Paulo, Brazil"
+        "Remote"
       ]
     },
     {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
       "source": "Workable",
-      "date": "2026-02-09T03:07:52.334Z",
+      "date": "2026-04-14T04:07:25.674Z",
       "tags": [
         "Full-time",
-        "Mexico City, Mexico City, Mexico"
+        "Remote"
       ]
     },
     {
@@ -1012,6 +876,28 @@
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.553Z",
+      "tags": [
+        "Full-time",
+        "São Paulo, State of São Paulo, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.334Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -1138,17 +1024,6 @@
     {
       "title": "Junior AI & Automation Specialist",
       "company": "The Job Portal",
-      "url": "https://jobs.workable.com/view/szL1n55zDFRi98CeWXAckD/remote-junior-ai-%26-automation-specialist-in-india-at-the-job-portal",
-      "source": "Workable",
-      "date": "2026-11-09T02:35:44.285Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Junior AI & Automation Specialist",
-      "company": "The Job Portal",
       "url": "https://jobs.workable.com/view/v2dg5mC5kNmEGUfD6xH9ii/remote-junior-ai-%26-automation-specialist-in-north-macedonia-at-the-job-portal",
       "source": "Workable",
       "date": "2026-11-09T02:35:44.660Z",
@@ -1163,6 +1038,17 @@
       "url": "https://jobs.workable.com/view/u2rtF6bqxpEWPmuFqZqFQ1/remote-junior-ai-%26-automation-specialist-in-egypt-at-the-job-portal",
       "source": "Workable",
       "date": "2026-11-09T02:35:44.601Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Junior AI & Automation Specialist",
+      "company": "The Job Portal",
+      "url": "https://jobs.workable.com/view/szL1n55zDFRi98CeWXAckD/remote-junior-ai-%26-automation-specialist-in-india-at-the-job-portal",
+      "source": "Workable",
+      "date": "2026-11-09T02:35:44.285Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1214,17 +1100,6 @@
     {
       "title": "Marketing Ops & Automation Specialist",
       "company": "MM Coaching Limited",
-      "url": "https://jobs.workable.com/view/qMCNXRH782cWvfgsxtfGgt/remote-marketing-ops-%26-automation-specialist-in-ireland-at-mm-coaching-limited",
-      "source": "Workable",
-      "date": "2026-11-05T17:07:38.178Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Marketing Ops & Automation Specialist",
-      "company": "MM Coaching Limited",
       "url": "https://jobs.workable.com/view/64Z78o6yMLuBEYBXGz9KRV/remote-marketing-ops-%26-automation-specialist-in-cyprus-at-mm-coaching-limited",
       "source": "Workable",
       "date": "2026-11-05T17:07:37.979Z",
@@ -1261,6 +1136,28 @@
       "url": "https://jobs.workable.com/view/6qmBMoe3DNW5PSf2n33VRY/remote-marketing-ops-%26-automation-specialist-in-canada-at-mm-coaching-limited",
       "source": "Workable",
       "date": "2026-11-05T17:07:36.856Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Marketing Ops & Automation Specialist",
+      "company": "MM Coaching Limited",
+      "url": "https://jobs.workable.com/view/qMCNXRH782cWvfgsxtfGgt/remote-marketing-ops-%26-automation-specialist-in-ireland-at-mm-coaching-limited",
+      "source": "Workable",
+      "date": "2026-11-05T17:07:38.178Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Marketing Ops & Automation Specialist",
+      "company": "MM Coaching Limited",
+      "url": "https://jobs.workable.com/view/828nLQiS3VvebxtNNCLmk8/remote-marketing-ops-%26-automation-specialist-in-portugal-at-mm-coaching-limited",
+      "source": "Workable",
+      "date": "2026-11-05T17:07:37.327Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1431,6 +1328,28 @@
       ]
     },
     {
+      "title": "AI Automation Engineer",
+      "company": "JoVE",
+      "url": "https://jobs.workable.com/view/k6dD12cmNTWY4WSxVWZHSZ/remote-ai-automation-engineer-in-bengaluru-at-jove",
+      "source": "Workable",
+      "date": "2026-11-09T11:05:24.290Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "AI Automation Engineer",
+      "company": "JoVE",
+      "url": "https://jobs.workable.com/view/ixCPzECndqnMEBk9ydQnr8/remote-ai-automation-engineer-in-gurugram-at-jove",
+      "source": "Workable",
+      "date": "2026-11-09T11:05:24.253Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "CRM Developer",
       "company": "Advansys",
       "url": "https://jobs.workable.com/view/nHK4s7BF9WE5tATG42VwEH/hybrid-crm-developer-in-nasr-city-at-advansys",
@@ -1448,17 +1367,6 @@
       "date": "2026-11-06T21:46:31.384Z",
       "tags": [
         "Brampton, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Sales Operations Executive (Sydney)",
-      "company": "Elect Capital",
-      "url": "https://jobs.workable.com/view/2GJzjFzsyMHdpL5mbSKvas/sales-operations-executive-(sydney)-in-sydney-at-elect-capital",
-      "source": "Workable",
-      "date": "2026-11-06T13:33:13.059Z",
-      "tags": [
-        "Full-time",
-        "Sydney, New South Wales, Australia"
       ]
     },
     {
@@ -1486,6 +1394,14 @@
       "tags": []
     },
     {
+      "title": "Virtual Executive Assistant",
+      "company": "Team Delegate, LLC",
+      "url": "https://www.indeed.com/viewjob?jk=b97151a1276e0a5c",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
       "title": "Property Management Virtual Assistant",
       "company": "SJA Property Management",
       "url": "https://www.indeed.com/viewjob?jk=188a8334029401a2",
@@ -1494,11 +1410,35 @@
       "tags": []
     },
     {
-      "title": "Virtual Executive Assistant",
-      "company": "Team Delegate, LLC",
-      "url": "https://www.indeed.com/viewjob?jk=b97151a1276e0a5c",
+      "title": "Executive Assistant & Project Manager (Contract, Remote)",
+      "company": "MCC Marketing Group",
+      "url": "https://www.indeed.com/viewjob?jk=ead0334af398a812",
       "source": "JobSpy/indeed",
       "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "Fable Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4488835828",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "Fable Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4488831737",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Mass Markets",
+      "url": "https://www.linkedin.com/jobs/view/4487153463",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-09",
       "tags": []
     },
     {
@@ -1526,35 +1466,11 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant | Full-Time",
-      "company": "TellTeam",
-      "url": "https://www.linkedin.com/jobs/view/4488497836",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-07",
-      "tags": []
-    },
-    {
       "title": "Senior Executive Assistant",
       "company": "Veta Virtual",
       "url": "https://www.linkedin.com/jobs/view/4461393365",
       "source": "JobSpy/linkedin",
       "date": "2026-11-06",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "MegHire",
-      "url": "https://www.linkedin.com/jobs/view/4488118245",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-06",
-      "tags": []
-    },
-    {
-      "title": "Virtual Administrative Assistant (Remote)",
-      "company": "CV-BRIDGE LTD",
-      "url": "https://www.linkedin.com/jobs/view/4486599388",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-05",
       "tags": []
     },
     {
@@ -1582,11 +1498,11 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant",
-      "company": "Care With love transportation corp",
-      "url": "https://www.linkedin.com/jobs/view/4467939099",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-03",
+      "title": "Executive Assistant, Office of the CFO",
+      "company": "GitLab Inc",
+      "url": "https://www.indeed.com/viewjob?jk=4d7399d2068624e4",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-07",
       "tags": []
     },
     {
@@ -1598,35 +1514,11 @@
       "tags": []
     },
     {
-      "title": "AI Executive Assistant",
+      "title": "AI Executive Assistant Manager",
       "company": "Wajo AI",
       "url": "https://www.indeed.com/viewjob?jk=1065085927f73702",
       "source": "JobSpy/indeed",
       "date": "2026-11-07",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "IP STOYANOVA N.V.",
-      "url": "https://www.indeed.com/viewjob?jk=2c24250d0ca756d3",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-06",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "ABB",
-      "url": "https://www.indeed.com/viewjob?jk=b826a803cffecfd2",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-06",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO, AHG",
-      "company": "Allia Health Group",
-      "url": "https://www.indeed.com/viewjob?jk=f6c687649de4d523",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-06",
       "tags": []
     },
     {
@@ -1646,9 +1538,17 @@
       "tags": []
     },
     {
+      "title": "Operations & Executive Assistant",
+      "company": "Bohemian Rêves",
+      "url": "https://www.indeed.com/viewjob?jk=d7ad94f048734281",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant",
-      "company": "Five9",
-      "url": "https://www.indeed.com/viewjob?jk=e49dc6de4969cd9a",
+      "company": "Foundant Technologies",
+      "url": "https://www.indeed.com/viewjob?jk=00060c2737bd94a0",
       "source": "JobSpy/indeed",
       "date": "2026-11-04",
       "tags": []
@@ -1659,6 +1559,118 @@
       "url": "https://www.indeed.com/viewjob?jk=bb31e1f812ec2a3b",
       "source": "JobSpy/indeed",
       "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "The Sponsorship Collective",
+      "url": "https://www.indeed.com/viewjob?jk=84bb7f5f27024338",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-02",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Chief Executive Officer",
+      "company": "Eunoia Designtech",
+      "url": "https://www.linkedin.com/jobs/view/4487163313",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Nitro Solutions Pty Ltd (Acquired by RPMGlobal)",
+      "url": "https://www.linkedin.com/jobs/view/4488823193",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant/Senior Executive Assistant",
+      "company": "Zeta",
+      "url": "https://www.linkedin.com/jobs/view/4488862328",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant-Japanese Bilingual",
+      "company": "Pasona N A, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4480579000",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-07",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the Executive General Manager",
+      "company": "GenusPlus Group",
+      "url": "https://www.linkedin.com/jobs/view/4486943996",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-06",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant",
+      "company": "Avery Dennison",
+      "url": "https://www.linkedin.com/jobs/view/4487719820",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-05",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Global News",
+      "url": "https://www.linkedin.com/jobs/view/4487290525",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the COO",
+      "company": "Paywise",
+      "url": "https://www.linkedin.com/jobs/view/4486354680",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the COO",
+      "company": "Paywise",
+      "url": "https://www.linkedin.com/jobs/view/4487203914",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to CEO",
+      "company": "House Buyers of America, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4485087292",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "TAG HR",
+      "url": "https://www.linkedin.com/jobs/view/4487526326",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-04",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "mPokket",
+      "url": "https://www.linkedin.com/jobs/view/4486036734",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-03",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the Vice Chairman",
+      "company": "nextjobz",
+      "url": "https://www.linkedin.com/jobs/view/4484376317",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-02",
       "tags": []
     },
     {
@@ -1798,6 +1810,14 @@
       "tags": []
     },
     {
+      "title": "Insurance Operations Specialist | SEB Pension & Försäkring, Solna",
+      "company": "SEB",
+      "url": "https://www.linkedin.com/jobs/view/4488863371",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
       "title": "Associate/Senior Associate-Insurance Operations",
       "company": "Allianz Services",
       "url": "https://www.linkedin.com/jobs/view/4487750620",
@@ -1878,27 +1898,19 @@
       "tags": []
     },
     {
-      "title": "Process Automation Specialist",
-      "company": "LeoVegas Group",
-      "url": "https://www.linkedin.com/jobs/view/4441351291",
+      "title": "Senior Business Process Automation Engineer - Remote",
+      "company": "Tower Hill Insurance Group",
+      "url": "https://www.linkedin.com/jobs/view/4476850517",
       "source": "JobSpy/linkedin",
-      "date": "2026-11-02",
+      "date": "2026-11-05",
       "tags": []
     },
     {
-      "title": "Marketing Automation Specialist",
-      "company": "Motion Strategies LLC",
-      "url": "https://www.indeed.com/viewjob?jk=6ce94b8c6aa55bed",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-08",
-      "tags": []
-    },
-    {
-      "title": "Power Platform Automation Engineer",
-      "company": "SILVARE",
-      "url": "https://www.linkedin.com/jobs/view/4486169236",
+      "title": "RevOps Workflow Automation Manager",
+      "company": "Sage",
+      "url": "https://www.linkedin.com/jobs/view/4450643937",
       "source": "JobSpy/linkedin",
-      "date": "2026-11-02",
+      "date": "2026-11-05",
       "tags": []
     }
   ]
