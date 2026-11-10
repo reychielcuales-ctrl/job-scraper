@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-10T01:15:55.201Z",
-  "count": 124,
+  "generatedAt": "2026-11-10T14:28:38.740Z",
+  "count": 122,
   "jobs": [
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -271,6 +271,16 @@
       "tags": []
     },
     {
+      "title": "Virtual Assistant",
+      "company": "BookWithMel",
+      "url": "https://jobs.workable.com/view/xyLPkgRZcniNQe4AKpxc8b/remote-virtual-assistant-in-philippines-at-bookwithmel",
+      "source": "Workable",
+      "date": "2026-02-11T16:55:26.593Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
       "title": "Virtual Assistant - Medical Billing Experience",
       "company": "The Boutique COO",
       "url": "https://jobs.workable.com/view/2cLnv1358ry5kbAQqwpgWu/remote-virtual-assistant---medical-billing-experience-in-united-states-at-the-boutique-coo",
@@ -409,17 +419,6 @@
       "date": "2026-10-10T02:28:19.555Z",
       "tags": [
         "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Executive Virtual Assistant",
-      "company": "Global Medical Virtual Assistants",
-      "url": "https://jobs.workable.com/view/s99Wi84FU7KnSnxQwTFfr7/remote-executive-virtual-assistant-in-quezon-city-at-global-medical-virtual-assistants",
-      "source": "Workable",
-      "date": "2026-10-27T14:08:06.825Z",
-      "tags": [
-        "Full-time",
         "Remote"
       ]
     },
@@ -587,6 +586,17 @@
       ]
     },
     {
+      "title": "Assistant Community Manager",
+      "company": "E-State Management, LLC",
+      "url": "https://jobs.workable.com/view/9hCzJx985WVpsf13dnwK8Y/assistant-community-manager-in-lawrence-at-e-state-management%2C-llc",
+      "source": "Workable",
+      "date": "2022-11-29T22:33:52.000Z",
+      "tags": [
+        "Full-time",
+        "Lawrence, Kansas, United States"
+      ]
+    },
+    {
       "title": "Property Manager",
       "company": "Zinger Property Group",
       "url": "https://jobs.workable.com/view/9dQUHBMfDz1vpGAtRfLxmJ/property-manager-in-lexington-at-zinger-property-group",
@@ -709,23 +719,23 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
         "Toronto, Ontario, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
       ]
     },
     {
@@ -748,6 +758,72 @@
       "tags": [
         "Full-time",
         "Vancouver, British Columbia, Canada"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.674Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.602Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:07:25.548Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.453Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/jht3iVSsgKk7UwYaLYrfBX/health-insurance-subject-matter-expert-(fully-remote)-in-brno-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.201Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/hWZbEy5M7SFQdnZNyAAdAU/health-insurance-subject-matter-expert-(fully-remote)-in-munich-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T03:51:52.174Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     },
     {
@@ -778,61 +854,6 @@
       "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:02:40.771Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:02:39.156Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/378HgyNycWiRwae4kG2ztc/health-insurance-subject-matter-expert-(fully-remote)-in-brussels-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:51:51.492Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/rTso9o6KVMd9kC2tFoEdC4/health-insurance-subject-matter-expert-(fully-remote)-in-rome-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:07.284Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/isJiLyu798FZ8xWKQGhKgc/health-insurance-subject-matter-expert-(fully-remote)-in-milan-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T03:50:06.921Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1300,69 +1321,23 @@
       ]
     },
     {
-      "title": "Senior Recruiter (Remote)",
-      "company": "LawnStarter",
-      "url": "https://jobs.workable.com/view/6jD77JcaSuQdcQ5vbegQqt/senior-recruiter-(remote)-in-metro-manila-at-lawnstarter",
+      "title": "AI Tech Lead",
+      "company": "emerchantpay",
+      "url": "https://jobs.workable.com/view/r12a8cKJiHoyjUxXHXCNY2/remote-ai-tech-lead-in-sofia-at-emerchantpay",
       "source": "Workable",
-      "date": "2026-11-09T17:51:12.301Z",
+      "date": "2026-05-13T13:48:08.345Z",
       "tags": [
-        "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "Senior Recruiter (Remote)",
-      "company": "LawnStarter",
-      "url": "https://jobs.workable.com/view/pmVeokXiu58QGgDnAjCRgY/senior-recruiter-(remote)-in-angeles-city-at-lawnstarter",
+      "title": "Head of Product Indonesia",
+      "company": "EPOS",
+      "url": "https://jobs.workable.com/view/5vk16ucTEcqK9MAjNdgFrG/head-of-product-indonesia-in-jakarta-at-epos",
       "source": "Workable",
-      "date": "2026-11-09T17:51:13.224Z",
+      "date": "2026-11-10T03:24:14.792Z",
       "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Senior Recruiter (Remote)",
-      "company": "LawnStarter",
-      "url": "https://jobs.workable.com/view/7PwVmgDKFZVz9tpscvQH2i/senior-recruiter-(remote)-in-iloilo-at-lawnstarter",
-      "source": "Workable",
-      "date": "2026-11-09T17:51:12.945Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Senior Recruiter (Remote)",
-      "company": "LawnStarter",
-      "url": "https://jobs.workable.com/view/rahUvXVJW5hiXU49xTEUdb/senior-recruiter-(remote)-in-davao-region-at-lawnstarter",
-      "source": "Workable",
-      "date": "2026-11-09T17:51:12.690Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Senior Recruiter (Remote)",
-      "company": "LawnStarter",
-      "url": "https://jobs.workable.com/view/jhMzcB1adnJf63JEbtBY4Q/senior-recruiter-(remote)-in-philippines-at-lawnstarter",
-      "source": "Workable",
-      "date": "2026-11-09T17:51:12.515Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Senior Recruiter (Remote)",
-      "company": "LawnStarter",
-      "url": "https://jobs.workable.com/view/eoq7Us4PigYRixGjGAyvyV/senior-recruiter-(remote)-in-cebu-at-lawnstarter",
-      "source": "Workable",
-      "date": "2026-11-09T17:51:11.954Z",
-      "tags": [
-        "Full-time",
-        "Remote"
+        "Jakarta, Jakarta, Indonesia"
       ]
     }
   ]
