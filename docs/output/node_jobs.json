@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-11T05:03:57.108Z",
-  "count": 122,
+  "generatedAt": "2026-11-11T13:42:53.702Z",
+  "count": 125,
   "jobs": [
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -96,27 +96,63 @@
       ]
     },
     {
-      "title": "Senior Backend Engineer",
-      "company": "DuckDuckGo",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-backend-engineer-duckduckgo-1137551",
-      "source": "RemoteOK",
-      "date": "2026-10-21T14:29:21+00:00",
+      "title": "Part-Time Virtual Travel Assistant & Affiliate Recruiter Management",
+      "company": "The Flex",
+      "url": "https://jobicy.com/jobs/155035-part-time-virtual-travel-assistant-affiliate-recruiter-management-2",
+      "source": "Jobicy",
+      "date": "2026-11-11T02:55:09+00:00",
       "tags": [
-        "backend",
-        "perl",
-        "golang",
-        "javascript",
-        "node"
+        "Admin & Virtual Assistance"
       ]
     },
     {
-      "title": "QA Engineer",
-      "company": "Neuroscale AI",
-      "url": "https://jobicy.com/jobs/161171-qa-engineer-6",
+      "title": "Senior Mobile Engineer",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/154994-senior-mobile-engineer",
       "source": "Jobicy",
-      "date": "2026-11-10T15:11:50+00:00",
+      "date": "2026-11-11T02:45:15+00:00",
       "tags": [
-        "QA & Testing"
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Automation Strategist, Customer Success",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/154992-automation-strategist-customer-success",
+      "source": "Jobicy",
+      "date": "2026-11-11T02:45:13+00:00",
+      "tags": [
+        "Customer Support & Success"
+      ]
+    },
+    {
+      "title": "Senior Full Stack Engineer",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/154987-senior-full-stack-engineer-6",
+      "source": "Jobicy",
+      "date": "2026-11-11T02:45:12+00:00",
+      "tags": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Finance Manager, Marketing",
+      "company": "Zapier",
+      "url": "https://jobicy.com/jobs/154988-finance-manager-marketing",
+      "source": "Jobicy",
+      "date": "2026-11-11T02:45:07+00:00",
+      "tags": [
+        "Finance & Accounting"
+      ]
+    },
+    {
+      "title": "Senior Software Engineer (.NET) (f/m/d)",
+      "company": "Apaleo",
+      "url": "https://jobicy.com/jobs/152912-senior-software-engineer-net-f-m-d",
+      "source": "Jobicy",
+      "date": "2026-11-11T02:35:17+00:00",
+      "tags": [
+        "Software Engineering"
       ]
     },
     {
@@ -451,17 +487,6 @@
     {
       "title": "Amazon Associate - Virtual Assistant for Amazon agency",
       "company": "Rankona Mazon AB",
-      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
-      "source": "Workable",
-      "date": "2025-09-26T11:49:14.467Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
-      "company": "Rankona Mazon AB",
       "url": "https://jobs.workable.com/view/7z4zb5bdiS2mdN81P2ep4A/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-azerbaijan-at-rankona-mazon-ab",
       "source": "Workable",
       "date": "2025-09-26T11:49:15.278Z",
@@ -476,6 +501,17 @@
       "url": "https://jobs.workable.com/view/xhnoSCPBE7FZtYPzUveSyX/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-slovakia-at-rankona-mazon-ab",
       "source": "Workable",
       "date": "2025-09-26T11:49:13.953Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Amazon Associate - Virtual Assistant for Amazon agency",
+      "company": "Rankona Mazon AB",
+      "url": "https://jobs.workable.com/view/smqLxrTWyuLS3FVx2yxT5q/remote-amazon-associate---virtual-assistant-for-amazon-agency-in-ukraine-at-rankona-mazon-ab",
+      "source": "Workable",
+      "date": "2025-09-26T11:49:14.467Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -701,23 +737,23 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.747Z",
-      "tags": [
-        "Full-time",
-        "Halifax, Nova Scotia, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.013Z",
       "tags": [
         "Full-time",
         "Calgary, Alberta, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.747Z",
+      "tags": [
+        "Full-time",
+        "Halifax, Nova Scotia, Canada"
       ]
     },
     {
@@ -800,31 +836,31 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/cHurR7bSedpVxRs1SoLxXz/health-insurance-subject-matter-expert-(fully-remote)-in-krak%C3%B3w-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:24.683Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/g2qQkyP8L5sNE78cj2wJAp/health-insurance-subject-matter-expert-(fully-remote)-in-utrecht-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.965Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.073Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:40.771Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1292,17 +1328,6 @@
       ]
     },
     {
-      "title": "Lead Operations Manager (Support Services)",
-      "company": "Deblock",
-      "url": "https://jobs.workable.com/view/o5HoDeg536PdYisXcVzTHZ/hybrid-lead-operations-manager-(support-services)-in-porto-at-deblock",
-      "source": "Workable",
-      "date": "2026-11-10T22:55:28.831Z",
-      "tags": [
-        "Full-time",
-        "Porto, Porto District, Portugal"
-      ]
-    },
-    {
       "title": "Senior Product Manager",
       "company": "Libra Solutions",
       "url": "https://jobs.workable.com/view/1sdBQyT9GqGF32rEKKYiQ6/hybrid-senior-product-manager-in-charlotte-at-libra-solutions",
@@ -1314,13 +1339,14 @@
       ]
     },
     {
-      "title": "Director, Sync Licensing Administration",
-      "company": "Kobalt Music",
-      "url": "https://jobs.workable.com/view/5Qi4t4DE933ToGnLjWatBQ/hybrid-director%2C-sync-licensing-administration-in-london-at-kobalt-music",
+      "title": "Lead Operations Manager (Support Services)",
+      "company": "Deblock",
+      "url": "https://jobs.workable.com/view/o5HoDeg536PdYisXcVzTHZ/hybrid-lead-operations-manager-(support-services)-in-porto-at-deblock",
       "source": "Workable",
-      "date": "2026-11-10T20:37:00.287Z",
+      "date": "2026-11-10T22:55:28.831Z",
       "tags": [
-        "London, England, United Kingdom"
+        "Full-time",
+        "Porto, Porto District, Portugal"
       ]
     }
   ]
