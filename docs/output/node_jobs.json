@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-12T23:16:43.055Z",
-  "count": 119,
+  "generatedAt": "2026-11-13T05:30:00.049Z",
+  "count": 121,
   "jobs": [
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -816,28 +816,6 @@
     {
       "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.553Z",
-      "tags": [
-        "Full-time",
-        "São Paulo, State of São Paulo, Brazil"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.334Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/be8hXZ4rQdNW6RFbNfDyYo/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-florian%C3%B3polis-at-darwin-ai",
       "source": "Workable",
       "date": "2026-02-09T03:07:53.150Z",
@@ -855,6 +833,28 @@
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.553Z",
+      "tags": [
+        "Full-time",
+        "São Paulo, State of São Paulo, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.334Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -1157,17 +1157,6 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:30:45.436Z",
-      "tags": [
-        "Full-time",
-        "Savannah, Georgia, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:52:02.165Z",
@@ -1196,6 +1185,17 @@
       "tags": [
         "Full-time",
         "Oakland, California, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:30:45.436Z",
+      "tags": [
+        "Full-time",
+        "Savannah, Georgia, United States"
       ]
     },
     {
@@ -1273,6 +1273,28 @@
       "tags": [
         "Contract",
         "Remote"
+      ]
+    },
+    {
+      "title": "Customer Operations Manager (m/f/d)",
+      "company": "Parcelly",
+      "url": "https://jobs.workable.com/view/gfHoTZNLVpE5ut5kRqcCEC/hybrid-customer-operations-manager-(m%2Ff%2Fd)-in-london-at-parcelly",
+      "source": "Workable",
+      "date": "2026-11-13T00:47:58.174Z",
+      "tags": [
+        "Other",
+        "London, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "Customer Operations Manager (m/f/d)",
+      "company": "Parcelly",
+      "url": "https://jobs.workable.com/view/3TwfbFxcDpBhAHeeYY4E3x/hybrid-customer-operations-manager-(m%2Ff%2Fd)-in-london-at-parcelly",
+      "source": "Workable",
+      "date": "2026-11-13T00:47:58.671Z",
+      "tags": [
+        "Other",
+        "London, England, United Kingdom"
       ]
     }
   ]
