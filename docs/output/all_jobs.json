@@ -1,8 +1,8 @@
 {
-  "generatedAt": "2026-11-13T23:20:23.156Z",
-  "count": 194,
+  "generatedAt": "2026-11-14T05:21:45.634Z",
+  "count": 193,
   "sources": {
-    "node": 122,
+    "node": 121,
     "jobspy": 72
   },
   "jobs": [
@@ -185,14 +185,6 @@
       "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
       "source": "We Work Remotely",
       "date": "Thu, 15 Oct 2026 07:31:14 +0000",
-      "tags": []
-    },
-    {
-      "title": "Solutions Engineer - Customer Success",
-      "company": "New Law Business Model",
-      "url": "https://weworkremotely.com/remote-jobs/new-law-business-model-solutions-engineer-customer-success",
-      "source": "We Work Remotely",
-      "date": "Tue, 07 Feb 2023 20:07:41 +0000",
       "tags": []
     },
     {
@@ -552,16 +544,6 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:34:59.150Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
       "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
       "source": "Workable",
       "date": "2026-11-11T15:35:00.316Z",
@@ -585,6 +567,16 @@
       "url": "https://jobs.workable.com/view/v8aGYpjHcXkmHUucmxPFxE/remote-head-of-property-management-in-united-arab-emirates-at-acs-group",
       "source": "Workable",
       "date": "2026-11-11T15:34:59.482Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:34:59.150Z",
       "tags": [
         "Remote"
       ]
@@ -1156,17 +1148,6 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:52:03.948Z",
-      "tags": [
-        "Full-time",
-        "Seattle, Washington, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:52:07.121Z",
@@ -1184,6 +1165,17 @@
       "tags": [
         "Full-time",
         "Fort Collins, Colorado, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:52:03.948Z",
+      "tags": [
+        "Full-time",
+        "Seattle, Washington, United States"
       ]
     },
     {
@@ -1211,6 +1203,17 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:30:45.436Z",
+      "tags": [
+        "Full-time",
+        "Savannah, Georgia, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/aTwWaTNCib5GC1umcnPc1s/hybrid-ai-workflow-engineer%2Fautomation-architect-in-austin-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:51:56.405Z",
@@ -1228,17 +1231,6 @@
       "tags": [
         "Full-time",
         "Denver, Colorado, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:30:45.436Z",
-      "tags": [
-        "Full-time",
-        "Savannah, Georgia, United States"
       ]
     },
     {
@@ -1342,7 +1334,7 @@
     {
       "title": "Executive Assistant (open to remote)",
       "company": "RGA",
-      "url": "https://www.indeed.com/viewjob?jk=7e4d8d73ddb7b3b4",
+      "url": "https://www.indeed.com/viewjob?jk=75a3d9f411b0d4fc",
       "source": "JobSpy/indeed",
       "date": "2026-11-10",
       "tags": []
@@ -1356,17 +1348,25 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant – Remote Staffing",
+      "title": "Virtual Assistant – Disaster Recovery",
       "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4488945879",
+      "url": "https://www.linkedin.com/jobs/view/4488954413",
       "source": "JobSpy/linkedin",
       "date": "2026-11-13",
       "tags": []
     },
     {
-      "title": "Virtual Assistant – Disaster Recovery",
+      "title": "Virtual Assistant – Healthcare",
       "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4488954413",
+      "url": "https://www.linkedin.com/jobs/view/4488952419",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Bold Magazine",
+      "url": "https://www.linkedin.com/jobs/view/4489845174",
       "source": "JobSpy/linkedin",
       "date": "2026-11-13",
       "tags": []
@@ -1420,11 +1420,19 @@
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant",
-      "company": "Veta Virtual",
-      "url": "https://www.linkedin.com/jobs/view/4461380653",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-07",
+      "title": "Executive Assistant",
+      "company": "COLLEGE FOR HEALTHCARE INFORMATION MANAGEMENT EXECUTIVES",
+      "url": "https://www.indeed.com/viewjob?jk=87161b2f8557cd8f",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
+      "title": "Sr Administrative Assistant, R&D",
+      "company": "Erasca",
+      "url": "https://www.indeed.com/viewjob?jk=7d04d49f1bbf0650",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-14",
       "tags": []
     },
     {
@@ -1444,17 +1452,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant - PT 8-12hrs/week",
-      "company": "Celink",
-      "url": "https://www.indeed.com/viewjob?jk=85f2aee4c3cbeac4",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-13",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant",
       "company": "RapidSOS",
-      "url": "https://www.indeed.com/viewjob?jk=d6a4076354e05a60",
+      "url": "https://www.indeed.com/viewjob?jk=13760f0f013d2693",
       "source": "JobSpy/indeed",
       "date": "2026-11-12",
       "tags": []
@@ -1468,9 +1468,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant - CAB",
-      "company": "First Citizens Bank",
-      "url": "https://www.indeed.com/viewjob?jk=36cb9d8e9f927b9e",
+      "title": "Executive Assistant/ Senior Executive Assistant - Commercial Team",
+      "company": "Apnimed",
+      "url": "https://www.indeed.com/viewjob?jk=0443d7db128d0a55",
       "source": "JobSpy/indeed",
       "date": "2026-11-11",
       "tags": []
@@ -1497,6 +1497,14 @@
       "url": "https://www.indeed.com/viewjob?jk=c7934826763b1182",
       "source": "JobSpy/indeed",
       "date": "2026-11-07",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "LESER India",
+      "url": "https://www.linkedin.com/jobs/view/4491027789",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
       "tags": []
     },
     {
@@ -1535,14 +1543,6 @@
       "title": "Executive Assistant",
       "company": "Express Employment Professionals - Ottawa East",
       "url": "https://www.linkedin.com/jobs/view/4490354331",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-12",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "WSP in Canada",
-      "url": "https://www.linkedin.com/jobs/view/4489505089",
       "source": "JobSpy/linkedin",
       "date": "2026-11-12",
       "tags": []
@@ -1668,17 +1668,17 @@
       "tags": []
     },
     {
-      "title": "Property Manager, Residential",
-      "company": "Peterson Real Estate",
-      "url": "https://www.linkedin.com/jobs/view/4489598440",
+      "title": "Property Manager",
+      "company": "Harbor Group Management Company",
+      "url": "https://www.linkedin.com/jobs/view/4489593946",
       "source": "JobSpy/linkedin",
       "date": "2026-11-13",
       "tags": []
     },
     {
       "title": "Property Manager",
-      "company": "Harbor Group Management Company",
-      "url": "https://www.linkedin.com/jobs/view/4489593946",
+      "company": "Armco",
+      "url": "https://www.linkedin.com/jobs/view/4491011360",
       "source": "JobSpy/linkedin",
       "date": "2026-11-13",
       "tags": []
@@ -1756,11 +1756,11 @@
       "tags": []
     },
     {
-      "title": "Insurance Operations Specialist",
-      "company": "Firefly Agency",
-      "url": "https://www.indeed.com/viewjob?jk=8e5364a64575f990",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-07",
+      "title": "Property Manager",
+      "company": "Fogelman Properties",
+      "url": "https://www.linkedin.com/jobs/view/4488891842",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-09",
       "tags": []
     },
     {
@@ -1857,14 +1857,6 @@
       "url": "https://www.linkedin.com/jobs/view/4435258633",
       "source": "JobSpy/linkedin",
       "date": "2026-11-07",
-      "tags": []
-    },
-    {
-      "title": "Quality Assurance Automation Engineer",
-      "company": "iClassPro, Inc.",
-      "url": "https://www.indeed.com/viewjob?jk=15496ae2ced212a7",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-10",
       "tags": []
     },
     {
