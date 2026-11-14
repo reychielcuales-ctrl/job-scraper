@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-14T05:21:05.014Z",
+  "generatedAt": "2026-11-14T13:06:00.595Z",
   "count": 121,
   "jobs": [
     {
@@ -96,6 +96,16 @@
       ]
     },
     {
+      "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
+      "source": "Jobicy",
+      "date": "2026-11-14T02:50:21+00:00",
+      "tags": [
+        "Software Engineering"
+      ]
+    },
+    {
       "title": "Bookkeeper &amp; Admin Support Specialist - Dayshift Remote",
       "company": "D2B",
       "url": "https://weworkremotely.com/remote-jobs/d2b-bookkeeper-admin-support-specialist-dayshift-remote",
@@ -173,14 +183,6 @@
       "url": "https://weworkremotely.com/remote-jobs/jobhire-crm-cvm-lifecycle-retention-marketing-lead-us-b2c-subscription-only",
       "source": "We Work Remotely",
       "date": "Thu, 15 Oct 2026 17:09:05 +0000",
-      "tags": []
-    },
-    {
-      "title": "IT Support Specialist",
-      "company": "6sense",
-      "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
-      "source": "We Work Remotely",
-      "date": "Thu, 15 Oct 2026 07:31:14 +0000",
       "tags": []
     },
     {
@@ -530,9 +532,9 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
+      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
       "source": "Workable",
-      "date": "2026-11-11T15:34:59.969Z",
+      "date": "2026-11-11T15:35:00.316Z",
       "tags": [
         "Remote"
       ]
@@ -540,9 +542,9 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
+      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
       "source": "Workable",
-      "date": "2026-11-11T15:35:00.316Z",
+      "date": "2026-11-11T15:34:59.969Z",
       "tags": [
         "Remote"
       ]
@@ -814,28 +816,6 @@
     {
       "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/be8hXZ4rQdNW6RFbNfDyYo/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-florian%C3%B3polis-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:53.150Z",
-      "tags": [
-        "Full-time",
-        "Florianópolis, State of Santa Catarina, Brazil"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/2yZ3p8tFze94AWQkH9qsVQ/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-buenos-aires-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.882Z",
-      "tags": [
-        "Full-time",
-        "Buenos Aires, Buenos Aires, Argentina"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
       "source": "Workable",
       "date": "2026-02-09T03:07:52.553Z",
@@ -853,6 +833,28 @@
       "tags": [
         "Full-time",
         "Mexico City, Mexico City, Mexico"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/be8hXZ4rQdNW6RFbNfDyYo/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-florian%C3%B3polis-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:53.150Z",
+      "tags": [
+        "Full-time",
+        "Florianópolis, State of Santa Catarina, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/2yZ3p8tFze94AWQkH9qsVQ/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-buenos-aires-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.882Z",
+      "tags": [
+        "Full-time",
+        "Buenos Aires, Buenos Aires, Argentina"
       ]
     },
     {
@@ -955,28 +957,6 @@
       ]
     },
     {
-      "title": "Automation & AI Specialist",
-      "company": "Rhino Entertainment",
-      "url": "https://jobs.workable.com/view/6XNS933LkWaGpPJKYRqay2/hybrid-automation-%26-ai-specialist-in-bitola-at-rhino-entertainment",
-      "source": "Workable",
-      "date": "2026-10-28T13:50:45.818Z",
-      "tags": [
-        "Full-time",
-        "Bitola, Municipality of Bitola, North Macedonia"
-      ]
-    },
-    {
-      "title": "Automation & AI Specialist",
-      "company": "Rhino Entertainment",
-      "url": "https://jobs.workable.com/view/8buGECCQ5TSkk3RKShXatV/hybrid-automation-%26-ai-specialist-in-st.-julian's-at-rhino-entertainment",
-      "source": "Workable",
-      "date": "2026-10-28T13:50:45.684Z",
-      "tags": [
-        "Full-time",
-        "St. Julian's, Malta"
-      ]
-    },
-    {
       "title": "CRM & Sales Automation Specialist",
       "company": "item America",
       "url": "https://jobs.workable.com/view/mQhyC9kjB9GwUAbUgJ72a5/crm-%26-sales-automation-specialist-in-hagerstown-at-item-america",
@@ -1051,6 +1031,28 @@
       "tags": [
         "Full-time",
         "Remote"
+      ]
+    },
+    {
+      "title": "Automation & AI Specialist",
+      "company": "Rhino Entertainment",
+      "url": "https://jobs.workable.com/view/6XNS933LkWaGpPJKYRqay2/hybrid-automation-%26-ai-specialist-in-bitola-at-rhino-entertainment",
+      "source": "Workable",
+      "date": "2026-10-28T13:50:45.818Z",
+      "tags": [
+        "Full-time",
+        "Bitola, Municipality of Bitola, North Macedonia"
+      ]
+    },
+    {
+      "title": "Automation & AI Specialist",
+      "company": "Rhino Entertainment",
+      "url": "https://jobs.workable.com/view/8buGECCQ5TSkk3RKShXatV/hybrid-automation-%26-ai-specialist-in-st.-julian's-at-rhino-entertainment",
+      "source": "Workable",
+      "date": "2026-10-28T13:50:45.684Z",
+      "tags": [
+        "Full-time",
+        "St. Julian's, Malta"
       ]
     },
     {
@@ -1144,17 +1146,6 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:52:07.121Z",
-      "tags": [
-        "Full-time",
-        "Oakland, California, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:52:02.165Z",
@@ -1172,6 +1163,17 @@
       "tags": [
         "Full-time",
         "Seattle, Washington, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:52:07.121Z",
+      "tags": [
+        "Full-time",
+        "Oakland, California, United States"
       ]
     },
     {
@@ -1199,12 +1201,12 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/cpCbh28RDC8HRr39WvW6C2/hybrid-ai-workflow-engineer%2Fautomation-architect-in-denver-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-11-12T20:30:45.436Z",
+      "date": "2026-11-12T20:52:01.189Z",
       "tags": [
         "Full-time",
-        "Savannah, Georgia, United States"
+        "Denver, Colorado, United States"
       ]
     },
     {
@@ -1221,12 +1223,12 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/cpCbh28RDC8HRr39WvW6C2/hybrid-ai-workflow-engineer%2Fautomation-architect-in-denver-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-11-12T20:52:01.189Z",
+      "date": "2026-11-12T20:30:45.436Z",
       "tags": [
         "Full-time",
-        "Denver, Colorado, United States"
+        "Savannah, Georgia, United States"
       ]
     },
     {
@@ -1263,6 +1265,17 @@
       ]
     },
     {
+      "title": "Senior AI Engineer",
+      "company": "emerchantpay",
+      "url": "https://jobs.workable.com/view/1y5xQLRaLv8zaSknZMz6Bn/remote-senior-ai-engineer-in-sofia-at-emerchantpay",
+      "source": "Workable",
+      "date": "2026-05-18T05:56:25.053Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Sales Architect (Pre-Sales)",
       "company": "AppGate Cybersecurity, Inc.",
       "url": "https://jobs.workable.com/view/oNyA7muRHgNM12QiNyEDEL/sales-architect-(pre-sales)-in-chuo-city-at-appgate-cybersecurity%2C-inc.",
@@ -1282,17 +1295,6 @@
       "tags": [
         "Full-time",
         "Tsuruga, Fukui, Japan"
-      ]
-    },
-    {
-      "title": "Specialty Finance Senior Engineer",
-      "company": "Neuberger Berman",
-      "url": "https://jobs.workable.com/view/1r1pd6r3EaLdWSWQU7sJvT/specialty-finance-senior-engineer-in-minnesota-at-neuberger-berman",
-      "source": "Workable",
-      "date": "2026-11-13T10:02:36.463Z",
-      "tags": [
-        "Full-time",
-        "Minnesota, United States"
       ]
     }
   ]

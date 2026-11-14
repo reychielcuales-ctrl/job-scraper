@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T05:21:45.634Z",
-  "count": 193,
+  "generatedAt": "2026-11-14T13:06:39.319Z",
+  "count": 192,
   "sources": {
     "node": 121,
-    "jobspy": 72
+    "jobspy": 71
   },
   "jobs": [
     {
@@ -100,6 +100,16 @@
       ]
     },
     {
+      "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
+      "company": "Cresta",
+      "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
+      "source": "Jobicy",
+      "date": "2026-11-14T02:50:21+00:00",
+      "tags": [
+        "Software Engineering"
+      ]
+    },
+    {
       "title": "Bookkeeper &amp; Admin Support Specialist - Dayshift Remote",
       "company": "D2B",
       "url": "https://weworkremotely.com/remote-jobs/d2b-bookkeeper-admin-support-specialist-dayshift-remote",
@@ -177,14 +187,6 @@
       "url": "https://weworkremotely.com/remote-jobs/jobhire-crm-cvm-lifecycle-retention-marketing-lead-us-b2c-subscription-only",
       "source": "We Work Remotely",
       "date": "Thu, 15 Oct 2026 17:09:05 +0000",
-      "tags": []
-    },
-    {
-      "title": "IT Support Specialist",
-      "company": "6sense",
-      "url": "https://weworkremotely.com/remote-jobs/6sense-it-support-specialist",
-      "source": "We Work Remotely",
-      "date": "Thu, 15 Oct 2026 07:31:14 +0000",
       "tags": []
     },
     {
@@ -534,9 +536,9 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
+      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
       "source": "Workable",
-      "date": "2026-11-11T15:34:59.969Z",
+      "date": "2026-11-11T15:35:00.316Z",
       "tags": [
         "Remote"
       ]
@@ -544,9 +546,9 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
+      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
       "source": "Workable",
-      "date": "2026-11-11T15:35:00.316Z",
+      "date": "2026-11-11T15:34:59.969Z",
       "tags": [
         "Remote"
       ]
@@ -818,28 +820,6 @@
     {
       "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/be8hXZ4rQdNW6RFbNfDyYo/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-florian%C3%B3polis-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:53.150Z",
-      "tags": [
-        "Full-time",
-        "Florianópolis, State of Santa Catarina, Brazil"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/2yZ3p8tFze94AWQkH9qsVQ/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-buenos-aires-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.882Z",
-      "tags": [
-        "Full-time",
-        "Buenos Aires, Buenos Aires, Argentina"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
       "source": "Workable",
       "date": "2026-02-09T03:07:52.553Z",
@@ -857,6 +837,28 @@
       "tags": [
         "Full-time",
         "Mexico City, Mexico City, Mexico"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/be8hXZ4rQdNW6RFbNfDyYo/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-florian%C3%B3polis-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:53.150Z",
+      "tags": [
+        "Full-time",
+        "Florianópolis, State of Santa Catarina, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/2yZ3p8tFze94AWQkH9qsVQ/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-buenos-aires-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.882Z",
+      "tags": [
+        "Full-time",
+        "Buenos Aires, Buenos Aires, Argentina"
       ]
     },
     {
@@ -959,28 +961,6 @@
       ]
     },
     {
-      "title": "Automation & AI Specialist",
-      "company": "Rhino Entertainment",
-      "url": "https://jobs.workable.com/view/6XNS933LkWaGpPJKYRqay2/hybrid-automation-%26-ai-specialist-in-bitola-at-rhino-entertainment",
-      "source": "Workable",
-      "date": "2026-10-28T13:50:45.818Z",
-      "tags": [
-        "Full-time",
-        "Bitola, Municipality of Bitola, North Macedonia"
-      ]
-    },
-    {
-      "title": "Automation & AI Specialist",
-      "company": "Rhino Entertainment",
-      "url": "https://jobs.workable.com/view/8buGECCQ5TSkk3RKShXatV/hybrid-automation-%26-ai-specialist-in-st.-julian's-at-rhino-entertainment",
-      "source": "Workable",
-      "date": "2026-10-28T13:50:45.684Z",
-      "tags": [
-        "Full-time",
-        "St. Julian's, Malta"
-      ]
-    },
-    {
       "title": "CRM & Sales Automation Specialist",
       "company": "item America",
       "url": "https://jobs.workable.com/view/mQhyC9kjB9GwUAbUgJ72a5/crm-%26-sales-automation-specialist-in-hagerstown-at-item-america",
@@ -1055,6 +1035,28 @@
       "tags": [
         "Full-time",
         "Remote"
+      ]
+    },
+    {
+      "title": "Automation & AI Specialist",
+      "company": "Rhino Entertainment",
+      "url": "https://jobs.workable.com/view/6XNS933LkWaGpPJKYRqay2/hybrid-automation-%26-ai-specialist-in-bitola-at-rhino-entertainment",
+      "source": "Workable",
+      "date": "2026-10-28T13:50:45.818Z",
+      "tags": [
+        "Full-time",
+        "Bitola, Municipality of Bitola, North Macedonia"
+      ]
+    },
+    {
+      "title": "Automation & AI Specialist",
+      "company": "Rhino Entertainment",
+      "url": "https://jobs.workable.com/view/8buGECCQ5TSkk3RKShXatV/hybrid-automation-%26-ai-specialist-in-st.-julian's-at-rhino-entertainment",
+      "source": "Workable",
+      "date": "2026-10-28T13:50:45.684Z",
+      "tags": [
+        "Full-time",
+        "St. Julian's, Malta"
       ]
     },
     {
@@ -1148,17 +1150,6 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:52:07.121Z",
-      "tags": [
-        "Full-time",
-        "Oakland, California, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:52:02.165Z",
@@ -1176,6 +1167,17 @@
       "tags": [
         "Full-time",
         "Seattle, Washington, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:52:07.121Z",
+      "tags": [
+        "Full-time",
+        "Oakland, California, United States"
       ]
     },
     {
@@ -1203,12 +1205,12 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/cpCbh28RDC8HRr39WvW6C2/hybrid-ai-workflow-engineer%2Fautomation-architect-in-denver-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-11-12T20:30:45.436Z",
+      "date": "2026-11-12T20:52:01.189Z",
       "tags": [
         "Full-time",
-        "Savannah, Georgia, United States"
+        "Denver, Colorado, United States"
       ]
     },
     {
@@ -1225,12 +1227,12 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/cpCbh28RDC8HRr39WvW6C2/hybrid-ai-workflow-engineer%2Fautomation-architect-in-denver-at-modern-family-law",
+      "url": "https://jobs.workable.com/view/3Zre2uvmos3iN1fw1xkXNP/hybrid-ai-workflow-engineer%2Fautomation-architect-in-savannah-at-modern-family-law",
       "source": "Workable",
-      "date": "2026-11-12T20:52:01.189Z",
+      "date": "2026-11-12T20:30:45.436Z",
       "tags": [
         "Full-time",
-        "Denver, Colorado, United States"
+        "Savannah, Georgia, United States"
       ]
     },
     {
@@ -1267,6 +1269,17 @@
       ]
     },
     {
+      "title": "Senior AI Engineer",
+      "company": "emerchantpay",
+      "url": "https://jobs.workable.com/view/1y5xQLRaLv8zaSknZMz6Bn/remote-senior-ai-engineer-in-sofia-at-emerchantpay",
+      "source": "Workable",
+      "date": "2026-05-18T05:56:25.053Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "Sales Architect (Pre-Sales)",
       "company": "AppGate Cybersecurity, Inc.",
       "url": "https://jobs.workable.com/view/oNyA7muRHgNM12QiNyEDEL/sales-architect-(pre-sales)-in-chuo-city-at-appgate-cybersecurity%2C-inc.",
@@ -1289,20 +1302,17 @@
       ]
     },
     {
-      "title": "Specialty Finance Senior Engineer",
-      "company": "Neuberger Berman",
-      "url": "https://jobs.workable.com/view/1r1pd6r3EaLdWSWQU7sJvT/specialty-finance-senior-engineer-in-minnesota-at-neuberger-berman",
-      "source": "Workable",
-      "date": "2026-11-13T10:02:36.463Z",
-      "tags": [
-        "Full-time",
-        "Minnesota, United States"
-      ]
-    },
-    {
       "title": "Virtual Assistant",
       "company": "Cincy Arthritis",
       "url": "https://www.indeed.com/viewjob?jk=f6dc9ad0dfa77a02",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant / Customer Service Representative – Plumbing Company",
+      "company": "KINGS PLUMBING",
+      "url": "https://www.indeed.com/viewjob?jk=82546869cb9767f1",
       "source": "JobSpy/indeed",
       "date": "2026-11-13",
       "tags": []
@@ -1332,11 +1342,51 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant (open to remote)",
-      "company": "RGA",
-      "url": "https://www.indeed.com/viewjob?jk=75a3d9f411b0d4fc",
+      "title": "Executive Virtual Assistant - Remote",
+      "company": "myVA Rocks, LLC",
+      "url": "https://www.indeed.com/viewjob?jk=72c213fba830e80e",
       "source": "JobSpy/indeed",
-      "date": "2026-11-10",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "title": "Team Lead / Remote Executive Assistant Remote | W-2 Position | 20 Hours/Week",
+      "company": "myVA Rocks, LLC",
+      "url": "https://www.indeed.com/viewjob?jk=32c6d2e5169fdafe",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Bold Magazine",
+      "url": "https://www.linkedin.com/jobs/view/4489875100",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
+      "title": "Virtual Executive Assistant (Remote)",
+      "company": "MagHire",
+      "url": "https://www.linkedin.com/jobs/view/4491050466",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "MagHire",
+      "url": "https://www.linkedin.com/jobs/view/4491046673",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "SHARDA CONSULTANCY SERVICES",
+      "url": "https://www.linkedin.com/jobs/view/4489870622",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
       "tags": []
     },
     {
@@ -1364,30 +1414,6 @@
       "tags": []
     },
     {
-      "title": "Virtual Assistant",
-      "company": "Bold Magazine",
-      "url": "https://www.linkedin.com/jobs/view/4489845174",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Mark & Gill Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4490303254",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-12",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Mark & Gill Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4490310000",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-12",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant",
       "company": "DESARROLLOS URBANOS ROSAS S.L.",
       "url": "https://www.linkedin.com/jobs/view/4489626436",
@@ -1412,30 +1438,6 @@
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant",
-      "company": "Veta Virtual",
-      "url": "https://www.linkedin.com/jobs/view/4461373745",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-07",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "COLLEGE FOR HEALTHCARE INFORMATION MANAGEMENT EXECUTIVES",
-      "url": "https://www.indeed.com/viewjob?jk=87161b2f8557cd8f",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-14",
-      "tags": []
-    },
-    {
-      "title": "Sr Administrative Assistant, R&D",
-      "company": "Erasca",
-      "url": "https://www.indeed.com/viewjob?jk=7d04d49f1bbf0650",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-14",
-      "tags": []
-    },
-    {
       "title": "Senior Executive Assistant to the Executive Team",
       "company": "INTEROS",
       "url": "https://www.indeed.com/viewjob?jk=366dd93d43ef53ec",
@@ -1452,11 +1454,11 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "RapidSOS",
-      "url": "https://www.indeed.com/viewjob?jk=13760f0f013d2693",
+      "title": "Executive Assistant to a Busy Entrepreneur/Content Creator",
+      "company": "Lux Media Group",
+      "url": "https://www.indeed.com/viewjob?jk=13b1a7480c74e0cf",
       "source": "JobSpy/indeed",
-      "date": "2026-11-12",
+      "date": "2026-11-11",
       "tags": []
     },
     {
@@ -1484,14 +1486,6 @@
       "tags": []
     },
     {
-      "title": "Administrative Assistant",
-      "company": "Urban Strategies",
-      "url": "https://www.indeed.com/viewjob?jk=7ebbdc5cd7dd3737",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-10",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant (CAO)",
       "company": "Just Right Reader",
       "url": "https://www.indeed.com/viewjob?jk=c7934826763b1182",
@@ -1505,14 +1499,6 @@
       "url": "https://www.linkedin.com/jobs/view/4491027789",
       "source": "JobSpy/linkedin",
       "date": "2026-11-14",
-      "tags": []
-    },
-    {
-      "title": "Executive Administrative Assistant",
-      "company": "Ethiopian Tourist Trading Enterprise(ETTE)",
-      "url": "https://www.linkedin.com/jobs/view/4490777056",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-13",
       "tags": []
     },
     {
@@ -1543,6 +1529,14 @@
       "title": "Executive Assistant",
       "company": "Express Employment Professionals - Ottawa East",
       "url": "https://www.linkedin.com/jobs/view/4490354331",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "WSP in Canada",
+      "url": "https://www.linkedin.com/jobs/view/4489505089",
       "source": "JobSpy/linkedin",
       "date": "2026-11-12",
       "tags": []
@@ -1617,6 +1611,14 @@
       "url": "https://www.linkedin.com/jobs/view/4488862328",
       "source": "JobSpy/linkedin",
       "date": "2026-11-09",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Tipton Asset Group, Inc.",
+      "url": "https://www.indeed.com/viewjob?jk=c8acf2162c86534c",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-14",
       "tags": []
     },
     {
@@ -1796,14 +1798,6 @@
       "tags": []
     },
     {
-      "title": "AI Automation Engineer",
-      "company": "CloserStill Media Germany GmbH",
-      "url": "https://www.linkedin.com/jobs/view/4488271384",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-12",
-      "tags": []
-    },
-    {
       "title": "AI and Automation Specialist",
       "company": "Compare Club",
       "url": "https://www.linkedin.com/jobs/view/4487876983",
@@ -1852,11 +1846,11 @@
       "tags": []
     },
     {
-      "title": "AI & Process Automation Engineer (Agents, Automation & Digitalisation)",
-      "company": "Zurich Insurance",
-      "url": "https://www.linkedin.com/jobs/view/4435258633",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-07",
+      "title": "Automation Analyst (Immediate Opening)",
+      "company": "IDEA Public Schools",
+      "url": "https://www.indeed.com/viewjob?jk=2ce177c7c8f4c9bb",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-14",
       "tags": []
     },
     {
