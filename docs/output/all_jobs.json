@@ -1,9 +1,9 @@
 {
-  "generatedAt": "2026-11-14T13:06:39.319Z",
-  "count": 192,
+  "generatedAt": "2026-11-14T22:04:08.256Z",
+  "count": 194,
   "sources": {
-    "node": 121,
-    "jobspy": 71
+    "node": 119,
+    "jobspy": 75
   },
   "jobs": [
     {
@@ -100,16 +100,6 @@
       ]
     },
     {
-      "title": "Senior Software Engineer, Backend (AI Agent Integrations)",
-      "company": "Cresta",
-      "url": "https://jobicy.com/jobs/149101-senior-software-engineer-backend-ai-agent-integrations",
-      "source": "Jobicy",
-      "date": "2026-11-14T02:50:21+00:00",
-      "tags": [
-        "Software Engineering"
-      ]
-    },
-    {
       "title": "Bookkeeper &amp; Admin Support Specialist - Dayshift Remote",
       "company": "D2B",
       "url": "https://weworkremotely.com/remote-jobs/d2b-bookkeeper-admin-support-specialist-dayshift-remote",
@@ -179,14 +169,6 @@
       "url": "https://weworkremotely.com/remote-jobs/evolve-peptides-operations-support-specialist",
       "source": "We Work Remotely",
       "date": "Mon, 19 Oct 2026 17:25:15 +0000",
-      "tags": []
-    },
-    {
-      "title": "CRM/ CVM / Lifecycle/Retention Marketing Lead (US b2c subscription only)",
-      "company": "Jobhire",
-      "url": "https://weworkremotely.com/remote-jobs/jobhire-crm-cvm-lifecycle-retention-marketing-lead-us-b2c-subscription-only",
-      "source": "We Work Remotely",
-      "date": "Thu, 15 Oct 2026 17:09:05 +0000",
       "tags": []
     },
     {
@@ -820,28 +802,6 @@
     {
       "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.553Z",
-      "tags": [
-        "Full-time",
-        "São Paulo, State of São Paulo, Brazil"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.334Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/be8hXZ4rQdNW6RFbNfDyYo/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-florian%C3%B3polis-at-darwin-ai",
       "source": "Workable",
       "date": "2026-02-09T03:07:53.150Z",
@@ -859,6 +819,28 @@
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.553Z",
+      "tags": [
+        "Full-time",
+        "São Paulo, State of São Paulo, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.334Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -950,14 +932,14 @@
       ]
     },
     {
-      "title": "Field Automation Specialist (All Levels) DATA CENTERS FREDERICK, MARYLAND",
+      "title": "Field Automation Specialist II",
       "company": "Albireo Energy",
-      "url": "https://jobs.workable.com/view/vJE7p4aJMqo3fiAhwf6BST/field-automation-specialist-(all-levels)-data-centers-frederick%2C-maryland-in-frederick-at-albireo-energy",
+      "url": "https://jobs.workable.com/view/nCggb1k82GTFVRAKfgPPfB/field-automation-specialist-ii-in-cedar-rapids-at-albireo-energy",
       "source": "Workable",
-      "date": "2026-10-21T19:49:46.173Z",
+      "date": "2026-11-14T17:12:47.317Z",
       "tags": [
         "Full-time",
-        "Frederick, Maryland, United States"
+        "Cedar Rapids, Iowa, United States"
       ]
     },
     {
@@ -1038,28 +1020,6 @@
       ]
     },
     {
-      "title": "Automation & AI Specialist",
-      "company": "Rhino Entertainment",
-      "url": "https://jobs.workable.com/view/6XNS933LkWaGpPJKYRqay2/hybrid-automation-%26-ai-specialist-in-bitola-at-rhino-entertainment",
-      "source": "Workable",
-      "date": "2026-10-28T13:50:45.818Z",
-      "tags": [
-        "Full-time",
-        "Bitola, Municipality of Bitola, North Macedonia"
-      ]
-    },
-    {
-      "title": "Automation & AI Specialist",
-      "company": "Rhino Entertainment",
-      "url": "https://jobs.workable.com/view/8buGECCQ5TSkk3RKShXatV/hybrid-automation-%26-ai-specialist-in-st.-julian's-at-rhino-entertainment",
-      "source": "Workable",
-      "date": "2026-10-28T13:50:45.684Z",
-      "tags": [
-        "Full-time",
-        "St. Julian's, Malta"
-      ]
-    },
-    {
       "title": "Freelance - AI Specialist with Lead Sourcing Automation Experience - Remote",
       "company": "The People Group",
       "url": "https://jobs.workable.com/view/4ywuVcBA7cS9Nor4NbN1bg/freelance---ai-specialist-with-lead-sourcing-automation-experience---remote-in-philippines-at-the-people-group",
@@ -1068,6 +1028,17 @@
       "tags": [
         "Contract",
         "Remote"
+      ]
+    },
+    {
+      "title": "Field Automation Specialist (All Levels) DATA CENTERS FREDERICK, MARYLAND",
+      "company": "Albireo Energy",
+      "url": "https://jobs.workable.com/view/vJE7p4aJMqo3fiAhwf6BST/field-automation-specialist-(all-levels)-data-centers-frederick%2C-maryland-in-frederick-at-albireo-energy",
+      "source": "Workable",
+      "date": "2026-10-21T19:49:46.173Z",
+      "tags": [
+        "Full-time",
+        "Frederick, Maryland, United States"
       ]
     },
     {
@@ -1109,6 +1080,17 @@
       "url": "https://jobs.workable.com/view/abf9zJ5zwGusSxVHCj8pQV/remote-devops-automation-specialist-in-costa-rica-at-partner-one-software-inc",
       "source": "Workable",
       "date": "2026-11-11T17:22:18.987Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/ti2rhpVzPNP2b9vguY76dj/remote-devops-automation-specialist-in-colombia-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-11-11T17:22:18.132Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1342,25 +1324,41 @@
       "tags": []
     },
     {
-      "title": "Executive Virtual Assistant - Remote",
-      "company": "myVA Rocks, LLC",
-      "url": "https://www.indeed.com/viewjob?jk=72c213fba830e80e",
+      "title": "Executive Assistant (open to remote)",
+      "company": "RGA",
+      "url": "https://www.indeed.com/viewjob?jk=75a3d9f411b0d4fc",
       "source": "JobSpy/indeed",
-      "date": "2026-11-09",
+      "date": "2026-11-10",
       "tags": []
     },
     {
-      "title": "Team Lead / Remote Executive Assistant Remote | W-2 Position | 20 Hours/Week",
-      "company": "myVA Rocks, LLC",
-      "url": "https://www.indeed.com/viewjob?jk=32c6d2e5169fdafe",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-09",
+      "title": "Virtual Assistant - Remote",
+      "company": "Torentify",
+      "url": "https://www.linkedin.com/jobs/view/4491200230",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
       "tags": []
     },
     {
-      "title": "Virtual Assistant",
-      "company": "Bold Magazine",
-      "url": "https://www.linkedin.com/jobs/view/4489875100",
+      "title": "Virtual Assistant – Remote Staffing",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4489342859",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant – Disaster Recovery",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4489334972",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant - 65843580457",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4483187310",
       "source": "JobSpy/linkedin",
       "date": "2026-11-14",
       "tags": []
@@ -1374,43 +1372,19 @@
       "tags": []
     },
     {
+      "title": "Virtual Assistant - WFH",
+      "company": "Torentify",
+      "url": "https://www.linkedin.com/jobs/view/4491084819",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
       "title": "Virtual Assistant",
       "company": "MagHire",
       "url": "https://www.linkedin.com/jobs/view/4491046673",
       "source": "JobSpy/linkedin",
       "date": "2026-11-14",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "SHARDA CONSULTANCY SERVICES",
-      "url": "https://www.linkedin.com/jobs/view/4489870622",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-14",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant – Operations & Coordination (German Required)",
-      "company": "TTT",
-      "url": "https://www.linkedin.com/jobs/view/4488978701",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant – Disaster Recovery",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4488954413",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-13",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant – Healthcare",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4488952419",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-13",
       "tags": []
     },
     {
@@ -1438,6 +1412,22 @@
       "tags": []
     },
     {
+      "title": "Sr Administrative Assistant, R&D",
+      "company": "Erasca",
+      "url": "https://www.indeed.com/viewjob?jk=7d04d49f1bbf0650",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "COLLEGE FOR HEALTHCARE INFORMATION MANAGEMENT EXECUTIVES",
+      "url": "https://www.indeed.com/viewjob?jk=87161b2f8557cd8f",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
       "title": "Senior Executive Assistant to the Executive Team",
       "company": "INTEROS",
       "url": "https://www.indeed.com/viewjob?jk=366dd93d43ef53ec",
@@ -1454,11 +1444,19 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to a Busy Entrepreneur/Content Creator",
-      "company": "Lux Media Group",
-      "url": "https://www.indeed.com/viewjob?jk=13b1a7480c74e0cf",
+      "title": "Executive Assistant - PT 8-12hrs/week",
+      "company": "Celink",
+      "url": "https://www.indeed.com/viewjob?jk=85f2aee4c3cbeac4",
       "source": "JobSpy/indeed",
-      "date": "2026-11-11",
+      "date": "2026-11-13",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "RapidSOS",
+      "url": "https://www.indeed.com/viewjob?jk=13760f0f013d2693",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-12",
       "tags": []
     },
     {
@@ -1470,9 +1468,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant/ Senior Executive Assistant - Commercial Team",
-      "company": "Apnimed",
-      "url": "https://www.indeed.com/viewjob?jk=0443d7db128d0a55",
+      "title": "Executive Assistant - CAB",
+      "company": "First Citizens Bank",
+      "url": "https://www.indeed.com/viewjob?jk=36cb9d8e9f927b9e",
       "source": "JobSpy/indeed",
       "date": "2026-11-11",
       "tags": []
@@ -1481,6 +1479,22 @@
       "title": "Administrative Assistant (contract)",
       "company": "Microsoft",
       "url": "https://www.indeed.com/viewjob?jk=25f97d88480ca1ef",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "title": "Administrative Assistant",
+      "company": "Urban Strategies",
+      "url": "https://www.indeed.com/viewjob?jk=7ebbdc5cd7dd3737",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-10",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to the CTO",
+      "company": "Azu Design",
+      "url": "https://www.indeed.com/viewjob?jk=26a503c2e5933271",
       "source": "JobSpy/indeed",
       "date": "2026-11-10",
       "tags": []
@@ -1663,6 +1677,14 @@
     },
     {
       "title": "Property Manager",
+      "company": "Apartment Management Consultants",
+      "url": "https://www.linkedin.com/jobs/view/4491084851",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
       "company": "Harbor Group Management Company",
       "url": "https://www.linkedin.com/jobs/view/4489801675",
       "source": "JobSpy/linkedin",
@@ -1758,14 +1780,6 @@
       "tags": []
     },
     {
-      "title": "Property Manager",
-      "company": "Fogelman Properties",
-      "url": "https://www.linkedin.com/jobs/view/4488891842",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-09",
-      "tags": []
-    },
-    {
       "title": "Insurance Operations Specialist | SEB Pension & Försäkring, Solna",
       "company": "SEB",
       "url": "https://www.linkedin.com/jobs/view/4488863371",
@@ -1782,19 +1796,27 @@
       "tags": []
     },
     {
-      "title": "Senior AI Automation & Zendesk Specialist - South Africa",
-      "company": "MANUAL",
-      "url": "https://www.linkedin.com/jobs/view/4465644521",
+      "title": "AI Automation Engineer",
+      "company": "Clayton Services",
+      "url": "https://www.linkedin.com/jobs/view/4488981441",
       "source": "JobSpy/linkedin",
       "date": "2026-11-13",
       "tags": []
     },
     {
       "title": "AI Automation Engineer",
-      "company": "Clayton Services",
-      "url": "https://www.linkedin.com/jobs/view/4488981441",
+      "company": "CloserStill Media Germany GmbH",
+      "url": "https://www.linkedin.com/jobs/view/4488271384",
       "source": "JobSpy/linkedin",
-      "date": "2026-11-13",
+      "date": "2026-11-12",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Engineer – Automation & Productivity (GBS",
+      "company": "Solenis",
+      "url": "https://www.linkedin.com/jobs/view/4488297816",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-12",
       "tags": []
     },
     {
@@ -1838,27 +1860,19 @@
       "tags": []
     },
     {
-      "title": "AI Automation Analyst",
-      "company": "OpenLoop",
-      "url": "https://www.linkedin.com/jobs/view/4461368119",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-07",
-      "tags": []
-    },
-    {
-      "title": "Automation Analyst (Immediate Opening)",
-      "company": "IDEA Public Schools",
-      "url": "https://www.indeed.com/viewjob?jk=2ce177c7c8f4c9bb",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-14",
-      "tags": []
-    },
-    {
       "title": "Marketing Automation Specialist",
       "company": "Motion Strategies LLC",
       "url": "https://www.indeed.com/viewjob?jk=6ce94b8c6aa55bed",
       "source": "JobSpy/indeed",
       "date": "2026-11-08",
+      "tags": []
+    },
+    {
+      "title": "Power Platform & Automation Specialist",
+      "company": "PwC Greece",
+      "url": "https://www.linkedin.com/jobs/view/4481004571",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-14",
       "tags": []
     },
     {
