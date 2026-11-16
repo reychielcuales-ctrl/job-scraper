@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-15T22:33:34.976Z",
-  "count": 122,
+  "generatedAt": "2026-11-16T05:14:21.004Z",
+  "count": 121,
   "jobs": [
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
@@ -495,17 +495,6 @@
       ]
     },
     {
-      "title": "Property Management Assistant",
-      "company": "iSupport Worldwide",
-      "url": "https://jobs.workable.com/view/nnomeykJA9ux9SJE9FDRkN/property-management-assistant-in-pasig-at-isupport-worldwide",
-      "source": "Workable",
-      "date": "2026-11-06T18:18:18.707Z",
-      "tags": [
-        "Full-time",
-        "Pasig, Metro Manila, Philippines"
-      ]
-    },
-    {
       "title": "Vice President of Property and Asset Management",
       "company": "Kingsley Management Inc",
       "url": "https://jobs.workable.com/view/siXaManfFwyVAwKu3Lv53u/vice-president-of-property-and-asset-management-in-kitchener-at-kingsley-management-inc",
@@ -640,9 +629,9 @@
       ]
     },
     {
-      "title": "Property Manager.",
+      "title": "Property Manager",
       "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/vA8sqH8MLrLCgYLkWT8gVY/property-manager.-in-dubai-at-driven-properties",
+      "url": "https://jobs.workable.com/view/vA8sqH8MLrLCgYLkWT8gVY/property-manager-in-dubai-at-driven-properties",
       "source": "Workable",
       "date": "2026-11-13T06:12:30.565Z",
       "tags": [
@@ -824,28 +813,6 @@
     {
       "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
       "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/be8hXZ4rQdNW6RFbNfDyYo/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-florian%C3%B3polis-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:53.150Z",
-      "tags": [
-        "Full-time",
-        "Florianópolis, State of Santa Catarina, Brazil"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/2yZ3p8tFze94AWQkH9qsVQ/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-buenos-aires-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.882Z",
-      "tags": [
-        "Full-time",
-        "Buenos Aires, Buenos Aires, Argentina"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
       "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
       "source": "Workable",
       "date": "2026-02-09T03:07:52.553Z",
@@ -863,6 +830,28 @@
       "tags": [
         "Full-time",
         "Mexico City, Mexico City, Mexico"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/be8hXZ4rQdNW6RFbNfDyYo/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-florian%C3%B3polis-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:53.150Z",
+      "tags": [
+        "Full-time",
+        "Florianópolis, State of Santa Catarina, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/2yZ3p8tFze94AWQkH9qsVQ/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-buenos-aires-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.882Z",
+      "tags": [
+        "Full-time",
+        "Buenos Aires, Buenos Aires, Argentina"
       ]
     },
     {
@@ -1154,6 +1143,17 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:52:07.121Z",
+      "tags": [
+        "Full-time",
+        "Oakland, California, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:52:02.165Z",
@@ -1171,17 +1171,6 @@
       "tags": [
         "Full-time",
         "Seattle, Washington, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:52:07.121Z",
-      "tags": [
-        "Full-time",
-        "Oakland, California, United States"
       ]
     },
     {
