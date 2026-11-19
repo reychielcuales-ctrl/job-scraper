@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-18T23:58:45.181Z",
+  "generatedAt": "2026-11-19T07:08:48.333Z",
   "count": 110,
   "jobs": [
     {
@@ -325,28 +325,6 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/jCYNRMimgzL3eeUqkHdGCQ/remote-virtual-assistant-full-time-in-manchester-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:35.495Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:34.798Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-17T05:22:37.576Z",
@@ -372,6 +350,28 @@
       "url": "https://jobs.workable.com/view/kqnrXSo1XxMCs9rJZAZYR7/remote-virtual-assistant-full-time-in-albuquerque-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-17T05:22:36.519Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/jCYNRMimgzL3eeUqkHdGCQ/remote-virtual-assistant-full-time-in-manchester-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:35.495Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:34.798Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -537,17 +537,6 @@
       ]
     },
     {
-      "title": "Commercial Real Estate & Property Manager",
-      "company": "MCK Group",
-      "url": "https://jobs.workable.com/view/b8Ek4BD2vyhdKBBCwYLh9m/commercial-real-estate-%26-property-manager-in-alpharetta-at-mck-group",
-      "source": "Workable",
-      "date": "2026-08-20T04:11:02.537Z",
-      "tags": [
-        "Full-time",
-        "Alpharetta, Georgia, United States"
-      ]
-    },
-    {
       "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
       "company": "SupportYourApp",
       "url": "https://jobs.workable.com/view/qqDJhA4mdKhoCFJXgbiK6W/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-antananarivo-at-supportyourapp",
@@ -611,6 +600,17 @@
       "tags": [
         "Contract",
         "Remote"
+      ]
+    },
+    {
+      "title": "Commercial Real Estate & Property Manager",
+      "company": "MCK Group",
+      "url": "https://jobs.workable.com/view/b8Ek4BD2vyhdKBBCwYLh9m/commercial-real-estate-%26-property-manager-in-alpharetta-at-mck-group",
+      "source": "Workable",
+      "date": "2026-08-20T04:11:02.537Z",
+      "tags": [
+        "Full-time",
+        "Alpharetta, Georgia, United States"
       ]
     },
     {
@@ -1072,23 +1072,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:52:03.948Z",
-      "tags": [
-        "Full-time",
-        "Seattle, Washington, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/fScP3SsqnpDGPcAcXfGuQp/hybrid-ai-workflow-engineer%2Fautomation-architect-in-oakland-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:52:07.121Z",
       "tags": [
         "Full-time",
         "Oakland, California, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:52:03.948Z",
+      "tags": [
+        "Full-time",
+        "Seattle, Washington, United States"
       ]
     },
     {
