@@ -1,7 +1,29 @@
 {
-  "generatedAt": "2026-11-19T07:08:48.333Z",
-  "count": 110,
+  "generatedAt": "2026-11-19T20:04:27.730Z",
+  "count": 113,
   "jobs": [
+    {
+      "title": "Manager EDI",
+      "company": "Gravie",
+      "url": "https://remoteOK.com/remote-jobs/remote-manager-edi-gravie-1137804",
+      "source": "RemoteOK",
+      "date": "2026-11-18T16:00:25+00:00",
+      "tags": [
+        "exec",
+        "sys admin",
+        "infosec",
+        "education",
+        "technical",
+        "testing",
+        "marketing",
+        "quality assurance",
+        "finance",
+        "api",
+        "ops",
+        "golang",
+        "medical"
+      ]
+    },
     {
       "title": "Operations Expert with Python for AI Supply Chain Task Design",
       "company": "Toptal",
@@ -94,6 +116,42 @@
         "remote",
         "remote work"
       ]
+    },
+    {
+      "title": "Founding Staff Software Engineer • Python/FastAPI",
+      "company": "Neuroscale AI",
+      "url": "https://jobicy.com/jobs/163249-founding-staff-software-engineer-python-fastapi",
+      "source": "Jobicy",
+      "date": "2026-11-19T10:29:23+00:00",
+      "tags": [
+        "Software Engineering"
+      ]
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Maven Clinic",
+      "url": "https://jobicy.com/jobs/163216-executive-assistant-4",
+      "source": "Jobicy",
+      "date": "2026-11-19T08:41:21+00:00",
+      "tags": [
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Airtable",
+      "url": "https://weworkremotely.com/remote-jobs/airtable-customer-success-manager",
+      "source": "We Work Remotely",
+      "date": "Thu, 19 Nov 2026 18:31:14 +0000",
+      "tags": []
+    },
+    {
+      "title": "CPC Processor Customer Support",
+      "company": "Datavant",
+      "url": "https://weworkremotely.com/remote-jobs/datavant-cpc-processor-customer-support",
+      "source": "We Work Remotely",
+      "date": "Thu, 19 Nov 2026 17:00:24 +0000",
+      "tags": []
     },
     {
       "title": "Customer Service Admin - (AU Experience Required)",
@@ -190,6 +248,72 @@
       "source": "We Work Remotely",
       "date": "Fri, 02 Oct 2026 01:24:37 +0000",
       "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/nRbmrPNnvT7JCakaT4AkjZ/remote-virtual-assistant-in-newark-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:42.877Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/tzjzgvgos3Mih21yNXm8TC/remote-virtual-assistant-in-manchester-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:42.489Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/mr9axbmPtE1w5bHmQozsFe/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:42.072Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/n7EL1EeGvDg1VMhvvGnESU/remote-virtual-assistant-in-charlotte-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:43.940Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/qJqR2JEXe9rpNxGjqLTa68/remote-virtual-assistant-in-new-york-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:43.566Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/wBqTB6dATxQMdAVy4eMbSy/remote-virtual-assistant-in-albuquerque-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:43.239Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
     },
     {
       "title": "Virtual Assistant",
@@ -325,39 +449,6 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:37.576Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/6AzN7Zk8ZBho1zT3GNysVg/remote-virtual-assistant-full-time-in-new-york-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:37.210Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/kqnrXSo1XxMCs9rJZAZYR7/remote-virtual-assistant-full-time-in-albuquerque-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:36.519Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/jCYNRMimgzL3eeUqkHdGCQ/remote-virtual-assistant-full-time-in-manchester-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-17T05:22:35.495Z",
@@ -374,39 +465,6 @@
       "date": "2026-11-17T05:22:34.798Z",
       "tags": [
         "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/5TpLFxMpaMfnU4BYDVnWby/remote-virtual-assistant-full-time-in-newark-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:35.908Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Medical Billing Experience",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/2cLnv1358ry5kbAQqwpgWu/remote-virtual-assistant---medical-billing-experience-in-united-states-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-11-01T02:37:36.159Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Houzz Pro Experience",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/kCshLw1EXfiQVFLhsBtaFT/remote-virtual-assistant---houzz-pro-experience-in-united-states-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-07-31T04:17:08.151Z",
-      "tags": [
-        "Contract",
         "Remote"
       ]
     },
@@ -446,36 +504,6 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:35:00.689Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:34:59.969Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:34:59.150Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
       "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
       "source": "Workable",
       "date": "2026-11-11T15:35:00.316Z",
@@ -504,6 +532,36 @@
       ]
     },
     {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:35:00.689Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:34:59.969Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:34:59.150Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
       "title": "PROPERTY LEASING & MANAGEMENT",
       "company": "RAK Real Estate",
       "url": "https://jobs.workable.com/view/2rjijPjSEaAY3MFsDCGBhP/property-leasing-%26-management-in-al-juwais-at-rak-real-estate",
@@ -526,6 +584,27 @@
       ]
     },
     {
+      "title": "Leasing Agent Full Time Peak of Boone Rivers Walk Boone, NC",
+      "company": "KPM",
+      "url": "https://jobs.workable.com/view/kPU5xbsDUivQ2fLfzLMpt4/leasing-agent-full-time-peak-of-boone-rivers-walk-boone%2C-nc-in-boone-at-kpm",
+      "source": "Workable",
+      "date": "2026-11-19T15:24:49.163Z",
+      "tags": [
+        "Full-time",
+        "Boone, North Carolina, United States"
+      ]
+    },
+    {
+      "title": "Contracts & Performance Senior Manager",
+      "company": "Lamda Development SA",
+      "url": "https://jobs.workable.com/view/n2Pv7un7x4mGPuoESeaUZK/contracts-%26-performance-senior-manager-in-greece-at-lamda-development-sa",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:17.428Z",
+      "tags": [
+        "Greece"
+      ]
+    },
+    {
       "title": "Property Manager",
       "company": "CYM Living LLC",
       "url": "https://jobs.workable.com/view/ovKVCfJPrXXkD4nAoLUQdU/property-manager-in-indianapolis-at-cym-living-llc",
@@ -534,17 +613,6 @@
       "tags": [
         "Full-time",
         "Indianapolis, Indiana, United States"
-      ]
-    },
-    {
-      "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/qqDJhA4mdKhoCFJXgbiK6W/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-antananarivo-at-supportyourapp",
-      "source": "Workable",
-      "date": "2026-11-18T12:13:28.848Z",
-      "tags": [
-        "Contract",
-        "Remote"
       ]
     },
     {
@@ -561,56 +629,23 @@
     {
       "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
       "company": "SupportYourApp",
+      "url": "https://jobs.workable.com/view/qqDJhA4mdKhoCFJXgbiK6W/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-antananarivo-at-supportyourapp",
+      "source": "Workable",
+      "date": "2026-11-18T12:13:28.848Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
+      "company": "SupportYourApp",
       "url": "https://jobs.workable.com/view/nsbeasmtKwH4oujkEkxbGb/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-port-louis-at-supportyourapp",
       "source": "Workable",
       "date": "2026-11-18T12:13:29.136Z",
       "tags": [
         "Contract",
         "Remote"
-      ]
-    },
-    {
-      "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/nUSQESc3x9URuEaSF5KknN/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-tunis-at-supportyourapp",
-      "source": "Workable",
-      "date": "2026-11-18T12:13:28.119Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/qWnH1W1jXRLZZ2Zbi8HKpu/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-algiers-province-at-supportyourapp",
-      "source": "Workable",
-      "date": "2026-11-18T12:13:28.608Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/2irda7eigp8Fddf7hq5RcT/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-tangier-at-supportyourapp",
-      "source": "Workable",
-      "date": "2026-11-18T12:13:28.360Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Commercial Real Estate & Property Manager",
-      "company": "MCK Group",
-      "url": "https://jobs.workable.com/view/b8Ek4BD2vyhdKBBCwYLh9m/commercial-real-estate-%26-property-manager-in-alpharetta-at-mck-group",
-      "source": "Workable",
-      "date": "2026-08-20T04:11:02.537Z",
-      "tags": [
-        "Full-time",
-        "Alpharetta, Georgia, United States"
       ]
     },
     {
@@ -647,9 +682,9 @@
     {
       "title": "Medical Reimbursement Coding Specialist (Texas)",
       "company": "Dane Street, LLC",
-      "url": "https://jobs.workable.com/view/hKbbtKpiSYJwnMY3jHyyCn/remote-medical-reimbursement-coding-specialist-(texas)-in-texas-at-dane-street%2C-llc",
+      "url": "https://jobs.workable.com/view/nxiLwysgAQRsD2Mq4nvXNx/remote-medical-reimbursement-coding-specialist-(texas)-in-united-states-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-11-12T21:15:28.677Z",
+      "date": "2026-11-12T21:15:28.454Z",
       "tags": [
         "Remote"
       ]
@@ -657,9 +692,9 @@
     {
       "title": "Medical Reimbursement Coding Specialist (Texas)",
       "company": "Dane Street, LLC",
-      "url": "https://jobs.workable.com/view/nxiLwysgAQRsD2Mq4nvXNx/remote-medical-reimbursement-coding-specialist-(texas)-in-united-states-at-dane-street%2C-llc",
+      "url": "https://jobs.workable.com/view/hKbbtKpiSYJwnMY3jHyyCn/remote-medical-reimbursement-coding-specialist-(texas)-in-texas-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-11-12T21:15:28.454Z",
+      "date": "2026-11-12T21:15:28.677Z",
       "tags": [
         "Remote"
       ]
@@ -721,42 +756,42 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.674Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.602Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:07:25.548Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
       "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
       "source": "Workable",
       "date": "2026-04-14T04:04:07.688Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.073Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:40.771Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:02:39.156Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -950,6 +985,16 @@
       ]
     },
     {
+      "title": "Pardot Marketing Automation Specialist- Freelancer or Contractor - 3 months",
+      "company": "M&I",
+      "url": "https://jobs.workable.com/view/88nGVn83rshn4wUH8SuzC9/hybrid-pardot-marketing-automation-specialist--freelancer-or-contractor---3-months-in-london-at-m%26i",
+      "source": "Workable",
+      "date": "2026-11-19T15:23:44.156Z",
+      "tags": [
+        "London, England, United Kingdom"
+      ]
+    },
+    {
       "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
       "company": "The People Group",
       "url": "https://jobs.workable.com/view/ocXZ2AGyVg5Pa1MXXxorei/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-colombia-at-the-people-group",
@@ -969,17 +1014,6 @@
       "tags": [
         "Contract",
         "Remote"
-      ]
-    },
-    {
-      "title": "Pardot Marketing Automation Specialist- Freelancer or Contractor - 3 months",
-      "company": "Private Luxury Events",
-      "url": "https://jobs.workable.com/view/6gHEDxVqStdHA3NVo8Wqbh/hybrid-pardot-marketing-automation-specialist--freelancer-or-contractor---3-months-in-london-at-private-luxury-events",
-      "source": "Workable",
-      "date": "2026-11-18T16:24:26.568Z",
-      "tags": [
-        "Contract",
-        "london, Great Britain, United Kingdom"
       ]
     },
     {
@@ -1191,14 +1225,13 @@
       ]
     },
     {
-      "title": "Business Development Representative, Warsaw",
-      "company": "FlowX.AI",
-      "url": "https://jobs.workable.com/view/b534r2JTQ1ZD8qGxDnuQUp/remote-business-development-representative%2C-warsaw-in-warsaw-at-flowx.ai",
+      "title": "Senior PMO Analyst",
+      "company": "Destinus",
+      "url": "https://jobs.workable.com/view/whRfDBkdF2mDR1zQXxHjUq/senior-pmo-analyst-in-z%C3%BCrich-at-destinus",
       "source": "Workable",
-      "date": "2026-11-18T08:52:09.082Z",
+      "date": "2026-11-19T15:36:10.182Z",
       "tags": [
-        "Full-time",
-        "Remote"
+        "Zürich, Zurich, Switzerland"
       ]
     }
   ]
