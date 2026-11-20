@@ -1,7 +1,37 @@
 {
-  "generatedAt": "2026-11-20T06:05:23.348Z",
-  "count": 114,
+  "generatedAt": "2026-11-20T19:41:55.120Z",
+  "count": 121,
   "jobs": [
+    {
+      "title": "Senior GTM Engineer",
+      "company": "Salesloft",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-gtm-engineer-salesloft-1137851",
+      "source": "RemoteOK",
+      "date": "2026-11-19T19:00:14+00:00",
+      "tags": [
+        "programming"
+      ]
+    },
+    {
+      "title": "Customer Success Manager",
+      "company": "Airtable",
+      "url": "https://remoteOK.com/remote-jobs/remote-customer-success-manager-airtable-1137818",
+      "source": "RemoteOK",
+      "date": "2026-11-19T11:45:01+00:00",
+      "tags": [
+        "customer support"
+      ]
+    },
+    {
+      "title": "Paralegal",
+      "company": "Tines",
+      "url": "https://remoteOK.com/remote-jobs/remote-paralegal-tines-1137817",
+      "source": "RemoteOK",
+      "date": "2026-11-19T11:30:01+00:00",
+      "tags": [
+        "customer support"
+      ]
+    },
     {
       "title": "Manager EDI",
       "company": "Gravie",
@@ -118,24 +148,52 @@
       ]
     },
     {
-      "title": "Founding Staff Software Engineer • Python/FastAPI",
-      "company": "Neuroscale AI",
-      "url": "https://jobicy.com/jobs/163249-founding-staff-software-engineer-python-fastapi",
+      "title": "Manager, Business Risk and AI Automation",
+      "company": "Reddit",
+      "url": "https://jobicy.com/jobs/163556-manager-business-risk-and-ai-automation",
       "source": "Jobicy",
-      "date": "2026-11-19T10:29:23+00:00",
+      "date": "2026-11-20T14:20:04+00:00",
+      "tags": [
+        "Legal & Compliance"
+      ]
+    },
+    {
+      "title": "Principal Customer Success Manager",
+      "company": "Fin",
+      "url": "https://jobicy.com/jobs/163511-principal-customer-success-manager",
+      "source": "Jobicy",
+      "date": "2026-11-20T09:32:11+00:00",
+      "tags": [
+        "Customer Support & Success"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "company": "Fin",
+      "url": "https://jobicy.com/jobs/163496-forward-deployed-engineer-14",
+      "source": "Jobicy",
+      "date": "2026-11-20T09:31:02+00:00",
       "tags": [
         "Software Engineering"
       ]
     },
     {
-      "title": "Executive Assistant",
-      "company": "Maven Clinic",
-      "url": "https://jobicy.com/jobs/163216-executive-assistant-4",
+      "title": "Director, Solutions Engineering",
+      "company": "Fin",
+      "url": "https://jobicy.com/jobs/163492-director-solutions-engineering",
       "source": "Jobicy",
-      "date": "2026-11-19T08:41:21+00:00",
+      "date": "2026-11-20T09:30:02+00:00",
       "tags": [
-        "Admin & Virtual Assistance"
+        "Sales"
       ]
+    },
+    {
+      "title": "Customer Success Manager (AI Success Architect)",
+      "company": "Asana",
+      "url": "https://weworkremotely.com/remote-jobs/asana-customer-success-manager-ai-success-architect",
+      "source": "We Work Remotely",
+      "date": "Fri, 20 Nov 2026 18:30:52 +0000",
+      "tags": []
     },
     {
       "title": "Customer Success Manager II - EMEA",
@@ -498,29 +556,19 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:34:59.969Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:34:59.150Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
       "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
       "source": "Workable",
       "date": "2026-11-11T15:35:00.316Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:34:59.969Z",
       "tags": [
         "Remote"
       ]
@@ -546,14 +594,13 @@
       ]
     },
     {
-      "title": "PROPERTY LEASING & MANAGEMENT",
-      "company": "RAK Real Estate",
-      "url": "https://jobs.workable.com/view/2rjijPjSEaAY3MFsDCGBhP/property-leasing-%26-management-in-al-juwais-at-rak-real-estate",
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
       "source": "Workable",
-      "date": "2026-10-27T08:03:43.014Z",
+      "date": "2026-11-11T15:34:59.150Z",
       "tags": [
-        "Full-time",
-        "Al Juwais, Ras al-Khaimah, United Arab Emirates"
+        "Remote"
       ]
     },
     {
@@ -565,6 +612,27 @@
       "tags": [
         "Full-time",
         "Davis, California, United States"
+      ]
+    },
+    {
+      "title": "PROPERTY LEASING & MANAGEMENT",
+      "company": "RAK Real Estate",
+      "url": "https://jobs.workable.com/view/2rjijPjSEaAY3MFsDCGBhP/property-leasing-%26-management-in-al-juwais-at-rak-real-estate",
+      "source": "Workable",
+      "date": "2026-10-27T08:03:43.014Z",
+      "tags": [
+        "Full-time",
+        "Al Juwais, Ras al-Khaimah, United Arab Emirates"
+      ]
+    },
+    {
+      "title": "Residential Rental Senior Associate",
+      "company": "Lamda Development SA",
+      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-in-greece-at-lamda-development-sa",
+      "source": "Workable",
+      "date": "2026-11-20T08:24:28.870Z",
+      "tags": [
+        "Greece"
       ]
     },
     {
@@ -611,17 +679,6 @@
       ]
     },
     {
-      "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/tkHEqhEjaWoq1izCqgjKAc/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-c%C3%B4te-d'ivoire-at-supportyourapp",
-      "source": "Workable",
-      "date": "2026-11-18T12:13:28.933Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
       "title": "Insurance Operations Support Specialist (primarily Auto Insurance)",
       "company": "Sfakianakis Group",
       "url": "https://jobs.workable.com/view/w8QQvDKsnoWdNzkm6PkZSJ/insurance-operations-support-specialist-(primarily-auto-insurance)-in-athens-at-sfakianakis-group",
@@ -655,9 +712,9 @@
     {
       "title": "Medical Reimbursement Coding Specialist (Texas)",
       "company": "Dane Street, LLC",
-      "url": "https://jobs.workable.com/view/nxiLwysgAQRsD2Mq4nvXNx/remote-medical-reimbursement-coding-specialist-(texas)-in-united-states-at-dane-street%2C-llc",
+      "url": "https://jobs.workable.com/view/hKbbtKpiSYJwnMY3jHyyCn/remote-medical-reimbursement-coding-specialist-(texas)-in-texas-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-11-12T21:15:28.454Z",
+      "date": "2026-11-12T21:15:28.677Z",
       "tags": [
         "Remote"
       ]
@@ -665,9 +722,9 @@
     {
       "title": "Medical Reimbursement Coding Specialist (Texas)",
       "company": "Dane Street, LLC",
-      "url": "https://jobs.workable.com/view/hKbbtKpiSYJwnMY3jHyyCn/remote-medical-reimbursement-coding-specialist-(texas)-in-texas-at-dane-street%2C-llc",
+      "url": "https://jobs.workable.com/view/nxiLwysgAQRsD2Mq4nvXNx/remote-medical-reimbursement-coding-specialist-(texas)-in-united-states-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-11-12T21:15:28.677Z",
+      "date": "2026-11-12T21:15:28.454Z",
       "tags": [
         "Remote"
       ]
@@ -685,23 +742,23 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
       "tags": [
         "Full-time",
         "Halifax, Nova Scotia, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:49.575Z",
+      "tags": [
+        "Full-time",
+        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -718,31 +775,20 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
       "source": "Workable",
-      "date": "2026-10-23T16:01:49.575Z",
+      "date": "2026-10-23T16:01:50.013Z",
       "tags": [
         "Full-time",
-        "Toronto, Ontario, Canada"
+        "Calgary, Alberta, Canada"
       ]
     },
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/1ZS7yeKhF9F5nJbmnHkRxe/health-insurance-subject-matter-expert-(fully-remote)-in-eindhoven-at-covergo",
+      "url": "https://jobs.workable.com/view/r6ryRgyuPbPk1eb9PQmbUC/health-insurance-subject-matter-expert-(fully-remote)-in-budapest-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:04:07.688Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
-      "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/fkVaeAYNZYKjvouhSnuW1H/health-insurance-subject-matter-expert-(fully-remote)-in-prague-at-covergo",
-      "source": "Workable",
-      "date": "2026-04-14T04:04:07.073Z",
+      "date": "2026-04-14T04:07:25.674Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -751,9 +797,9 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/ueWBPQPFkSPWRqNDQxc7CF/health-insurance-subject-matter-expert-(fully-remote)-in-manchester-at-covergo",
+      "url": "https://jobs.workable.com/view/3PJfWgVmcaMyAGtTtFBAUC/health-insurance-subject-matter-expert-(fully-remote)-in-wroc%C5%82aw-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:40.771Z",
+      "date": "2026-04-14T04:07:25.602Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -762,9 +808,20 @@
     {
       "title": "Health Insurance Subject Matter Expert (Fully Remote)",
       "company": "CoverGo",
-      "url": "https://jobs.workable.com/view/qouwiWfW6WCX6jpHQwo6iG/health-insurance-subject-matter-expert-(fully-remote)-in-porto-at-covergo",
+      "url": "https://jobs.workable.com/view/n3ZSFP3NRYgUnguxTmGY79/health-insurance-subject-matter-expert-(fully-remote)-in-warsaw-at-covergo",
       "source": "Workable",
-      "date": "2026-04-14T04:02:39.156Z",
+      "date": "2026-04-14T04:07:25.548Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Health Insurance Subject Matter Expert (Fully Remote)",
+      "company": "CoverGo",
+      "url": "https://jobs.workable.com/view/xqUWNnf7G2DwqoqMc919gT/health-insurance-subject-matter-expert-(fully-remote)-in-amsterdam-at-covergo",
+      "source": "Workable",
+      "date": "2026-04-14T04:04:07.453Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -968,28 +1025,6 @@
       ]
     },
     {
-      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
-      "company": "The People Group",
-      "url": "https://jobs.workable.com/view/ocXZ2AGyVg5Pa1MXXxorei/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-colombia-at-the-people-group",
-      "source": "Workable",
-      "date": "2026-11-18T16:45:51.024Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
-      "company": "The People Group",
-      "url": "https://jobs.workable.com/view/rN1Pz6gPDXLoBa1hb7BYwd/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-argentina-at-the-people-group",
-      "source": "Workable",
-      "date": "2026-11-18T16:45:50.571Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
       "title": "Legal Automation & Operations Specialist",
       "company": "Cepal Hellas Financial Services S.A.",
       "url": "https://jobs.workable.com/view/n9xYDEWqjDCuCozAB3BPMR/hybrid-legal-automation-%26-operations-specialist-in-nea-smyrni-at-cepal-hellas-financial-services-s.a.",
@@ -1033,11 +1068,33 @@
       ]
     },
     {
-      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
-      "company": "The People Group",
-      "url": "https://jobs.workable.com/view/meAHfhR3YTVubtPzshA93j/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-philippines-at-the-people-group",
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/rWxUe3gdZ21NMx4wxM3DFv/remote-devops-automation-specialist-in-india-at-partner-one-software-inc",
       "source": "Workable",
-      "date": "2026-11-18T16:45:50.183Z",
+      "date": "2026-11-11T17:58:58.398Z",
+      "tags": [
+        "Temporary",
+        "Remote"
+      ]
+    },
+    {
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/1bBbJnzuNw8gkGMdvFUiEh/remote-devops-automation-specialist-in-chile-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-11-11T17:22:18.752Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "DevOps Automation Specialist",
+      "company": "Partner One Software Inc",
+      "url": "https://jobs.workable.com/view/abf9zJ5zwGusSxVHCj8pQV/remote-devops-automation-specialist-in-costa-rica-at-partner-one-software-inc",
+      "source": "Workable",
+      "date": "2026-11-11T17:22:18.987Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1090,23 +1147,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:52:02.165Z",
-      "tags": [
-        "Full-time",
-        "Fort Collins, Colorado, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:52:03.948Z",
       "tags": [
         "Full-time",
         "Seattle, Washington, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:52:02.165Z",
+      "tags": [
+        "Full-time",
+        "Fort Collins, Colorado, United States"
       ]
     },
     {
@@ -1187,66 +1244,77 @@
       ]
     },
     {
-      "title": "AI Workflow Automation Specialist",
-      "company": "Food Truck Promotions",
-      "url": "https://jobs.workable.com/view/2k5xNCpec5bc4osh5Xdvmc/remote-ai-workflow-automation-specialist-in-united-states-at-food-truck-promotions",
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/dmCNdeUycg6wGsYD2NS8i6/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
       "source": "Workable",
-      "date": "2026-11-02T20:01:23.745Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Senior Security and Automation Engineer",
-      "company": "Modern IT",
-      "url": "https://jobs.workable.com/view/uffRCahWxY6ZM56Wud69vC/remote-senior-security-and-automation-engineer-in-philippines-at-modern-it",
-      "source": "Workable",
-      "date": "2026-11-19T22:02:49.341Z",
+      "date": "2026-11-20T14:58:18.784Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Philadelphia, Pennsylvania, United States"
       ]
     },
     {
-      "title": "Senior Security and Automation Engineer",
-      "company": "Modern IT",
-      "url": "https://jobs.workable.com/view/cs15pDAFATTWiNsXR6uhtu/remote-senior-security-and-automation-engineer-in-colombia-at-modern-it",
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/av7hoQpCU6WM1UKQvNb62t/hybrid-lims-consultant-in-dallas-at-clarkston-consulting",
       "source": "Workable",
-      "date": "2026-11-19T21:55:35.701Z",
+      "date": "2026-11-20T14:58:18.119Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Dallas, Texas, United States"
       ]
     },
     {
-      "title": "Senior Security and Automation Engineer",
-      "company": "Modern IT",
-      "url": "https://jobs.workable.com/view/dJf3Cx23FeR1MCLs7FAn7a/remote-senior-security-and-automation-engineer-in-peru-at-modern-it",
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/sCarmR41XQFo9FmX417dNB/hybrid-lims-consultant-in-detroit-at-clarkston-consulting",
       "source": "Workable",
-      "date": "2026-11-19T21:55:35.884Z",
+      "date": "2026-11-20T14:58:19.538Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Detroit, Michigan, United States"
       ]
     },
     {
-      "title": "Senior Security and Automation Engineer",
-      "company": "Modern IT",
-      "url": "https://jobs.workable.com/view/6UxRsCKUNq9J8mpr8emoso/remote-senior-security-and-automation-engineer-in-costa-rica-at-modern-it",
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/tPLKFzWNo2wysXEYEtaVzW/hybrid-lims-consultant-in-wilmington-at-clarkston-consulting",
       "source": "Workable",
-      "date": "2026-11-19T21:55:35.522Z",
+      "date": "2026-11-20T14:58:19.130Z",
       "tags": [
         "Full-time",
-        "Remote"
+        "Wilmington, Delaware, United States"
       ]
     },
     {
-      "title": "Senior Security and Automation Engineer",
-      "company": "Modern IT",
-      "url": "https://jobs.workable.com/view/tJxqVTjTLAS7QgheRAZgQ1/remote-senior-security-and-automation-engineer-in-canada-at-modern-it",
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/bsXQirXQypipEdkt8zxF8G/hybrid-lims-consultant-in-atlanta-at-clarkston-consulting",
       "source": "Workable",
-      "date": "2026-11-19T21:55:35.365Z",
+      "date": "2026-11-20T14:58:17.697Z",
+      "tags": [
+        "Full-time",
+        "Atlanta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "Manager IT & Cybersecurity Audits",
+      "company": "JazzCash",
+      "url": "https://jobs.workable.com/view/eNMwR1PTojDJWLXiyeRq6p/manager-it-%26-cybersecurity-audits-in-islamabad-at-jazzcash",
+      "source": "Workable",
+      "date": "2026-11-20T13:04:20.690Z",
+      "tags": [
+        "Full-time",
+        "Islamabad, Islamabad Capital Territory, Pakistan"
+      ]
+    },
+    {
+      "title": "GTM Engineer & Customer-Facing Advisor",
+      "company": "MaxAccelerate",
+      "url": "https://jobs.workable.com/view/scfYjrgnBgj2sU5HiLgv5y/remote-gtm-engineer-%26-customer-facing-advisor-in-united-kingdom-at-maxaccelerate",
+      "source": "Workable",
+      "date": "2026-11-20T09:41:03.061Z",
       "tags": [
         "Full-time",
         "Remote"
