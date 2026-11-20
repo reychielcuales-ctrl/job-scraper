@@ -1,6 +1,6 @@
 {
-  "generatedAt": "2026-11-19T20:04:27.730Z",
-  "count": 113,
+  "generatedAt": "2026-11-20T06:05:23.348Z",
+  "count": 114,
   "jobs": [
     {
       "title": "Manager EDI",
@@ -138,6 +138,14 @@
       ]
     },
     {
+      "title": "Customer Success Manager II - EMEA",
+      "company": "Tines",
+      "url": "https://weworkremotely.com/remote-jobs/tines-customer-success-manager-ii-emea",
+      "source": "We Work Remotely",
+      "date": "Fri, 20 Nov 2026 06:01:44 +0000",
+      "tags": []
+    },
+    {
       "title": "Customer Success Manager",
       "company": "Airtable",
       "url": "https://weworkremotely.com/remote-jobs/airtable-customer-success-manager",
@@ -194,22 +202,6 @@
       "tags": []
     },
     {
-      "title": "Corporate Recruiter",
-      "company": "Asset Living",
-      "url": "https://weworkremotely.com/remote-jobs/asset-living-corporate-recruiter",
-      "source": "We Work Remotely",
-      "date": "Tue, 17 Nov 2026 18:02:02 +0000",
-      "tags": []
-    },
-    {
-      "title": "Senior Executive Assistant to the Executive Team",
-      "company": "Interos",
-      "url": "https://weworkremotely.com/remote-jobs/interos-senior-executive-assistant-to-the-executive-team",
-      "source": "We Work Remotely",
-      "date": "Fri, 13 Nov 2026 15:58:31 +0000",
-      "tags": []
-    },
-    {
       "title": "Shield Program Lead",
       "company": "Guesty",
       "url": "https://weworkremotely.com/remote-jobs/guesty-shield-program-lead",
@@ -239,14 +231,6 @@
       "url": "https://weworkremotely.com/remote-jobs/rgp-ai-enablement-consultant",
       "source": "We Work Remotely",
       "date": "Fri, 06 Nov 2026 04:39:06 +0000",
-      "tags": []
-    },
-    {
-      "title": "Chief Actuary",
-      "company": "Clover Health",
-      "url": "https://weworkremotely.com/remote-jobs/clover-health-chief-actuary",
-      "source": "We Work Remotely",
-      "date": "Fri, 02 Oct 2026 01:24:37 +0000",
       "tags": []
     },
     {
@@ -504,36 +488,6 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:35:00.316Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/qS6anyue8GZYK2tcsWBFgp/remote-head-of-property-management-in-switzerland-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:34:59.735Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/v8aGYpjHcXkmHUucmxPFxE/remote-head-of-property-management-in-united-arab-emirates-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:34:59.482Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
       "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
       "source": "Workable",
       "date": "2026-11-11T15:35:00.689Z",
@@ -562,6 +516,36 @@
       ]
     },
     {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:35:00.316Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/qS6anyue8GZYK2tcsWBFgp/remote-head-of-property-management-in-switzerland-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:34:59.735Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/v8aGYpjHcXkmHUucmxPFxE/remote-head-of-property-management-in-united-arab-emirates-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:34:59.482Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
       "title": "PROPERTY LEASING & MANAGEMENT",
       "company": "RAK Real Estate",
       "url": "https://jobs.workable.com/view/2rjijPjSEaAY3MFsDCGBhP/property-leasing-%26-management-in-al-juwais-at-rak-real-estate",
@@ -581,6 +565,17 @@
       "tags": [
         "Full-time",
         "Davis, California, United States"
+      ]
+    },
+    {
+      "title": "Account Representative / Account Manager / Project Manager",
+      "company": "City Wide Facility Solutions",
+      "url": "https://jobs.workable.com/view/7XRwqMksAFvQSPNwXhYKJW/account-representative-%2F-account-manager-%2F-project-manager-in-burnaby-at-city-wide-facility-solutions",
+      "source": "Workable",
+      "date": "2026-11-20T04:24:27.460Z",
+      "tags": [
+        "Full-time",
+        "Burnaby, British Columbia, Canada"
       ]
     },
     {
@@ -621,28 +616,6 @@
       "url": "https://jobs.workable.com/view/tkHEqhEjaWoq1izCqgjKAc/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-c%C3%B4te-d'ivoire-at-supportyourapp",
       "source": "Workable",
       "date": "2026-11-18T12:13:28.933Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/qqDJhA4mdKhoCFJXgbiK6W/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-antananarivo-at-supportyourapp",
-      "source": "Workable",
-      "date": "2026-11-18T12:13:28.848Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
-      "title": "(fluent English & French) Customer Support Consultant, hospitality (Remote)",
-      "company": "SupportYourApp",
-      "url": "https://jobs.workable.com/view/nsbeasmtKwH4oujkEkxbGb/(fluent-english-%26-french)-customer-support-consultant%2C-hospitality-(remote)-in-port-louis-at-supportyourapp",
-      "source": "Workable",
-      "date": "2026-11-18T12:13:29.136Z",
       "tags": [
         "Contract",
         "Remote"
@@ -712,6 +685,17 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -729,17 +713,6 @@
       "tags": [
         "Full-time",
         "Vancouver, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
       ]
     },
     {
@@ -1117,23 +1090,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:52:03.948Z",
-      "tags": [
-        "Full-time",
-        "Seattle, Washington, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:52:02.165Z",
       "tags": [
         "Full-time",
         "Fort Collins, Colorado, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:52:03.948Z",
+      "tags": [
+        "Full-time",
+        "Seattle, Washington, United States"
       ]
     },
     {
@@ -1225,13 +1198,58 @@
       ]
     },
     {
-      "title": "Senior PMO Analyst",
-      "company": "Destinus",
-      "url": "https://jobs.workable.com/view/whRfDBkdF2mDR1zQXxHjUq/senior-pmo-analyst-in-z%C3%BCrich-at-destinus",
+      "title": "Senior Security and Automation Engineer",
+      "company": "Modern IT",
+      "url": "https://jobs.workable.com/view/uffRCahWxY6ZM56Wud69vC/remote-senior-security-and-automation-engineer-in-philippines-at-modern-it",
       "source": "Workable",
-      "date": "2026-11-19T15:36:10.182Z",
+      "date": "2026-11-19T22:02:49.341Z",
       "tags": [
-        "Zürich, Zurich, Switzerland"
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Senior Security and Automation Engineer",
+      "company": "Modern IT",
+      "url": "https://jobs.workable.com/view/cs15pDAFATTWiNsXR6uhtu/remote-senior-security-and-automation-engineer-in-colombia-at-modern-it",
+      "source": "Workable",
+      "date": "2026-11-19T21:55:35.701Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Senior Security and Automation Engineer",
+      "company": "Modern IT",
+      "url": "https://jobs.workable.com/view/dJf3Cx23FeR1MCLs7FAn7a/remote-senior-security-and-automation-engineer-in-peru-at-modern-it",
+      "source": "Workable",
+      "date": "2026-11-19T21:55:35.884Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Senior Security and Automation Engineer",
+      "company": "Modern IT",
+      "url": "https://jobs.workable.com/view/6UxRsCKUNq9J8mpr8emoso/remote-senior-security-and-automation-engineer-in-costa-rica-at-modern-it",
+      "source": "Workable",
+      "date": "2026-11-19T21:55:35.522Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Senior Security and Automation Engineer",
+      "company": "Modern IT",
+      "url": "https://jobs.workable.com/view/tJxqVTjTLAS7QgheRAZgQ1/remote-senior-security-and-automation-engineer-in-canada-at-modern-it",
+      "source": "Workable",
+      "date": "2026-11-19T21:55:35.365Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     }
   ]
