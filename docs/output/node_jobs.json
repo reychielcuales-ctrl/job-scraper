@@ -1,7 +1,47 @@
 {
-  "generatedAt": "2026-11-21T05:57:46.412Z",
-  "count": 117,
+  "generatedAt": "2026-11-21T14:30:19.682Z",
+  "count": 120,
   "jobs": [
+    {
+      "title": "Global Tax Manager",
+      "company": "Ensono",
+      "url": "https://remoteOK.com/remote-jobs/remote-global-tax-manager-ensono-1137907",
+      "source": "RemoteOK",
+      "date": "2026-11-20T09:40:05+00:00",
+      "tags": [
+        "customer support"
+      ]
+    },
+    {
+      "title": "Data Strategy Operations Manager",
+      "company": "Abnormal",
+      "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
+      "source": "RemoteOK",
+      "date": "2026-11-20T08:40:14+00:00",
+      "tags": [
+        "exec"
+      ]
+    },
+    {
+      "title": "Sr Sales Ops Analyst",
+      "company": "BeyondTrust",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902",
+      "source": "RemoteOK",
+      "date": "2026-11-20T08:20:16+00:00",
+      "tags": [
+        "devops"
+      ]
+    },
+    {
+      "title": "Sr Director, L2C Process Owner",
+      "company": "BeyondTrust",
+      "url": "https://remoteOK.com/remote-jobs/remote-sr-director-l2c-process-owner-beyondtrust-1137890",
+      "source": "RemoteOK",
+      "date": "2026-11-20T06:15:14+00:00",
+      "tags": [
+        "devops"
+      ]
+    },
     {
       "title": "Manager, Business Risk and AI Automation",
       "company": "Reddit",
@@ -62,46 +102,6 @@
         "ops",
         "golang",
         "medical"
-      ]
-    },
-    {
-      "title": "Manager, Business Risk and AI Automation",
-      "company": "Reddit",
-      "url": "https://jobicy.com/jobs/163556-manager-business-risk-and-ai-automation",
-      "source": "Jobicy",
-      "date": "2026-11-20T14:20:04+00:00",
-      "tags": [
-        "Legal & Compliance"
-      ]
-    },
-    {
-      "title": "Principal Customer Success Manager",
-      "company": "Fin",
-      "url": "https://jobicy.com/jobs/163511-principal-customer-success-manager",
-      "source": "Jobicy",
-      "date": "2026-11-20T09:32:11+00:00",
-      "tags": [
-        "Customer Support & Success"
-      ]
-    },
-    {
-      "title": "Forward Deployed Engineer",
-      "company": "Fin",
-      "url": "https://jobicy.com/jobs/163496-forward-deployed-engineer-14",
-      "source": "Jobicy",
-      "date": "2026-11-20T09:31:02+00:00",
-      "tags": [
-        "Software Engineering"
-      ]
-    },
-    {
-      "title": "Director, Solutions Engineering",
-      "company": "Fin",
-      "url": "https://jobicy.com/jobs/163492-director-solutions-engineering",
-      "source": "Jobicy",
-      "date": "2026-11-20T09:30:02+00:00",
-      "tags": [
-        "Sales"
       ]
     },
     {
@@ -341,16 +341,6 @@
       ]
     },
     {
-      "title": "Virtual Assistant",
-      "company": "BookWithMel",
-      "url": "https://jobs.workable.com/view/xyLPkgRZcniNQe4AKpxc8b/remote-virtual-assistant-in-philippines-at-bookwithmel",
-      "source": "Workable",
-      "date": "2026-02-11T16:55:26.593Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
       "title": "Virtual Assistant - Fulfillment",
       "company": "Decentralized Masters",
       "url": "https://jobs.workable.com/view/wZq6hgjrxVzVuYHTNuNHwb/remote-virtual-assistant---fulfillment-in-chile-at-decentralized-masters",
@@ -406,6 +396,16 @@
       ]
     },
     {
+      "title": "Virtual Assistant",
+      "company": "BookWithMel",
+      "url": "https://jobs.workable.com/view/xyLPkgRZcniNQe4AKpxc8b/remote-virtual-assistant-in-philippines-at-bookwithmel",
+      "source": "Workable",
+      "date": "2026-02-11T16:55:26.593Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/jCYNRMimgzL3eeUqkHdGCQ/remote-virtual-assistant-full-time-in-manchester-at-dln-consulting-group",
@@ -419,9 +419,9 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
+      "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
       "source": "Workable",
-      "date": "2026-11-17T05:22:37.576Z",
+      "date": "2026-11-17T05:22:34.798Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -463,9 +463,9 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
+      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
       "source": "Workable",
-      "date": "2026-11-11T15:35:00.316Z",
+      "date": "2026-11-11T15:35:00.689Z",
       "tags": [
         "Remote"
       ]
@@ -473,9 +473,9 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
+      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
       "source": "Workable",
-      "date": "2026-11-11T15:35:00.689Z",
+      "date": "2026-11-11T15:35:00.316Z",
       "tags": [
         "Remote"
       ]
@@ -543,6 +543,82 @@
       ]
     },
     {
+      "title": "Leasing Agent",
+      "company": "Genesis Recruiting",
+      "url": "https://jobs.workable.com/view/aA7Y9ESsfP3gft9iEHqsFh/leasing-agent-in-rahway-at-genesis-recruiting",
+      "source": "Workable",
+      "date": "2025-02-26T03:42:14.000Z",
+      "tags": [
+        "Rahway, New Jersey, United States"
+      ]
+    },
+    {
+      "title": "Project Accountant - Remote",
+      "company": "Kaizen Asset Management Services",
+      "url": "https://jobs.workable.com/view/3523pycgB4sNrhtyBEeWVf/project-accountant---remote-in-egypt-at-kaizen-asset-management-services",
+      "source": "Workable",
+      "date": "2026-08-22T09:02:05.282Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Project Accountant - Remote",
+      "company": "Kaizen Asset Management Services",
+      "url": "https://jobs.workable.com/view/kWRpwvUw4SCxPY3C6JzSDp/project-accountant---remote-in-lebanon-at-kaizen-asset-management-services",
+      "source": "Workable",
+      "date": "2026-08-22T09:02:05.188Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Project Accountant - Remote",
+      "company": "Kaizen Asset Management Services",
+      "url": "https://jobs.workable.com/view/v6BP5bpfnwmRU5PSRWa95C/project-accountant---remote-in-pakistan-at-kaizen-asset-management-services",
+      "source": "Workable",
+      "date": "2026-08-22T09:02:04.922Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Project Accountant - Remote",
+      "company": "Kaizen Asset Management Services",
+      "url": "https://jobs.workable.com/view/m3R7WLoHV4ECKbnxjWxvHc/project-accountant---remote-in-philippines-at-kaizen-asset-management-services",
+      "source": "Workable",
+      "date": "2026-08-22T09:02:04.952Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Project Accountant - Remote",
+      "company": "Kaizen Asset Management Services",
+      "url": "https://jobs.workable.com/view/3ZAKpZiN5FK8EV5PVVSBHH/project-accountant---remote-in-india-at-kaizen-asset-management-services",
+      "source": "Workable",
+      "date": "2026-08-22T09:02:04.441Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Account Executive (Canada) - SaaS/IoT, Build Your Own Vertical",
+      "company": "Keycafe",
+      "url": "https://jobs.workable.com/view/gEB1e8km1De248kKKEM6fp/remote-account-executive-(canada)---saas%2Fiot%2C-build-your-own-vertical-in-canada-at-keycafe",
+      "source": "Workable",
+      "date": "2025-08-25T12:59:12.396Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
       "title": "IT Field Service Technician",
       "company": "Rockford",
       "url": "https://jobs.workable.com/view/bhgn7u6Nh5q7UUkKF7Z7fR/it-field-service-technician-in-grand-rapids-at-rockford",
@@ -550,48 +626,6 @@
       "date": "2026-11-20T21:59:15.944Z",
       "tags": [
         "Grand Rapids, Michigan, United States"
-      ]
-    },
-    {
-      "title": "Residential Rental Senior Associate",
-      "company": "Lamda Development SA",
-      "url": "https://jobs.workable.com/view/u6psqPjwtZhRSVpPM8oEkT/residential-rental-senior-associate-in-greece-at-lamda-development-sa",
-      "source": "Workable",
-      "date": "2026-11-20T08:24:28.870Z",
-      "tags": [
-        "Greece"
-      ]
-    },
-    {
-      "title": "Account Representative / Account Manager / Project Manager",
-      "company": "City Wide Facility Solutions",
-      "url": "https://jobs.workable.com/view/7XRwqMksAFvQSPNwXhYKJW/account-representative-%2F-account-manager-%2F-project-manager-in-burnaby-at-city-wide-facility-solutions",
-      "source": "Workable",
-      "date": "2026-11-21T02:23:54.177Z",
-      "tags": [
-        "Full-time",
-        "Burnaby, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Leasing Agent Full Time Peak of Boone Rivers Walk Boone, NC",
-      "company": "KPM",
-      "url": "https://jobs.workable.com/view/kPU5xbsDUivQ2fLfzLMpt4/leasing-agent-full-time-peak-of-boone-rivers-walk-boone%2C-nc-in-boone-at-kpm",
-      "source": "Workable",
-      "date": "2026-11-19T15:24:49.163Z",
-      "tags": [
-        "Full-time",
-        "Boone, North Carolina, United States"
-      ]
-    },
-    {
-      "title": "Contracts & Performance Senior Manager",
-      "company": "Lamda Development SA",
-      "url": "https://jobs.workable.com/view/n2Pv7un7x4mGPuoESeaUZK/contracts-%26-performance-senior-manager-in-greece-at-lamda-development-sa",
-      "source": "Workable",
-      "date": "2026-11-19T09:15:17.428Z",
-      "tags": [
-        "Greece"
       ]
     },
     {
@@ -628,9 +662,9 @@
     {
       "title": "Medical Reimbursement Coding Specialist (Texas)",
       "company": "Dane Street, LLC",
-      "url": "https://jobs.workable.com/view/nxiLwysgAQRsD2Mq4nvXNx/remote-medical-reimbursement-coding-specialist-(texas)-in-united-states-at-dane-street%2C-llc",
+      "url": "https://jobs.workable.com/view/hKbbtKpiSYJwnMY3jHyyCn/remote-medical-reimbursement-coding-specialist-(texas)-in-texas-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-11-12T21:15:28.454Z",
+      "date": "2026-11-12T21:15:28.677Z",
       "tags": [
         "Remote"
       ]
@@ -638,9 +672,9 @@
     {
       "title": "Medical Reimbursement Coding Specialist (Texas)",
       "company": "Dane Street, LLC",
-      "url": "https://jobs.workable.com/view/hKbbtKpiSYJwnMY3jHyyCn/remote-medical-reimbursement-coding-specialist-(texas)-in-texas-at-dane-street%2C-llc",
+      "url": "https://jobs.workable.com/view/nxiLwysgAQRsD2Mq4nvXNx/remote-medical-reimbursement-coding-specialist-(texas)-in-united-states-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-11-12T21:15:28.677Z",
+      "date": "2026-11-12T21:15:28.454Z",
       "tags": [
         "Remote"
       ]
@@ -1063,23 +1097,23 @@
     {
       "title": "AI Workflow Engineer/Automation Architect",
       "company": "Modern Family Law",
-      "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
-      "source": "Workable",
-      "date": "2026-11-12T20:52:02.165Z",
-      "tags": [
-        "Full-time",
-        "Fort Collins, Colorado, United States"
-      ]
-    },
-    {
-      "title": "AI Workflow Engineer/Automation Architect",
-      "company": "Modern Family Law",
       "url": "https://jobs.workable.com/view/28GHTUdtmHsrLU4twZLeZV/hybrid-ai-workflow-engineer%2Fautomation-architect-in-seattle-at-modern-family-law",
       "source": "Workable",
       "date": "2026-11-12T20:52:03.948Z",
       "tags": [
         "Full-time",
         "Seattle, Washington, United States"
+      ]
+    },
+    {
+      "title": "AI Workflow Engineer/Automation Architect",
+      "company": "Modern Family Law",
+      "url": "https://jobs.workable.com/view/snGFpW4pG19xLnUvdSLncD/hybrid-ai-workflow-engineer%2Fautomation-architect-in-fort-collins-at-modern-family-law",
+      "source": "Workable",
+      "date": "2026-11-12T20:52:02.165Z",
+      "tags": [
+        "Full-time",
+        "Fort Collins, Colorado, United States"
       ]
     },
     {
@@ -1162,17 +1196,6 @@
     {
       "title": "LIMS Consultant",
       "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/bsXQirXQypipEdkt8zxF8G/hybrid-lims-consultant-in-atlanta-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-11-20T14:58:17.697Z",
-      "tags": [
-        "Full-time",
-        "Atlanta, Georgia, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
       "url": "https://jobs.workable.com/view/dmCNdeUycg6wGsYD2NS8i6/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
       "source": "Workable",
       "date": "2026-11-20T14:58:18.784Z",
@@ -1190,6 +1213,17 @@
       "tags": [
         "Full-time",
         "Dallas, Texas, United States"
+      ]
+    },
+    {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/bsXQirXQypipEdkt8zxF8G/hybrid-lims-consultant-in-atlanta-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-11-20T14:58:17.697Z",
+      "tags": [
+        "Full-time",
+        "Atlanta, Georgia, United States"
       ]
     },
     {
@@ -1228,9 +1262,9 @@
     {
       "title": "GTM Engineer & Customer-Facing Advisor",
       "company": "MaxAccelerate",
-      "url": "https://jobs.workable.com/view/nCBzQwPzwLVmc2iSTgCmSL/remote-gtm-engineer-%26-customer-facing-advisor-in-portugal-at-maxaccelerate",
+      "url": "https://jobs.workable.com/view/scfYjrgnBgj2sU5HiLgv5y/remote-gtm-engineer-%26-customer-facing-advisor-in-united-kingdom-at-maxaccelerate",
       "source": "Workable",
-      "date": "2026-11-20T09:41:04.066Z",
+      "date": "2026-11-20T09:41:03.061Z",
       "tags": [
         "Full-time",
         "Remote"
