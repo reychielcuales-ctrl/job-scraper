@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-22T05:32:08.953Z",
-  "count": 120,
+  "generatedAt": "2026-11-22T14:13:02.091Z",
+  "count": 119,
   "jobs": [
+    {
+      "title": "Director, Revenue Accounting",
+      "company": "6sense",
+      "url": "https://remoteOK.com/remote-jobs/remote-director-revenue-accounting-6sense-1137960",
+      "source": "RemoteOK",
+      "date": "2026-11-21T10:40:05+00:00",
+      "tags": [
+        "finance"
+      ]
+    },
     {
       "title": "Sr. Security Operations Manager",
       "company": "Carrot",
@@ -63,24 +73,12 @@
       ]
     },
     {
-      "title": "Senior GTM Engineer",
-      "company": "Salesloft",
-      "url": "https://remoteOK.com/remote-jobs/remote-senior-gtm-engineer-salesloft-1137851",
-      "source": "RemoteOK",
-      "date": "2026-11-19T19:00:14+00:00",
-      "tags": [
-        "programming"
-      ]
-    },
-    {
-      "title": "Onboarding Manager, France",
-      "company": "Apaleo",
-      "url": "https://jobicy.com/jobs/163714-onboarding-manager-france",
-      "source": "Jobicy",
-      "date": "2026-11-21T15:08:36+00:00",
-      "tags": [
-        "Customer Support & Success"
-      ]
+      "title": "Paralegal",
+      "company": "Tines",
+      "url": "https://weworkremotely.com/remote-jobs/tines-paralegal",
+      "source": "We Work Remotely",
+      "date": "Sun, 22 Nov 2026 06:02:33 +0000",
+      "tags": []
     },
     {
       "title": "Remote Customer Support Specialist",
@@ -384,31 +382,31 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/jCYNRMimgzL3eeUqkHdGCQ/remote-virtual-assistant-full-time-in-manchester-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:35.495Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:34.798Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-17T05:22:37.576Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/6AzN7Zk8ZBho1zT3GNysVg/remote-virtual-assistant-full-time-in-new-york-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:37.210Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/kqnrXSo1XxMCs9rJZAZYR7/remote-virtual-assistant-full-time-in-albuquerque-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:36.519Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -450,9 +448,9 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
+      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
       "source": "Workable",
-      "date": "2026-11-11T15:35:00.689Z",
+      "date": "2026-11-11T15:35:00.316Z",
       "tags": [
         "Remote"
       ]
@@ -460,9 +458,9 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
+      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
       "source": "Workable",
-      "date": "2026-11-11T15:35:00.316Z",
+      "date": "2026-11-11T15:35:00.689Z",
       "tags": [
         "Remote"
       ]
@@ -542,9 +540,9 @@
     {
       "title": "Project Accountant - Remote",
       "company": "Kaizen Asset Management Services",
-      "url": "https://jobs.workable.com/view/kWRpwvUw4SCxPY3C6JzSDp/project-accountant---remote-in-lebanon-at-kaizen-asset-management-services",
+      "url": "https://jobs.workable.com/view/v6BP5bpfnwmRU5PSRWa95C/project-accountant---remote-in-pakistan-at-kaizen-asset-management-services",
       "source": "Workable",
-      "date": "2026-08-22T09:02:05.188Z",
+      "date": "2026-08-22T09:02:04.922Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -553,9 +551,9 @@
     {
       "title": "Project Accountant - Remote",
       "company": "Kaizen Asset Management Services",
-      "url": "https://jobs.workable.com/view/v6BP5bpfnwmRU5PSRWa95C/project-accountant---remote-in-pakistan-at-kaizen-asset-management-services",
+      "url": "https://jobs.workable.com/view/kWRpwvUw4SCxPY3C6JzSDp/project-accountant---remote-in-lebanon-at-kaizen-asset-management-services",
       "source": "Workable",
-      "date": "2026-08-22T09:02:04.922Z",
+      "date": "2026-08-22T09:02:05.188Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -605,17 +603,6 @@
       ]
     },
     {
-      "title": "PROPERTY LEASING & MANAGEMENT",
-      "company": "RAK Real Estate",
-      "url": "https://jobs.workable.com/view/2rjijPjSEaAY3MFsDCGBhP/property-leasing-%26-management-in-al-juwais-at-rak-real-estate",
-      "source": "Workable",
-      "date": "2026-10-27T08:03:43.014Z",
-      "tags": [
-        "Full-time",
-        "Al Juwais, Ras al-Khaimah, United Arab Emirates"
-      ]
-    },
-    {
       "title": "Insurance Operations Support Specialist (primarily Auto Insurance)",
       "company": "Sfakianakis Group",
       "url": "https://jobs.workable.com/view/w8QQvDKsnoWdNzkm6PkZSJ/insurance-operations-support-specialist-(primarily-auto-insurance)-in-athens-at-sfakianakis-group",
@@ -649,9 +636,9 @@
     {
       "title": "Medical Reimbursement Coding Specialist (Texas)",
       "company": "Dane Street, LLC",
-      "url": "https://jobs.workable.com/view/nxiLwysgAQRsD2Mq4nvXNx/remote-medical-reimbursement-coding-specialist-(texas)-in-united-states-at-dane-street%2C-llc",
+      "url": "https://jobs.workable.com/view/hKbbtKpiSYJwnMY3jHyyCn/remote-medical-reimbursement-coding-specialist-(texas)-in-texas-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-11-12T21:15:28.454Z",
+      "date": "2026-11-12T21:15:28.677Z",
       "tags": [
         "Remote"
       ]
@@ -659,9 +646,9 @@
     {
       "title": "Medical Reimbursement Coding Specialist (Texas)",
       "company": "Dane Street, LLC",
-      "url": "https://jobs.workable.com/view/hKbbtKpiSYJwnMY3jHyyCn/remote-medical-reimbursement-coding-specialist-(texas)-in-texas-at-dane-street%2C-llc",
+      "url": "https://jobs.workable.com/view/nxiLwysgAQRsD2Mq4nvXNx/remote-medical-reimbursement-coding-specialist-(texas)-in-united-states-at-dane-street%2C-llc",
       "source": "Workable",
-      "date": "2026-11-12T21:15:28.677Z",
+      "date": "2026-11-12T21:15:28.454Z",
       "tags": [
         "Remote"
       ]
@@ -674,6 +661,17 @@
       "date": "2026-11-12T20:58:28.706Z",
       "tags": [
         "Remote"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:49.575Z",
+      "tags": [
+        "Full-time",
+        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -696,17 +694,6 @@
       "tags": [
         "Full-time",
         "Vancouver, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:49.575Z",
-      "tags": [
-        "Full-time",
-        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -1183,17 +1170,6 @@
     {
       "title": "LIMS Consultant",
       "company": "Clarkston Consulting",
-      "url": "https://jobs.workable.com/view/bsXQirXQypipEdkt8zxF8G/hybrid-lims-consultant-in-atlanta-at-clarkston-consulting",
-      "source": "Workable",
-      "date": "2026-11-20T14:58:17.697Z",
-      "tags": [
-        "Full-time",
-        "Atlanta, Georgia, United States"
-      ]
-    },
-    {
-      "title": "LIMS Consultant",
-      "company": "Clarkston Consulting",
       "url": "https://jobs.workable.com/view/dmCNdeUycg6wGsYD2NS8i6/hybrid-lims-consultant-in-philadelphia-at-clarkston-consulting",
       "source": "Workable",
       "date": "2026-11-20T14:58:18.784Z",
@@ -1211,6 +1187,17 @@
       "tags": [
         "Full-time",
         "Dallas, Texas, United States"
+      ]
+    },
+    {
+      "title": "LIMS Consultant",
+      "company": "Clarkston Consulting",
+      "url": "https://jobs.workable.com/view/bsXQirXQypipEdkt8zxF8G/hybrid-lims-consultant-in-atlanta-at-clarkston-consulting",
+      "source": "Workable",
+      "date": "2026-11-20T14:58:17.697Z",
+      "tags": [
+        "Full-time",
+        "Atlanta, Georgia, United States"
       ]
     },
     {
@@ -1249,9 +1236,9 @@
     {
       "title": "GTM Engineer & Customer-Facing Advisor",
       "company": "MaxAccelerate",
-      "url": "https://jobs.workable.com/view/nCBzQwPzwLVmc2iSTgCmSL/remote-gtm-engineer-%26-customer-facing-advisor-in-portugal-at-maxaccelerate",
+      "url": "https://jobs.workable.com/view/scfYjrgnBgj2sU5HiLgv5y/remote-gtm-engineer-%26-customer-facing-advisor-in-united-kingdom-at-maxaccelerate",
       "source": "Workable",
-      "date": "2026-11-20T09:41:04.066Z",
+      "date": "2026-11-20T09:41:03.061Z",
       "tags": [
         "Full-time",
         "Remote"
