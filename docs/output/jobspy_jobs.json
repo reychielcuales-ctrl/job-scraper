@@ -1,5 +1,13 @@
 [
   {
+    "title": "Virtual Assistant",
+    "company": "klean chores co",
+    "url": "https://www.indeed.com/viewjob?jk=06598be84a5cb799",
+    "source": "JobSpy/indeed",
+    "date": "2026-11-22",
+    "tags": []
+  },
+  {
     "title": "Virtual Assistant Clinical Director (West Coast)",
     "company": "Monte Nido",
     "url": "https://www.indeed.com/viewjob?jk=8e49787d447d35ec",
@@ -24,6 +32,54 @@
     "tags": []
   },
   {
+    "title": "Virtual Assistant (Remote)",
+    "company": "Everest Altitude LLC",
+    "url": "https://www.linkedin.com/jobs/view/4493145244",
+    "source": "JobSpy/linkedin",
+    "date": "2026-11-22",
+    "tags": []
+  },
+  {
+    "title": "Virtual Assistant",
+    "company": "1st Financial Consulting Solutions",
+    "url": "https://www.linkedin.com/jobs/view/4492335171",
+    "source": "JobSpy/linkedin",
+    "date": "2026-11-22",
+    "tags": []
+  },
+  {
+    "title": "Virtual Assistant",
+    "company": "Everest Altitude LLC",
+    "url": "https://www.linkedin.com/jobs/view/4493136644",
+    "source": "JobSpy/linkedin",
+    "date": "2026-11-22",
+    "tags": []
+  },
+  {
+    "title": "Virtual Assistant",
+    "company": "Consulting America Group LLC",
+    "url": "https://www.linkedin.com/jobs/view/4493317144",
+    "source": "JobSpy/linkedin",
+    "date": "2026-11-22",
+    "tags": []
+  },
+  {
+    "title": "Virtual Assistant - Remote",
+    "company": "Torentify",
+    "url": "https://www.linkedin.com/jobs/view/4493329223",
+    "source": "JobSpy/linkedin",
+    "date": "2026-11-22",
+    "tags": []
+  },
+  {
+    "title": "Virtual Assistant (Remote)",
+    "company": "Consulting America Group LLC",
+    "url": "https://www.linkedin.com/jobs/view/4493300475",
+    "source": "JobSpy/linkedin",
+    "date": "2026-11-21",
+    "tags": []
+  },
+  {
     "title": "Admin Virtual Assistant",
     "company": "TalentHop",
     "url": "https://www.linkedin.com/jobs/view/4492315828",
@@ -35,14 +91,6 @@
     "title": "Virtual Assistant \u2013 Healthcare",
     "company": "Virtustant",
     "url": "https://www.linkedin.com/jobs/view/4492320284",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-21",
-    "tags": []
-  },
-  {
-    "title": "Virtual Assistant (Remote)",
-    "company": "Torentify",
-    "url": "https://www.linkedin.com/jobs/view/4493279496",
     "source": "JobSpy/linkedin",
     "date": "2026-11-21",
     "tags": []
@@ -61,38 +109,6 @@
     "url": "https://www.linkedin.com/jobs/view/4482216730",
     "source": "JobSpy/linkedin",
     "date": "2026-11-20",
-    "tags": []
-  },
-  {
-    "title": "All-Around Virtual Assistant",
-    "company": "ChoreChimps",
-    "url": "https://www.linkedin.com/jobs/view/4492567499",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-20",
-    "tags": []
-  },
-  {
-    "title": "Real Estate Virtual Assistant",
-    "company": "ClearDesk",
-    "url": "https://www.linkedin.com/jobs/view/4491932434",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-20",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant",
-    "company": "Scoutly",
-    "url": "https://www.linkedin.com/jobs/view/4475944009",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-19",
-    "tags": []
-  },
-  {
-    "title": "Virtual Assistant | Full-Time",
-    "company": "Willows Hire",
-    "url": "https://www.linkedin.com/jobs/view/4491368875",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-19",
     "tags": []
   },
   {
@@ -152,25 +168,9 @@
     "tags": []
   },
   {
-    "title": "Executive Assistant",
-    "company": "CVS Health",
-    "url": "https://www.indeed.com/viewjob?jk=aaef3a0b16ba5dbc",
-    "source": "JobSpy/indeed",
-    "date": "2026-11-19",
-    "tags": []
-  },
-  {
     "title": "Executive Assistant, Office of the CTO",
     "company": "GitLab Inc",
     "url": "https://www.indeed.com/viewjob?jk=f9d46fc4f5174b50",
-    "source": "JobSpy/indeed",
-    "date": "2026-11-19",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant",
-    "company": "Veta Virtual",
-    "url": "https://www.indeed.com/viewjob?jk=75eccd526b319f50",
     "source": "JobSpy/indeed",
     "date": "2026-11-19",
     "tags": []
@@ -193,6 +193,22 @@
   },
   {
     "title": "Executive Assistant",
+    "company": "Veta Virtual",
+    "url": "https://www.indeed.com/viewjob?jk=75eccd526b319f50",
+    "source": "JobSpy/indeed",
+    "date": "2026-11-19",
+    "tags": []
+  },
+  {
+    "title": "Executive Assistant II",
+    "company": "Keysight Technologies",
+    "url": "https://www.indeed.com/viewjob?jk=7a73374245767070",
+    "source": "JobSpy/indeed",
+    "date": "2026-11-19",
+    "tags": []
+  },
+  {
+    "title": "Executive Assistant",
     "company": "Delta Delta Delta",
     "url": "https://www.indeed.com/viewjob?jk=2a31d571e052e21b",
     "source": "JobSpy/indeed",
@@ -208,14 +224,6 @@
     "tags": []
   },
   {
-    "title": "Senior Executive Assistant",
-    "company": "Modine Manufacturing Company",
-    "url": "https://www.indeed.com/viewjob?jk=d54553c44894030e",
-    "source": "JobSpy/indeed",
-    "date": "2026-11-17",
-    "tags": []
-  },
-  {
     "title": "Administrative Assistant 3",
     "company": "Humana",
     "url": "https://www.indeed.com/viewjob?jk=fd3835b9e0bce797",
@@ -224,121 +232,33 @@
     "tags": []
   },
   {
-    "title": "Business Operations & Executive Assistant",
-    "company": "South Florida Finest Realty",
-    "url": "https://www.indeed.com/viewjob?jk=a2647af85c6c8b91",
+    "title": "Senior Executive Assistant",
+    "company": "Modine Manufacturing Company",
+    "url": "https://www.indeed.com/viewjob?jk=d54553c44894030e",
     "source": "JobSpy/indeed",
-    "date": "2026-11-14",
+    "date": "2026-11-17",
     "tags": []
   },
   {
-    "title": "Turkish-Speaking Executive Assistant to CEO",
-    "company": "EKVATOR TEXTIL SHOES",
-    "url": "https://www.linkedin.com/jobs/view/4493279034",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-21",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant to CEO",
-    "company": "Santa Browser",
-    "url": "https://www.linkedin.com/jobs/view/4492155517",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-19",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant to Managing Director",
-    "company": "Sharp & Carter",
-    "url": "https://www.linkedin.com/jobs/view/4492400473",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-19",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant to the CEO - The Flex Algeria",
-    "company": "The Flex",
-    "url": "https://www.linkedin.com/jobs/view/4492244569",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-19",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant to the CEO - The Flex Algeria",
-    "company": "The Flex",
-    "url": "https://www.linkedin.com/jobs/view/4492256223",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-19",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant to Chief Executive Officer (CEO)",
-    "company": "Base Careers",
-    "url": "https://www.linkedin.com/jobs/view/4491384459",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-19",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant to Chief Medical Officer",
-    "company": "St John of God Health Care",
-    "url": "https://www.linkedin.com/jobs/view/4490847501",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-18",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant",
-    "company": "ALESAYI HOLDING |  \u0627\u0644\u0639\u064a\u0633\u0627\u0626\u064a \u0627\u0644\u0642\u0627\u0628\u0636\u0629",
-    "url": "https://www.linkedin.com/jobs/view/4492012919",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-18",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant",
-    "company": "VOLUME (Creative Agency)",
-    "url": "https://www.linkedin.com/jobs/view/4489741142",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-16",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant to Chief Executive Officer",
-    "company": "Calsoft",
-    "url": "https://www.linkedin.com/jobs/view/4490266579",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-16",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant",
-    "company": "W3villa Technologies",
-    "url": "https://www.linkedin.com/jobs/view/4490604181",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-16",
-    "tags": []
-  },
-  {
-    "title": "Executive Assistant to CEO \u2013 Outpatient Behavioural Health",
-    "company": "Boston Neurobehavioral Associates",
-    "url": "https://www.linkedin.com/jobs/view/4489778757",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-16",
-    "tags": []
-  },
-  {
-    "title": "PT Property Management Assistant",
-    "company": "Welcome2YourNewHome",
-    "url": "https://www.indeed.com/viewjob?jk=aeef166bc35417fe",
+    "title": "Sr Administrative Assistant - BU",
+    "company": "BECU",
+    "url": "https://www.indeed.com/viewjob?jk=dfdf92f4607d9b2d",
     "source": "JobSpy/indeed",
-    "date": "2026-11-20",
+    "date": "2026-11-17",
     "tags": []
   },
   {
     "title": "Property Manager - Tyler",
     "company": "Northpoint Asset Management",
     "url": "https://www.indeed.com/viewjob?jk=2f33be709b720770",
+    "source": "JobSpy/indeed",
+    "date": "2026-11-20",
+    "tags": []
+  },
+  {
+    "title": "PT Property Management Assistant",
+    "company": "Welcome2YourNewHome",
+    "url": "https://www.indeed.com/viewjob?jk=aeef166bc35417fe",
     "source": "JobSpy/indeed",
     "date": "2026-11-20",
     "tags": []
@@ -512,6 +432,14 @@
     "tags": []
   },
   {
+    "title": "Travel Operations Specialist \u2014 AI Workflow Review",
+    "company": "AuraOne Human Data",
+    "url": "https://www.indeed.com/viewjob?jk=a4c3789d6f2e5852",
+    "source": "JobSpy/indeed",
+    "date": "2026-11-21",
+    "tags": []
+  },
+  {
     "title": "AI Automation & Business Process Specialist",
     "company": "Inspiring Search",
     "url": "https://www.linkedin.com/jobs/view/4492994157",
@@ -523,14 +451,6 @@
     "title": "AI & Automation Engineer (Enterprise)",
     "company": "Magnet Forensics",
     "url": "https://www.linkedin.com/jobs/view/4468280447",
-    "source": "JobSpy/linkedin",
-    "date": "2026-11-19",
-    "tags": []
-  },
-  {
-    "title": "AI & Automation Engineer (Enterprise)",
-    "company": "Magnet Forensics",
-    "url": "https://www.linkedin.com/jobs/view/4468262717",
     "source": "JobSpy/linkedin",
     "date": "2026-11-19",
     "tags": []
@@ -568,10 +488,34 @@
     "tags": []
   },
   {
-    "title": "AI & AUTOMATION ENGINEER (LIEGE-BELGIUM)",
-    "company": "GAMING1",
-    "url": "https://www.linkedin.com/jobs/view/4447219331",
-    "source": "JobSpy/linkedin",
+    "title": "Workflow Automation Specialist",
+    "company": "Phil, Inc.",
+    "url": "https://www.indeed.com/viewjob?jk=e38187c6a7a38634",
+    "source": "JobSpy/indeed",
+    "date": "2026-11-20",
+    "tags": []
+  },
+  {
+    "title": "Proxy Infrastructure & Browser Automation Specialist (Windows)",
+    "company": "DB Creative",
+    "url": "https://www.indeed.com/viewjob?jk=a5a983251e5d57ac",
+    "source": "JobSpy/indeed",
+    "date": "2026-11-20",
+    "tags": []
+  },
+  {
+    "title": "Principal Product Manager, Workflow Automation",
+    "company": "Zillow",
+    "url": "https://www.indeed.com/viewjob?jk=280b3d65b284f73e",
+    "source": "JobSpy/indeed",
+    "date": "2026-11-17",
+    "tags": []
+  },
+  {
+    "title": "AI & Automation Specialist",
+    "company": "https://www.geniusvisionaryinc.com",
+    "url": "https://www.indeed.com/viewjob?jk=5cf6500986f89b1d",
+    "source": "JobSpy/indeed",
     "date": "2026-11-15",
     "tags": []
   }
