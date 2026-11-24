@@ -1,5 +1,5 @@
 {
-  "generatedAt": "2026-11-23T23:30:18.626Z",
+  "generatedAt": "2026-11-24T08:49:46.930Z",
   "count": 126,
   "jobs": [
     {
@@ -93,13 +93,23 @@
       ]
     },
     {
-      "title": "Senior Marketing Automation Specialist",
-      "company": "Anteriad",
-      "url": "https://jobicy.com/jobs/163928-senior-marketing-automation-specialist",
+      "title": "Technical Sales Engineer/ Lead",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/156838-technical-sales-engineer-lead",
       "source": "Jobicy",
-      "date": "2026-11-23T12:36:56+00:00",
+      "date": "2026-11-24T04:45:31+00:00",
       "tags": [
-        "Marketing & Sales"
+        "Sales"
+      ]
+    },
+    {
+      "title": "AI Agent Engineer",
+      "company": "Binance",
+      "url": "https://jobicy.com/jobs/156835-ai-agent-engineer",
+      "source": "Jobicy",
+      "date": "2026-11-24T04:45:27+00:00",
+      "tags": [
+        "Software Engineering"
       ]
     },
     {
@@ -484,31 +494,31 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/jCYNRMimgzL3eeUqkHdGCQ/remote-virtual-assistant-full-time-in-manchester-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:35.495Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:34.798Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-17T05:22:37.576Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/6AzN7Zk8ZBho1zT3GNysVg/remote-virtual-assistant-full-time-in-new-york-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:37.210Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/kqnrXSo1XxMCs9rJZAZYR7/remote-virtual-assistant-full-time-in-albuquerque-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:36.519Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -550,9 +560,29 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:35:00.689Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
       "url": "https://jobs.workable.com/view/gSoGvPKDr6vXrgqXX92WSr/remote-head-of-property-management-in-spain-at-acs-group",
       "source": "Workable",
       "date": "2026-11-11T15:35:00.316Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Head of Property Management",
+      "company": "ACS Group",
+      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
+      "source": "Workable",
+      "date": "2026-11-11T15:34:59.969Z",
       "tags": [
         "Remote"
       ]
@@ -580,26 +610,6 @@
     {
       "title": "Head of Property Management",
       "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/msB4v3JUujqJqwfR85E6UV/remote-head-of-property-management-in-france-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:35:00.689Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
-      "url": "https://jobs.workable.com/view/2Hpu1DW2YzRqzVmMQjwc86/remote-head-of-property-management-in-italy-at-acs-group",
-      "source": "Workable",
-      "date": "2026-11-11T15:34:59.969Z",
-      "tags": [
-        "Remote"
-      ]
-    },
-    {
-      "title": "Head of Property Management",
-      "company": "ACS Group",
       "url": "https://jobs.workable.com/view/57az9k5AAwMH4SuiThasbG/remote-head-of-property-management-in-united-kingdom-at-acs-group",
       "source": "Workable",
       "date": "2026-11-11T15:34:59.150Z",
@@ -619,6 +629,17 @@
       ]
     },
     {
+      "title": "Quality Assurance Specialist",
+      "company": "WeconnectU",
+      "url": "https://jobs.workable.com/view/fqfA6iXZjhcJpaBNRVPGZ1/quality-assurance-specialist-in-somerset-west-at-weconnectu",
+      "source": "Workable",
+      "date": "2025-08-29T05:54:08.079Z",
+      "tags": [
+        "Full-time",
+        "Somerset West, Western Cape, South Africa"
+      ]
+    },
+    {
       "title": "Property Manager",
       "company": "Brilliant Corners",
       "url": "https://jobs.workable.com/view/5rGLFwrrvcmnwBenuJDumG/hybrid-property-manager-in-san-rafael-at-brilliant-corners",
@@ -627,6 +648,17 @@
       "tags": [
         "Full-time",
         "San Rafael, California, United States"
+      ]
+    },
+    {
+      "title": "Associate Product Manager",
+      "company": "Funnel Leasing",
+      "url": "https://jobs.workable.com/view/ehHDj7we455vpjYz7RsBJJ/remote-associate-product-manager-in-united-states-at-funnel-leasing",
+      "source": "Workable",
+      "date": "2026-11-23T15:27:18.733Z",
+      "tags": [
+        "Full-time",
+        "Remote"
       ]
     },
     {
@@ -650,14 +682,13 @@
       ]
     },
     {
-      "title": "Associate Product Manager",
-      "company": "Funnel Leasing",
-      "url": "https://jobs.workable.com/view/ehHDj7we455vpjYz7RsBJJ/remote-associate-product-manager-in-united-states-at-funnel-leasing",
+      "title": "Executive Assistant",
+      "company": "Driven Properties",
+      "url": "https://jobs.workable.com/view/rzdXijoG9G6bPaAKpdyzSb/executive-assistant-in-dubai-at-driven-properties",
       "source": "Workable",
-      "date": "2026-11-23T15:27:18.733Z",
+      "date": "2026-11-23T10:53:42.448Z",
       "tags": [
-        "Full-time",
-        "Remote"
+        "Dubai, Dubai, United Arab Emirates"
       ]
     },
     {
@@ -669,16 +700,6 @@
       "tags": [
         "Full-time",
         "Chicago, Illinois, United States"
-      ]
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/rzdXijoG9G6bPaAKpdyzSb/executive-assistant-in-dubai-at-driven-properties",
-      "source": "Workable",
-      "date": "2026-11-23T10:53:42.448Z",
-      "tags": [
-        "Dubai, Dubai, United Arab Emirates"
       ]
     },
     {
@@ -699,17 +720,6 @@
       "date": "2026-11-23T08:28:00.235Z",
       "tags": [
         "Dubai, Dubai, United Arab Emirates"
-      ]
-    },
-    {
-      "title": "Asset Manager, Raine and Horne Commercial Macarthur",
-      "company": "Raine and Horne",
-      "url": "https://jobs.workable.com/view/e4nxjV23AP8VQpA7DqjGiM/asset-manager%2C-raine-and-horne-commercial-macarthur-in-campbelltown-at-raine-and-horne",
-      "source": "Workable",
-      "date": "2026-11-23T04:33:55.173Z",
-      "tags": [
-        "Full-time",
-        "Campbelltown, New South Wales, Australia"
       ]
     },
     {
@@ -776,6 +786,17 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:49.575Z",
+      "tags": [
+        "Full-time",
+        "Toronto, Ontario, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/pFP4f2kcMNShDFYKi4W4Vw/hybrid-underwriting-operations---account-analyst-in-halifax-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.747Z",
@@ -793,17 +814,6 @@
       "tags": [
         "Full-time",
         "Vancouver, British Columbia, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:49.575Z",
-      "tags": [
-        "Full-time",
-        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -902,17 +912,6 @@
       "date": "2026-11-06T12:07:46.866Z",
       "tags": [
         "Other",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Forward Deployed Engineer",
-      "company": "Leena AI",
-      "url": "https://jobs.workable.com/view/nMVrzeQ2CTxHLiW4ihwxXw/remote-forward-deployed-engineer-in-united-kingdom-at-leena-ai",
-      "source": "Workable",
-      "date": "2026-11-03T21:07:58.981Z",
-      "tags": [
-        "Full-time",
         "Remote"
       ]
     },
