@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-25T07:24:33.215Z",
-  "count": 122,
+  "generatedAt": "2026-11-25T21:12:51.062Z",
+  "count": 123,
   "jobs": [
+    {
+      "title": "Associate, Payment Integrity",
+      "company": "Oscar Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
+      "source": "RemoteOK",
+      "date": "2026-11-24T10:40:03+00:00",
+      "tags": [
+        "programming"
+      ]
+    },
     {
       "title": "Real Estate Executive Assistant 21370",
       "company": "Wing Assistant",
@@ -92,24 +102,22 @@
       ]
     },
     {
-      "title": "Sr Director, L2C Process Owner",
-      "company": "BeyondTrust",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-director-l2c-process-owner-beyondtrust-1137890",
-      "source": "RemoteOK",
-      "date": "2026-11-20T06:15:14+00:00",
+      "title": "(Senior) Java Test Automation Engineer (m/f/d)",
+      "company": "ecosio",
+      "url": "https://jobicy.com/jobs/164241-senior-java-test-automation-engineer-m-f-d",
+      "source": "Jobicy",
+      "date": "2026-11-25T11:36:44+00:00",
       "tags": [
-        "devops"
+        "QA & Testing"
       ]
     },
     {
-      "title": "Manager, Business Risk and AI Automation",
-      "company": "Reddit",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879",
-      "source": "RemoteOK",
-      "date": "2026-11-20T03:30:17+00:00",
-      "tags": [
-        "exec"
-      ]
+      "title": "Implementation Architect",
+      "company": "Dropbox",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-implementation-architect",
+      "source": "We Work Remotely",
+      "date": "Wed, 25 Nov 2026 18:31:11 +0000",
+      "tags": []
     },
     {
       "title": "Executive Assistant",
@@ -528,6 +536,17 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:37.576Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-17T05:22:34.798Z",
@@ -537,13 +556,12 @@
       ]
     },
     {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
+      "title": "Senior Product Manager - Civica Property Management (CPM)",
+      "company": "Civica",
+      "url": "https://jobs.workable.com/view/s5YNnEJKcSxwYTVB5ix4Se/remote-senior-product-manager---civica-property-management-(cpm)-in-london-at-civica",
       "source": "Workable",
-      "date": "2026-11-17T05:22:37.576Z",
+      "date": "2026-11-25T09:52:05.176Z",
       "tags": [
-        "Full-time",
         "Remote"
       ]
     },
@@ -652,14 +670,13 @@
       ]
     },
     {
-      "title": "Property Manager",
-      "company": "PeakMade Real Estate",
-      "url": "https://jobs.workable.com/view/7C8oYy8wQCLsTxNuQryvvg/property-manager-in-kingston-at-peakmade-real-estate",
+      "title": "Guest Experience Assistant - French or Portuguese Speaker",
+      "company": "Ukio",
+      "url": "https://jobs.workable.com/view/bKedcTbWG7cGnWEaDEDPDD/hybrid-guest-experience-assistant---french-or-portuguese-speaker-in-barcelona-at-ukio",
       "source": "Workable",
-      "date": "2026-11-24T16:04:36.923Z",
+      "date": "2026-11-25T13:14:56.881Z",
       "tags": [
-        "Full-time",
-        "Kingston, Ontario, Canada"
+        "Barcelona, Catalonia, Spain"
       ]
     },
     {
@@ -671,6 +688,17 @@
       "tags": [
         "Full-time",
         "Nanaimo, British Columbia, Canada"
+      ]
+    },
+    {
+      "title": "Property Manager",
+      "company": "PeakMade Real Estate",
+      "url": "https://jobs.workable.com/view/7C8oYy8wQCLsTxNuQryvvg/property-manager-in-kingston-at-peakmade-real-estate",
+      "source": "Workable",
+      "date": "2026-11-24T16:04:36.923Z",
+      "tags": [
+        "Full-time",
+        "Kingston, Ontario, Canada"
       ]
     },
     {
@@ -693,47 +721,6 @@
       "tags": [
         "Full-time",
         "San Rafael, California, United States"
-      ]
-    },
-    {
-      "title": "Associate Product Manager",
-      "company": "Funnel Leasing",
-      "url": "https://jobs.workable.com/view/ehHDj7we455vpjYz7RsBJJ/remote-associate-product-manager-in-united-states-at-funnel-leasing",
-      "source": "Workable",
-      "date": "2026-11-23T15:27:18.733Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Assistant Property Manager",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/jqWZAW8B5367aNCXc6TV8K/assistant-property-manager-in-dubai-at-driven-properties",
-      "source": "Workable",
-      "date": "2026-11-23T10:05:40.261Z",
-      "tags": [
-        "Dubai, Dubai, United Arab Emirates"
-      ]
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/rzdXijoG9G6bPaAKpdyzSb/executive-assistant-in-dubai-at-driven-properties",
-      "source": "Workable",
-      "date": "2026-11-23T10:53:42.448Z",
-      "tags": [
-        "Dubai, Dubai, United Arab Emirates"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/tE6pvYGVUbodyecrNGWrd4/property-manager-in-dubai-at-driven-properties",
-      "source": "Workable",
-      "date": "2026-11-23T08:36:31.238Z",
-      "tags": [
-        "Dubai, Dubai, United Arab Emirates"
       ]
     },
     {
@@ -899,9 +886,9 @@
     {
       "title": "Client Tech VA",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/v3ZeHmDzmhFDF2kCZz7qS5/remote-client-tech-va-in-united-arab-emirates-at-ai-acquisition",
+      "url": "https://jobs.workable.com/view/sor2grntdSpapD7yceLzz7/remote-client-tech-va-in-poland-at-ai-acquisition",
       "source": "Workable",
-      "date": "2026-11-06T12:07:47.244Z",
+      "date": "2026-05-28T09:58:42.143Z",
       "tags": [
         "Other",
         "Remote"
@@ -910,9 +897,9 @@
     {
       "title": "Client Tech VA",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/4EgEpLSVkghJTvcRkGdcQa/remote-client-tech-va-in-united-kingdom-at-ai-acquisition",
+      "url": "https://jobs.workable.com/view/pUYrwox9PCrNGhTCuZUVtv/remote-client-tech-va-in-philippines-at-ai-acquisition",
       "source": "Workable",
-      "date": "2026-11-06T12:07:46.999Z",
+      "date": "2026-05-28T09:58:41.283Z",
       "tags": [
         "Other",
         "Remote"
@@ -921,9 +908,9 @@
     {
       "title": "Client Tech VA",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/6LNJUvCEZD8N35SH3uwpMf/remote-client-tech-va-in-pakistan-at-ai-acquisition",
+      "url": "https://jobs.workable.com/view/c5v7qQim6eCdqCZ5kKbZUA/remote-client-tech-va-in-south-africa-at-ai-acquisition",
       "source": "Workable",
-      "date": "2026-11-06T12:07:46.866Z",
+      "date": "2026-05-28T09:58:41.187Z",
       "tags": [
         "Other",
         "Remote"
@@ -998,7 +985,7 @@
     {
       "title": "AI Automation Specialist",
       "company": "Vertu Agent",
-      "url": "https://jobs.workable.com/view/ncAm4jXTqiwzQCdKR2zE1a/remote-ai-automation-specialist-in-san-salvador-at-vertu-agent",
+      "url": "https://jobs.workable.com/view/ncAm4jXTqiwzQCdKR2zE1a/remote-ai-automation-specialist-in-nicaragua-at-vertu-agent",
       "source": "Workable",
       "date": "2026-11-17T22:06:01.428Z",
       "tags": [
@@ -1051,35 +1038,36 @@
       ]
     },
     {
-      "title": "Intelligent Automation Specialist",
-      "company": "Advansys",
-      "url": "https://jobs.workable.com/view/7WsiqiARUcakpLzgrADtk1/intelligent-automation-specialist-in-riyadh-at-advansys",
+      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
+      "company": "The People Group",
+      "url": "https://jobs.workable.com/view/meAHfhR3YTVubtPzshA93j/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-philippines-at-the-people-group",
       "source": "Workable",
-      "date": "2026-11-23T09:45:50.956Z",
+      "date": "2026-11-25T18:27:49.772Z",
       "tags": [
-        "Full-time",
-        "Riyadh, Riyadh Province, Saudi Arabia"
+        "Contract",
+        "Remote"
       ]
     },
     {
-      "title": "Intelligent Automation Specialist(7 years of experience)",
-      "company": "Advansys",
-      "url": "https://jobs.workable.com/view/jYkfavNJYRevNcYQo42qQe/intelligent-automation-specialist(7-years-of-experience)-in-cairo-at-advansys",
+      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
+      "company": "The People Group",
+      "url": "https://jobs.workable.com/view/ocXZ2AGyVg5Pa1MXXxorei/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-colombia-at-the-people-group",
       "source": "Workable",
-      "date": "2026-11-23T09:49:03.697Z",
+      "date": "2026-11-25T18:27:50.387Z",
       "tags": [
-        "Full-time",
-        "Cairo, Cairo Governorate, Egypt"
+        "Contract",
+        "Remote"
       ]
     },
     {
-      "title": "Pardot Marketing Automation Specialist- Freelancer or Contractor - 3 months",
-      "company": "M&I",
-      "url": "https://jobs.workable.com/view/88nGVn83rshn4wUH8SuzC9/hybrid-pardot-marketing-automation-specialist--freelancer-or-contractor---3-months-in-london-at-m%26i",
+      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
+      "company": "The People Group",
+      "url": "https://jobs.workable.com/view/rN1Pz6gPDXLoBa1hb7BYwd/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-argentina-at-the-people-group",
       "source": "Workable",
-      "date": "2026-11-19T15:23:44.156Z",
+      "date": "2026-11-25T18:27:50.077Z",
       "tags": [
-        "London, England, United Kingdom"
+        "Contract",
+        "Remote"
       ]
     },
     {
@@ -1244,6 +1232,27 @@
       "tags": [
         "Full-time",
         "Alpharetta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "Infrastructure Lead",
+      "company": "Lane Clark & Peacock",
+      "url": "https://jobs.workable.com/view/8zdAPqTCiMu4STUwtfZ1a9/hybrid-infrastructure-lead-in-london-at-lane-clark-%26-peacock",
+      "source": "Workable",
+      "date": "2026-11-25T11:54:57.574Z",
+      "tags": [
+        "London, England, United Kingdom"
+      ]
+    },
+    {
+      "title": "Sr. Accountant - Contractor",
+      "company": "TydeCo",
+      "url": "https://jobs.workable.com/view/tBcyJLUjvyCQ6DFXTgjV5g/remote-sr.-accountant---contractor-in-remote-at-tydeco",
+      "source": "Workable",
+      "date": "2026-08-26T08:03:28.385Z",
+      "tags": [
+        "Contract",
+        "Remote"
       ]
     }
   ]

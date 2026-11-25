@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-25T07:25:03.438Z",
-  "count": 200,
+  "generatedAt": "2026-11-25T21:13:15.735Z",
+  "count": 168,
   "sources": {
-    "node": 122,
-    "jobspy": 78
+    "node": 123,
+    "jobspy": 45
   },
   "jobs": [
+    {
+      "title": "Associate, Payment Integrity",
+      "company": "Oscar Health",
+      "url": "https://remoteOK.com/remote-jobs/remote-associate-payment-integrity-oscar-health-1138090",
+      "source": "RemoteOK",
+      "date": "2026-11-24T10:40:03+00:00",
+      "tags": [
+        "programming"
+      ]
+    },
     {
       "title": "Real Estate Executive Assistant 21370",
       "company": "Wing Assistant",
@@ -96,24 +106,22 @@
       ]
     },
     {
-      "title": "Sr Director, L2C Process Owner",
-      "company": "BeyondTrust",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-director-l2c-process-owner-beyondtrust-1137890",
-      "source": "RemoteOK",
-      "date": "2026-11-20T06:15:14+00:00",
+      "title": "(Senior) Java Test Automation Engineer (m/f/d)",
+      "company": "ecosio",
+      "url": "https://jobicy.com/jobs/164241-senior-java-test-automation-engineer-m-f-d",
+      "source": "Jobicy",
+      "date": "2026-11-25T11:36:44+00:00",
       "tags": [
-        "devops"
+        "QA & Testing"
       ]
     },
     {
-      "title": "Manager, Business Risk and AI Automation",
-      "company": "Reddit",
-      "url": "https://remoteOK.com/remote-jobs/remote-manager-business-risk-and-ai-automation-reddit-1137879",
-      "source": "RemoteOK",
-      "date": "2026-11-20T03:30:17+00:00",
-      "tags": [
-        "exec"
-      ]
+      "title": "Implementation Architect",
+      "company": "Dropbox",
+      "url": "https://weworkremotely.com/remote-jobs/dropbox-implementation-architect",
+      "source": "We Work Remotely",
+      "date": "Wed, 25 Nov 2026 18:31:11 +0000",
+      "tags": []
     },
     {
       "title": "Executive Assistant",
@@ -532,6 +540,17 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:37.576Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-17T05:22:34.798Z",
@@ -541,13 +560,12 @@
       ]
     },
     {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
+      "title": "Senior Product Manager - Civica Property Management (CPM)",
+      "company": "Civica",
+      "url": "https://jobs.workable.com/view/s5YNnEJKcSxwYTVB5ix4Se/remote-senior-product-manager---civica-property-management-(cpm)-in-london-at-civica",
       "source": "Workable",
-      "date": "2026-11-17T05:22:37.576Z",
+      "date": "2026-11-25T09:52:05.176Z",
       "tags": [
-        "Full-time",
         "Remote"
       ]
     },
@@ -656,14 +674,13 @@
       ]
     },
     {
-      "title": "Property Manager",
-      "company": "PeakMade Real Estate",
-      "url": "https://jobs.workable.com/view/7C8oYy8wQCLsTxNuQryvvg/property-manager-in-kingston-at-peakmade-real-estate",
+      "title": "Guest Experience Assistant - French or Portuguese Speaker",
+      "company": "Ukio",
+      "url": "https://jobs.workable.com/view/bKedcTbWG7cGnWEaDEDPDD/hybrid-guest-experience-assistant---french-or-portuguese-speaker-in-barcelona-at-ukio",
       "source": "Workable",
-      "date": "2026-11-24T16:04:36.923Z",
+      "date": "2026-11-25T13:14:56.881Z",
       "tags": [
-        "Full-time",
-        "Kingston, Ontario, Canada"
+        "Barcelona, Catalonia, Spain"
       ]
     },
     {
@@ -675,6 +692,17 @@
       "tags": [
         "Full-time",
         "Nanaimo, British Columbia, Canada"
+      ]
+    },
+    {
+      "title": "Property Manager",
+      "company": "PeakMade Real Estate",
+      "url": "https://jobs.workable.com/view/7C8oYy8wQCLsTxNuQryvvg/property-manager-in-kingston-at-peakmade-real-estate",
+      "source": "Workable",
+      "date": "2026-11-24T16:04:36.923Z",
+      "tags": [
+        "Full-time",
+        "Kingston, Ontario, Canada"
       ]
     },
     {
@@ -697,47 +725,6 @@
       "tags": [
         "Full-time",
         "San Rafael, California, United States"
-      ]
-    },
-    {
-      "title": "Associate Product Manager",
-      "company": "Funnel Leasing",
-      "url": "https://jobs.workable.com/view/ehHDj7we455vpjYz7RsBJJ/remote-associate-product-manager-in-united-states-at-funnel-leasing",
-      "source": "Workable",
-      "date": "2026-11-23T15:27:18.733Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Assistant Property Manager",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/jqWZAW8B5367aNCXc6TV8K/assistant-property-manager-in-dubai-at-driven-properties",
-      "source": "Workable",
-      "date": "2026-11-23T10:05:40.261Z",
-      "tags": [
-        "Dubai, Dubai, United Arab Emirates"
-      ]
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/rzdXijoG9G6bPaAKpdyzSb/executive-assistant-in-dubai-at-driven-properties",
-      "source": "Workable",
-      "date": "2026-11-23T10:53:42.448Z",
-      "tags": [
-        "Dubai, Dubai, United Arab Emirates"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "Driven Properties",
-      "url": "https://jobs.workable.com/view/tE6pvYGVUbodyecrNGWrd4/property-manager-in-dubai-at-driven-properties",
-      "source": "Workable",
-      "date": "2026-11-23T08:36:31.238Z",
-      "tags": [
-        "Dubai, Dubai, United Arab Emirates"
       ]
     },
     {
@@ -903,9 +890,9 @@
     {
       "title": "Client Tech VA",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/v3ZeHmDzmhFDF2kCZz7qS5/remote-client-tech-va-in-united-arab-emirates-at-ai-acquisition",
+      "url": "https://jobs.workable.com/view/sor2grntdSpapD7yceLzz7/remote-client-tech-va-in-poland-at-ai-acquisition",
       "source": "Workable",
-      "date": "2026-11-06T12:07:47.244Z",
+      "date": "2026-05-28T09:58:42.143Z",
       "tags": [
         "Other",
         "Remote"
@@ -914,9 +901,9 @@
     {
       "title": "Client Tech VA",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/4EgEpLSVkghJTvcRkGdcQa/remote-client-tech-va-in-united-kingdom-at-ai-acquisition",
+      "url": "https://jobs.workable.com/view/pUYrwox9PCrNGhTCuZUVtv/remote-client-tech-va-in-philippines-at-ai-acquisition",
       "source": "Workable",
-      "date": "2026-11-06T12:07:46.999Z",
+      "date": "2026-05-28T09:58:41.283Z",
       "tags": [
         "Other",
         "Remote"
@@ -925,9 +912,9 @@
     {
       "title": "Client Tech VA",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/6LNJUvCEZD8N35SH3uwpMf/remote-client-tech-va-in-pakistan-at-ai-acquisition",
+      "url": "https://jobs.workable.com/view/c5v7qQim6eCdqCZ5kKbZUA/remote-client-tech-va-in-south-africa-at-ai-acquisition",
       "source": "Workable",
-      "date": "2026-11-06T12:07:46.866Z",
+      "date": "2026-05-28T09:58:41.187Z",
       "tags": [
         "Other",
         "Remote"
@@ -1002,7 +989,7 @@
     {
       "title": "AI Automation Specialist",
       "company": "Vertu Agent",
-      "url": "https://jobs.workable.com/view/ncAm4jXTqiwzQCdKR2zE1a/remote-ai-automation-specialist-in-san-salvador-at-vertu-agent",
+      "url": "https://jobs.workable.com/view/ncAm4jXTqiwzQCdKR2zE1a/remote-ai-automation-specialist-in-nicaragua-at-vertu-agent",
       "source": "Workable",
       "date": "2026-11-17T22:06:01.428Z",
       "tags": [
@@ -1055,35 +1042,36 @@
       ]
     },
     {
-      "title": "Intelligent Automation Specialist",
-      "company": "Advansys",
-      "url": "https://jobs.workable.com/view/7WsiqiARUcakpLzgrADtk1/intelligent-automation-specialist-in-riyadh-at-advansys",
+      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
+      "company": "The People Group",
+      "url": "https://jobs.workable.com/view/meAHfhR3YTVubtPzshA93j/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-philippines-at-the-people-group",
       "source": "Workable",
-      "date": "2026-11-23T09:45:50.956Z",
+      "date": "2026-11-25T18:27:49.772Z",
       "tags": [
-        "Full-time",
-        "Riyadh, Riyadh Province, Saudi Arabia"
+        "Contract",
+        "Remote"
       ]
     },
     {
-      "title": "Intelligent Automation Specialist(7 years of experience)",
-      "company": "Advansys",
-      "url": "https://jobs.workable.com/view/jYkfavNJYRevNcYQo42qQe/intelligent-automation-specialist(7-years-of-experience)-in-cairo-at-advansys",
+      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
+      "company": "The People Group",
+      "url": "https://jobs.workable.com/view/ocXZ2AGyVg5Pa1MXXxorei/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-colombia-at-the-people-group",
       "source": "Workable",
-      "date": "2026-11-23T09:49:03.697Z",
+      "date": "2026-11-25T18:27:50.387Z",
       "tags": [
-        "Full-time",
-        "Cairo, Cairo Governorate, Egypt"
+        "Contract",
+        "Remote"
       ]
     },
     {
-      "title": "Pardot Marketing Automation Specialist- Freelancer or Contractor - 3 months",
-      "company": "M&I",
-      "url": "https://jobs.workable.com/view/88nGVn83rshn4wUH8SuzC9/hybrid-pardot-marketing-automation-specialist--freelancer-or-contractor---3-months-in-london-at-m%26i",
+      "title": "Freelance - M&A Deal Sourcing & AI Automation Specialist - Remote",
+      "company": "The People Group",
+      "url": "https://jobs.workable.com/view/rN1Pz6gPDXLoBa1hb7BYwd/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-argentina-at-the-people-group",
       "source": "Workable",
-      "date": "2026-11-19T15:23:44.156Z",
+      "date": "2026-11-25T18:27:50.077Z",
       "tags": [
-        "London, England, United Kingdom"
+        "Contract",
+        "Remote"
       ]
     },
     {
@@ -1251,107 +1239,40 @@
       ]
     },
     {
-      "title": "Virtual Executive Assistant (Remote)",
-      "company": "Strides Hire",
-      "url": "https://www.linkedin.com/jobs/view/4494602027",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-25",
-      "tags": []
+      "title": "Infrastructure Lead",
+      "company": "Lane Clark & Peacock",
+      "url": "https://jobs.workable.com/view/8zdAPqTCiMu4STUwtfZ1a9/hybrid-infrastructure-lead-in-london-at-lane-clark-%26-peacock",
+      "source": "Workable",
+      "date": "2026-11-25T11:54:57.574Z",
+      "tags": [
+        "London, England, United Kingdom"
+      ]
     },
     {
-      "title": "Virtual Assistant Administrator / Data Entry Specialist",
-      "company": "Strides Hire",
-      "url": "https://www.linkedin.com/jobs/view/4494486712",
-      "source": "JobSpy/linkedin",
+      "title": "Sr. Accountant - Contractor",
+      "company": "TydeCo",
+      "url": "https://jobs.workable.com/view/tBcyJLUjvyCQ6DFXTgjV5g/remote-sr.-accountant---contractor-in-remote-at-tydeco",
+      "source": "Workable",
+      "date": "2026-08-26T08:03:28.385Z",
+      "tags": [
+        "Contract",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Administrative Assistant - Remote: 2nd Shift Tuesday-Saturday",
+      "company": "Pyramid Healthcare",
+      "url": "https://www.indeed.com/viewjob?jk=52a50f3063233a92",
+      "source": "JobSpy/indeed",
       "date": "2026-11-25",
       "tags": []
     },
     {
       "title": "Virtual Assistant",
-      "company": "Slash Staffing",
-      "url": "https://www.linkedin.com/jobs/view/4493083810",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-25",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant: Be the Right Hand of Europe’s Top Founders 🤝",
-      "company": "Donna Pro",
-      "url": "https://www.linkedin.com/jobs/view/4493989435",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant: Be the Right Hand of Europe’s Top Founders 🤝",
-      "company": "Donna Pro",
-      "url": "https://www.linkedin.com/jobs/view/4493998194",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Virtual assistant",
-      "company": "none",
-      "url": "https://www.linkedin.com/jobs/view/4493100252",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "Somewhere",
-      "url": "https://www.linkedin.com/jobs/view/4494367869",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant | Full-Time",
-      "company": "Welt-PR",
-      "url": "https://www.linkedin.com/jobs/view/4493997336",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Real Estate Virtual Assistant",
-      "company": "ClearDesk",
-      "url": "https://www.linkedin.com/jobs/view/4493050414",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Virtual Administrative Assistant (Remote UK)",
-      "company": "CV-BRIDGE LTD",
-      "url": "https://www.linkedin.com/jobs/view/4493599525",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-23",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Scoutly",
-      "url": "https://www.linkedin.com/jobs/view/4475944009",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://www.linkedin.com/jobs/view/4492016647",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-18",
-      "tags": []
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://www.linkedin.com/jobs/view/4492028116",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-18",
+      "company": "klean chores co",
+      "url": "https://www.indeed.com/viewjob?jk=06598be84a5cb799",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-22",
       "tags": []
     },
     {
@@ -1363,14 +1284,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "The Heartland Roadshow",
-      "url": "https://www.indeed.com/viewjob?jk=c22625c360edb1a6",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
       "title": "Sr. Executive Assistant to Chief Medical Officer, The Cigna Group",
       "company": "The Cigna Group",
       "url": "https://www.indeed.com/viewjob?jk=40411591b95e211b",
@@ -1379,9 +1292,9 @@
       "tags": []
     },
     {
-      "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
-      "company": "GitLab Inc",
-      "url": "https://www.indeed.com/viewjob?jk=0dfc66720733d3ca",
+      "title": "Executive Assistant",
+      "company": "The Heartland Roadshow",
+      "url": "https://www.indeed.com/viewjob?jk=c22625c360edb1a6",
       "source": "JobSpy/indeed",
       "date": "2026-11-24",
       "tags": []
@@ -1390,6 +1303,14 @@
       "title": "Executive Assistant to VPGM of Elevance",
       "company": "CVS Health",
       "url": "https://www.indeed.com/viewjob?jk=1e2668b0f3f76767",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+      "company": "GitLab Inc",
+      "url": "https://www.indeed.com/viewjob?jk=0dfc66720733d3ca",
       "source": "JobSpy/indeed",
       "date": "2026-11-24",
       "tags": []
@@ -1419,25 +1340,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "Spalding Law Office",
-      "url": "https://www.indeed.com/viewjob?jk=f1c6d2145c7ab7c3",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
       "title": "Executive Administrative Assistant (contract)",
       "company": "Microsoft",
       "url": "https://www.indeed.com/viewjob?jk=da8eece442615765",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "Pine & Ledger Holdings",
-      "url": "https://www.indeed.com/viewjob?jk=820cd79790f55c50",
       "source": "JobSpy/indeed",
       "date": "2026-11-19",
       "tags": []
@@ -1467,9 +1372,17 @@
       "tags": []
     },
     {
-      "title": "Japanese Bilingual Executive Assistant",
-      "company": "JAC Recruitment",
-      "url": "https://www.linkedin.com/jobs/view/4493069170",
+      "title": "Executive & Administrative Assistant",
+      "company": "Zepcruit",
+      "url": "https://www.linkedin.com/jobs/view/4494600856",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Chief Executive Officer",
+      "company": "Edirisingha Cushion Works Pvt Ltd",
+      "url": "https://www.linkedin.com/jobs/view/4494795136",
       "source": "JobSpy/linkedin",
       "date": "2026-11-25",
       "tags": []
@@ -1515,6 +1428,14 @@
       "tags": []
     },
     {
+      "title": "Executive Assistant to SVP/MD - Capital Markets",
+      "company": "CIBC",
+      "url": "https://www.linkedin.com/jobs/view/4441608608",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-21",
+      "tags": []
+    },
+    {
       "title": "Executive Assistant to CEO",
       "company": "Santa Browser",
       "url": "https://www.linkedin.com/jobs/view/4492155517",
@@ -1555,22 +1476,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to Chief Medical Officer",
-      "company": "St John of God Health Care",
-      "url": "https://www.linkedin.com/jobs/view/4490847501",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-18",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant",
-      "company": "ALESAYI HOLDING |  العيسائي القابضة",
-      "url": "https://www.linkedin.com/jobs/view/4492012919",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-18",
-      "tags": []
-    },
-    {
       "title": "PT Property Management Assistant",
       "company": "Welcome2YourNewHome",
       "url": "https://www.indeed.com/viewjob?jk=aeef166bc35417fe",
@@ -1603,145 +1508,9 @@
       "tags": []
     },
     {
-      "title": "Property Manager (Dayton)",
-      "company": "EquityTeam",
-      "url": "https://www.indeed.com/viewjob?jk=b9d580ecee08a5c3",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-18",
-      "tags": []
-    },
-    {
-      "title": "Junior Property Manager",
-      "company": "Nomad City Flats",
-      "url": "https://www.linkedin.com/jobs/view/4494108747",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
-      "url": "https://www.linkedin.com/jobs/view/4494390824",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
-      "url": "https://www.linkedin.com/jobs/view/4491895698",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Harbor Group Management Company",
-      "url": "https://www.linkedin.com/jobs/view/4494717474",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Apartment Management Consultants",
-      "url": "https://www.linkedin.com/jobs/view/4494421344",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Harbor Group Management Company",
-      "url": "https://www.linkedin.com/jobs/view/4492862511",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-21",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Landmark Property Services, Inc.",
-      "url": "https://www.linkedin.com/jobs/view/4492982943",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Kotarides Companies",
-      "url": "https://www.linkedin.com/jobs/view/4492996914",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
-      "title": "Multifamily Property Manager",
-      "company": "ResProp Management",
-      "url": "https://www.linkedin.com/jobs/view/4491873132",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Property Management with PK",
-      "url": "https://www.linkedin.com/jobs/view/4492834440",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Mission Rock Residential, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4492428152",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Fogelman Properties",
-      "url": "https://www.linkedin.com/jobs/view/4492732665",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
-      "title": "Property Manager",
-      "company": "Mission Rock Residential, LLC",
-      "url": "https://www.linkedin.com/jobs/view/4492734204",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
-      "title": "Property Manager - Crestview at Seymour Village",
-      "company": "Broadstreet Properties",
-      "url": "https://www.linkedin.com/jobs/view/4492279314",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
-      "title": "Property Manager (Residential)",
-      "company": "SmartCentres REIT",
-      "url": "https://www.linkedin.com/jobs/view/4446925202",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-18",
-      "tags": []
-    },
-    {
       "title": "Senior Compliance Lead, Insurance Operations",
       "company": "Jerry.AI",
       "url": "https://www.indeed.com/viewjob?jk=a5d499f034856916",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
-      "title": "MGA Insurance Operations Support Analyst - Entry Level",
-      "company": "Paragon Insurance Holdings",
-      "url": "https://www.indeed.com/viewjob?jk=55f91ce9482d39d1",
       "source": "JobSpy/indeed",
       "date": "2026-11-19",
       "tags": []
@@ -1755,11 +1524,11 @@
       "tags": []
     },
     {
-      "title": "Associate/Senior Associate-Insurance Operations",
-      "company": "Allianz Services",
-      "url": "https://www.linkedin.com/jobs/view/4487750621",
+      "title": "AI Automation Specialist – Green Tech",
+      "company": "Virtustant",
+      "url": "https://www.linkedin.com/jobs/view/4493437537",
       "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
+      "date": "2026-11-25",
       "tags": []
     },
     {
@@ -1774,6 +1543,14 @@
       "title": "AI & Automation Engineer (entry level)",
       "company": "Taptap Digital",
       "url": "https://www.linkedin.com/jobs/view/4493042349",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Artificial Intelligence and Automation Engineer",
+      "company": "Kinetech",
+      "url": "https://www.linkedin.com/jobs/view/4493025028",
       "source": "JobSpy/linkedin",
       "date": "2026-11-24",
       "tags": []
@@ -1811,67 +1588,35 @@
       "tags": []
     },
     {
-      "title": "AI & Automation Engineer",
-      "company": "Sword Group",
-      "url": "https://www.linkedin.com/jobs/view/4490877310",
+      "title": "Power Platform Automation Engineer",
+      "company": "SILVARE",
+      "url": "https://www.linkedin.com/jobs/view/4486169236",
       "source": "JobSpy/linkedin",
-      "date": "2026-11-18",
+      "date": "2026-11-25",
       "tags": []
     },
     {
       "title": "Process Automation Engineer",
       "company": "Fortress Information Security",
-      "url": "https://www.indeed.com/viewjob?jk=fc136ec5e1ecf410",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-25",
+      "url": "https://www.linkedin.com/jobs/view/4494749031",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
       "tags": []
     },
     {
-      "title": "Senior Test Automation Engineer I (SDET)",
-      "company": "iRhythm Technologies",
-      "url": "https://www.indeed.com/viewjob?jk=f5560742a75220df",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-23",
-      "tags": []
-    },
-    {
-      "title": "Marketing Automation Specialist",
-      "company": "Brainrider",
-      "url": "https://www.indeed.com/viewjob?jk=ca15a2d3e6d11928",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-23",
-      "tags": []
-    },
-    {
-      "title": "Workflow Automation Specialist",
-      "company": "Phil, Inc.",
-      "url": "https://www.indeed.com/viewjob?jk=e38187c6a7a38634",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
-      "title": "Proxy Infrastructure & Browser Automation Specialist (Windows)",
-      "company": "DB Creative",
-      "url": "https://www.indeed.com/viewjob?jk=a5a983251e5d57ac",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-20",
-      "tags": []
-    },
-    {
-      "title": "QA Automation Engineer, Mobile Games - Freelance",
-      "company": "Goodgame Studios",
-      "url": "https://www.indeed.com/viewjob?jk=8b1bfca8093e229c",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-20",
+      "title": "AI & Automation Engineer - Full Remote",
+      "company": "Michael Page",
+      "url": "https://www.linkedin.com/jobs/view/4493019849",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
       "tags": []
     },
     {
       "title": "Automation Engineer",
-      "company": "RFA Engineering",
-      "url": "https://www.indeed.com/viewjob?jk=0d8bdee9de96c2d2",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-18",
+      "company": "Mishcon de Reya LLP",
+      "url": "https://www.linkedin.com/jobs/view/4481210921",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-21",
       "tags": []
     }
   ]
