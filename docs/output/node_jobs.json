@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-25T21:12:51.062Z",
-  "count": 123,
+  "generatedAt": "2026-11-26T07:13:57.368Z",
+  "count": 122,
   "jobs": [
+    {
+      "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+      "company": "GitLab",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-assistant-office-of-the-cro-est-cst-gitlab-1138103",
+      "source": "RemoteOK",
+      "date": "2026-11-25T00:00:29+00:00",
+      "tags": [
+        "other"
+      ]
+    },
     {
       "title": "Associate, Payment Integrity",
       "company": "Oscar Health",
@@ -216,14 +226,6 @@
       "tags": []
     },
     {
-      "title": "Customer Service Admin - (AU Experience Required)",
-      "company": "D2B",
-      "url": "https://weworkremotely.com/remote-jobs/d2b-customer-service-admin-au-experience-required",
-      "source": "We Work Remotely",
-      "date": "Wed, 11 Nov 2026 17:00:30 +0000",
-      "tags": []
-    },
-    {
       "title": "CRM Software Engineer",
       "company": "Partner One Capital",
       "url": "https://weworkremotely.com/remote-jobs/partner-one-capital-crm-software-engineer",
@@ -248,11 +250,11 @@
       "tags": []
     },
     {
-      "title": "AP - Property Accountant (NZ experience)",
-      "company": "D2B",
-      "url": "https://weworkremotely.com/remote-jobs/d2b-ap-property-accountant-nz-experience",
+      "title": "Director, Revenue Accounting",
+      "company": "6sense",
+      "url": "https://weworkremotely.com/remote-jobs/6sense-director-revenue-accounting",
       "source": "We Work Remotely",
-      "date": "Tue, 24 Nov 2026 17:01:10 +0000",
+      "date": "Thu, 26 Nov 2026 06:02:34 +0000",
       "tags": []
     },
     {
@@ -261,14 +263,6 @@
       "url": "https://weworkremotely.com/remote-jobs/oddball-lead-integration-architect",
       "source": "We Work Remotely",
       "date": "Mon, 23 Nov 2026 17:01:36 +0000",
-      "tags": []
-    },
-    {
-      "title": "Medical Virtual Assistant - Reception &amp; Bookkeeping",
-      "company": "D2B",
-      "url": "https://weworkremotely.com/remote-jobs/d2b-medical-virtual-assistant-reception-bookkeeping",
-      "source": "We Work Remotely",
-      "date": "Mon, 23 Nov 2026 17:01:11 +0000",
       "tags": []
     },
     {
@@ -338,6 +332,17 @@
     {
       "title": "Virtual Assistant",
       "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/mr9axbmPtE1w5bHmQozsFe/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:42.072Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/nRbmrPNnvT7JCakaT4AkjZ/remote-virtual-assistant-in-newark-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-19T09:15:42.877Z",
@@ -352,17 +357,6 @@
       "url": "https://jobs.workable.com/view/tzjzgvgos3Mih21yNXm8TC/remote-virtual-assistant-in-manchester-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-19T09:15:42.489Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/mr9axbmPtE1w5bHmQozsFe/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-19T09:15:42.072Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -404,6 +398,17 @@
     {
       "title": "Virtual Assistant",
       "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/pueTgRacwX8CCxw8M55XJs/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-15T03:12:09.273Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/jTBagBjBBkjb5ZGFaxAAkY/remote-virtual-assistant-in-charlotte-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-15T03:12:11.228Z",
@@ -418,17 +423,6 @@
       "url": "https://jobs.workable.com/view/eu2YMD99GgtHbYRWEGu7hu/remote-virtual-assistant-in-albuquerque-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-15T03:12:10.565Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/pueTgRacwX8CCxw8M55XJs/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-15T03:12:09.273Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -470,17 +464,6 @@
     {
       "title": "Virtual Assistant - Fulfillment",
       "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/wZq6hgjrxVzVuYHTNuNHwb/remote-virtual-assistant---fulfillment-in-chile-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-11-18T12:05:27.285Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
       "url": "https://jobs.workable.com/view/8dwbv65446mS4x16gwJN5d/remote-virtual-assistant---fulfillment-in-buenos-aires-at-decentralized-masters",
       "source": "Workable",
       "date": "2026-11-18T12:05:26.843Z",
@@ -495,6 +478,17 @@
       "url": "https://jobs.workable.com/view/qfpv5sgeWWNPmLBWb7iNJj/remote-virtual-assistant---fulfillment-in-rio-de-janeiro-at-decentralized-masters",
       "source": "Workable",
       "date": "2026-11-18T12:05:26.563Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Fulfillment",
+      "company": "Decentralized Masters",
+      "url": "https://jobs.workable.com/view/wZq6hgjrxVzVuYHTNuNHwb/remote-virtual-assistant---fulfillment-in-chile-at-decentralized-masters",
+      "source": "Workable",
+      "date": "2026-11-18T12:05:27.285Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -525,17 +519,6 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/jCYNRMimgzL3eeUqkHdGCQ/remote-virtual-assistant-full-time-in-manchester-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:35.495Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-17T05:22:37.576Z",
@@ -547,9 +530,20 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
+      "url": "https://jobs.workable.com/view/6AzN7Zk8ZBho1zT3GNysVg/remote-virtual-assistant-full-time-in-new-york-at-dln-consulting-group",
       "source": "Workable",
-      "date": "2026-11-17T05:22:34.798Z",
+      "date": "2026-11-17T05:22:37.210Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/kqnrXSo1XxMCs9rJZAZYR7/remote-virtual-assistant-full-time-in-albuquerque-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:36.519Z",
       "tags": [
         "Full-time",
         "Remote"

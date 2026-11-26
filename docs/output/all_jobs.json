@@ -1,11 +1,21 @@
 {
-  "generatedAt": "2026-11-25T21:13:15.735Z",
-  "count": 168,
+  "generatedAt": "2026-11-26T07:14:32.179Z",
+  "count": 192,
   "sources": {
-    "node": 123,
-    "jobspy": 45
+    "node": 122,
+    "jobspy": 70
   },
   "jobs": [
+    {
+      "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
+      "company": "GitLab",
+      "url": "https://remoteOK.com/remote-jobs/remote-senior-executive-assistant-office-of-the-cro-est-cst-gitlab-1138103",
+      "source": "RemoteOK",
+      "date": "2026-11-25T00:00:29+00:00",
+      "tags": [
+        "other"
+      ]
+    },
     {
       "title": "Associate, Payment Integrity",
       "company": "Oscar Health",
@@ -220,14 +230,6 @@
       "tags": []
     },
     {
-      "title": "Customer Service Admin - (AU Experience Required)",
-      "company": "D2B",
-      "url": "https://weworkremotely.com/remote-jobs/d2b-customer-service-admin-au-experience-required",
-      "source": "We Work Remotely",
-      "date": "Wed, 11 Nov 2026 17:00:30 +0000",
-      "tags": []
-    },
-    {
       "title": "CRM Software Engineer",
       "company": "Partner One Capital",
       "url": "https://weworkremotely.com/remote-jobs/partner-one-capital-crm-software-engineer",
@@ -252,11 +254,11 @@
       "tags": []
     },
     {
-      "title": "AP - Property Accountant (NZ experience)",
-      "company": "D2B",
-      "url": "https://weworkremotely.com/remote-jobs/d2b-ap-property-accountant-nz-experience",
+      "title": "Director, Revenue Accounting",
+      "company": "6sense",
+      "url": "https://weworkremotely.com/remote-jobs/6sense-director-revenue-accounting",
       "source": "We Work Remotely",
-      "date": "Tue, 24 Nov 2026 17:01:10 +0000",
+      "date": "Thu, 26 Nov 2026 06:02:34 +0000",
       "tags": []
     },
     {
@@ -265,14 +267,6 @@
       "url": "https://weworkremotely.com/remote-jobs/oddball-lead-integration-architect",
       "source": "We Work Remotely",
       "date": "Mon, 23 Nov 2026 17:01:36 +0000",
-      "tags": []
-    },
-    {
-      "title": "Medical Virtual Assistant - Reception &amp; Bookkeeping",
-      "company": "D2B",
-      "url": "https://weworkremotely.com/remote-jobs/d2b-medical-virtual-assistant-reception-bookkeeping",
-      "source": "We Work Remotely",
-      "date": "Mon, 23 Nov 2026 17:01:11 +0000",
       "tags": []
     },
     {
@@ -342,6 +336,17 @@
     {
       "title": "Virtual Assistant",
       "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/mr9axbmPtE1w5bHmQozsFe/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:42.072Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/nRbmrPNnvT7JCakaT4AkjZ/remote-virtual-assistant-in-newark-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-19T09:15:42.877Z",
@@ -356,17 +361,6 @@
       "url": "https://jobs.workable.com/view/tzjzgvgos3Mih21yNXm8TC/remote-virtual-assistant-in-manchester-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-19T09:15:42.489Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/mr9axbmPtE1w5bHmQozsFe/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-19T09:15:42.072Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -408,6 +402,17 @@
     {
       "title": "Virtual Assistant",
       "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/pueTgRacwX8CCxw8M55XJs/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-15T03:12:09.273Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/jTBagBjBBkjb5ZGFaxAAkY/remote-virtual-assistant-in-charlotte-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-15T03:12:11.228Z",
@@ -422,17 +427,6 @@
       "url": "https://jobs.workable.com/view/eu2YMD99GgtHbYRWEGu7hu/remote-virtual-assistant-in-albuquerque-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-15T03:12:10.565Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/pueTgRacwX8CCxw8M55XJs/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-15T03:12:09.273Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -474,17 +468,6 @@
     {
       "title": "Virtual Assistant - Fulfillment",
       "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/wZq6hgjrxVzVuYHTNuNHwb/remote-virtual-assistant---fulfillment-in-chile-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-11-18T12:05:27.285Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
       "url": "https://jobs.workable.com/view/8dwbv65446mS4x16gwJN5d/remote-virtual-assistant---fulfillment-in-buenos-aires-at-decentralized-masters",
       "source": "Workable",
       "date": "2026-11-18T12:05:26.843Z",
@@ -499,6 +482,17 @@
       "url": "https://jobs.workable.com/view/qfpv5sgeWWNPmLBWb7iNJj/remote-virtual-assistant---fulfillment-in-rio-de-janeiro-at-decentralized-masters",
       "source": "Workable",
       "date": "2026-11-18T12:05:26.563Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Fulfillment",
+      "company": "Decentralized Masters",
+      "url": "https://jobs.workable.com/view/wZq6hgjrxVzVuYHTNuNHwb/remote-virtual-assistant---fulfillment-in-chile-at-decentralized-masters",
+      "source": "Workable",
+      "date": "2026-11-18T12:05:27.285Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -529,17 +523,6 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/jCYNRMimgzL3eeUqkHdGCQ/remote-virtual-assistant-full-time-in-manchester-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-17T05:22:35.495Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant-Full time",
-      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/h3xN91SFYmRoWUKvWuQF5w/remote-virtual-assistant-full-time-in-charlotte-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-17T05:22:37.576Z",
@@ -551,9 +534,20 @@
     {
       "title": "Virtual Assistant-Full time",
       "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
+      "url": "https://jobs.workable.com/view/6AzN7Zk8ZBho1zT3GNysVg/remote-virtual-assistant-full-time-in-new-york-at-dln-consulting-group",
       "source": "Workable",
-      "date": "2026-11-17T05:22:34.798Z",
+      "date": "2026-11-17T05:22:37.210Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/kqnrXSo1XxMCs9rJZAZYR7/remote-virtual-assistant-full-time-in-albuquerque-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:36.519Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -1260,6 +1254,30 @@
       ]
     },
     {
+      "title": "Virtual Assistant",
+      "company": "POA LIVING LLC",
+      "url": "https://www.indeed.com/viewjob?jk=69acb18bc67b679b",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant / Customer Service Representative (Part-Time, Remote)",
+      "company": "The Parking Guys",
+      "url": "https://www.indeed.com/viewjob?jk=4155a9fd028ebdcf",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "title": "Remote Administrative Assistant for Pelvic Floor and Orthopedic Physical Therapy Practice",
+      "company": "Empower Physical Therapy",
+      "url": "https://www.indeed.com/viewjob?jk=1072b4ae72723b74",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
       "title": "Administrative Assistant - Remote: 2nd Shift Tuesday-Saturday",
       "company": "Pyramid Healthcare",
       "url": "https://www.indeed.com/viewjob?jk=52a50f3063233a92",
@@ -1269,16 +1287,128 @@
     },
     {
       "title": "Virtual Assistant",
-      "company": "klean chores co",
-      "url": "https://www.indeed.com/viewjob?jk=06598be84a5cb799",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-22",
+      "company": "Burjline Builders",
+      "url": "https://www.linkedin.com/jobs/view/4495244362",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-26",
       "tags": []
     },
     {
-      "title": "Executive Assistant - C-suite",
-      "company": "Rithum",
-      "url": "https://www.indeed.com/viewjob?jk=49077c8b756e3097",
+      "title": "Virtual Assistant",
+      "company": "Espoir Gymnique du Valois",
+      "url": "https://www.linkedin.com/jobs/view/4495235730",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Touraid Travel",
+      "url": "https://www.linkedin.com/jobs/view/4495250029",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Bazaarist",
+      "url": "https://www.linkedin.com/jobs/view/4495234776",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Bazaarist",
+      "url": "https://www.linkedin.com/jobs/view/4495231880",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Burjline Builders",
+      "url": "https://www.linkedin.com/jobs/view/4495244363",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "title": "Operations Executive: Virtual Assistant",
+      "company": "The Virtual Guides (TVG)",
+      "url": "https://www.linkedin.com/jobs/view/4494909940",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant Administrator / Data Entry Specialist",
+      "company": "Strides Hire",
+      "url": "https://www.linkedin.com/jobs/view/4494486712",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Strides Hire",
+      "url": "https://www.linkedin.com/jobs/view/4494482707",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant: Be the Right Hand of Europe’s Top Founders 🤝",
+      "company": "Donna Pro",
+      "url": "https://www.linkedin.com/jobs/view/4493989435",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant: Be the Right Hand of Europe’s Top Founders 🤝",
+      "company": "Donna Pro",
+      "url": "https://www.linkedin.com/jobs/view/4493998194",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Virtual assistant",
+      "company": "none",
+      "url": "https://www.linkedin.com/jobs/view/4493100252",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "Somewhere",
+      "url": "https://www.linkedin.com/jobs/view/4494367869",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Virtual Assistant | Full-Time",
+      "company": "Welt-PR",
+      "url": "https://www.linkedin.com/jobs/view/4493997336",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "Accumulus Technologies",
+      "url": "https://www.indeed.com/viewjob?jk=fbbb42c837d6b286",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant, EVP & CDO",
+      "company": "OTIS",
+      "url": "https://www.indeed.com/viewjob?jk=725edc8c67e8644e",
       "source": "JobSpy/indeed",
       "date": "2026-11-25",
       "tags": []
@@ -1348,27 +1478,27 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant",
-      "company": "Veta Virtual",
-      "url": "https://www.indeed.com/viewjob?jk=75eccd526b319f50",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant, Office of the CTO",
-      "company": "GitLab Inc",
-      "url": "https://www.indeed.com/viewjob?jk=f9d46fc4f5174b50",
-      "source": "JobSpy/indeed",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant II",
       "company": "Keysight Technologies",
       "url": "https://www.indeed.com/viewjob?jk=7a73374245767070",
       "source": "JobSpy/indeed",
       "date": "2026-11-19",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant to Chief Executive Officer",
+      "company": "NCLEX NEPAL",
+      "url": "https://www.linkedin.com/jobs/view/4495001066",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "title": "Executive Assistant",
+      "company": "News Corp Australia",
+      "url": "https://www.linkedin.com/jobs/view/4488110291",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-26",
       "tags": []
     },
     {
@@ -1380,9 +1510,9 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to Chief Executive Officer",
-      "company": "Edirisingha Cushion Works Pvt Ltd",
-      "url": "https://www.linkedin.com/jobs/view/4494795136",
+      "title": "Executive Assistant",
+      "company": "ShepHertz Technologies",
+      "url": "https://www.linkedin.com/jobs/view/4493090574",
       "source": "JobSpy/linkedin",
       "date": "2026-11-25",
       "tags": []
@@ -1452,22 +1582,6 @@
       "tags": []
     },
     {
-      "title": "Executive Assistant to the CEO - The Flex Algeria",
-      "company": "The Flex",
-      "url": "https://www.linkedin.com/jobs/view/4492244569",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
-      "title": "Executive Assistant to the CEO - The Flex Algeria",
-      "company": "The Flex",
-      "url": "https://www.linkedin.com/jobs/view/4492256223",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-19",
-      "tags": []
-    },
-    {
       "title": "Executive Assistant to Chief Executive Officer (CEO)",
       "company": "Base Careers",
       "url": "https://www.linkedin.com/jobs/view/4491384459",
@@ -1492,18 +1606,90 @@
       "tags": []
     },
     {
-      "title": "Property Management Assistant",
-      "company": "Veta Virtual",
-      "url": "https://www.indeed.com/viewjob?jk=610107e0e6cc0bbf",
+      "title": "Property Management Instructor (Online)",
+      "company": "CareerDriven Institute",
+      "url": "https://www.indeed.com/viewjob?jk=3f65f7746e789e06",
       "source": "JobSpy/indeed",
       "date": "2026-11-19",
       "tags": []
     },
     {
-      "title": "Property Management Instructor (Online)",
-      "company": "CareerDriven Institute",
-      "url": "https://www.indeed.com/viewjob?jk=3f65f7746e789e06",
-      "source": "JobSpy/indeed",
+      "title": "Property Manager",
+      "company": "J.C. Hart Company, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4493437635",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-25",
+      "tags": []
+    },
+    {
+      "title": "Junior Property Manager",
+      "company": "Nomad City Flats",
+      "url": "https://www.linkedin.com/jobs/view/4494108747",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+      "url": "https://www.linkedin.com/jobs/view/4494390824",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "KW PROPERTY MANAGEMENT AND CONSULTING",
+      "url": "https://www.linkedin.com/jobs/view/4491895698",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Harbor Group Management Company",
+      "url": "https://www.linkedin.com/jobs/view/4494717474",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Harbor Group Management Company",
+      "url": "https://www.linkedin.com/jobs/view/4492862511",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-21",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Landmark Property Services, Inc.",
+      "url": "https://www.linkedin.com/jobs/view/4492982943",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-20",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Kotarides Companies",
+      "url": "https://www.linkedin.com/jobs/view/4492996914",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-20",
+      "tags": []
+    },
+    {
+      "title": "Multifamily Property Manager",
+      "company": "ResProp Management",
+      "url": "https://www.linkedin.com/jobs/view/4491873132",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-20",
+      "tags": []
+    },
+    {
+      "title": "Property Manager",
+      "company": "Mission Rock Residential, LLC",
+      "url": "https://www.linkedin.com/jobs/view/4492428152",
+      "source": "JobSpy/linkedin",
       "date": "2026-11-19",
       "tags": []
     },
@@ -1518,17 +1704,25 @@
     {
       "title": "Associate/Senior Associate-Insurance Operations",
       "company": "Allianz Services",
+      "url": "https://www.linkedin.com/jobs/view/4487750621",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-26",
+      "tags": []
+    },
+    {
+      "title": "Associate/Senior Associate-Insurance Operations",
+      "company": "Allianz Services",
       "url": "https://www.linkedin.com/jobs/view/4487750620",
       "source": "JobSpy/linkedin",
       "date": "2026-11-25",
       "tags": []
     },
     {
-      "title": "AI Automation Specialist – Green Tech",
-      "company": "Virtustant",
-      "url": "https://www.linkedin.com/jobs/view/4493437537",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-25",
+      "title": "Proxy Infrastructure & Browser Automation Specialist (Windows)",
+      "company": "DB Creative",
+      "url": "https://www.indeed.com/viewjob?jk=a5a983251e5d57ac",
+      "source": "JobSpy/indeed",
+      "date": "2026-11-20",
       "tags": []
     },
     {
@@ -1551,6 +1745,14 @@
       "title": "Artificial Intelligence and Automation Engineer",
       "company": "Kinetech",
       "url": "https://www.linkedin.com/jobs/view/4493025028",
+      "source": "JobSpy/linkedin",
+      "date": "2026-11-24",
+      "tags": []
+    },
+    {
+      "title": "AI & Automation Specialist",
+      "company": "Fairpris.dk",
+      "url": "https://www.linkedin.com/jobs/view/4494144778",
       "source": "JobSpy/linkedin",
       "date": "2026-11-24",
       "tags": []
@@ -1599,14 +1801,6 @@
       "title": "Process Automation Engineer",
       "company": "Fortress Information Security",
       "url": "https://www.linkedin.com/jobs/view/4494749031",
-      "source": "JobSpy/linkedin",
-      "date": "2026-11-24",
-      "tags": []
-    },
-    {
-      "title": "AI & Automation Engineer - Full Remote",
-      "company": "Michael Page",
-      "url": "https://www.linkedin.com/jobs/view/4493019849",
       "source": "JobSpy/linkedin",
       "date": "2026-11-24",
       "tags": []
