@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-26T07:13:57.368Z",
-  "count": 122,
+  "generatedAt": "2026-11-26T21:01:52.814Z",
+  "count": 121,
   "jobs": [
+    {
+      "title": "Knowledge Engineer",
+      "company": "Jobgether",
+      "url": "https://remoteOK.com/remote-jobs/remote-knowledge-engineer-jobgether-1138105",
+      "source": "RemoteOK",
+      "date": "2026-11-25T07:28:47+00:00",
+      "tags": [
+        "customer support"
+      ]
+    },
     {
       "title": "Senior Executive Assistant, Office of the CRO (EST / CST)",
       "company": "GitLab",
@@ -72,53 +82,33 @@
       ]
     },
     {
-      "title": "Sr. Security Operations Manager",
-      "company": "Carrot",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-security-operations-manager-carrot-1137930",
-      "source": "RemoteOK",
-      "date": "2026-11-21T02:20:05+00:00",
-      "tags": [
-        "exec"
-      ]
-    },
-    {
-      "title": "Global Tax Manager",
-      "company": "Ensono",
-      "url": "https://remoteOK.com/remote-jobs/remote-global-tax-manager-ensono-1137907",
-      "source": "RemoteOK",
-      "date": "2026-11-20T09:40:05+00:00",
-      "tags": [
-        "customer support"
-      ]
-    },
-    {
-      "title": "Data Strategy Operations Manager",
-      "company": "Abnormal",
-      "url": "https://remoteOK.com/remote-jobs/remote-data-strategy-operations-manager-abnormal-1137903",
-      "source": "RemoteOK",
-      "date": "2026-11-20T08:40:14+00:00",
-      "tags": [
-        "exec"
-      ]
-    },
-    {
-      "title": "Sr Sales Ops Analyst",
-      "company": "BeyondTrust",
-      "url": "https://remoteOK.com/remote-jobs/remote-sr-sales-ops-analyst-beyondtrust-1137902",
-      "source": "RemoteOK",
-      "date": "2026-11-20T08:20:16+00:00",
-      "tags": [
-        "devops"
-      ]
-    },
-    {
-      "title": "(Senior) Java Test Automation Engineer (m/f/d)",
-      "company": "ecosio",
-      "url": "https://jobicy.com/jobs/164241-senior-java-test-automation-engineer-m-f-d",
+      "title": "Virtual Assistant - AI, Marketing and Operations",
+      "company": "Fresh Prints",
+      "url": "https://jobicy.com/jobs/164433-virtual-assistant-ai-marketing-and-operations",
       "source": "Jobicy",
-      "date": "2026-11-25T11:36:44+00:00",
+      "date": "2026-11-26T14:54:11+00:00",
       "tags": [
-        "QA & Testing"
+        "Admin & Virtual Assistance"
+      ]
+    },
+    {
+      "title": "Insurance Product Manager, Car",
+      "company": "Lemonade",
+      "url": "https://jobicy.com/jobs/164429-insurance-product-manager-car-2",
+      "source": "Jobicy",
+      "date": "2026-11-26T14:53:44+00:00",
+      "tags": [
+        "Product & Operations"
+      ]
+    },
+    {
+      "title": "Forward Deployed Engineer",
+      "company": "Mattermost",
+      "url": "https://jobicy.com/jobs/164428-forward-deployed-engineer-16",
+      "source": "Jobicy",
+      "date": "2026-11-26T14:53:41+00:00",
+      "tags": [
+        "Software Engineering"
       ]
     },
     {
@@ -332,17 +322,6 @@
     {
       "title": "Virtual Assistant",
       "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/mr9axbmPtE1w5bHmQozsFe/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-19T09:15:42.072Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/nRbmrPNnvT7JCakaT4AkjZ/remote-virtual-assistant-in-newark-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-19T09:15:42.877Z",
@@ -357,6 +336,17 @@
       "url": "https://jobs.workable.com/view/tzjzgvgos3Mih21yNXm8TC/remote-virtual-assistant-in-manchester-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-19T09:15:42.489Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/mr9axbmPtE1w5bHmQozsFe/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-19T09:15:42.072Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -398,17 +388,6 @@
     {
       "title": "Virtual Assistant",
       "company": "DLN Consulting Group",
-      "url": "https://jobs.workable.com/view/pueTgRacwX8CCxw8M55XJs/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
-      "source": "Workable",
-      "date": "2026-11-15T03:12:09.273Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant",
-      "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/jTBagBjBBkjb5ZGFaxAAkY/remote-virtual-assistant-in-charlotte-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-15T03:12:11.228Z",
@@ -423,6 +402,17 @@
       "url": "https://jobs.workable.com/view/eu2YMD99GgtHbYRWEGu7hu/remote-virtual-assistant-in-albuquerque-at-dln-consulting-group",
       "source": "Workable",
       "date": "2026-11-15T03:12:10.565Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/pueTgRacwX8CCxw8M55XJs/remote-virtual-assistant-in-las-vegas-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-15T03:12:09.273Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -462,55 +452,22 @@
       ]
     },
     {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/8dwbv65446mS4x16gwJN5d/remote-virtual-assistant---fulfillment-in-buenos-aires-at-decentralized-masters",
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/jCYNRMimgzL3eeUqkHdGCQ/remote-virtual-assistant-full-time-in-manchester-at-dln-consulting-group",
       "source": "Workable",
-      "date": "2026-11-18T12:05:26.843Z",
+      "date": "2026-11-17T05:22:35.495Z",
       "tags": [
         "Full-time",
         "Remote"
       ]
     },
     {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/qfpv5sgeWWNPmLBWb7iNJj/remote-virtual-assistant---fulfillment-in-rio-de-janeiro-at-decentralized-masters",
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/3EPpxS21MUcb6p9n3kWagz/remote-virtual-assistant-full-time-in-las-vegas-at-dln-consulting-group",
       "source": "Workable",
-      "date": "2026-11-18T12:05:26.563Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/wZq6hgjrxVzVuYHTNuNHwb/remote-virtual-assistant---fulfillment-in-chile-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-11-18T12:05:27.285Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/7oEmn43BqnmZ6mCaVggB1f/remote-virtual-assistant---fulfillment-in-mexico-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-11-18T12:05:27.662Z",
-      "tags": [
-        "Full-time",
-        "Remote"
-      ]
-    },
-    {
-      "title": "Virtual Assistant - Fulfillment",
-      "company": "Decentralized Masters",
-      "url": "https://jobs.workable.com/view/4EPd6Cd29mPG8eWrAuDvwy/remote-virtual-assistant---fulfillment-in-colombia-at-decentralized-masters",
-      "source": "Workable",
-      "date": "2026-11-18T12:05:27.093Z",
+      "date": "2026-11-17T05:22:34.798Z",
       "tags": [
         "Full-time",
         "Remote"
@@ -546,6 +503,38 @@
       "date": "2026-11-17T05:22:36.519Z",
       "tags": [
         "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant-Full time",
+      "company": "DLN Consulting Group",
+      "url": "https://jobs.workable.com/view/5TpLFxMpaMfnU4BYDVnWby/remote-virtual-assistant-full-time-in-newark-at-dln-consulting-group",
+      "source": "Workable",
+      "date": "2026-11-17T05:22:35.908Z",
+      "tags": [
+        "Full-time",
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant",
+      "company": "BookWithMel",
+      "url": "https://jobs.workable.com/view/xyLPkgRZcniNQe4AKpxc8b/remote-virtual-assistant-in-philippines-at-bookwithmel",
+      "source": "Workable",
+      "date": "2026-02-11T16:55:26.593Z",
+      "tags": [
+        "Remote"
+      ]
+    },
+    {
+      "title": "Virtual Assistant - Medical Billing Experience",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/2cLnv1358ry5kbAQqwpgWu/remote-virtual-assistant---medical-billing-experience-in-united-states-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-11-01T02:37:36.159Z",
+      "tags": [
+        "Contract",
         "Remote"
       ]
     },
@@ -707,17 +696,6 @@
       ]
     },
     {
-      "title": "Property Manager",
-      "company": "Brilliant Corners",
-      "url": "https://jobs.workable.com/view/5rGLFwrrvcmnwBenuJDumG/hybrid-property-manager-in-san-rafael-at-brilliant-corners",
-      "source": "Workable",
-      "date": "2026-11-23T17:33:24.081Z",
-      "tags": [
-        "Full-time",
-        "San Rafael, California, United States"
-      ]
-    },
-    {
       "title": "Insurance Operations Support Specialist (primarily Auto Insurance)",
       "company": "Sfakianakis Group",
       "url": "https://jobs.workable.com/view/w8QQvDKsnoWdNzkm6PkZSJ/insurance-operations-support-specialist-(primarily-auto-insurance)-in-athens-at-sfakianakis-group",
@@ -803,17 +781,6 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:49.575Z",
-      "tags": [
-        "Full-time",
-        "Toronto, Ontario, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:50.013Z",
@@ -823,25 +790,14 @@
       ]
     },
     {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
-      "date": "2026-02-09T03:07:52.553Z",
+      "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
-        "São Paulo, State of São Paulo, Brazil"
-      ]
-    },
-    {
-      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
-      "company": "Darwin AI",
-      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
-      "source": "Workable",
-      "date": "2026-02-09T03:07:52.334Z",
-      "tags": [
-        "Full-time",
-        "Mexico City, Mexico City, Mexico"
+        "Toronto, Ontario, Canada"
       ]
     },
     {
@@ -864,6 +820,28 @@
       "tags": [
         "Full-time",
         "Buenos Aires, Buenos Aires, Argentina"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/pc96xTrYLDvRA4tsRpeTgA/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-s%C3%A3o-paulo-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.553Z",
+      "tags": [
+        "Full-time",
+        "São Paulo, State of São Paulo, Brazil"
+      ]
+    },
+    {
+      "title": "AI Prompting & Automation Executive (Jr/Semi Sr)",
+      "company": "Darwin AI",
+      "url": "https://jobs.workable.com/view/7Vcre9KAFZZRwMqruo5bcB/hybrid-ai-prompting-%26-automation-executive-(jr%2Fsemi-sr)-in-mexico-city-at-darwin-ai",
+      "source": "Workable",
+      "date": "2026-02-09T03:07:52.334Z",
+      "tags": [
+        "Full-time",
+        "Mexico City, Mexico City, Mexico"
       ]
     },
     {
@@ -891,9 +869,9 @@
     {
       "title": "Client Tech VA",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/pUYrwox9PCrNGhTCuZUVtv/remote-client-tech-va-in-philippines-at-ai-acquisition",
+      "url": "https://jobs.workable.com/view/c5v7qQim6eCdqCZ5kKbZUA/remote-client-tech-va-in-south-africa-at-ai-acquisition",
       "source": "Workable",
-      "date": "2026-05-28T09:58:41.283Z",
+      "date": "2026-05-28T09:58:41.187Z",
       "tags": [
         "Other",
         "Remote"
@@ -902,9 +880,9 @@
     {
       "title": "Client Tech VA",
       "company": "AI Acquisition",
-      "url": "https://jobs.workable.com/view/c5v7qQim6eCdqCZ5kKbZUA/remote-client-tech-va-in-south-africa-at-ai-acquisition",
+      "url": "https://jobs.workable.com/view/pUYrwox9PCrNGhTCuZUVtv/remote-client-tech-va-in-philippines-at-ai-acquisition",
       "source": "Workable",
-      "date": "2026-05-28T09:58:41.187Z",
+      "date": "2026-05-28T09:58:41.283Z",
       "tags": [
         "Other",
         "Remote"
@@ -941,6 +919,17 @@
       "tags": [
         "Full-time",
         "Squamish, British Columbia, Canada"
+      ]
+    },
+    {
+      "title": "Freelance AI & Automation Specialist",
+      "company": "Ajaib",
+      "url": "https://jobs.workable.com/view/gJsDP3LLJYx46fo3t1vqNH/hybrid-freelance-ai-%26-automation-specialist-in-jakarta-at-ajaib",
+      "source": "Workable",
+      "date": "2026-11-26T07:28:30.354Z",
+      "tags": [
+        "Temporary",
+        "Jakarta, Jakarta, Indonesia"
       ]
     },
     {
@@ -1073,16 +1062,6 @@
       "tags": [
         "Full-time",
         "Nea Smyrni, Attica, Greece"
-      ]
-    },
-    {
-      "title": "Sales Operations Automation Specialist",
-      "company": "EPOS",
-      "url": "https://jobs.workable.com/view/ugDhQfnQH2W3LBhLsfWgce/sales-operations-automation-specialist-in-singapore-at-epos",
-      "source": "Workable",
-      "date": "2026-08-18T01:38:47.526Z",
-      "tags": [
-        "Singapore, Singapore, Singapore"
       ]
     },
     {
@@ -1226,6 +1205,16 @@
       "tags": [
         "Full-time",
         "Alpharetta, Georgia, United States"
+      ]
+    },
+    {
+      "title": "IT Support Manager",
+      "company": "Rayzone Group",
+      "url": "https://jobs.workable.com/view/7BroQShCxMZBGUsyxjjcGA/it-support-manager-in-tel-aviv-yafo-at-rayzone-group",
+      "source": "Workable",
+      "date": "2026-11-26T10:14:35.359Z",
+      "tags": [
+        "Tel Aviv-Yafo, Tel Aviv District, Israel"
       ]
     },
     {
