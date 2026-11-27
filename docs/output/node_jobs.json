@@ -1,7 +1,17 @@
 {
-  "generatedAt": "2026-11-27T07:09:38.336Z",
-  "count": 121,
+  "generatedAt": "2026-11-27T20:47:14.217Z",
+  "count": 116,
   "jobs": [
+    {
+      "title": "Support Operations Lead",
+      "company": "Zip",
+      "url": "https://remoteOK.com/remote-jobs/remote-support-operations-lead-zip-1138188",
+      "source": "RemoteOK",
+      "date": "2026-11-26T12:40:29+00:00",
+      "tags": [
+        "customer support"
+      ]
+    },
     {
       "title": "Head of Professional Services, NICE",
       "company": "TTEC Digital",
@@ -40,55 +50,6 @@
       "date": "2026-11-24T10:40:03+00:00",
       "tags": [
         "programming"
-      ]
-    },
-    {
-      "title": "Real Estate Executive Assistant 21370",
-      "company": "Wing Assistant",
-      "url": "https://remoteOK.com/remote-jobs/remote-real-estate-executive-assistant-21370-wing-assistant-1138078",
-      "source": "RemoteOK",
-      "date": "2026-11-24T00:00:20+00:00",
-      "tags": [
-        "virtual assistant",
-        "sys admin",
-        "infosec",
-        "education",
-        "technical",
-        "marketing",
-        "accounting",
-        "exec",
-        "ops",
-        "full time"
-      ]
-    },
-    {
-      "title": "DRG Inpatient Coding Validator",
-      "company": "Clover Health",
-      "url": "https://remoteOK.com/remote-jobs/remote-drg-inpatient-coding-validator-clover-health-1137973",
-      "source": "RemoteOK",
-      "date": "2026-11-22T01:20:06+00:00",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "title": "DRG Validation Auditor",
-      "company": "Clover Health",
-      "url": "https://remoteOK.com/remote-jobs/remote-drg-validation-auditor-clover-health-1137972",
-      "source": "RemoteOK",
-      "date": "2026-11-22T01:20:05+00:00",
-      "tags": [
-        "other"
-      ]
-    },
-    {
-      "title": "Forward Deployed Product Manager, AI Agent",
-      "company": "Cresta",
-      "url": "https://jobicy.com/jobs/157394-forward-deployed-product-manager-ai-agent",
-      "source": "Jobicy",
-      "date": "2026-11-27T03:45:20+00:00",
-      "tags": [
-        "Product & Operations"
       ]
     },
     {
@@ -209,6 +170,14 @@
       "url": "https://weworkremotely.com/remote-jobs/talaint-hubspot-crm-administrator",
       "source": "We Work Remotely",
       "date": "Thu, 29 Oct 2026 16:04:16 +0000",
+      "tags": []
+    },
+    {
+      "title": "Senior QA Automation Engineer - Real Estate",
+      "company": "Truelogic Software",
+      "url": "https://weworkremotely.com/remote-jobs/truelogic-software-senior-qa-automation-engineer-real-estate",
+      "source": "We Work Remotely",
+      "date": "Fri, 27 Nov 2026 15:40:40 +0000",
       "tags": []
     },
     {
@@ -366,6 +335,17 @@
       ]
     },
     {
+      "title": "Virtual Assistant - PDX Area",
+      "company": "The Boutique COO",
+      "url": "https://jobs.workable.com/view/twJD1du2KjU2zNPtkckK5H/hybrid-virtual-assistant---pdx-area-in-portland-at-the-boutique-coo",
+      "source": "Workable",
+      "date": "2026-08-29T04:33:53.111Z",
+      "tags": [
+        "Contract",
+        "Portland, Oregon, United States"
+      ]
+    },
+    {
       "title": "Virtual Assistant",
       "company": "DLN Consulting Group",
       "url": "https://jobs.workable.com/view/jTBagBjBBkjb5ZGFaxAAkY/remote-virtual-assistant-in-charlotte-at-dln-consulting-group",
@@ -508,17 +488,6 @@
       ]
     },
     {
-      "title": "Virtual Assistant - Medical Billing Experience",
-      "company": "The Boutique COO",
-      "url": "https://jobs.workable.com/view/2cLnv1358ry5kbAQqwpgWu/remote-virtual-assistant---medical-billing-experience-in-united-states-at-the-boutique-coo",
-      "source": "Workable",
-      "date": "2026-11-01T02:37:36.159Z",
-      "tags": [
-        "Contract",
-        "Remote"
-      ]
-    },
-    {
       "title": "Senior Product Manager - Civica Property Management (CPM)",
       "company": "Civica",
       "url": "https://jobs.workable.com/view/s5YNnEJKcSxwYTVB5ix4Se/remote-senior-product-manager---civica-property-management-(cpm)-in-london-at-civica",
@@ -619,17 +588,6 @@
       "date": "2026-11-11T15:34:59.150Z",
       "tags": [
         "Remote"
-      ]
-    },
-    {
-      "title": "Property Manager",
-      "company": "PeakMade Real Estate",
-      "url": "https://jobs.workable.com/view/bFY3YaRduSXfqvzaJ9iTuo/property-manager-in-davis-at-peakmade-real-estate",
-      "source": "Workable",
-      "date": "2026-10-28T16:55:50.249Z",
-      "tags": [
-        "Full-time",
-        "Davis, California, United States"
       ]
     },
     {
@@ -760,23 +718,23 @@
     {
       "title": "Underwriting Operations - Account Analyst",
       "company": "Liberty Mutual Canada",
-      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
-      "source": "Workable",
-      "date": "2026-10-23T16:01:50.013Z",
-      "tags": [
-        "Full-time",
-        "Calgary, Alberta, Canada"
-      ]
-    },
-    {
-      "title": "Underwriting Operations - Account Analyst",
-      "company": "Liberty Mutual Canada",
       "url": "https://jobs.workable.com/view/fSPPtFctHNaPiwVhPYxj7n/hybrid-underwriting-operations---account-analyst-in-toronto-at-liberty-mutual-canada",
       "source": "Workable",
       "date": "2026-10-23T16:01:49.575Z",
       "tags": [
         "Full-time",
         "Toronto, Ontario, Canada"
+      ]
+    },
+    {
+      "title": "Underwriting Operations - Account Analyst",
+      "company": "Liberty Mutual Canada",
+      "url": "https://jobs.workable.com/view/v4qbD4vFCMx945ShfDwZUn/hybrid-underwriting-operations---account-analyst-in-calgary-at-liberty-mutual-canada",
+      "source": "Workable",
+      "date": "2026-10-23T16:01:50.013Z",
+      "tags": [
+        "Full-time",
+        "Calgary, Alberta, Canada"
       ]
     },
     {
@@ -876,16 +834,6 @@
       "tags": [
         "Other",
         "Paris, Île-de-France, France"
-      ]
-    },
-    {
-      "title": "Lead Forward Deployed Engineer - Applied AI (Claude Enterprise)",
-      "company": "V2 AI",
-      "url": "https://jobs.workable.com/view/ud73jWk1vuBm8mEVKKNDw6/hybrid-lead-forward-deployed-engineer---applied-ai-(claude-enterprise)-in-new-delhi-at-v2-ai",
-      "source": "Workable",
-      "date": "2026-10-13T03:33:40.992Z",
-      "tags": [
-        "New Delhi, Delhi, India"
       ]
     },
     {
@@ -1025,7 +973,7 @@
       "company": "The People Group",
       "url": "https://jobs.workable.com/view/meAHfhR3YTVubtPzshA93j/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-philippines-at-the-people-group",
       "source": "Workable",
-      "date": "2026-11-25T18:27:49.772Z",
+      "date": "2026-11-27T16:54:41.369Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1036,7 +984,7 @@
       "company": "The People Group",
       "url": "https://jobs.workable.com/view/ocXZ2AGyVg5Pa1MXXxorei/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-colombia-at-the-people-group",
       "source": "Workable",
-      "date": "2026-11-25T18:27:50.387Z",
+      "date": "2026-11-27T16:54:42.255Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1047,7 +995,7 @@
       "company": "The People Group",
       "url": "https://jobs.workable.com/view/rN1Pz6gPDXLoBa1hb7BYwd/freelance---m%26a-deal-sourcing-%26-ai-automation-specialist---remote-in-argentina-at-the-people-group",
       "source": "Workable",
-      "date": "2026-11-25T18:27:50.077Z",
+      "date": "2026-11-27T16:54:41.881Z",
       "tags": [
         "Contract",
         "Remote"
@@ -1225,16 +1173,6 @@
       "date": "2026-11-26T10:14:35.359Z",
       "tags": [
         "Tel Aviv-Yafo, Tel Aviv District, Israel"
-      ]
-    },
-    {
-      "title": "Infrastructure Lead",
-      "company": "Lane Clark & Peacock",
-      "url": "https://jobs.workable.com/view/8zdAPqTCiMu4STUwtfZ1a9/hybrid-infrastructure-lead-in-london-at-lane-clark-%26-peacock",
-      "source": "Workable",
-      "date": "2026-11-25T11:54:57.574Z",
-      "tags": [
-        "London, England, United Kingdom"
       ]
     }
   ]
